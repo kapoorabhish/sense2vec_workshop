@@ -1,0 +1,19 @@
+New_Delhi|ENT :|PUNCT Top_Congress_leadership|NOUN on|ADP Saturday|DATE discussed|VERB the|DET situation|NOUN arising|VERB out|ADP of|ADP Shankarsinh_Vaghela’s_exit|NOUN even|ADV as|ADP state_leaders|NOUN exuded|VERB confidence|NOUN that|ADP it|PRON will|VERB have|VERB no|DET effect|NOUN on|ADP the|DET party|NOUN ’s|NUM prospects|NOUN in|ADP the|DET upcoming_assembly_polls|NOUN in|ADP Gujarat|ENT .|PUNCT
+Congress_vice-president_Rahul_Gandhi|ENT had|VERB convened|VERB a|DET meeting|NOUN of|ADP top_party_leaders|NOUN from|ADP Gujarat|ENT to|PART discuss|VERB the|DET impact|NOUN of|ADP Vaghela’s_exit|NOUN .|PUNCT
+The|DET meeting|NOUN was|VERB attended|VERB by|ADP party_chief_Sonia_Gandhi’s_political_secretary|NOUN Ahmed_Patel|ENT ,|PUNCT general|ADJ secretary|NOUN in|ADP -|PUNCT charge|NOUN of|ADP Congress|ENT in|ADP Gujarat|ENT Ashok_Gehlot|ENT ,|PUNCT Gujarat_Pradesh_Congress_Committee|ENT (|PUNCT PCC|ENT )|PUNCT chief|NOUN Bharatsinh_Solanki|ENT ,|PUNCT and|CCONJ other|ADJ states|NOUN leaders|NOUN .|PUNCT
+More|ADJ From|ADP Livemint|ENT »|PUNCT
+When|ADV Rahul_Gandhi|ENT asked|VERB about|ADP the|DET bearing|NOUN of|ADP Vaghela’s_exit|NOUN ,|PUNCT Gujarat_Congress_leaders|NOUN assured|VERB him|PRON that|ADP his|ADJ quitting|VERB the|DET party|NOUN will|VERB have|VERB no|DET effect|NOUN on|ADP the|DET party|NOUN ’s|PART performance|NOUN in|ADP the|DET Assembly_polls|NOUN slated|VERB for|ADP November-December|DATE .|PUNCT
+The|DET Congress|ENT has|VERB been|VERB out|ADP of|ADP power|NOUN for|ADP the_last_22_years|DATE in|ADP Gujarat|ENT ,|PUNCT the|DET home|NOUN state|NOUN of|ADP Prime_Minister_Narendra_Modi|ENT ,|PUNCT and|CCONJ is|VERB striving|VERB hard|ADV to|PART regain|VERB power|NOUN in|ADP the|DET state|NOUN .|PUNCT
+During|ADP the|DET meeting|NOUN ,|PUNCT the|DET party_leadership|NOUN also|ADV exuded|VERB confidence|NOUN of|ADP winning|VERB the_Rajya_Sabha|ENT seat|NOUN in|ADP 8_August_polls|DATE .|PUNCT
+The|DET party|NOUN needs|VERB 47|CARDINAL votes|NOUN to|PART win|VERB the|DET seat|NOUN and|CCONJ it|PRON has|VERB 57|CARDINAL legislators|NOUN in|ADP the|DET 182-member|CARDINAL assembly|NOUN .|PUNCT
+The_Rajya_Sabha|ENT seat|NOUN is|VERB currently|ADV held|VERB by|ADP Patel|ENT ,|PUNCT who|NOUN is|VERB in|ADP his|ADJ fourth_term|NOUN since|ADP 1993|DATE .|PUNCT
+The_Gujarat_Congress|ENT has|VERB been|VERB divided|VERB between|ADP factions|NOUN of|ADP PCC_chief_Solanki_and_Congress_Legislature_Party|ENT leader_Vaghela|ENT ,|PUNCT who|NOUN was|VERB seeking|VERB replacement|NOUN of|ADP the|DET PCC_chief|NOUN .|PUNCT
+Gehlot|ENT has|VERB termed|VERB Vaghela’s_decision|NOUN as|ADP “|PUNCT
+wrong|ADJ ”|PUNCT and|CCONJ “|PUNCT unfortunate|ADJ ”|PUNCT and|CCONJ said|VERB “|PUNCT
+I|PRON fail|VERB to|PART understand|VERB Shankersinh_Vaghelaji|ENT ’s|ADV sudden|ADJ decision|NOUN .|PUNCT
+He|PRON seems|VERB to|PART be|VERB acting|VERB under|ADP some|DET pressure|NOUN from|ADP BJP_leaders|NOUN ”|PUNCT .|PUNCT
+Amid|ADP indications|NOUN of|ADP a|DET rapprochement|NOUN with|ADP Vaghela|ENT ,|PUNCT Gehlot|ENT said|VERB ,|PUNCT “|PUNCT
+The_Congress_party|ENT hopes|VERB that|ADP any|DET misunderstanding|NOUN he|PRON has|VERB will|VERB be|VERB resolved|VERB ”|PUNCT .|PUNCT
+He|PRON said|VERB ,|PUNCT “|PUNCT
+Vaghelaji|ENT ’s|NUM decision|NOUN at|ADP a|DET time|NOUN when|ADV Congress|ENT is|VERB about|ADP to|PART win|VERB majority|NOUN in|ADP the|DET Gujarat_assembly|NOUN is|VERB absolutely|ADV inappropriate|ADJ ”|PUNCT .|PUNCT
+Gehlot|ENT said|VERB the|DET party|NOUN has|VERB good_prospects|NOUN of|ADP winning|VERB the|DET polls|NOUN ,|PUNCT claiming|VERB there|ADV is|VERB huge_anti-incumbency|NOUN against|ADP the|DET ruling_Bharatiya_Janata_Party|ENT (|PUNCT BJP|PROPN )|PUNCT which|ADJ has|VERB been|VERB in|ADP power|NOUN in|ADP Gujarat|ENT for|ADP nearly_two_decades|DATE .|PUNCT

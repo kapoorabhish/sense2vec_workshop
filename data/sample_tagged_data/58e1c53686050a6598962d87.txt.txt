@@ -1,0 +1,30 @@
+The|DET body|NOUN of|ADP a|DET woman|NOUN identified|VERB as|ADP Katherine_Valencia|ENT is|VERB pictured|VERB after|ADP flooding|VERB and|CCONJ mudslides|NOUN caused|VERB by|ADP heavy_rains|NOUN in|ADP Villagarzon|ENT ,|PUNCT Colombia_April_2,_2017|DATE .|PUNCT
+REUTERS|PROPN /|PUNCT Jaime_Saldarriaga|ENT The|DET body|NOUN of|ADP a|DET woman|NOUN identified|VERB as|ADP Katherine_Valencia|ENT is|VERB pictured|VERB after|ADP flooding|VERB and|CCONJ mudslides|NOUN caused|VERB by|ADP heavy_rains|NOUN in|ADP Villagarzon|ENT ,|PUNCT Colombia_April_2,_2017|DATE .|PUNCT
+REUTERS|PROPN /|PUNCT Jaime_Saldarriaga|ENT Devastating_mudslides|NOUN in|ADP the|DET Colombian_town|NOUN of|ADP Mocoa|ENT killed|VERB at_least_254|CARDINAL people|NOUN ,|PUNCT 43|CARDINAL of|ADP them|PRON children|NOUN ,|PUNCT President_Juan_Manuel_Santos|ENT said|VERB ,|PUNCT in|ADP yet|ADV another|DET sharp|ADJ rise|NOUN in|ADP the|DET death_toll|NOUN .|PUNCT
+Santos|ENT ,|PUNCT who|NOUN traveled|VERB to|ADP the|DET southern_town|NOUN to|PART personally|ADV oversee|VERB relief_operations|NOUN ,|PUNCT warned|VERB the|DET toll|NOUN could|VERB keep|VERB climbing|VERB .|PUNCT “|PUNCT
+Unfortunately|ADV ,|PUNCT these|DET are|VERB still|ADV preliminary_figures|NOUN ,|PUNCT ”|PUNCT he|PRON wrote|VERB on|ADP Twitter|ENT .|PUNCT
+“|PUNCT We|PRON offer|VERB our|ADJ prayers|NOUN for|ADP all|DET of|ADP them|PRON .|PUNCT
+We|PRON send|VERB our|ADJ condolences|NOUN and|CCONJ the|DET entire_country’s_sympathies|NOUN to|ADP their|ADJ families|NOUN .|PUNCT
+”|PUNCT
+Survivors|NOUN described|VERB gruesome_scenes|NOUN in|ADP the|DET remote_southern_town|NOUN ,|PUNCT as|ADP rescuers|NOUN kept|VERB up|PART a|DET bleak_search|NOUN for|ADP victims|NOUN in|ADP the|DET muck|NOUN and|CCONJ debris|NOUN .|PUNCT
+Covered|VERB in|ADP mud|NOUN ,|PUNCT 38-year-|PERCENT old_Marta_Gomez|ENT told|VERB of|ADP going|VERB to|PART search|VERB for|ADP her|ADJ missing_niece|NOUN —|PUNCT and|CCONJ making|VERB a|DET chilling_find|NOUN instead|ADV .|PUNCT “|PUNCT
+I|PRON went|VERB to|PART look|VERB for|ADP my|ADJ niece|NOUN ,|PUNCT but|CCONJ I|PRON could|VERB n’t|ADV find|VERB her|PRON .|PUNCT
+I|PRON dug|VERB and|CCONJ dug|VERB and|CCONJ found|VERB what|NOUN turned|VERB out|PART to|PART be|VERB a|DET baby|NOUN ’s|NUM hand|NOUN .|PUNCT
+It|PRON was|VERB horrible|ADJ ,|PUNCT ”|PUNCT
+she|PRON said|VERB in|ADP a|DET shelter|NOUN set|VERB up|PART for|ADP the|DET newly|ADV homeless|ADJ .|PUNCT
+As|ADP she|PRON stood|VERB in|ADP line|NOUN waiting|VERB to|PART register|VERB for|ADP government_assistance|NOUN for|ADP those|DET who|NOUN lost|VERB their|ADJ houses|NOUN ,|PUNCT she|PRON told|VERB AFP|ENT she|PRON had|VERB given|VERB up|PART on|ADP finding|VERB her|ADJ niece|NOUN .|PUNCT “|PUNCT
+The|DET mud|NOUN took|VERB her|ADJ away|ADV .|PUNCT
+I|PRON ’ll|VERB never|ADV see|VERB her|PRON again|ADV ,|PUNCT ”|PUNCT she|PRON said|VERB ,|PUNCT clinging|VERB to|ADP the|DET leash|NOUN of|ADP her|PRON equally_muddy_German_shepherd|ENT .|PUNCT
+Rescuers|NOUN worked|VERB in|ADP stifling|VERB heat|NOUN under|ADP a|DET cloudy_sky|NOUN in|ADP the|DET remote_Amazon_town|NOUN ,|PUNCT the|DET capital|NOUN of|ADP Putumayo_department|NOUN .|PUNCT
+The|DET debris|NOUN left|VERB by|ADP the|DET mudslides|NOUN was|VERB everywhere|ADV :|PUNCT buried|VERB cars|NOUN ,|PUNCT uprooted|VERB trees|NOUN ,|PUNCT children|NOUN ’s_toys|NOUN and|CCONJ stray|VERB shoes|NOUN sticking|VERB up|PART out|ADP of|ADP the|DET mud|NOUN .|PUNCT
+The|DET torrent|NOUN of|ADP mud|NOUN ,|PUNCT boulders|NOUN and|CCONJ debris|NOUN struck|VERB the|DET town|NOUN with|ADP little_warning|NOUN late_Friday|DATE after|ADP days|NOUN of|ADP heavy_rains|NOUN that|ADJ caused|VERB three|CARDINAL area_rivers|NOUN to|PART flood|NOUN .|PUNCT
+It|PRON swept|VERB away|ADV homes|NOUN ,|PUNCT bridges|NOUN ,|PUNCT vehicles|NOUN and|CCONJ trees|NOUN ,|PUNCT leaving|VERB piles|NOUN of|ADP wrecked_timber|NOUN .|PUNCT
+Most|ADJ of|ADP the|DET hardest-hit_neighborhoods|NOUN in|ADP the|DET town|NOUN of|ADP 40,000|CARDINAL are|VERB poor|ADJ and|CCONJ populated|ADJ with|ADP people|NOUN uprooted|VERB during|ADP Colombia|ENT ’s|NUM five-decade-long_civil_war|NOUN .|PUNCT
+A|DET “|PUNCT profoundly|ADV saddened|VERB ”|PUNCT
+Pope_Francis|ENT said|VERB he|PRON was|VERB praying|VERB for|ADP the|DET victims|NOUN .|PUNCT
+Santos|ENT declared|VERB an|DET emergency|NOUN to|PART speed|VERB up|PART aid_operations|NOUN .|PUNCT
+Health_authorities|NOUN said|VERB they|PRON had|VERB dispatched|VERB sanitation_specialists|NOUN in|ADP hopes|NOUN of|ADP preventing|VERB outbreaks|NOUN of|ADP disease|NOUN .|PUNCT
+An|DET unexpected_offer|NOUN of|ADP help|NOUN also|ADV came|VERB from|ADP the_Revolutionary_Armed_Forces_of|ENT Colombia|PROPN (|PUNCT FARC|ENT )|PUNCT ,|PUNCT a|DET leftist_rebel_group|NOUN engaged|VERB in|ADP a|DET historic_peace_process|NOUN with|ADP the|DET government|NOUN .|PUNCT
+It|PRON said|VERB FARC_members|NOUN were|VERB prepared|ADJ to|PART help|VERB rebuild|VERB the|DET town|NOUN .|PUNCT
+Marta_Ceballos|ENT ,|PUNCT a|DET 44-year-old|DATE street|NOUN vendor|NOUN ,|PUNCT said|VERB she|PRON lost|VERB everything|NOUN ,|PUNCT but|CCONJ is|VERB thankful|ADJ her|ADJ family|NOUN is|VERB alive|ADJ .|PUNCT
+For|ADP all|ADJ the|DET latest|ADJ World_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

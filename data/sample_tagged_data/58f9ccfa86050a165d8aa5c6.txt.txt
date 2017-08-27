@@ -1,0 +1,18 @@
+Arsenal|ENT is|VERB likely|ADJ to|PART miss|VERB out|PART on|ADP Champions_League_qualification|NOUN for|ADP the|DET first_time|NOUN under|ADP Arsene_Wenger|ENT .|PUNCT
+(|PUNCT Source|NOUN :|PUNCT Reuters|PROPN )|PUNCT Arsenal|ENT is|VERB likely|ADJ to|PART miss|VERB out|PART on|ADP Champions_League_qualification|NOUN for|ADP the|DET first_time|NOUN under|ADP Arsene_Wenger|ENT .|PUNCT
+(|PUNCT Source|NOUN :|PUNCT Reuters|ENT )|PUNCT Arsenal’s_fate|NOUN in|ADP the_FA_Cup|ENT will|VERB play|VERB no|DET part|NOUN in|ADP manager_Arsene_Wenger|ENT ’s|PART decision|NOUN on|ADP whether|ADP he|PRON stays|VERB or|CCONJ leaves|VERB the|DET club|NOUN at|ADP the_end_of_the_season|DATE ,|PUNCT the|DET Frenchman|ENT said|VERB ahead|ADV of|ADP Sunday|DATE ’s|PROPN semi|NOUN -|PUNCT final|ADJ against|ADP Manchester_City|ENT at|ADP Wembley|ENT .|PUNCT
+Wenger|ENT has|VERB come|VERB under|ADP pressure|NOUN from|ADP some|DET former_players|NOUN ,|PUNCT supporters|NOUN and|CCONJ the|DET media|NOUN after|ADP a|DET poor_run|NOUN of|ADP results|NOUN left|VERB the|DET club|NOUN in|ADP sixth_spot|NOUN in|ADP the_Premier_League|ENT and|CCONJ likely|ADJ to|PART miss|VERB out|PART on|ADP Champions_League_qualification|NOUN for|ADP the|DET first_time|NOUN under|ADP the|DET Frenchman|ENT .|PUNCT
+Wenger|ENT said|VERB the|DET FA_Cup|ENT semi-final|NOUN was|VERB an|DET important_game|NOUN but|CCONJ the|DET result|NOUN would|VERB have|VERB no|DET impact|NOUN on|ADP his|ADJ decision|NOUN .|PUNCT “|PUNCT
+It|PRON does|VERB n’t|ADV play|VERB any|DET part|NOUN in|ADP (|PUNCT determining|VERB my|ADJ future|NOUN )|PUNCT ,|PUNCT ”|PUNCT
+Wenger|ENT told|VERB reporters|NOUN .|PUNCT “|PUNCT
+The_FA_Cup|ENT is|VERB a|DET very_important_game|NOUN for|ADP me|PRON because|ADP it|PRON ’s|VERB the|DET next_game|NOUN and|CCONJ because|ADP it|PRON ’s|VERB an|DET opportunity|NOUN to|PART win|VERB a|DET trophy|NOUN this_season|DATE .|PUNCT “|PUNCT
+So|ADV of|ADP course|NOUN we|PRON are|VERB all|DET fully|ADV focused|VERB on|ADP that|DET .|PUNCT
+My|ADJ future|NOUN is|VERB Sunday|DATE .|PUNCT
+My|ADJ commitment|NOUN is|VERB total|ADJ and|CCONJ I|PRON am|VERB only|ADV focused|ADJ on|ADP Arsenal|ENT .|PUNCT
+”|PUNCT Wenger|ENT conceded|VERB his|ADJ team|NOUN were|VERB not|ADV bursting|VERB with|ADP confidence|NOUN after|ADP their|ADJ recent_woes|NOUN but|CCONJ said|VERB they|PRON would|VERB be|VERB determined|VERB to|PART land|VERB silverware|NOUN .|PUNCT “|PUNCT
+It|PRON ’s|VERB a|DET special_experience|NOUN and|CCONJ for|ADP us|PRON ,|PUNCT I|PRON think|VERB we|PRON are|VERB focused|ADJ ,|PUNCT highly|ADV motivated|ADJ ,|PUNCT ”|PUNCT Wenger|ENT added|VERB .|PUNCT “|PUNCT
+Maybe|ADV not|ADV at|ADP the|DET maximum|NOUN of|ADP our|ADJ confidence|NOUN …|PUNCT
+but|CCONJ that|DET is|VERB a|DET good_opportunity|NOUN to|PART show|VERB we|PRON are|VERB ready|ADJ for|ADP a|DET fight|NOUN and|CCONJ how|ADV much|ADJ we|PRON want|VERB to|PART go|VERB to|ADP the|DET final|ADJ .|PUNCT
+Because|ADP it|PRON ’s|NUM maybe|ADV our|ADJ only|ADJ opportunity|NOUN to|PART get|VERB a|DET trophy|NOUN this_season|DATE .|PUNCT
+”|PUNCT
+For|ADP all|ADJ the|DET latest_Sports_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

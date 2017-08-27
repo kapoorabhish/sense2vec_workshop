@@ -1,0 +1,2 @@
+Jul|PROPN 03_2017|DATE :|PUNCT The_Economic_Times|ENT (|PUNCT Mumbai|ENT )|PUNCT And|CCONJ
+Finally|ADV The|DET 51-100|CARDINAL Ranking|VERB

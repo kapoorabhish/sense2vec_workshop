@@ -1,0 +1,25 @@
+China’s already-big WeChat is searching for how to get even bigger. The answer? Search.
+
+Today the company publicly unveiled (link in Chinese) a feature—called “Search,” simply enough—that lets users enter keywords and find relevant information.
+
+While WeChat has had a search feature in the past, this one is more powerful. It’s not quite a search engine in the style of Google or Baidu, the reigning search engine of China. Rather, it’s an alternate vision of search, one that’s uniquely suited to a social media app. And it could very well become huge in China.
+
+Searching Google for “Apple iPhone” will typically yield ads at the very top, followed by recent news articles, YouTube and Wikipedia pages, and addresses of nearby Apple stores. Baidu works in a similar way. Clicking on the offered links takes the user to a page completely outside of Google or Baidu.
+
+Searching in WeChat. (Quartz)
+
+WeChat’s search feature is a bit more social. Searching for “Apple” yields recent news at the very top, followed by mentions of Apple made by one’s friends. An assortment of random articles follows at the bottom. Tapping on any of these links—even the articles—always keeps one within WeChat’s built-in browser, and many of the linked articles are ones published directly to WeChat (much like Facebook’s “Instant Articles”). Tencent, WeChat’s parent company, did not answer questions about how it devises its results rankings.
+
+To put it simply, it’s a “walled garden” approach to search. Whereas Google and Baidu’s vision of search entails aggregating everything published on the internet, WeChat’s entails aggregating everything that’s published and shared on WeChat. And when you tap on something, you always stay inside WeChat.
+
+WeChat has plenty of data to draw from to build and perfect a search engine. With 938 million registered monthly users, it not only knows who your friends are (more than Baidu or Google do), it knows what they read and share, and what you read and share. It knows where you and your friends are located, and what you buy. And it’s addictive—50% of WeChat users spend more than 90 minutes per day on the app.
+
+WeChat can also benefit from Tencent owning a stake in Sogou, which is an also-ran search engine in China but has potentially valuable data and technology.
+
+Meanwhile, in recent years, WeChat has become a major publishing platform for traditional news sites, online media, and solo bloggers alike. Publishers will often push articles directly to WeChat through “Public Accounts” (rough analogs to Facebook Pages) that subscribers will read and share, eschewing external websites altogether. This search feature collects all the content published to WeChat (and more), and makes it easier for everyone to discover. And when they cruise through news-oriented search results, they’ll still never leave the confines of WeChat.
+
+While the feature remains in its early stages, it will likely become a boon to Tencent. Many Chinese internet users spend most of their online lives in WeChat. This search feature gives them one more reason to do so.
+
+If WeChat perfects its search capabilities, expect a giant of the Chinese internet to suffer. Baidu, China’s Google analog, has reported slowing revenue growth and declining operating profits. It makes most of its money from Chinese advertisers that are now keen to put their ads in more vibrant real estate—like WeChat.
+
+While Tencent’s stock price has soared over the past two years, Baidu’s has wavered. Since Nov. 14, 2014, its last high, Baidu’s share price has tanked 25.5%, according to FactSet. Within the same time period, Tencent’s has jumped 96.9%.

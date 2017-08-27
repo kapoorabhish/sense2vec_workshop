@@ -1,0 +1,4 @@
+Please|INTJ enter|VERB your|ADJ email|NOUN .|PUNCT
+Thank|VERB You|PRON .|PUNCT
+Get|VERB more|ADJ of|ADP your|ADJ favourite_news|NOUN delivered|VERB to|ADP your|ADJ inbox|NOUN
+Please|INTJ Wait|VERB while|ADP comments|NOUN are|VERB loading|NOUN ...|PUNCT

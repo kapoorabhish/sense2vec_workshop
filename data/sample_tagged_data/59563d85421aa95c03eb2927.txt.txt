@@ -1,0 +1,2 @@
+On|ADP 31_July_2017|DATE announced|VERB that|ADP the|DET 38th_Annual_General_Meeting_(AGM)|ENT of|ADP the|DET company|NOUN will|VERB be|VERB held|VERB on|ADP 31_July_2017|DATE .|PUNCT
+Powered|VERB by|ADP Capital_Market_-_Live_News|ENT (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

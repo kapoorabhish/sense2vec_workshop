@@ -1,0 +1,41 @@
+Spotting|VERB a|DET winning_trend|NOUN and|CCONJ sticking|VERB to|ADP it|PRON is|VERB not|ADV easy|ADJ for|ADP an|DET investor|NOUN .|PUNCT
+But|CCONJ these|DET six|CARDINAL fund_managers|NOUN spotted|VERB a|DET few_winning_stocks|NOUN very|ADV early|ADV last|ADJ calendar|NOUN year|DATE ,|PUNCT and|CCONJ had|VERB identified|VERB many_others|NOUN even|ADV before|ADP the|DET current_leg|NOUN of|ADP the|DET rally|NOUN that|ADJ started|VERB in|ADP September_2013.But_in_February_2016|DATE ,|PUNCT the|DET India_market_rally|NOUN suddenly|ADV lost|VERB momentum|NOUN .|PUNCT
+Shares|NOUN were|VERB sinking|VERB every|DET day|NOUN ,|PUNCT the|DET economy|NOUN seemed|VERB to|PART be|VERB going|VERB nowhere|ADV ,|PUNCT and|CCONJ PM_Narendra_Modi's_popularity|NOUN was|VERB getting|VERB hit|VERB by|ADP economic_troubles|NOUN .|PUNCT
+But|CCONJ the|DET `|NOUN Daring|VERB Six|PROPN '|PART decided|VERB that|ADP it|PRON was|VERB not|ADV the|DET time|NOUN to|PART be|VERB shy|ADJ or|CCONJ cautious|ADJ .|PUNCT
+They|PRON went|VERB all|ADV out|ADV ,|PUNCT believing|VERB strongly|ADV that|ADP markets|NOUN were|VERB on|ADP the|DET cusp|NOUN of|ADP doing|VERB something|NOUN big|ADJ .|PUNCT
+Clearly|ADV ,|PUNCT they|PRON were|VERB not|ADV wrong|ADJ .|PUNCT
+Fund_category|NOUN :|PUNCT Large|ADJ Cap|ENT AUM|NOUN :|PUNCT Rs|NOUN 14,452|CARDINAL crore|NOUN Absolute|PROPN Return|PROPN :|PUNCT 41.25_per|MONEY cent|NOUN .|PUNCT
+Jain|ENT bet|VERB heavy|ADJ on|ADP an|DET industrial_recovery|NOUN and|CCONJ went|VERB overweight_corporate_banks|NOUN ,|PUNCT engineering|NOUN and|CCONJ construction_companies|NOUN ,|PUNCT which|ADJ helped|VERB the|DET Top|PROPN 200|CARDINAL fund|NOUN ,|PUNCT especially|ADV after|ADP demonetisation|NOUN in|ADP November_last_year|DATE .|PUNCT
+This|DET strategy|NOUN also|ADV helped|VERB the|DET fund|NOUN recoup|VERB its|ADJ losses|NOUN and|CCONJ make|VERB up|PART for|ADP some|DET underperformance|NOUN in|ADP 2015|DATE .|PUNCT
+He|PRON identified|VERB the|DET downtick|NOUN in|ADP pharma|NOUN and|CCONJ went|VERB underweight|ADJ on|ADP the|DET sector|NOUN .|PUNCT
+The|DET weightage|NOUN on|ADP ITC|ENT and|CCONJ Reliance_Industries|ENT was|VERB increased|VERB ,|PUNCT while|ADP profit_booking|NOUN in|ADP BPCL|ENT helped|VERB the|DET fund_outperform|NOUN in|ADP the|DET large-cap_category|NOUN .|PUNCT
+Fund_category|NOUN :|PUNCT Multicap_AUM:_Rs|ENT 19,320|CARDINAL crore|NOUN Absolute|ADJ return|NOUN :|PUNCT 43.59|CARDINAL For|ADP this|DET fund|NOUN ,|PUNCT Jain|ENT placed|VERB the|DET bets|NOUN on|ADP the|DET industry_recovery|NOUN -just|VERB like|VERB in|ADP Top_200|CARDINAL -but|ADP his|ADJ aggressive_calls|NOUN were|VERB on|ADP corporate_banks|NOUN and|CCONJ some|DET midcap_stocks|NOUN ,|PUNCT which|ADJ helped|VERB him|PRON deliver|VERB stellar_returns|NOUN .|PUNCT
+Bets|NOUN on|ADP construction_projects|NOUN and|CCONJ power_sector_stocks|NOUN ,|PUNCT such|ADJ as|ADP CESC|ENT ,|PUNCT Power_Grid_Corporation_of_India|ENT and|CCONJ Kalpataru_Power_Transmission|ENT ,|PUNCT yielded|VERB superior_returns|NOUN .|PUNCT
+Fund_category|NOUN :|PUNCT Large|ADJ Cap|ENT AUM|NOUN :|PUNCT Rs|NOUN 4,030|CARDINAL crore|NOUN Absolute|ADJ return|NOUN :|PUNCT 38.74_per|MONEY cent|NOUN .|PUNCT
+Surana|ENT went|VERB overweight|ADJ on|ADP private_sector_banks|NOUN ,|PUNCT had|VERB zero|CARDINAL exposure|NOUN to|ADP PSU_banks|NOUN ,|PUNCT and|CCONJ went|VERB underweight|ADJ on|ADP IT|NOUN and|CCONJ FMCG.This|ADJ helped|VERB this|DET fund|NOUN come|VERB up|PART as|ADP a|DET winner|NOUN in|ADP the_past_one_and_half_years|DATE .|PUNCT
+Additional_returns|NOUN were|VERB generated|VERB by|ADP opportunistic_plays|NOUN in|ADP the_mid-cap_space|DATE where|ADV the|DET fund_manager|NOUN took|VERB a|DET 15|CARDINAL -|SYM 20|NUM per|NOUN cent_exposure|NOUN .|PUNCT
+Surana|ENT was|VERB among|ADP the|DET early_ones|NOUN to|PART identify|VERB stocks|NOUN such|ADJ as|ADP Vinati_Organics|ENT and|CCONJ Ceat|ENT ,|PUNCT which|ADJ worked|VERB well|ADV for|ADP the|DET fund|NOUN .|PUNCT
+Fund_category|NOUN :|PUNCT Midcap_AUM:_Rs|ENT 4,005|CARDINAL crore|NOUN Returns|NOUN :|PUNCT 49.19_per|MONEY cent|NOUN .|PUNCT
+Surana|ENT is|VERB famous|ADJ for|ADP selecting|VERB a|DET stock|NOUN only|ADV when|ADV three|CARDINAL main_parameters|NOUN are|VERB met|VERB :|PUNCT Earnings|NOUN quality|NOUN ,|PUNCT products|NOUN and|CCONJ presence|NOUN in|ADP the|DET industry|NOUN ;|PUNCT management|NOUN (|PUNCT corporate|ADJ governance|NOUN )|PUNCT ;|PUNCT and|CCONJ valuations|NOUN .|PUNCT
+The|DET fund_manager|NOUN hunts|VERB for|ADP companies|NOUN with|ADP decent_growth|NOUN and|CCONJ a|DET good_return|NOUN on|ADP capital|NOUN employed|VERB .|PUNCT
+Stocks|NOUN like|ADP SRF|ENT ,|PUNCT Nilkamal_Plastics|ENT have|VERB given|VERB multibagger_returns|NOUN to|ADP the|DET fund|NOUN .|PUNCT
+Fund_category|NOUN :|PUNCT Small|ADJ cap|NOUN AUM|PROPN :|PUNCT Rs|NOUN 1,238|CARDINAL crore|NOUN
+Absolute_return|NOUN :|PUNCT 61.26_per|MONEY cent|NOUN .|PUNCT
+The|DET duo_eyes_companies|NOUN with|ADP positive_cash_flows|NOUN .|PUNCT
+The|DET portfolio|NOUN has|VERB as_many_as_60-70|CARDINAL stocks|NOUN ,|PUNCT and|CCONJ the|DET fund_managers|NOUN avoid|VERB taking|VERB big_bets|NOUN in|ADP the|DET small-cap_space|NOUN .|PUNCT
+Stocks|NOUN like|ADP Avanti_Feeds|ENT ,|PUNCT Aarti_Industries|ENT and|CCONJ Sudarshan_Chemicals|ENT have|VERB given|VERB high_returns|NOUN .|PUNCT
+Fund_category|NOUN :|PUNCT Multicap_AUM:_Rs|ENT 3,344|CARDINAL crore|NOUN Return|NOUN :|PUNCT 42.73_per|MONEY cent|NOUN .|PUNCT
+Anil_Shah|ENT used|VERB a|DET top-down_approach|NOUN and|CCONJ went|VERB overweight|ADJ on|ADP global_metals_space|NOUN earlier|ADV than|ADP others|NOUN .|PUNCT
+Among|ADP his|ADJ picks|NOUN were|VERB Cairn_India|ENT and|CCONJ Vedanta|ENT .|PUNCT
+Like|ADP Jain|ENT and|CCONJ others|NOUN ,|PUNCT he|PRON went|VERB underweight|ADJ on|ADP IT|NOUN and|CCONJ pharmaceuticals|NOUN ,|PUNCT which|ADJ protected|VERB the|DET downside|NOUN .|PUNCT
+He|PRON identified|VERB long-term_structural_stories|NOUN in|ADP private_sector_banks|NOUN and|CCONJ Nonbanking_Financial_Company|ENT (|PUNCT NBFC|PROPN )|PUNCT companies|NOUN .|PUNCT
+Fund_category|NOUN :|PUNCT Small|PROPN Cap|PROPN AUM|PROPN :|PUNCT Rs|NOUN 3344|CARDINAL crore|NOUN Singhania|ENT looks|VERB at|ADP buying|VERB good_businesses|NOUN with|ADP good_management|NOUN at|ADP a|DET reasonable_price|NOUN .|PUNCT
+The|DET businesses|NOUN should|VERB have|VERB decent_ability|NOUN to|PART scale|VERB up|PART and|CCONJ sustain|VERB even|ADV in|ADP negative_environments|NOUN .|PUNCT
+The|DET strength|NOUN of|ADP a|DET large_research_team|NOUN tracking|VERB 450|CARDINAL stocks|NOUN has|VERB helped|VERB the|DET investment|NOUN team|NOUN spot|VERB several_good_opportunities|NOUN in|ADP the|DET small_cap_space|NOUN .|PUNCT
+Fund_category|NOUN :|PUNCT Midcap|PROPN AUM|PROPN :|PUNCT Rs|NOUN 1458|CARDINAL crore|NOUN Returns|NOUN :|PUNCT 49.6_per|MONEY cent|NOUN .|PUNCT
+Anoop_Bhaskar|ENT focused|VERB on|ADP three|CARDINAL themes|NOUN which|ADJ include|VERB identifying|VERB leaders|NOUN ,|PUNCT emerging_players|NOUN and|CCONJ challengers|NOUN --|PUNCT those|DET who|NOUN change|VERB the|DET rules|NOUN of|ADP the|DET game|NOUN or|CCONJ bring|VERB in|PART new_ways|NOUN of|ADP doing|VERB business|NOUN in|ADP a|DET sector|NOUN .|PUNCT
+Based|VERB on|ADP this|DET strategy|NOUN ,|PUNCT he|PRON identified|VERB challengers|NOUN in|ADP Nifty_companies|NOUN such|ADJ as|ADP IndusInd_Bank|ENT ,|PUNCT RBL_Bank|ENT ,|PUNCT Ramco_Cement|ENT and|CCONJ Bajaj_Finance|ENT in|ADP sectors|NOUN such|ADJ as|ADP banking|NOUN ,|PUNCT automobile|NOUN and|CCONJ cement|NOUN .|PUNCT
+In|ADP addition|NOUN ,|PUNCT he|PRON identified|VERB and|CCONJ added|VERB leaders|NOUN of|ADP sectors|NOUN which|ADJ are|VERB not|ADV part|NOUN of|ADP the|DET Nifty|ENT .|PUNCT
+These|DET include|VERB Future_Retail|ENT ,|PUNCT Entertainment_Network|ENT ,|PUNCT MRF|ENT ,|PUNCT and|CCONJ PVR|ENT .|PUNCT
+Other_additions|NOUN included|VERB companies|NOUN at|ADP either|CCONJ an|DET early_stage|NOUN of|ADP growth|NOUN or|CCONJ where|ADV penetration|NOUN of|ADP organized_players|NOUN is|VERB expanding|VERB .|PUNCT
+These|DET include|VERB Greenply_Industries|ENT ,|PUNCT Dollar_Industries|ENT ,|PUNCT and|CCONJ Minda_Industries|ENT .|PUNCT

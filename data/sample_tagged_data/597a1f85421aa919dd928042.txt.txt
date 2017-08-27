@@ -1,0 +1,17 @@
+Three|CARDINAL people|NOUN were|VERB killed|VERB early_Thursday|DATE when|ADV a|DET wrong-way_driver|NOUN going|VERB 100|CARDINAL mph|NOUN slammed|VERB into|ADP a|DET vehicle|NOUN on|ADP the|DET southbound|NOUN 101|CARDINAL Freeway|ENT in|ADP Ventura|ENT ,|PUNCT authorities|NOUN said|VERB .|PUNCT
+The|DET crash|NOUN occurred|VERB just|ADV after|ADP midnight|TIME when|ADV a|DET California_Highway_Patrol_officer|NOUN spotted|VERB the|DET wrong-way_driver|NOUN on|ADP the|DET freeway|NOUN ,|PUNCT the|DET CHP|ENT said|VERB in|ADP a|DET statement|NOUN .|PUNCT
+The|DET black_Toyota_Scion|ENT was|VERB traveling|VERB northbound|NOUN from|ADP Oxnard_Boulevard|ENT in|ADP the|DET southbound_lanes|NOUN .|PUNCT
+The|DET officer|NOUN ,|PUNCT who|NOUN had|VERB just|ADV exited|VERB the|DET freeway|NOUN ,|PUNCT immediately|ADV entered|VERB the|DET northbound_101_freeway|NOUN and|CCONJ tried|VERB to|PART keep|VERB up|PART with|ADP the|DET driver|NOUN ,|PUNCT who|NOUN was|VERB still|ADV traveling|VERB the|DET wrong|ADJ way|NOUN on|ADP southbound_lanes|NOUN .|PUNCT “|PUNCT
+The|DET officer|NOUN began|VERB attempting|VERB to|PART get|VERB additional_units|NOUN into|ADP position|NOUN to|PART safely|ADV stop|VERB the|DET Toyota|ENT ,|PUNCT ”|PUNCT the|DET CHP|ENT said|VERB .|PUNCT
+Los_Angeles_Times|ENT (|PUNCT Los_Angeles_Times|ENT )|PUNCT As|ADP the|DET Toyota|ENT continued|VERB in|ADP the|DET wrong_direction|NOUN ,|PUNCT the|DET CHP|ENT said|VERB ,|PUNCT the|DET driver|NOUN reached|VERB 100_mph|QUANTITY .|PUNCT
+The|DET driver|NOUN then|ADV collided|VERB head|NOUN -|PUNCT on|PART with|ADP a|DET white_Nissan_Versa|ENT ,|PUNCT which|ADJ was|VERB being|VERB driven|VERB by|ADP a|DET 25-year-old_Riverside_man|NOUN .|PUNCT
+He|PRON and|CCONJ his|ADJ passenger|NOUN ,|PUNCT a|DET 28-year-old|DATE Lake_Elsinore|ENT woman|NOUN ,|PUNCT were|VERB pronounced|VERB dead|ADJ at|ADP the|DET scene|NOUN .|PUNCT
+The|DET Toyota_driver|NOUN ,|PUNCT a|DET 34-year-old_Santa_Paula_resident|NOUN ,|PUNCT was|VERB also|ADV pronounced|VERB dead|ADJ .|PUNCT
+The|DET victims’_identities|NOUN have|VERB not|ADV been|VERB released|VERB .|PUNCT
+When|ADV firefighters|NOUN arrived|VERB ,|PUNCT they|PRON found|VERB one|CARDINAL vehicle|NOUN over|ADP the|DET guardrail|NOUN on|ADP the_Lemon_Grove_Avenue|ENT overcrossing|NOUN and|CCONJ the|DET other|ADJ was|VERB on|ADP the|DET roadway|NOUN about_50_yards|QUANTITY north|ADV of|ADP the|DET crash|NOUN ,|PUNCT according|VERB to|ADP the_Ventura_County_Fire_Department|ENT .|PUNCT
+The|DET CHP|ENT is|VERB investigating|VERB the|DET crash|NOUN .|PUNCT
+%%URL|X Follow|VERB @molson21|NOUN on|ADP Twitter|PROPN ALSO|PROPN Man|PROPN sentenced|VERB to|ADP 115_years|DATE for|ADP fondling|VERB women|NOUN while|ADP impersonating|VERB a|DET police_officer|NOUN __Two_San_Diego_County_shopping_malls|NOUN swarmed|VERB by|ADP thousands|NOUN of|ADP street_racers|NOUN performing|VERB stunts|NOUN An|DET L.A._firefighter|NOUN choked|VERB and|CCONJ seriously|ADV injured|VERB a|DET man|NOUN giving|VERB out|PART Halloween_candy|NOUN .|PUNCT
+His|ADJ sentence|NOUN ?|PUNCT
+No|INTJ jail__UPDATES|NOUN :|PUNCT 9:50_a.m.:|TIME This|DET article|NOUN was|VERB updated|VERB with|ADP details|NOUN about|ADP the|DET crash|NOUN .|PUNCT
+6:10_a.m.:_This_article_was_updated_with_additional_details_about_the_crash.__|TIME
+This|DET article|NOUN was|VERB originally|ADV published|VERB at|ADP 2:50_a.m.|TIME

@@ -1,0 +1,5 @@
+It|PRON 's|VERB moving|VERB season_on|ENT Wall_Street|PROPN .|PUNCT
+Bonuses|NOUN have|VERB landed|VERB in|ADP bank_accounts|NOUN ,|PUNCT freeing|VERB up|PART bankers|NOUN and|CCONJ traders|NOUN to|PART move|VERB to|ADP new_employers|NOUN .|PUNCT
+Big_people_moves|NOUN on|ADP Wall_Street|PROPN often|ADV occur|VERB around|ADP this|DET time|NOUN of|ADP year|DATE .|PUNCT
+With|ADP that|DET in|ADP mind|NOUN ,|PUNCT we|PRON asked|VERB six|CARDINAL Wall_Street_recruiters|NOUN about|ADP the|DET big_trends|NOUN in|ADP hiring|VERB .|PUNCT
+Here|ADV 's|VERB what|NOUN the|DET recruiters|NOUN had|VERB to|PART say|VERB .|PUNCT

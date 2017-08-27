@@ -1,0 +1,31 @@
+President_Donald_Trump|ENT lashed|VERB out|PART at|ADP Kathy_Griffin|ENT on|ADP Twitter_early_Wednesday|DATE ,|PUNCT telling|VERB the|DET caustic_comedian|NOUN that|ADP she|PRON "|PUNCT should|VERB be|VERB ashamed|ADJ of|ADP herself|PRON "|PUNCT and|CCONJ think|VERB of|ADP "|PUNCT my|ADJ children|NOUN "|PUNCT for|ADP posing|VERB with|ADP a|DET fake|NOUN bloodied|VERB and|CCONJ decapitated|VERB head|NOUN made|VERB in|ADP his|ADJ likeness|NOUN .|PUNCT
+"|PUNCT Kathy_Griffin|ENT should|VERB be|VERB ashamed|ADJ of|ADP herself|PRON .|PUNCT
+My|ADJ children|NOUN ,|PUNCT especially|ADV my|ADJ 11_year_old|DATE son|NOUN ,|PUNCT Barron|ENT ,|PUNCT are|VERB having|VERB a|DET hard_time|NOUN with|ADP this|DET .|PUNCT Sick|ENT !|PUNCT "|PUNCT Trump|ENT tweeted|VERB .|PUNCT
+First_lady_Melania_Trump|ENT weighed|VERB in|PART on|ADP the|DET graphic_image|NOUN ,|PUNCT saying|VERB that|ADP she|PRON found|VERB the|DET images|NOUN "|PUNCT very|ADV disturbing|ADJ .|PUNCT
+"|PUNCT "|PUNCT As|ADP a|DET mother|NOUN ,|PUNCT a|DET wife|NOUN ,|PUNCT and|CCONJ a|DET human_being|NOUN ,|PUNCT that|DET photo|NOUN is|VERB very|ADV disturbing|ADJ ,|PUNCT "|PUNCT she|PRON said|VERB .|PUNCT "|PUNCT
+When|ADV you|PRON consider|VERB some|DET of|ADP the|DET atrocities|NOUN happening|VERB in|ADP the|DET world|NOUN today|DATE ,|PUNCT a|DET photo_opportunity|NOUN like|ADP this|DET is|VERB simply|ADV wrong|ADJ and|CCONJ makes|VERB you|PRON wonder|VERB about|ADP the|DET mental_health|NOUN of|ADP the|DET person|NOUN who|NOUN did|VERB it|PRON .|PUNCT "|PUNCT
+Griffin|ENT sent|VERB shock_waves|NOUN through|ADP social_media|NOUN on|ADP Tuesday_night|TIME after|ADP images|NOUN of|ADP her|ADJ holding|VERB a|DET bloodied|VERB ,|PUNCT decapitated|VERB model|NOUN of|ADP what|NOUN appeared|VERB to|PART be|VERB Trump|ENT 's|PART head|NOUN began|VERB circulating|VERB online|ADV .|PUNCT
+Play|VERB Facebook|PROPN Twitter|PROPN Embed_Trump|ENT tweets|VERB :|PUNCT '|PUNCT Kathy_Griffin|ENT should|VERB be|VERB ashamed|ADJ of|ADP herself|PRON '|PUNCT after|ADP '|PUNCT beheading|NOUN '|PUNCT video|NOUN sparks|VERB outrage_3:25_autoplay_autoplay_Copy_this_code|NOUN to|ADP your|ADJ website|NOUN or|CCONJ blog|NOUN __Griffin|ENT posted|VERB a|DET short_video|NOUN of|ADP herself|PRON raising|VERB the|DET head|NOUN on|ADP her|ADJ Twitter_account|NOUN .|PUNCT
+Griffin|ENT added|VERB in|ADP a|DET follow|NOUN up|PART that|ADP she|PRON does|VERB "|PUNCT not|ADV condone|VERB ANY|DET violence|NOUN "|PUNCT but|CCONJ that|ADP she|PRON was|VERB simply|ADV "|PUNCT mocking|VERB the|DET Mocker|ENT in|ADP Chief|PROPN .|PUNCT "|PUNCT
+As|ADP the|DET picture|NOUN began|VERB to|PART make|VERB the|DET rounds|NOUN ,|PUNCT Trump|ENT 's|PART son|NOUN Donald_Trump|ENT ,|PUNCT Jr.|PROPN ,|PUNCT among|ADP others|NOUN ,|PUNCT posted|VERB the|DET image|NOUN on|ADP Instagram|ENT to|PART express|VERB his|ADJ disgust|NOUN .|PUNCT
+Kathy_Griffin|ENT should|VERB be|VERB ashamed|ADJ of|ADP herself|PRON .|PUNCT
+My|ADJ children|NOUN ,|PUNCT especially|ADV my|ADJ 11_year_old|DATE son|NOUN ,|PUNCT Barron|ENT ,|PUNCT are|VERB having|VERB a|DET hard_time|NOUN with|ADP this|DET .|PUNCT
+Sick|ENT !|PUNCT
+—|PUNCT Donald_J._Trump|ENT (|PUNCT @realDonaldTrump|PROPN )|PUNCT May_31,_2017|DATE "|PUNCT Kathy_Griffin|ENT a|DET regular|ADJ in|ADP [|PUNCT sic|NOUN ]|PUNCT @cnn|PROPN should|VERB be|VERB ashamed|ADJ of|ADP herself|PRON .|PUNCT
+If|ADP this|DET is|VERB where|ADV you|PRON have|VERB to|PART go|VERB to|PART get|VERB noticed|VERB maybe|ADV you|PRON should|VERB pick|VERB a|DET new_line|NOUN of|ADP work|NOUN ,|PUNCT "|PUNCT he|PRON wrote|VERB .|PUNCT
+Related|VERB :|PUNCT '|PUNCT Covfefe|ENT '|PUNCT :|PUNCT Donald_Trump|ENT Invents|VERB New_Word|PROPN That_Conquers_Twitter|ENT CNN|ENT hosts|VERB Anderson_Cooper|ENT and|CCONJ Jake_Tapper|ENT both|DET said|VERB the|DET image|NOUN was|VERB inappropriate|ADJ .|PUNCT
+In|ADP a|DET statement|NOUN ,|PUNCT CNN|ENT said|VERB it|PRON found|VERB Griffin|ENT 's|PART actions|NOUN "|PUNCT disgusting|ADJ and|CCONJ offensive|ADJ ,|PUNCT "|PUNCT and|CCONJ said|VERB it|PRON is|VERB evaluating|VERB its|ADJ New_Year's_Eve|ENT coverage|NOUN ,|PUNCT which|ADJ Griffin_co-|ENT hosts|NOUN with|ADP Cooper|ENT .|PUNCT
+As|ADP the|DET backlash|NOUN mounted|VERB ,|PUNCT Griffin|ENT changed|VERB course|NOUN and|CCONJ apologized|VERB .|PUNCT
+"|PUNCT I|PRON sincerely|ADV apologize|VERB .|PUNCT
+I|PRON 'm|VERB just|ADV now|ADV seeing|VERB the|DET reaction|NOUN of|ADP these|DET images|NOUN .|PUNCT
+I|PRON 'm|VERB a|DET comic|ADJ .|PUNCT
+I|PRON crossed|VERB the|DET line|NOUN .|PUNCT
+I|PRON move|VERB the|DET line|NOUN ,|PUNCT then|ADV I|PRON cross|VERB it|PRON .|PUNCT
+I|PRON went|VERB way|ADV too|ADV far|ADV ,|PUNCT "|PUNCT Griffin|ENT said|VERB .|PUNCT
+I|PRON am|VERB sorry|ADJ .|PUNCT
+I|PRON went|VERB too|ADV far|ADV .|PUNCT
+I|PRON was|VERB wrong|ADJ .|PUNCT
+pic.twitter.com/LBKvqf9xFB|NOUN —|PUNCT Kathy_Griffin|ENT (|PUNCT @kathygriffin|PROPN )|PUNCT May_30,_2017|DATE She|PRON went|VERB on|PART to|PART say|VERB the|DET image|NOUN was|VERB too|ADV graphic|ADJ and|CCONJ that|ADP she|PRON had|VERB taken|VERB it|PRON down|PART and|CCONJ asked|VERB the|DET photographer|NOUN do|VERB the|DET same|ADJ .|PUNCT
+"|PUNCT It|PRON was|VERB n't|ADV funny|ADJ .|PUNCT I|PRON get|VERB it|PRON .|PUNCT
+I|PRON 've|VERB made|VERB a|DET lot|NOUN of|ADP mistakes|NOUN in|ADP my|ADJ career|NOUN .|PUNCT I|PRON will|VERB continue|VERB ,|PUNCT "|PUNCT Griffin|ENT said|VERB .|PUNCT
+Griffin|ENT 's|PART ad_campaign|NOUN with|ADP Squatty_Potty|ENT ,|PUNCT a|DET Utah|ENT -|PUNCT based|VERB bathroom|NOUN products|NOUN company|NOUN ,|PUNCT had|VERB been|VERB suspended|VERB ,|PUNCT the|DET company|NOUN said|VERB .|PUNCT

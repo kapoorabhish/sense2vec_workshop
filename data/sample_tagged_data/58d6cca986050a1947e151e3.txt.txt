@@ -1,0 +1,20 @@
+Cut-outs|NOUN of|ADP Prime_Minister_Narendra_Modi|ENT and|CCONJ BJP_chief_Amit_Shah|ENT near|ADP the|DET party_office|NOUN ,|PUNCT Saturday|DATE .|PUNCT
+Praveen_Khanna_Cut-outs|ENT of|ADP Prime_Minister_Narendra_Modi|ENT and|CCONJ BJP_chief_Amit_Shah|ENT near|ADP the|DET party_office|NOUN ,|PUNCT Saturday|DATE .|PUNCT
+Praveen_Khanna|ENT Vimal_Kumar|ENT plays|VERB in|ADP a|DET brass_band|NOUN at|ADP weddings|NOUN in|ADP the|DET capital|NOUN .|PUNCT
+On|ADP Saturday|DATE ,|PUNCT though|ADP ,|PUNCT the|DET 19-year-old|DATE had|VERB a|DET different_assignment|NOUN :|PUNCT Playing|VERB the|DET cymbals|NOUN outside|ADP the|DET BJP_central_office|NOUN .|PUNCT
+“|PUNCT This|DET is|VERB like|ADP an|DET untiring_baraat|NOUN .|PUNCT
+If|ADP two|CARDINAL groups|NOUN are|VERB tired|ADJ of|ADP dancing|VERB ,|PUNCT three|CARDINAL more|ADJ are|VERB ready|ADJ to|PART join|VERB in|ADV ,|PUNCT ”|PUNCT he|PRON said|VERB .|PUNCT
+Celebrations|NOUN outside|ADP the|DET office|NOUN started|VERB early|ADV .|PUNCT
+By|ADP 9|CARDINAL am|NOUN ,|PUNCT party_members|NOUN had|VERB started|VERB gathering|VERB outside|ADP the|DET 11|CARDINAL ,|PUNCT Ashoka_Road|ENT building|NOUN .|PUNCT
+More|ADJ followed|VERB ,|PUNCT bringing|VERB along|ADP bands|NOUN ,|PUNCT horses|NOUN ,|PUNCT crackers|NOUN ,|PUNCT flags|NOUN ,|PUNCT cut-outs|NOUN of|ADP Prime_Minister_Narendra_Modi|ENT ,|PUNCT and|CCONJ Holi|ENT colours|NOUN .|PUNCT
+A|DET large_LED_screen|NOUN was|VERB placed|VERB outside|ADP the|DET gate|NOUN for|ADP people|NOUN to|PART see|VERB the|DET results|NOUN .|PUNCT
+Watch|PROPN
+What|NOUN Else|ADV Is|VERB Making|VERB News|NOUN
+Outside|ADP the|DET central_office|NOUN ,|PUNCT meanwhile|ADV ,|PUNCT a|DET small_tiff|NOUN between_two|CARDINAL groups|NOUN broke|VERB out|PART in|ADP the|DET afternoon|TIME over|ADP the|DET decision|NOUN to|PART burst|VERB crackers|NOUN .|PUNCT “|PUNCT
+They|PRON cause|VERB air|NOUN and|CCONJ noise|NOUN pollution|NOUN ,|PUNCT ”|PUNCT said|VERB one|CARDINAL supporter|NOUN .|PUNCT
+Nevertheless|ADV ,|PUNCT the|DET crackers|NOUN were|VERB burst|VERB and|CCONJ the|DET remnants|NOUN swept|VERB away|ADV by|ADP sanitation_workers|NOUN .|PUNCT
+The|DET party’s_Delhi_unit_office|NOUN at|ADP Pandit_Pant_Marg|ENT also|ADV saw|VERB scenes|NOUN of|ADP celebration|NOUN .|PUNCT Crediting|VERB the|DET win|NOUN to|ADP the|DET “|PUNCT hard_work|NOUN of|ADP party_workers|NOUN ”|PUNCT and|CCONJ the|DET campaign|NOUN run|VERB by|ADP Prime_Minister_Narendra_Modi|ENT and|CCONJ BJP_president_Amit_Shah|ENT ,|PUNCT
+Delhi_unit_president_Manoj_Tiwari|ENT said|VERB ,|PUNCT “|PUNCT
+In|ADP UP|ENT and|CCONJ Uttarakhand|ENT ,|PUNCT the|DET opposition_parties|NOUN ran|VERB a|DET hate_campaign|NOUN against|ADP the|DET PM|ENT ,|PUNCT to|PART which|ADJ the|DET voters|NOUN replied|VERB :|PUNCT ‘|PUNCT
+Humein_Modi-Shah_ka_saath_pasand_hai’.|NOUN ”|PUNCT
+For|ADP all|ADJ the|DET latest_India_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

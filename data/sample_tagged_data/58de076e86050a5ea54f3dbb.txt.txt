@@ -1,0 +1,15 @@
+Vardhman_Special_Steels|ENT rose|VERB 2.98%_to|PERCENT Rs|VERB 141.50|TIME at|ADP 11:59|TIME on|ADP BSE|ENT ,|PUNCT with|ADP the|DET stock|NOUN extending|VERB rally|NOUN triggered|VERB by|ADP the|DET company|NOUN fixing|VERB 10|CARDINAL April_2017|DATE as|ADP the|DET record_date|NOUN for|ADP rights_issue|NOUN .|PUNCT
+Meanwhile|ADV ,|PUNCT the_S&P_Sensex|ENT was|VERB down|ADV 80.97|CARDINAL points|NOUN or|CCONJ 0.27%_at|PERCENT 29,566.45|CARDINAL .|PUNCT
+The_S&P_Small-|ENT cap_index|NOUN was|VERB up|ADV 85.28|CARDINAL points|NOUN or|CCONJ 0.6%_at|PERCENT 14,416.53|CARDINAL .|PUNCT
+On|ADP the|DET BSE|ENT ,|PUNCT 43,000|CARDINAL shares|NOUN were|VERB traded|VERB on|ADP the|DET counter|NOUN so|ADV far|ADV as|ADP against|ADP the|DET average_daily_volumes|NOUN of|ADP 15,315|CARDINAL shares|NOUN in|ADP the_past_one_quarter|DATE .|PUNCT
+The|DET stock|NOUN had|VERB hit|VERB a|DET high|NOUN of|ADP Rs_149|CARDINAL so|ADV far|ADV during|ADP the_day|DATE ,|PUNCT which|ADJ is|VERB a|DET record_high|NOUN .|PUNCT
+The|DET stock|NOUN hit|VERB a|DET low|NOUN of|ADP Rs_139|CARDINAL so|ADV far|ADV during|ADP the_day|DATE .|PUNCT
+It|PRON had|VERB hit|VERB a|DET 52-week_low|NOUN of|ADP Rs_45.30|CARDINAL on|ADP 12_April_2016|DATE .|PUNCT
+The|DET small-cap_company|NOUN has|VERB equity_capital|NOUN of|ADP Rs_18.56|CARDINAL crore|NOUN .|PUNCT
+Face_value|NOUN per|ADP share|NOUN is|VERB Rs|VERB 10|CARDINAL .|PUNCT
+Shares|NOUN of|ADP Vardhman_Special_Steels|ENT have|VERB rallied|VERB 18.8%_in|PERCENT three|NUM trading_sessions|NOUN from|ADP its|ADJ closing|NOUN of|ADP Rs_119.10|CARDINAL on|ADP 28_March_2017|DATE ,|PUNCT after|ADP the|DET company|NOUN announced|VERB after|ADP market_hours|TIME on|ADP 28_March_2017|DATE that|ADP it|PRON has|VERB fixed|VERB 10_April_2017|DATE as|ADP the|DET record_date|NOUN for|ADP rights_issue|NOUN .|PUNCT
+The|DET rights_issue|NOUN is|VERB in|ADP the|DET ratio|NOUN 2:3_i.e.|QUANTITY two|CARDINAL equity|NOUN shares|NOUN for|ADP every|DET three|CARDINAL held|VERB .|PUNCT
+Total_issue_size|NOUN is|VERB Rs|NOUN 67.85|CARDINAL crore|NOUN and|CCONJ issue_price|NOUN is|VERB Rs_50|CARDINAL per|ADP equity_share|NOUN .|PUNCT
+Vardhman_Special_Steels'|ENT net_profit|NOUN rose|VERB 16.7%_to|PERCENT Rs|NOUN 3.70|CARDINAL crore|NOUN on|ADP 5.5%_increase|PERCENT in|ADP net_sales|NOUN to|ADP Rs|NOUN 172.13|CARDINAL crore|NOUN in|ADP Q3_December_2016|DATE over|ADP Q3|NUM December_2015|DATE .|PUNCT
+Vardhman_Special_Steels|ENT is|VERB a|DET producer|NOUN of|ADP special_and_alloy_steels|NOUN ,|PUNCT catering|VERB to|ADP diverse_requirements|NOUN of|ADP hot_rolled_bars|NOUN for|ADP engineering|NOUN ,|PUNCT automotive,_tractor,_bearing_and_allied_industries|NOUN .|PUNCT
+Powered|VERB by|ADP Capital_Market_-_Live_News|ENT (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

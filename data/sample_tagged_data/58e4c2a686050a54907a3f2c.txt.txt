@@ -1,0 +1,5 @@
+Magma_Fincorp|ENT has|VERB sold|VERB Rs_679|CARDINAL crore|NOUN of|ADP non-performing_assets|NOUN (|PUNCT NPAs|PROPN )|PUNCT on|ADP a|DET consolidated_basis|NOUN .|PUNCT
+This_Rs|DATE 679|CARDINAL crore|ADV worth|ADJ NPA|ENT comprises|NOUN of|ADP Rs|NOUN 577|CARDINAL cr|NOUN vehicle|NOUN loans|NOUN and|CCONJ Rs|NOUN 101|CARDINAL crore|NOUN mortgage|NOUN loans|NOUN .|PUNCT
+The|DET gross_NPAs|NOUN (|PUNCT GNPA|PROPN )|PUNCT for|ADP the_March_quarter|DATE would|VERB now|ADV be|VERB around|ADP 6.9_percent|PERCENT .|PUNCT
+With|ADP this|DET sale|NOUN ,|PUNCT Kailash_Baheti|ENT of|ADP Magma_Fincorp|ENT expects|VERB improvement|NOUN in|ADP provision_coverage_ratio|NOUN .|PUNCT
+The|DET credit_cost|NOUN is|VERB also|ADV expected|VERB to|PART decline|VERB to|ADP around_1.5_percent|PERCENT ,|PUNCT he|PRON says|VERB .|PUNCT

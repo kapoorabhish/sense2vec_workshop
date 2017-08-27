@@ -1,0 +1,15 @@
+The tag designed by the Centre for Railway Information System (CRIS) is estimated to cost Rs 1000 per tag The tag designed by the Centre for Railway Information System (CRIS) is estimated to cost Rs 1000 per tag
+
+The Indian Railways will use radio-frequency identification tags (RFID) for tracking of wagons, coaches and locomotives to ensure effective and transparent functioning. Leveraging information technology in a big way, the public transporter has issued instructions for equipping all wagons with RFID tags to begin with.
+
+There are about 2.25 lakh wagons, 50,000 coaches and 9,000 locomotives in the railways. Railways have sanctioned Rs 57 crore for the first phase of rollout of the system. The tag designed by the Centre for Railway Information System (CRIS) is estimated to cost Rs 1000 per tag.Using RFID devices, it will be easier for the railways to know the exact position of wagons, locomotives and coaches.
+
+Currently, such data is maintained manually, which leaves scope for errors.While the RFID tag will be fitted in the rolling stock, trackside readers will be installed at stations and key points along the tracks to read the tag from a distance of about two meters and transmit the wagon identity over a network to a central computer.
+
+In this way, each moving wagon can be identified and its movement tracked.With the introduction of RFID, the issue of shortage of wagons, locomotives and coaches is expected to be addressed in a more transparent and expeditious manner, said a senior Railway Ministry official involved with the automatic vehicle identification project.
+
+At the time of wagon condemnation, RFID tags have to be removed and can be reused as they have a life of 25 years.Henceforth it would be a standard practice for all new wagons coming out of manufacturing units to be equipped with RFID tags.
+
+RFID devices will be used for freight maintenance management, locomotive management and coach maintenance management so as to ensure more effective and transparent functioning, the official said. Railways had implemented the RFID system on the Vishakhapatnam-Talcher-Paradeep section as a pilot project.
+
+For all the latest India News, download Indian Express App now

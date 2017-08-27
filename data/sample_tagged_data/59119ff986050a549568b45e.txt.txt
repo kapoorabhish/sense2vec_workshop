@@ -1,0 +1,18 @@
+Cristiano_Ronaldo|ENT scored|VERB a|DET hat-trick|NOUN to|PART give|VERB his|ADJ side|NOUN an|DET edge|NOUN before|ADP going|VERB into|ADP the|DET second_leg|NOUN of|ADP the_Champions_League|ENT semifinals|NOUN .|PUNCT
+(|PUNCT Source|NOUN :|PUNCT Reuters|PROPN )|PUNCT Cristiano_Ronaldo|PROPN scored|VERB a|DET hat-trick|NOUN to|PART give|VERB his|ADJ side|NOUN an|DET edge|NOUN before|ADP going|VERB into|ADP the|DET second_leg|NOUN of|ADP the_Champions_League|ENT semifinals|NOUN .|PUNCT
+(|PUNCT Source|NOUN :|PUNCT Reuters|ENT )|PUNCT Defending|VERB champions_Real_Madrid|ENT are|VERB set|VERB to|PART book|VERB their|ADJ spot|NOUN in|ADP the|DET final|ADJ of|ADP the|DET UEFA_Champions_League|ENT after|ADP securing|VERB a|DET 3|CARDINAL -|SYM 0|NUM lead|NOUN against|ADP Atletico_Madrid|ENT in|ADP the|DET first_leg|NOUN of|ADP the|DET semifinal|NOUN last_week|DATE .|PUNCT
+As|ADP Zinedine_Zidane|ENT ’s|NUM men|NOUN travel|VERB to|ADP Vicente_Calderon|ENT on|ADP Wednesday_night|TIME for|ADP the|DET second_leg|NOUN ,|PUNCT Los_Blancos|ENT will|VERB look|VERB to|PART maintain|VERB their|ADJ domination|NOUN .|PUNCT
+Real|ADV have|VERB a|DET history|NOUN of|ADP beating|VERB their|ADJ city_rivals|NOUN Atletico|ENT in|ADP the|DET European_competition|NOUN .|PUNCT
+While|ADP Diego_Simeone|ENT ’s|NUM men|NOUN won|VERB their|ADJ last_game|NOUN against|ADP Eibar;_Real|ENT destroyed|VERB the|DET already-relegated_Granada|ENT 4|CARDINAL -|SYM 0|NUM .|PUNCT
+Zidane|NOUN however|ADV rested|VERB key_players|NOUN in|ADP the|DET La_Liga_match|NOUN to|PART keep|VERB them|PRON fit|ADJ and|CCONJ prepared|ADJ for|ADP the|DET second_leg|NOUN .|PUNCT
+Cristiano_Ronaldo|ENT dominated|VERB the|DET first_leg|NOUN to|PART score|VERB a|DET hat-trick|NOUN and|CCONJ give|VERB his|ADJ side|NOUN an|DET edge|NOUN after|ADP beating|VERB Bundesliga|ENT champions|NOUN Bayern_Munich|ENT in|ADP the|DET quarterfinals|NOUN .|PUNCT
+When|ADV is|VERB the|DET second_leg|NOUN of|ADP the|DET UEFA_Champions_League_semi|NOUN -|PUNCT final|ADJ clash|NOUN between|ADP Real_Madrid|ENT and|CCONJ Atletico_Madrid|ENT ?|PUNCT
+The_Champions_League|ENT semi|NOUN -|PUNCT final|NOUN between|ADP Real_Madrid|ENT and|CCONJ Atletico_Madrid|ENT will|VERB be|VERB played|VERB at|ADP 12:15_AM|TIME on|ADP Thursday,_May_10|DATE .|PUNCT
+Where|ADV is|VERB the|DET semi-final_second-leg|NOUN being|NOUN played|VERB ?|PUNCT
+The|DET second_leg|NOUN of|ADP the|DET match|NOUN is|VERB to|PART be|VERB played|VERB at|ADP Vicente_Calderon|ENT in|ADP Madrid|ENT ,|PUNCT Spain|ENT .|PUNCT
+It|PRON is|VERB the|DET home_ground|NOUN of|ADP Atletico_Madrid|ENT .|PUNCT
+Which|ADJ TV_channels|NOUN will|VERB air|VERB the|DET match|NOUN between|ADP Juventus|ENT vs|ADP Monaco|ENT live|VERB ?|PUNCT
+The|DET match|NOUN will|VERB be|VERB broadcast|VERB live|ADV on|ADP Ten_Sports_Network|ENT .|PUNCT
+Where|ADV can|VERB one|PRON follow|VERB the|DET second_leg|NOUN of|ADP the_Champions_League|ENT semi|NOUN -|PUNCT final|NOUN between|ADP Real_Madrid|ENT and|CCONJ Atletico_Madrid|ENT live|VERB online|ADV ?|PUNCT
+The|DET match|NOUN can|VERB be|VERB live|ADV streamed|VERB on|ADP the|DET Ten_Sports_web_site|NOUN .|PUNCT
+For|ADP updates|NOUN and|CCONJ live|VERB online_commentary|NOUN ,|PUNCT follow|NOUN %%URL|X For|ADP all|ADJ the|DET latest_Sports_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV ©_IE_Online_Media_Services_Pvt_Ltd|ENT

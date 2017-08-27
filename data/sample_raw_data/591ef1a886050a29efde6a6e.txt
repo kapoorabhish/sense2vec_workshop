@@ -1,0 +1,17 @@
+May 18 (UPI) -- Researchers at Universite Laval in Quebec have developed a smart T-shirt that is capable of monitoring the wearer's respiratory rate in real time.
+
+The smart T-shirt works without wires, electrodes or sensors attached to the body, instead using an antenna sewn into the shirt at chest level made of hollow optical fiber coated with a thin layer of silver on its inner surface.
+
+"The antenna does double duty, sensing and transmitting the signals created by respiratory movements," Younes Messaddeq, professor at Universite Laval, said in a press release. "The data can be sent to the user's smartphone or a nearby computer."
+
+The T-shirt works when a wearer inhales, the smart fiber senses the increase in both thorax circumference and the volume of air in the lungs.
+
+"These changes modify some of the resonant frequency of the antenna," Messaddeq said. "That's why the T-shirt doesn't need to be tight or in direct contact with the wearer's skin. The oscillations that occur with each breath are enough for the fiber to sense the user's respiratory rate."
+
+The optical fiber covering the antenna is covered in a polymer that protects it against the environment, with researchers tested the durability by washing the shirt numerous times.
+
+"After 20 washes, the antenna had withstood the water and detergent and was still in good working condition," Messaddeq said. "The T-shirt is really comfortable and doesn't inhibit the subject's natural movements. Our tests show that the data captured by the shirt is reliable, whether the user is lying down, sitting, standing or moving around."
+
+Researchers said the smart T-shirt could pave the way for manufacturing of clothing that could be used to diagnose respiratory illnesses or monitor people with asthma, sleep apnea or chronic obstructive pulmonary disease.
+
+The study was published in the journal Sensors.

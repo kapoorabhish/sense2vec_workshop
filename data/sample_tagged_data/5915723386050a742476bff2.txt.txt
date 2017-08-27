@@ -1,0 +1,13 @@
+Police|NOUN stopped|VERB a|DET potential_bloodbath|NOUN outside|ADP Brooklyn_Criminal_Court|ENT —|PUNCT thanks|NOUN to|ADP Facebook|ENT ,|PUNCT officials|NOUN said|VERB Thursday|DATE .|PUNCT
+Cops|NOUN grabbed|VERB three|CARDINAL gang_members|NOUN planning|VERB violence|NOUN outside|ADP the|DET courthouse|NOUN on|ADP Joralemon_St.|ENT in|ADP Brooklyn_Heights_on|ENT Wednesday|DATE after|ADP finding|VERB a|DET Facebook_Live|ENT video|NOUN that|ADJ showed|VERB they|PRON had|VERB a|DET gun|NOUN and|CCONJ planned|VERB to|PART shoot|VERB members|NOUN of|ADP a|DET rival_crew|NOUN ,|PUNCT police_sources|NOUN said|VERB .|PUNCT
+Cops|NOUN monitoring|VERB social_media_sites|NOUN of|ADP gang_members|NOUN found|VERB the|DET video|NOUN around|ADP 10_a.m._Wednesday|TIME .|PUNCT
+It|PRON showed|VERB Rashid_Celestine|ENT ,|PUNCT 19|DATE ,|PUNCT Davon_Arthur|ENT ,|PUNCT 20|DATE ,|PUNCT and|CCONJ Envoy_Bullock|ENT ,|PUNCT 24|DATE ,|PUNCT in|ADP a|DET car|NOUN and|CCONJ armed|ADJ with|ADP a|DET silver_pistol|NOUN .|PUNCT
+Cops|NOUN quickly|ADV determined|VERB the|DET three|CARDINAL men|NOUN were|VERB on|ADP their|ADJ way|NOUN to|ADP court|NOUN ,|PUNCT where|ADV both|DET Bullock|ENT and|CCONJ Celestine|ENT were|VERB slated|VERB for|ADP appearances|NOUN on|ADP prior_charges|NOUN .|PUNCT
+Brooklyn|ENT gang|NOUN members|NOUN busted|VERB for|ADP financial_fraud__Investigators|NOUN continued|VERB to|PART watch|VERB the|DET video|NOUN as|ADP cops|NOUN converged|VERB outside|ADP the|DET courthouse|NOUN ,|PUNCT officials|NOUN said|VERB .|PUNCT
+Bullock|ENT and|CCONJ Celestine|ENT were|VERB taken|VERB into|ADP custody|NOUN as|ADV soon|ADV as|ADP they|PRON were|VERB spotted|VERB outside|ADP the|DET building|NOUN .|PUNCT
+A|DET loaded_9-mm|CARDINAL .|PUNCT
+pistol|NOUN was|VERB found|VERB on|ADP one|CARDINAL of|ADP the|DET two|CARDINAL men|NOUN ,|PUNCT officials|NOUN said|VERB .|PUNCT
+Police|NOUN later|ADV arrested|VERB Arthur|ENT ,|PUNCT who|NOUN had|VERB apparently|ADV dropped|VERB out|ADP of|ADP the|DET plan|NOUN and|CCONJ gone|VERB back|ADV to|ADP East_New_York|ENT .|PUNCT
+All|DET three|CARDINAL were|VERB charged|VERB with|ADP criminal_possession|NOUN of|ADP a|DET weapon|NOUN .|PUNCT
+Their|ADJ arraignments|NOUN were|VERB pending|VERB Thursday|DATE .|PUNCT
+Bronx|ENT strip_joint|NOUN Sin_City|ENT sees|VERB liquor_license|NOUN revoked|VERB

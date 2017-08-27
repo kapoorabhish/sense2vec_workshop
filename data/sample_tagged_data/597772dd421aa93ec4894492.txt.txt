@@ -1,0 +1,21 @@
+Renowned|VERB astrophysicist_Professor_Yash_Pal|ENT ,|PUNCT who|NOUN did|VERB yeoman_work|NOUN in|ADP the|DET field|NOUN of|ADP cosmic_rays|NOUN and|CCONJ high_energy_physics|NOUN ,|PUNCT died|VERB here|ADV on|ADP Monday_night|TIME due|ADJ to|ADP age|NOUN -|PUNCT related_illness|NOUN .|PUNCT
+He|PRON was|VERB 90|CARDINAL .|PUNCT
+A|DET passionate_educator|NOUN who|NOUN became|VERB popular|ADJ specially|ADV with|ADP children|NOUN for|ADP his|ADJ programmes|NOUN that|ADJ enunciated|VERB tough_subjects|NOUN in|ADP simple_terms|NOUN ,|PUNCT Yash_Pal|ENT made|VERB significant_contributions|NOUN over|ADP the|DET years|NOUN in|ADP areas|NOUN of|ADP cosmic_rays|NOUN ,|PUNCT high_energy_physics|NOUN ,|PUNCT astrophysics|NOUN ,|PUNCT science|NOUN education|NOUN and|CCONJ communication|NOUN .|PUNCT
+Yash_Pal|ENT was|VERB awarded|VERB Padma_Vibhushan|ENT in|ADP 2013|DATE and|CCONJ Padma_Bhushan|ENT in|ADP 1976|DATE .|PUNCT
+He|PRON was|VERB chairman|NOUN of|ADP University_Grants_Commission|ENT (|PUNCT 1986-91|DATE )|PUNCT and|CCONJ Secretary_Department_of_Science_and_Technology|ENT (|PUNCT 1984-86|DATE )|PUNCT .|PUNCT
+Yash_Pal|ENT was|VERB fellow_and_honorary_fellow|NOUN of|ADP several_organisations|NOUN including|VERB Indian_National_Science_Academy|ENT ,|PUNCT Indian_Academy_of_Science|ENT ,|PUNCT and|CCONJ Indian_Society_of_Astronautics|ENT and|CCONJ was|VERB on|ADP the|DET editorial_boards|NOUN of|ADP several_scientific_journals|NOUN .|PUNCT
+He|PRON was|VERB awarded|VERB INSA_award|NOUN for|ADP science_popularisation|NOUN in|ADP 2000|DATE .|PUNCT
+A|DET multi-faceted_personality|NOUN ,|PUNCT Yash_Pal|ENT was|VERB associated|VERB with|ADP science_magazine_TV_series|NOUN "Turning_Point"|ENT .|PUNCT
+He|PRON also|ADV played|VERB a|DET role|NOUN in|ADP developing|VERB institutions|NOUN such|ADJ as|ADP Space_Development_Centre|ENT ,|PUNCT Ahmedabad;_Nuclear_Science_Centre|ENT ,|PUNCT New_Delhi|ENT ,|PUNCT and|CCONJ Inter-University_Centre_for_Astronomy_and_Astrophysics|ENT ,|PUNCT Pune|ENT .|PUNCT
+In|ADP October_2011|DATE ,|PUNCT he|PRON was|VERB awarded|VERB the|DET Lal_Bahadur_Shastri_National_Award|PROPN for|ADP excellence|NOUN in|ADP public_administration|NOUN ,|PUNCT academics|NOUN and|CCONJ management|NOUN .|PUNCT
+Prime_Minister_Narendra_Modi|ENT and|CCONJ Congress_Vice_President_Rahul_Gandhi|ENT were|VERB among|ADP those|DET who|NOUN paid|VERB tributes|NOUN to|ADP Prof|PROPN .|PUNCT
+Yash_Pal|ENT .|PUNCT
+Modi|ENT said|VERB the|DET country|NOUN has|VERB lost|VERB a|DET brilliant_scientist|NOUN and|CCONJ academician|NOUN .|PUNCT "|PUNCT
+Pained|VERB by|ADP Professor_Yash_Pal's_demise|NOUN .|PUNCT
+We|PRON have|VERB lost|VERB a|DET brilliant_scientist|NOUN and|CCONJ academician|NOUN who|NOUN made|VERB a|DET lasting_contribution|NOUN to|ADP Indian_education|NOUN ,|PUNCT "|PUNCT Modi|ENT tweeted|VERB .|PUNCT
+Sharing|VERB his|ADJ picture|NOUN with|ADP the|DET eminent_astrophysicist|NOUN ,|PUNCT Modi|ENT said|VERB :|PUNCT "|PUNCT Interacted|VERB with|ADP Professor_Yash_Pal|ENT extensively|ADV on|ADP many_occasions|NOUN including|VERB the_National_Children's|ENT Science_Congress|PROPN in|ADP Gujarat|ENT in|ADP 2009|DATE .|PUNCT "|PUNCT
+Rahul_Gandhi|ENT described|VERB his|ADJ death|NOUN as|ADP a|DET great_loss|NOUN to|ADP the|DET nation|NOUN .|PUNCT "|PUNCT
+A|DET scientist|NOUN and|CCONJ a|DET passionate_educator|NOUN who|NOUN understood|VERB the|DET true_value|NOUN of|ADP learning|NOUN ,|PUNCT Professor_Yash_Pal's_passing|NOUN is|VERB a|DET great_loss|NOUN for|ADP all|DET of|ADP us|PRON ,|PUNCT "|PUNCT he|PRON said|VERB .|PUNCT
+Yash_Pal|ENT completed|VERB his|ADJ post_graduation|NOUN in|ADP physics|NOUN from|ADP Panjab_University|ENT and|CCONJ joined|VERB Tata_Institute_of_Fundamental_Research|ENT in|ADP 1959|DATE .|PUNCT
+He|PRON gained|VERB a|DET PhD_degree|NOUN in|ADP Physics|ENT from|ADP the_Massachusetts_Institute_of_Technology|ENT in|ADP 1958|DATE .|PUNCT
+--IANS|NUM ps|INTJ /|SYM vsc|ADV /|SYM him|PRON /|SYM dg|ADP (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

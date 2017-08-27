@@ -1,0 +1,10 @@
+Prime_Minister_Modi_on|ENT Saturday|DATE newly|ADV elected|VERB French_President_Emmanuel_Macron|ENT for|ADP one|CARDINAL -|PUNCT on|ADP -|PUNCT one|CARDINAL talks|NOUN ahead|ADV of|ADP delegation-level|NOUN bilateral_discussions|NOUN here|ADV .|PUNCT
+Macron|ENT ,|PUNCT who|NOUN assumed|VERB office|NOUN on|ADP May_14|DATE ,|PUNCT welcomed|VERB Modi|ENT with|ADP a|DET warm_hug|NOUN at|ADP the_Elysee_Palace|ENT .|PUNCT "|PUNCT
+A|DET meeting|NOUN to|PART mark|VERB a|DET new_warmth|NOUN and|CCONJ friendship|NOUN .|PUNCT
+PM_@narendramodi|NOUN meets|VERB new_French_President_Emmanuel_Macron|ENT in|ADP Paris|ENT ,|PUNCT "|PUNCT External_Affairs_Ministry_spokesperson|NOUN Gopal_Baglay|ENT tweeted|VERB .|PUNCT
+With|ADP US_President_Donald_Trump|ENT announcing|VERB his|ADJ country|NOUN 's|PART withdrawal|NOUN from|ADP the_Paris_Agreement|ENT on|ADP climate_change|NOUN ,|PUNCT the|DET climate_issue|NOUN is|VERB likely|ADJ to|PART be|VERB a|DET major_area|NOUN of|ADP focus|NOUN in|ADP Saturday|DATE 's|PART talks|NOUN .|PUNCT
+While|ADP Macron|ENT has|VERB strongly|ADV criticised|VERB Trump|ENT 's|PART move|NOUN ,|PUNCT Modi|ENT said|VERB on|ADP Friday|DATE that|ADP India|ENT would|VERB continue|VERB to|PART work|VERB for|ADP environment_protection|NOUN "|PUNCT Paris|ENT or|CCONJ no|DET Paris|ENT "|PUNCT .|PUNCT
+France|ENT is|VERB also|ADV a|DET major_partner|NOUN of|ADP India|ENT in|ADP defence_cooperation|NOUN and|CCONJ the|DET ninth_largest_investment_partner|NOUN .|PUNCT
+Modi|PROPN arrived|VERB here|ADV on|ADP Friday_evening|TIME on|ADP the|DET final_leg|NOUN of|ADP his|ADJ six-day|DATE ,|PUNCT four|CARDINAL -|PUNCT nation_tour|NOUN of|ADP Europe|ENT .|PUNCT
+Prior|ADV to|ADP France|ENT ,|PUNCT he|PRON visited|VERB Germany|ENT ,|PUNCT Spain|ENT and|CCONJ Russia|ENT .|PUNCT
+--IANS|NUM ab|INTJ /|SYM bg|ADV (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

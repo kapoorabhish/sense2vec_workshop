@@ -1,0 +1,36 @@
+The|DET driver|NOUN of|ADP the|DET car|NOUN ,|PUNCT Richard_Rojas|ENT ,|PUNCT 26|DATE ,|PUNCT has|VERB been|VERB charged|VERB with|ADP murder|NOUN ,|PUNCT attempted|VERB murder|NOUN ,|PUNCT and|CCONJ aggravated|VERB vehicular_homicide|NOUN .|PUNCT
+He|PRON is|VERB in|ADP police_custody|NOUN .|PUNCT
+Advertisement|NOUN Continue|VERB reading|VERB the|DET main_story|NOUN __William_Aubry|ENT ,|PUNCT the|DET assistant_police_chief|NOUN in|ADP charge|NOUN of|ADP Manhattan_South_detective_squad|NOUN ,|PUNCT said|VERB Friday|DATE afternoon|TIME that|ADP Alyssa|ENT ’s|PUNCT 13-year|ADJ -|PUNCT old_sister|NOUN was|VERB being|VERB treated|VERB at|ADP NewYork-Presbyterian/Weill_Cornell_Medical_Center|PROPN for|ADP a|DET collapsed_lung|NOUN and|CCONJ broken|VERB pelvis|NOUN .|PUNCT “|PUNCT
+Our|ADJ heart|NOUN goes|VERB out|PART to|ADP Alyssa|ENT ,|PUNCT her|ADJ family|NOUN and|CCONJ all|ADJ those|DET that|ADJ were|VERB injured|VERB yesterday|DATE ,|PUNCT ”|PUNCT
+Chief_Aubry|ENT said|VERB .|PUNCT
+Photo|NOUN On|ADP Thursday_evening|DATE ,|PUNCT the|DET girls’_father|NOUN ,|PUNCT Thomas_Elsman|ENT ,|PUNCT posted|VERB on|ADP Facebook|ENT that|ADP Ava|ENT was|VERB out|ADP of|ADP surgery|NOUN and|CCONJ doing|VERB “|PUNCT ok|INTJ .|PUNCT ”|PUNCT
+He|PRON added|VERB ,|PUNCT “|PUNCT and|CCONJ yes|INTJ my|ADJ daughter|NOUN is|VERB gone|VERB and|CCONJ I|PRON love|VERB her|PRON so|ADV much|ADV .|PUNCT ”|PUNCT
+Advertisement|NOUN Continue|VERB reading|VERB the|DET main_story|NOUN Ava|ENT was|VERB one|CARDINAL of|ADP the|DET people|NOUN that|ADJ Alyssa|ENT was|VERB completely|ADV herself|PRON around|ADV .|PUNCT
+She|PRON is|VERB as|ADV exuberant|ADJ as|ADP Alyssa|ENT was|VERB quiet|ADJ ,|PUNCT said|VERB their|ADJ great-grandmother|NOUN ,|PUNCT Clara_May_Jablonski|ENT ,|PUNCT 83|DATE .|PUNCT
+“|PUNCT That|DET ’s|PROPN sisterhood|NOUN ,|PUNCT ”|PUNCT she|PRON said|VERB .|PUNCT
+“|PUNCT They|PRON were|VERB always|ADV close|ADJ knit|VERB .|PUNCT ”|PUNCT
+At|ADP home|NOUN in|ADP Michigan|ENT ,|PUNCT far|ADV from|ADP where|ADV her|ADJ great-grandchild|NOUN was|VERB killed|VERB ,|PUNCT Ms._Jablonski|ENT worried|VERB over|ADP how|ADV Ava|ENT would|VERB handle|VERB the|DET loss|NOUN of|ADP her|ADJ sibling|NOUN ,|PUNCT with|ADP whom|NOUN she|PRON shared|VERB the|DET same_long_brown_hair|NOUN and|CCONJ striking|VERB aqua-colored_eyes|NOUN .|PUNCT
+Advertisement|NOUN Continue|VERB reading|VERB the|DET main_story|NOUN “|PUNCT
+It|PRON makes|VERB you|PRON want|VERB to|PART stay|VERB home|ADV and|CCONJ hibernate|VERB ,|PUNCT ”|PUNCT
+Ms._Jablonski|ENT said|VERB .|PUNCT
+“|PUNCT Nothing|NOUN is|VERB safe|ADJ anymore|ADV ,|PUNCT I|PRON ’ve|VERB come|VERB to|ADP the|DET conclusion|NOUN .|PUNCT
+We|PRON ’ve|VERB had|VERB a|DET lot|NOUN of|ADP loss|NOUN in|ADP the|DET family|NOUN ,|PUNCT and|CCONJ to|PART have|VERB them|PRON go|VERB so|ADV young|ADJ is|VERB unreal|ADJ .|PUNCT ”|PUNCT
+Newsletter|PROPN Sign|VERB Up|PART Continue|VERB reading|VERB the|DET main_story|NOUN Please|INTJ verify|VERB you|PRON 're|VERB not|ADV a|DET robot|NOUN by|ADP clicking|VERB the|DET box|NOUN .|PUNCT
+Invalid_email_address|NOUN .|PUNCT
+Please|INTJ re|VERB -|PUNCT enter|VERB .|PUNCT
+You|PRON must|VERB select|VERB a|DET newsletter|NOUN to|PART subscribe|VERB to|ADP .|PUNCT
+Sign|VERB Up|PART Receive|VERB occasional_updates|NOUN and|CCONJ special_offers|NOUN for|ADP The_New_York_Times's|ENT products|NOUN and|CCONJ services|NOUN .|PUNCT
+Thank|VERB you|PRON for|ADP subscribing|VERB .|PUNCT
+An|DET error|NOUN has|VERB occurred|VERB .|PUNCT
+Please|INTJ try|VERB again|ADV later|ADV .|PUNCT
+View|VERB all|DET New_York_Times_newsletters|NOUN .|PUNCT
+On|ADP Friday_morning|DATE ,|PUNCT Ava|ENT sent|VERB her|ADJ friend|NOUN Grace_Zak|ENT a|DET message|NOUN via|ADP Snapchat|ENT ,|PUNCT saying|VERB she|PRON would|VERB be|VERB out|ADP of|ADP school|NOUN for|ADP the|DET rest|NOUN of|ADP the|DET year|NOUN ,|PUNCT said|VERB Grace’s_mother|NOUN ,|PUNCT Kathy|ENT .|PUNCT
+Advertisement|NOUN Continue|VERB reading|VERB the|DET main_story|NOUN Alyssa|ENT worked|VERB as|ADP a|DET carhop|NOUN at|ADP the_Sonic_Drive-In|ENT in|ADP town|NOUN ,|PUNCT according|VERB to|ADP her|ADJ Facebook_profile|NOUN .|PUNCT
+Her|ADJ great-grandmother|NOUN said|VERB that|ADP holding|VERB a|DET job|NOUN as|ADV well|ADV as|ADP getting|VERB an|DET education|NOUN was|VERB a|DET deeply_instilled_family_value|NOUN .|PUNCT
+Their|ADJ father|NOUN is|VERB the|DET owner|NOUN of|ADP Sporty’s_Bar|ENT and|CCONJ Grill|ENT ,|PUNCT in|ADP Paw_Paw|ENT ,|PUNCT Mich.|ENT They|PRON were|VERB on|ADP the|DET trip|NOUN to|ADP New_York|ENT with|ADP their|ADJ mother|NOUN ,|PUNCT Jyll_Elsman|ENT ,|PUNCT who|NOUN is|VERB studying|VERB to|PART be|VERB an|DET accountant|NOUN ,|PUNCT Ms._Zak|ENT said|VERB .|PUNCT
+In|ADP pictures|NOUN on|ADP Instagram|ENT ,|PUNCT Alyssa|ENT leans|VERB into|ADP the|DET arms|NOUN of|ADP her|ADJ boyfriend|NOUN ,|PUNCT Trevor_West|ENT .|PUNCT “|PUNCT
+She|PRON motivated|VERB me|PRON ,|PUNCT loved|VERB me|PRON ,|PUNCT gave|VERB me|PRON everything|NOUN I|PRON needed|VERB that|ADP I|PRON could|VERB n’t|ADV give|VERB myself|PRON ,|PUNCT ”|PUNCT
+Mr._West|ENT said|VERB in|ADP an|DET interview|NOUN with|ADP the_New_York_Post|ENT on|ADP the_day|DATE she|PRON was|VERB killed|VERB .|PUNCT “|PUNCT
+And|CCONJ now|ADV that|ADP she|PRON ’s|VERB gone|VERB ,|PUNCT I|PRON do|VERB n’t|ADV know|VERB how|ADV I|PRON ’m|VERB going|VERB to|PART fill|VERB that|DET void|NOUN ,|PUNCT ”|PUNCT he|PRON said|VERB .|PUNCT “|PUNCT
+My|ADJ son|NOUN loved|VERB this|DET girl|NOUN fiercely|ADV and|CCONJ she|PRON brought|VERB him|PRON joy|NOUN ,|PUNCT ”|PUNCT his|ADJ mother|NOUN ,|PUNCT Stacey_Vogl|ENT said|VERB in|ADP a|DET text_message|NOUN on|ADP Friday|DATE .|PUNCT “|PUNCT
+Her|ADJ life|NOUN was|VERB taken|VERB much|ADV too|ADV soon|ADV .|PUNCT ”|PUNCT

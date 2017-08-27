@@ -1,0 +1,21 @@
+The|DET BJP_legislator|NOUN from|ADP Panaji_constituency|NOUN ,|PUNCT Siddharth_Kuncalienkar|ENT ,|PUNCT today|DATE resigned|VERB from|ADP his|ADJ seat|NOUN ,|PUNCT paving|VERB the|DET way|NOUN for|ADP Chief_Minister|PROPN Manohar_Parrikar|ENT to|PART contest|VERB the|DET by|ADP -|PUNCT election|NOUN and|CCONJ enter|VERB the_Goa_Assembly|ENT .|PUNCT
+(|PUNCT Image|NOUN :|PUNCT The_Indian_Express|ENT )|PUNCT The|DET BJP|ENT legislator|NOUN from|ADP Panaji_constituency|NOUN ,|PUNCT Siddharth_Kuncalienkar|ENT ,|PUNCT today|DATE resigned|VERB from|ADP his|ADJ seat|NOUN ,|PUNCT paving|VERB the|DET way|NOUN for|ADP Chief_Minister|PROPN Manohar_Parrikar|ENT to|PART contest|VERB the|DET by|ADP -|PUNCT election|NOUN and|CCONJ enter|VERB the_Goa_Assembly|ENT .|PUNCT
+Kuncalienkar|ENT submitted|VERB his|ADJ resignation|NOUN to|ADP Assembly_Speaker_Pramod_Sawant|ENT in|ADP the|DET presence|NOUN of|ADP BJP’s_Goa_unit|NOUN chief|ADJ Vinay_Tendulkar|ENT .|PUNCT
+Tendulkar|ENT said|VERB the|DET party|NOUN has|VERB asked|VERB Kuncalienkar|ENT to|PART vacate|VERB the|DET seat|NOUN to|PART allow|VERB Parrikar|ENT to|PART contest|VERB from|ADP there|ADV .|PUNCT
+“|PUNCT It|PRON was|VERB the|DET party|NOUN ’s|NUM decision|NOUN that|ADJ Kuncalienkar|ENT should|VERB vacate|VERB his|ADJ seat|NOUN .|PUNCT
+The|DET decision|NOUN was|VERB convyed|VERB to|ADP him|PRON last|ADJ night|NOUN ,|PUNCT ”|PUNCT he|PRON said|VERB .|PUNCT
+“|PUNCT Parrikar|ENT had|VERB left|VERB it|PRON to|ADP the|DET party|NOUN to|PART decide|VERB from|ADP where|ADV he|PRON should|VERB be|VERB contesting|VERB ,|PUNCT ”|PUNCT he|PRON said|VERB .|PUNCT
+Parrikar|ENT took|VERB over|PART as|ADP chief_minister|NOUN in|ADP March|DATE after|ADP resigning|VERB as|ADP defence_minister|NOUN ,|PUNCT after|ADP the|DET BJP|ENT ,|PUNCT which|ADJ failed|VERB to|PART get|VERB a|DET majority|NOUN on|ADP its|ADJ own|ADJ ,|PUNCT succeeded|VERB in|ADP cobbling|VERB together|ADV a|DET coalition|NOUN with|ADP the|DET support|NOUN of|ADP regional_outfits|NOUN .|PUNCT
+He|PRON has|VERB to|PART get|VERB elected|VERB to|ADP the_Assembly|ENT within|ADP six_months|DATE for|ADP continuing|VERB as|ADP the|DET chief_minister|NOUN .|PUNCT
+The|DET Panaji_constituency|NOUN has|VERB been|VERB Parrikar’s_bastion|NOUN .|PUNCT
+He|PRON represented|VERB the|DET seat|NOUN from|ADP 1994|DATE till|ADP 2014|DATE ,|PUNCT before|ADP he|PRON moved|VERB to|ADP the|DET Centre|ENT as|ADP defence_minister|NOUN in|ADP the_Narendra_Modi|ENT cabinet|NOUN .|PUNCT
+Kuncalienkar|ENT ,|PUNCT who|NOUN was|VERB then|ADV attached|VERB to|ADP the|DET office|NOUN of|ADP Parrikar|ENT ,|PUNCT was|VERB given|VERB the|DET ticket|NOUN by|ADP the|DET BJP|ENT to|PART contest|VERB the|DET by|ADP -|PUNCT election|NOUN in|ADP the|DET constituency|NOUN ,|PUNCT left|VERB vacant|ADJ by|ADP Parrikar|ENT .|PUNCT
+He|PRON retained|VERB the|DET seat|NOUN in|ADP the_state_Assembly|ENT elections|NOUN held|VERB in|ADP February_this_year|DATE ,|PUNCT though|ADP his|ADJ winning|VERB margin|NOUN thinned|VERB .|PUNCT
+Kuncalienkar|ENT told|VERB reporters|NOUN that|ADP his|ADJ decision|NOUN to|PART resign|VERB was|VERB a|DET “|PUNCT
+small_sacrifice|NOUN considering|VERB the|DET big_sacrifice|NOUN made|VERB by|ADP Parrikar|ENT by|ADP resigning|VERB from|ADP the_Union_Cabinet|ENT to|PART lead|VERB the|DET government|NOUN in|ADP the|DET state|NOUN ”|PUNCT .|PUNCT “|PUNCT
+After|ADP the|DET Assembly_election_results|NOUN there|ADV was|VERB a|DET unanimous_decision|NOUN that|ADJ Manohar_Parrikar|ENT should|VERB lead|VERB the|DET government|NOUN .|PUNCT
+The|DET alliance_partners|NOUN too|ADV wanted|VERB the|DET government|NOUN to|PART be|VERB led|VERB by|ADP Parrikar|ENT ,|PUNCT ”|PUNCT he|PRON said|VERB .|PUNCT “|PUNCT
+Parrikar|PROPN left|VERB the|DET defence_ministry|NOUN in|ADP the_Central_Cabinet|ENT for|ADP the|DET sake|NOUN of|ADP Goa|ENT .|PUNCT
+The|DET kind|NOUN of|ADP sacrifice|NOUN that|ADJ Parrikar|ENT made|VERB is|VERB enormous|ADJ .|PUNCT
+My|ADJ sacrifice|NOUN is|VERB very|ADV small|ADJ as|ADP compared|VERB to|ADP his|PRON ,|PUNCT ”|PUNCT he|PRON said|VERB .|PUNCT
+Kuncalienkar|ENT and|CCONJ another|DET BJP_MLA_Nilesh_Cabral|ENT (|PUNCT Curchorem|PROPN )|PUNCT had|VERB earlier|ADJ volunteered|VERB to|PART vacate|VERB their|ADJ seats|NOUN for|ADP Parrikar|ENT .|PUNCT

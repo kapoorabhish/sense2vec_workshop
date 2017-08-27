@@ -1,0 +1,25 @@
+Teachers|NOUN have|VERB an|DET onerous_responsibility|NOUN of|ADP instilling|VERB in|ADP the|DET minds|NOUN of|ADP Students_Rich_Cultural_Ethos|ENT ,|PUNCT Tolerance_and_Innovation_for_the|ENT wellbeing|NOUN of|ADP Society|ENT ,|PUNCT The|DET President|PROPN of|ADP India|ENT ,|PUNCT Shri_Pranab_Mukherjee|ENT presented|VERB the_Malti_Gyan_Peeth_Puraskars|ENT for|ADP the_year_2017|DATE today|DATE (|PUNCT May_29,_2017|DATE )|PUNCT at|ADP a|DET function|NOUN held|VERB at|ADP Rashtrapati_Bhavan|ENT .|PUNCT
+Speaking|VERB on|ADP the|DET occasion|NOUN ,|PUNCT the|DET President|PROPN congratulated|VERB the|DET 15|CARDINAL distinguished_teachers|NOUN who|NOUN were|VERB bestowed|VERB with|ADP the|DET Malti_Gyan_Peeth_Puraskars|ENT .|PUNCT
+The|DET President|PROPN said|VERB that|ADP he|PRON was|VERB delighted|ADJ to|PART confer|VERB the|DET award|NOUN instituted|VERB in|ADP the|DET name|NOUN of|ADP Smt|ENT .|PUNCT
+Malti_Mohinder_Singh_Syngle|ENT ,|PUNCT an|DET eminent|NOUN educationist|NOUN and|CCONJ crusader|NOUN for|ADP promoting|VERB education|NOUN for|ADP girls|NOUN whose|ADJ 96th_birthday|NOUN was|VERB today|DATE .|PUNCT
+He|PRON also|ADV complimented|VERB Shri_Manoj_Singhal,|ENT President|PROPN of|ADP Mohinder_Singh_Syngle_Education_&_Research_Society|ENT for|ADP his|ADJ commitment|NOUN to|ADP the|DET cause|NOUN of|ADP promoting|VERB education|NOUN and|CCONJ for|ADP instituting|VERB this|DET award|NOUN .|PUNCT
+The|DET President|PROPN said|VERB that|ADP development|NOUN ,|PUNCT to|ADP his|ADJ mind|NOUN ,|PUNCT is|VERB not|ADV merely|ADV the|DET installation|NOUN of|ADP more_industrial_units|NOUN ;|PUNCT construction|NOUN of|ADP high_rise_buildings|NOUN ;|PUNCT dams|NOUN ;|PUNCT roads|NOUN etc|X .|PUNCT
+The|DET connotation|NOUN of|ADP development|NOUN incorporates|VERB culmination|NOUN of|ADP peoples_adherence|NOUN to|ADP values|NOUN and|CCONJ their|ADJ faithfulness|NOUN to|ADP their|ADJ spiritual_and_cultural_heritage|NOUN .|PUNCT
+A|DET holistic_education_system|NOUN enables|VERB us|PRON to|PART put|VERB values|NOUN at|ADP the|DET forefront|NOUN of|ADP the|DET educational_enterprise|NOUN in|ADP schools|NOUN and|CCONJ colleges|NOUN .|PUNCT
+Such|ADJ a|DET system|NOUN is|VERB conducive|ADJ to|ADP the|DET ideal_development|NOUN of|ADP society|NOUN .|PUNCT
+He|PRON saw|VERB a|DET pivotal_role|NOUN for|ADP teachers|NOUN in|ADP this|DET endeavour|NOUN .|PUNCT
+The|DET teachers|NOUN share|VERB an|DET onerous_responsibility|NOUN of|ADP instilling|VERB in|ADP the|DET minds|NOUN of|ADP students|NOUN ,|PUNCT rich_cultural_ethos|NOUN ,|PUNCT ____The_President|ENT said|VERB that|ADP the|DET teachers|NOUN who|NOUN have|VERB been|VERB awarded|VERB today|DATE represent|VERB the|DET dedicated_teachers|NOUN of|ADP our|ADJ nation|NOUN .|PUNCT
+They|PRON are|VERB the|DET ones|NOUN who|NOUN are|VERB educating|VERB and|CCONJ extending|VERB learning|VERB opportunities|NOUN to|ADP students|NOUN .|PUNCT
+From|ADP the|DET Vedic_era|NOUN to|ADP modern_times|NOUN ,|PUNCT we|PRON have|VERB had|VERB gurus|NOUN who|NOUN nourished|VERB the|DET minds|NOUN and|CCONJ intellect|NOUN of|ADP our|ADJ people|NOUN .|PUNCT
+Such_teachers|NOUN are|VERB there|ADV even|ADV today|DATE .|PUNCT
+He|PRON said|VERB that|ADP he|PRON calls|VERB them|PRON inspired|VERB teachers|NOUN .|PUNCT
+They|PRON encourage|VERB students|NOUN to|PART be|VERB inquisitive|ADJ about|ADP extant_knowledge|NOUN .|PUNCT
+They|PRON prompt|VERB them|PRON to|PART question|VERB the|DET established_facts|NOUN in|ADP their|ADJ disciplines|NOUN .|PUNCT
+They|PRON do|VERB not|ADV seek|VERB only_answers|NOUN from|ADP students|NOUN ;|PUNCT rather|ADV they|PRON want|VERB students|NOUN to|PART raise|VERB questions|NOUN .|PUNCT
+Inspired|VERB teachers|NOUN themselves|PRON have|VERB deep_knowledge|NOUN of|ADP their|ADJ subject_areas|NOUN .|PUNCT
+They|PRON are|VERB able|ADJ to|PART assist|VERB students|NOUN in|ADP understanding|NOUN and|CCONJ appreciating|VERB the|DET subject|NOUN from|ADP different_perspectives|NOUN ,|PUNCT and|CCONJ in|ADP fact|NOUN ,|PUNCT help|VERB them|PRON in|ADP constructing|VERB the|DET frontiers|NOUN of|ADP knowledge|NOUN .|PUNCT
+The|DET competent_and_motivated_pool|NOUN of|ADP teachers|NOUN ,|PUNCT through|ADP their|ADJ collective_efforts|NOUN ,|PUNCT can|VERB create|VERB a|DET society|NOUN full|ADJ of|ADP strong_minds|NOUN and|CCONJ courageous_hearts|NOUN ,|PUNCT and|CCONJ through|ADP them|PRON alter|VERB the|DET history|NOUN of|ADP a|DET nation|NOUN .|PUNCT
+Education|NOUN is|VERB the|DET true_alchemy|NOUN that|ADJ can|VERB bring|VERB India|ENT to|ADP its|ADJ next_golden_age|NOUN .|PUNCT
+Among|ADP the|DET dignitaries|NOUN present|ADJ on|ADP the|DET occasion|NOUN were|VERB Smt|ENT .|PUNCT
+Maneka_Sanjay_Gandhi|ENT ,|PUNCT Union_Minister_of_Women_and_Child_Development|ENT ;|PUNCT Shri_Prakash_Jawdekar|ENT ,|PUNCT Union_Minister_of_Human_Resource|ENT and|CCONJ Development|PROPN ;|PUNCT Dr.|PROPN K._K._Paul|ENT ,|PUNCT Governor|PROPN of|ADP Uttarakhand|ENT and|CCONJ Smt|ENT .|PUNCT
+Aruna_Chaudhary|ENT ,|PUNCT Education|PROPN Minister|PROPN ,|PUNCT Govt|ENT .|PUNCT of|ADP Punjab|ENT .|PUNCT

@@ -1,0 +1,63 @@
+1|CARDINAL .|PUNCT The|DET next_big_thing|NOUN As|ADP activities|NOUN like|ADP yoga|NOUN and|CCONJ meditation|NOUN gain|VERB popularity|NOUN —|PUNCT partially|ADV as|ADP a|DET reaction|NOUN to|ADP our|ADJ aggressive_love_affair|NOUN with|ADP our|ADJ connected_devices|NOUN —|PUNCT
+we’re|NOUN constantly|ADV being|VERB reminded|VERB to|PART live|VERB in|ADP the|DET moment|NOUN .|PUNCT
+But|CCONJ is|VERB that|DET really|ADV what|NOUN we|PRON ’re|VERB designed|VERB to|PART do|VERB ?|PUNCT
+In|ADP the_NYT_Sunday|DATE Review|PROPN ,|PUNCT Martin_E._P._Seligman|ENT and|CCONJ John_Tierney|ENT explain|VERB that|ADP what|NOUN separates|VERB us|PRON from|ADP other_animals|NOUN is|VERB that|ADP we|PRON contemplate|VERB the|DET future|NOUN .|PUNCT
+Ultimately|ADV ,|PUNCT the|DET next_big_thing|NOUN is|VERB whatever|ADJ ’s|PROPN next|ADJ .|PUNCT “|PUNCT
+Our|ADJ singular_foresight|NOUN created|VERB civilization|NOUN and|CCONJ sustains|VERB society|NOUN .|PUNCT
+It|PRON usually|ADV lifts|VERB our|ADJ spirits|NOUN ,|PUNCT but|CCONJ it|PRON ’s|X also_the_source|NOUN of|ADP most_depression|NOUN and|CCONJ anxiety|NOUN ,|PUNCT whether|ADP we|PRON ’re|VERB evaluating|VERB our|ADJ own_lives|NOUN or|CCONJ worrying|VERB about|ADP the|DET nation|NOUN .|PUNCT
+Other_animals|NOUN have|VERB springtime_rituals|NOUN for|ADP educating|VERB the|DET young|ADJ ,|PUNCT but|CCONJ only|ADV we|PRON subject|VERB them|PRON to|ADP ‘|PUNCT
+commencement’_speeches|NOUN grandly|ADV informing|VERB them|PRON that|DET today|DATE is|VERB the|DET first_day|NOUN of|ADP the|DET rest|NOUN of|ADP their|ADJ lives|NOUN .|PUNCT ”|PUNCT
+In|ADP other_words|NOUN ,|PUNCT We|PRON Are|VERB n’t|ADV Built|VERB to|ADP Live|ENT in|ADP the|DET Moment|PROPN .|PUNCT
+Of|ADV course|ADV ,|PUNCT the|DET obvious_problem|NOUN is|VERB that|ADP if|ADP you|PRON look|VERB too|ADV far|ADV into|ADP the|DET future|NOUN ,|PUNCT you|PRON see|VERB how|ADV your|ADJ story|NOUN ends|VERB .|PUNCT
+So|ADV let|VERB ’s|PART leave|VERB it|PRON at|ADP this|DET :|PUNCT Have|VERB a|DET good_weekend|NOUN .|PUNCT
+3|CARDINAL .|PUNCT Weekend|VERB what|NOUN s|VERB What|NOUN to|ADP Doc|VERB :|PUNCT I|PRON ’ve|VERB been|VERB waiting|VERB all_week|DATE to|PART share|VERB this|DET documentary|NOUN with|ADP you|PRON .|PUNCT
+Trust|VERB me|PRON ,|PUNCT if|ADP you|PRON really|ADV want|VERB to|PART understand|VERB how|ADV we|PRON got|VERB here|ADV and|CCONJ what|NOUN the|DET hell|NOUN has|VERB been|VERB going|VERB on|PART in|ADP DC|ENT ,|PUNCT then|ADV stop|VERB everything|NOUN and|CCONJ watch|VERB Get_Me_Roger_Stone|ENT .|PUNCT
+You|PRON think|VERB you|PRON do|VERB n’t|ADV want|VERB to|PART spend|VERB any|DET more_time|NOUN on|ADP politics|NOUN ,|PUNCT but|CCONJ you|PRON wo|VERB n’t|ADV be|VERB able|ADJ to|PART turn|VERB this|DET off|PART .|PUNCT
+And|CCONJ that|ADP ’s|ADJ part|NOUN of|ADP the|DET point|NOUN .|PUNCT
++|X What|NOUN to|PART Watch|VERB :|PUNCT These|DET are|VERB the|DET girls|NOUN running|VERB as|ADV fast|ADV as|ADP they|PRON can|VERB to|PART be|VERB Jamaica|ENT ’s|NUM new_sprint_champions|NOUN in|ADP a|DET country|NOUN obsessed|VERB with|ADP its|ADJ athletes|NOUN .|PUNCT
+From|ADP The|DET Guardian|ENT :|PUNCT
+The_Sprinter_Factory|ENT .|PUNCT +|CCONJ
+What|NOUN to|PART Read|VERB :|PUNCT “|PUNCT
+Privately|ADV ,|PUNCT some|DET employees|NOUN expressed|VERB optimism|NOUN ,|PUNCT conceding|VERB that|ADP Etsy|ENT ’s|NUM budgets|NOUN had|VERB indeed|ADV been|VERB rather|ADV generous|ADJ ,|PUNCT but|CCONJ publicly|ADV the|DET mood|NOUN among|ADP the|DET staff|NOUN was|VERB funereal|NOUN .|PUNCT
+‘|PUNCT I|PRON ’m|VERB not|ADV crying,’|ADJ wrote|VERB Katherine_Daniels|ENT ,|PUNCT a|DET senior|ADJ engineer|NOUN .|PUNCT
+‘|PUNCT I|PRON ’m|VERB just|ADV allergic|ADJ to|ADP capitalism|NOUN .|PUNCT ”|PUNCT
+Bloomberg|ENT with|ADP an|DET interesting_and_entertaining_look|NOUN at|ADP the|DET intersection|NOUN of|ADP a|DET B_Corp|ENT ,|PUNCT Brooklyn|ENT ,|PUNCT and|CCONJ the|DET Bottom_line|NOUN :|PUNCT The|DET Barbarians|PROPN Are|VERB at|ADP Etsy’s_Hand-Hewn|ENT ,|PUNCT Responsibly|ADV Sourced_Gates|ENT .|PUNCT 4|CARDINAL .|PUNCT Updating|ENT the|DET Julian_calendar|NOUN “|PUNCT
+Today|DATE is|VERB an|DET important_victory|NOUN for|ADP me|PRON and|CCONJ the|DET UN_human_rights_system|NOUN ,|PUNCT but|CCONJ by|ADP no|DET means|NOUN erases_seven_years|DATE of|ADP detention|NOUN without|ADP charge|NOUN …|PUNCT while|ADP my|ADJ children|NOUN grew|VERB up|PART .|PUNCT
+That|DET is|VERB not|ADV something|NOUN I|PRON can|VERB forgive|VERB or|CCONJ forget|VERB .|PUNCT
+”|PUNCT That|DET was|VERB Julian_Assange|ENT on|ADP the|DET decision|NOUN by|ADP Swedish_authorities|NOUN to|PART drop|VERB its|ADJ rape_investigation|NOUN .|PUNCT
+Does|VERB that|DET mean|ADJ Assange|ENT can|VERB finally|ADV leave|VERB the|DET Ecuadorian_embassy|NOUN in|ADP London|ENT ?|PUNCT
+Not|ADV exactly|ADV .|PUNCT
+He|PRON still|ADV faces|VERB other_charges|NOUN ,|PUNCT and|CCONJ the|DET rape_investigation|NOUN can|VERB be|VERB reopened|VERB .|PUNCT
+Here|ADV ’s|VERB a|DET quick_Q&A|NOUN on|ADP what|NOUN happens|VERB next|ADJ .|PUNCT 5|CARDINAL .|PUNCT
+Turkish_wrath|NOUN
+The|DET US_visit|NOUN by|ADP Turkish_President_Recep_Tayyip_Erdogan|ENT was|VERB largely|ADV overshadowed|VERB by|ADP the|DET appointment|NOUN of|ADP a|DET special_counsel|NOUN in|ADP the|DET Trump/Russia_investigation|NOUN .|PUNCT
+But|CCONJ one|CARDINAL incident|NOUN is|VERB still|ADV making|VERB news|NOUN .|PUNCT
+Eleven|CARDINAL people|NOUN were|VERB injured|VERB during|ADP a|DET protest|NOUN outside|ADP the|DET Turkish_ambassador’s_residence|NOUN .|PUNCT
+A|DET video|NOUN surfaced|VERB that|DET makes|VERB it|PRON look|VERB like|ADP Erdogan’s_people|NOUN were|VERB involved|VERB ,|PUNCT which|ADJ led|VERB to|ADP this|DET from|ADP John_McCain|ENT :|PUNCT “|PUNCT
+We|PRON should|VERB throw|VERB their|ADJ ambassador|NOUN the|DET hell|NOUN out|ADP of|ADP the_United_States_of_America|ENT …|PUNCT
+This|DET kind|NOUN of|ADP thing|NOUN can|VERB not|ADV go|VERB un|ADV -|PUNCT responded|VERB to|PART diplomatically|ADV .|PUNCT ”|PUNCT +|CCONJ
+WaPo|CARDINAL :|PUNCT Was|VERB Erdogan|PROPN personally|ADV involved|VERB in|ADP his|ADJ bodyguards’_attacks|NOUN on|ADP protesters|NOUN in|ADP DC|ENT ?|PUNCT 6|CARDINAL .|PUNCT
+Danger_management|NOUN “|PUNCT
+I|PRON have|VERB a|DET sickness|NOUN ,|PUNCT but|CCONJ I|PRON do|VERB not|ADV have|VERB an|DET excuse|NOUN .|PUNCT
+I|PRON apologize|VERB to|ADP everyone|NOUN I|PRON have|VERB hurt|VERB .|PUNCT
+I|PRON apologize|VERB to|ADP the|DET teenage_girl|NOUN ,|PUNCT whom|NOUN I|PRON mistreated|VERB so|ADV badly|ADV .|PUNCT ”|PUNCT
+Anthony_Weiner|ENT has|VERB suffered|VERB his|ADJ share|NOUN of|ADP public_humiliations|NOUN ,|PUNCT but|CCONJ today|DATE likely|ADV marked|VERB a|DET new|ADJ low|ADJ as|ADP he|PRON plead|VERB guilty|ADJ in|ADP his|ADJ sexting_case|NOUN .|PUNCT
+He|PRON could|VERB face|VERB a_couple_years|DATE in|ADP prison|NOUN .|PUNCT
+7|CARDINAL .|PUNCT
+Trail_blazers|NOUN The|DET first_mountain_bike|NOUN was|VERB built|VERB to|PART ride|VERB on|ADP Mount_Tamalpais|ENT in|ADP my|ADJ hometown|NOUN in|ADP Marin_County|ENT .|PUNCT
+You|PRON ’ve|VERB got|VERB to|PART cover|VERB a|DET lot|NOUN of|ADP trail|NOUN to|PART get|VERB from|ADP our|ADJ land|NOUN of|ADP peacock_feathers|NOUN and|CCONJ hot_tubs|NOUN to|ADP the|DET challenges|NOUN facing|VERB hallowed_out_mining_communities|NOUN in|ADP small_towns|NOUN .|PUNCT
+But|CCONJ apparently|ADV ,|PUNCT the|DET trek|NOUN has|VERB been|VERB made|VERB .|PUNCT
+From|ADP Outside|ADV :|PUNCT “|PUNCT
+Fifteen|CARDINAL new_businesses|NOUN have|VERB opened|VERB in|ADP Crosby|ENT since|ADP 2011|DATE ,|PUNCT and|CCONJ the|DET only_thing|NOUN that|ADJ ’s|ADV changed|VERB ,|PUNCT Hautala|ENT says|VERB ,|PUNCT is|VERB the|DET singletrack|NOUN that|ADJ now|ADV winds|VERB through|ADP the|DET woods|NOUN outside_town|NOUN …_Crosby|ENT is|VERB not|ADV alone|ADJ .|PUNCT
+All|DET across|ADP the|DET county|NOUN ,|PUNCT single-resource_towns|NOUN are|VERB building|VERB trails|NOUN where|ADV they|PRON once|ADV harvested|VERB timber|NOUN or|CCONJ mined|VERB ore|NOUN to|PART attract|VERB a|DET new_source|NOUN of|ADP revenue|NOUN —|PUNCT mountain|NOUN bikers|NOUN .|PUNCT ”|PUNCT
+8|CARDINAL .|PUNCT
+Live|VERB pre|NOUN or|CCONJ die|VERB During|ADP the|DET health_care_debate|NOUN ,|PUNCT we|PRON ’ve|VERB been|VERB hearing|VERB a|DET lot|NOUN about|ADP the|DET issue|NOUN of|ADP pre-existing_conditions|NOUN .|PUNCT
+That|DET ’s|NOUN a|DET critical|ADJ point|NOUN of|ADP contention|NOUN now|ADV .|PUNCT
+But|CCONJ it|PRON will|VERB be|VERB even|ADV more|ADJ of|ADP one|CARDINAL in|ADP the|DET future|NOUN .|PUNCT
+Why|ADV ?|PUNCT
+Slate|ENT explains|VERB :|PUNCT Thanks|NOUN to|ADP Genetic_Testing|ENT ,|PUNCT
+Everyone|NOUN Could|VERB Soon|ADV Have|VERB a|DET Pre-Existing_Condition|PROPN .|PUNCT
+9|CARDINAL .|PUNCT
+Skull_bucks|NOUN “|PUNCT I|PRON remember|VERB astounding|VERB the|DET art_world|NOUN back|ADV in|ADP 1980s|DATE when|ADV I|PRON set|VERB an|DET auction_record|NOUN for|ADP Basquiat_at_$|MONEY 99,000|MONEY .|PUNCT ”|PUNCT
+Well|INTJ ,|PUNCT there|ADV ’s|VERB been|VERB some|DET inflation|NOUN since|ADP then|ADV .|PUNCT
+“|PUNCT Jean-Michel_Basquiat’s_painting|NOUN of|ADP a|DET skull|NOUN sold|VERB for|ADP $110.5_million|MONEY at|ADP Sotheby’s|ENT in|ADP New_York|ENT ,|PUNCT setting|VERB an|DET auction_record|NOUN for|ADP American_artists|NOUN and|CCONJ providing|VERB a|DET windfall|NOUN for|ADP the|DET daughter|NOUN of|ADP two|CARDINAL collectors|NOUN who|NOUN purchased|VERB it|PRON for|ADP $|SYM 19,000|MONEY in|ADP 1984|DATE .|PUNCT ”|PUNCT

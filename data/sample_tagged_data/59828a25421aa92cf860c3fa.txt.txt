@@ -1,0 +1,5 @@
+Once|ADV registered|VERB ,|PUNCT you|PRON can|VERB :|PUNCT -|PUNCT Read|PROPN additional_free_articles|NOUN each|DET month|NOUN -|PUNCT Comment|NOUN on|ADP articles|NOUN and|CCONJ featured|VERB creative|ADJ work|NOUN -|PUNCT Get|VERB our|ADJ curated_newsletters|NOUN delivered|VERB to|ADP your|ADJ inbox|NOUN Register|NOUN
+Now|ADV By|ADP registering|VERB you|PRON agree|VERB to|ADP our|ADJ privacy_policy|NOUN ,|PUNCT terms|NOUN &|CCONJ conditions|NOUN and|CCONJ to|PART receive|VERB occasional_emails|NOUN from|ADP Ad_Age|ENT .|PUNCT
+You|PRON may|VERB unsubscribe|VERB at|ADP any|DET time|NOUN .|PUNCT
+Are|VERB you|PRON a|DET print_subscriber|NOUN ?|PUNCT
+Activate|VERB your|ADJ account|NOUN .|PUNCT

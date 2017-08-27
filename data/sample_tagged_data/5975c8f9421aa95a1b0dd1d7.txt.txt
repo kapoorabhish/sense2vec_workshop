@@ -1,0 +1,6 @@
+Two|CARDINAL Indians|ENT killed|VERB in|ADP Nepal_accident|NOUN IANS|PRON ||ADV Two_Indians|ENT were|VERB killed|VERB after|ADP a|DET tractor-trolley|NOUN they|PRON were|VERB travelling|VERB in|ADP overturned|VERB in|ADP Nepal|ENT 's|PART Parsa_district|ENT ,|PUNCT police|NOUN said|VERB .|PUNCT
+The|DET deceased|ADJ were|VERB identified|VERB as|ADP Mahendra_Paswan|ENT ,|PUNCT 50|DATE ,|PUNCT and|CCONJ Puja_Kumari|ENT ,|PUNCT 9,|ENT of|ADP Champaran_district|NOUN in|ADP Bihar|ENT ,|PUNCT the_Himalayan_Times|ENT reported|VERB on|ADP Monday|DATE .|PUNCT
+The|DET vehicle|NOUN with|ADP 25|CARDINAL persons|NOUN overturned|VERB on|ADP Sunday_night|TIME .|PUNCT
+Nine|CARDINAL persons|NOUN were|VERB injured|VERB in|ADP the|DET accident|NOUN ,|PUNCT said|VERB Deputy_Superintendent|PROPN of|ADP Police|PROPN Chakra|PROPN Bahadur|PROPN Joshi|PROPN .|PUNCT
+The|DET passengers|NOUN were|VERB travelling|VERB to|ADP the|DET Dudheshwar_Mahadev_Temple|ENT in|ADP Parsa_district|ENT .|PUNCT
+--IANS|NOUN soni|NOUN /|SYM mr|NOUN

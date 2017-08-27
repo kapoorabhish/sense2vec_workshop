@@ -1,0 +1,25 @@
+The UIDAI has recently filed an FIR in Bengaluru against an individual for allegedly offering "unauthorised" Aadhaar-related services via an app but the case does not involve breach of privacy or hacking of authority's own database, CEO Ajay Bhushan Pandey said.
+
+The said app - against which action was initiated by the Unique Identification Authority of India or UIDAI - was providing Aadhaar verification to residents based on their consent, although it was not authorised to do so, Pandey said.
+
+The chief of the Aadhaar-issuing body said UIDAI's enquiry revealed that the app was being used by residents to download their own demographic data after they gave a consent through an OTP received on their mobiles, linked to the 12 digit biometric identity number.
+
+Government Forms Panel to Suggest Data Protection Framework Amid Aadhaar Concerns
+
+"In other words, residents were downloading their own demographic data such as name, address, gender etc. through this app...no one could get data of any other person through this app," Pandey said in an emailed statement.
+
+Stating that Aadhaar data "remains fully safe and secure", Pandey refuted reports that there had been any leak and unauthorised access of Aadhaar data through the app.
+
+"The UIDAI has carefully gone into the matter and would like to inform and reassure public that there is no breach of any Aadhaar data and compromise of individual's privacy and security in this case," he said.
+
+Although the residents were downloading their own demographic data, action was initiated by the authority against the owner of the app as it was "not authorised" to provide such services to people in the first place.
+
+mAadhaar App Review: The New UIDAI App Is a Work in Progress
+
+"Such acts are criminal offence, and punishable under Aadhaar Act. It is further reiterated that data of not even a single non-consenting resident has been given by UIDAI through this app," he said.
+
+Pandey told PTI that an FIR has been filed in Bengaluru recently against the owner of the "unauthorised" app.
+
+UIDAI has also asked users not to disclose their Aadhaar number to any unknown websites, apps, or over phone.
+
+"Residents should share or provide their Aadhaar numbers only to official government sites, authorised agencies, banks, and telecom companies and other service providers after doing due-diligence and verifying the authenticity of such sites," Pandey added.

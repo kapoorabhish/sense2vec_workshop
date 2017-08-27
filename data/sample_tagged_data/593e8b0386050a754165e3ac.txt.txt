@@ -1,0 +1,3 @@
+On|ADP private_placement_basis|NOUN Company|PROPN has|VERB allotted|VERB 5500|DATE Secured|VERB Redeemable_Rated_Listed|PROPN Non-Convertible_Debenture|NOUN of|ADP face_value|NOUN of|ADP Rs.10,00,000/-_(Rupees|MONEY Ten|NUM Lakh|PROPN only|ADV )|PUNCT each|DET ,|PUNCT aggregating|VERB to|ADP Rs|DATE .|PUNCT
+550|CARDINAL crore|NOUN on|ADP private_placement_basis|NOUN .|PUNCT
+Powered|VERB by|ADP Capital_Market_-_Live_News|ENT (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

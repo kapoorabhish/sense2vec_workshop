@@ -1,0 +1,3 @@
+Add|VERB a|DET location|NOUN to|ADP your|ADJ Tweets__When|ENT you|PRON tweet|VERB with|ADP a|DET location|NOUN ,|PUNCT Twitter|ENT stores|NOUN that|ADP location|NOUN .|PUNCT
+You|PRON can|VERB switch|VERB location|NOUN on|ADP /|SYM off|ADP before|ADP each|DET Tweet|ENT and|CCONJ always|ADV have|VERB the|DET option|NOUN to|PART delete|VERB your|ADJ location_history|NOUN .|PUNCT
+Learn|VERB more|ADJ

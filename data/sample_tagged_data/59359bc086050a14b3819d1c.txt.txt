@@ -1,0 +1,10 @@
+Apple|ENT and|CCONJ Amazon|ENT ,|PUNCT which|ADJ have|VERB seen|VERB a|DET rivalry|NOUN emerge|VERB in|ADP areas|NOUN like|ADP digital_video_and_voice-activated_devices|NOUN ,|PUNCT appear|VERB to|PART be|VERB reaching|VERB something|NOUN of|ADP a|DET detente|NOUN .|PUNCT
+At|ADP Apple’s_Worldwide_Developers_Conference|ENT ,|PUNCT Apple|ENT said|VERB that|ADP Amazon’s_Prime_app|NOUN would|VERB be|VERB coming|VERB to|ADP the_Apple_TV|ENT app_store|NOUN .|PUNCT “|PUNCT
+As|ADP you|PRON know|VERB ,|PUNCT Amazon_Prime_Video|ENT provides|VERB a|DET wealth|NOUN of|ADP great|ADJ content|NOUN ,|PUNCT ”|PUNCT said|VERB Apple_CEO_Tim_Cook|ENT .|PUNCT
+“|PUNCT We|PRON are|VERB so|ADV pleased|ADJ to|PART welcome|VERB Amazon|ENT to|ADP Apple_TV|ENT .|PUNCT
+”|PUNCT The_Prime_Video|ENT app|NOUN ,|PUNCT which|ADJ allows|VERB Amazon’s_Prime_subscribers|NOUN to|PART watch|VERB movies|NOUN and|CCONJ TV|NOUN on|ADP the|DET iPhone|PROPN and|CCONJ iPad|ENT ,|PUNCT will|VERB be|VERB available|ADJ later_this_year|DATE .|PUNCT
+Until|ADP now|ADV ,|PUNCT Amazon|ENT has|VERB withheld|VERB its|ADJ video_app|NOUN from|ADP the_Apple_TV|ENT store|NOUN .|PUNCT
+In|ADP October_2015|DATE ,|PUNCT Amazon|ENT also|ADV banned|VERB Apple_TV|ENT and|CCONJ Google’s_Chromecast|ENT from|ADP the|DET world|NOUN ’s|ADV largest|ADJ ecommerce|NOUN outlet|NOUN .|PUNCT
+Amazon|ENT claimed|VERB those|DET devices|NOUN caused|VERB “|PUNCT
+customer_confusion|NOUN ,|PUNCT ”|PUNCT suggesting|VERB that|ADP it|PRON wanted|VERB to|PART help|VERB sales|NOUN of|ADP its|ADJ Fire_TV|ENT and|CCONJ preserve|VERB its_ecosystem|NOUN of|ADP Prime_services|NOUN .|PUNCT
+Other_video_players|NOUN ,|PUNCT such|ADJ as|ADP Roku|ENT and|CCONJ Xbox|ENT ,|PUNCT remained|VERB available|ADJ for|ADP sale|NOUN on|ADP Amazon|ENT .|PUNCT

@@ -1,0 +1,8 @@
+says|VERB its|ADJ economy|NOUN ,|PUNCT one|CARDINAL of|ADP Africa|ENT 's|PART biggest|ADJ ,|PUNCT is|VERB in|ADP recession|NOUN .|PUNCT
+The|DET government|NOUN 's|PART statistics_agency|NOUN said|VERB today|DATE that|ADP a|DET 0.7_per|MONEY cent_decline|NOUN in|ADP in|ADP the_first_quarter_of_this_year|DATE followed|VERB a|DET 0.3_per|MONEY cent_contraction|NOUN in|ADP the_last_quarter_of_2016|DATE .|PUNCT
+That|DET meets|VERB the|DET definition|NOUN of|ADP a|DET recession|NOUN as|ADP two|CARDINAL or|CCONJ more|ADJ quarters|DATE of|ADP negative_growth|NOUN .|PUNCT
+Statistics|PROPN says|VERB trade|NOUN fell|VERB by|ADP 5.9_per|MONEY cent|NOUN and|CCONJ manufacturing|NOUN declined|VERB by|ADP 3.7_per_cent|PERCENT in|ADP the_first_quarter_of_2017|DATE ,|PUNCT while|ADP agriculture|NOUN and|CCONJ mining|NOUN posted|VERB growth|NOUN .|PUNCT
+South_Africa's|ENT unemployment|NOUN is|VERB 27.7_per|MONEY cent|NOUN ,|PUNCT according|VERB to|ADP official_figures|NOUN .|PUNCT
+Scandals|NOUN surrounding|VERB President_Jacob_Zuma|ENT have|VERB had|VERB financial_fallout|NOUN .|PUNCT
+This_year|DATE ,|PUNCT Fitch|ENT and|CCONJ Standard_&_Poor's|ENT lowered|VERB South_Africa's|ENT credit_rating|NOUN to|ADP below|ADJ investment_grade|NOUN after|ADP Zuma|ENT fired|VERB a|DET widely_respected_minister|NOUN .|PUNCT
+(|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

@@ -1,0 +1,9 @@
+Yogi_Adityanath|ENT entered|VERB his|ADJ official_residence|NOUN today|DATE .|PUNCT
+(|PUNCT PTI|PROPN file|NOUN )|PUNCT __Uttar_Pradesh_Chief_Minister|ENT Yogi_Adityanath|ENT today|DATE shared|VERB the|DET benefits|NOUN of|ADP Yoga|ENT while|ADP speaking|VERB during|ADP a|DET ‘|PUNCT
+Yoga_Mahotsav’|PROPN in|ADP Lucknow|ENT and|CCONJ also|ADV shared|VERB how|ADV he|PRON was|VERB suddenly|ADV asked|VERB to|PART run|VERB the|DET state|NOUN by|ADP the|DET top_BJP_leadership|NOUN .|PUNCT
+During|ADP the|DET speech|NOUN ,|PUNCT Yogi|ENT shared|VERB the|DET similarities|NOUN between|ADP Surya_Namaskar|ENT practised|VERB by|ADP Hindus|ENT and|CCONJ Namaz|ENT done|VERB by|ADP the|DET Muslims|ENT .|PUNCT “|PUNCT
+All|DET asanas|NOUN (|PUNCT postures|NOUN )|PUNCT in|ADP Suryanamaskar|ENT ,|PUNCT pranayama_activities|NOUN are|VERB similar|ADJ with|ADP the|DET Namaz|ENT done|VERB by|ADP our|ADJ Muslim_brothers|NOUN .|PUNCT
+But|CCONJ nobody|NOUN ever|ADV tried|VERB to|PART bring|VERB them|PRON together|ADV because|ADP few_people|NOUN were|VERB interested|ADJ only|ADV in|ADP ‘|PUNCT
+bhoga’|NOUN ,|PUNCT not|ADV yoga|NOUN .|PUNCT
+”|PUNCT Yogi|ENT shared|VERB that|ADP at|ADP the|DET time|NOUN BJP_president|NOUN Amit_Shah|ENT told|VERB him|PRON that|ADP he|PRON would|VERB have|VERB to|PART go|VERB to|ADP Uttar_Pradesh|ENT ,|PUNCT he|PRON had|VERB only_a_pair|NOUN of|ADP clothes|NOUN with|ADP him|PRON .|PUNCT
+(|PUNCT To|PART be|VERB updated|VERB )|PUNCT

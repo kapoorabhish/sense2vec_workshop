@@ -1,0 +1,18 @@
+May_29|DATE (|PUNCT UPI|ENT )|PUNCT --|PUNCT
+President_Donald_Trump|ENT condemned|VERB Monday|DATE the|DET fatal_stabbings|NOUN of|ADP two|CARDINAL people|NOUN who|NOUN tried|VERB to|PART stop|VERB a|DET man|NOUN yelling|VERB anti-Muslim_slurs|NOUN on|ADP a|DET train|NOUN in|ADP Portland|ENT ,|PUNCT Ore.|ENT "|PUNCT The|DET violent_attacks|NOUN in|ADP Portland|ENT on|ADP Friday|DATE are|VERB unacceptable|ADJ ,|PUNCT "|PUNCT Trump|ENT tweeted|VERB tthrough|ADP his|ADJ official_White_House_account|NOUN .|PUNCT "|PUNCT
+The|DET victims|NOUN were|VERB standing|VERB up|PART to|PART hate|VERB and|CCONJ intolerance|NOUN .|PUNCT
+Our|ADJ prayers|NOUN are|VERB w/|ADP them|PRON .|PUNCT "|PUNCT
+Trump|ENT had|VERB not|ADV previously|ADV commented|VERB on|ADP the|DET Portland_attacks|NOUN and|CCONJ faced|VERB mounting|VERB criticism|NOUN for|ADP his|ADJ silence|NOUN .|PUNCT
+The_Council_on_American-Islamic|ENT Relations|PROPN and|CCONJ others|NOUN called|VERB on|ADP Trump|ENT to|PART speak|VERB out|PART on|ADP the|DET attack|NOUN .|PUNCT
+"|PUNCT The|DET president|NOUN contextualizes|VERB Muslims|ENT as|ADP foreigners|NOUN and|CCONJ as|ADP national_security_threats|NOUN ,|PUNCT and|CCONJ it|PRON seems|VERB his|ADJ hostility|NOUN toward|ADP American_Muslims|ENT is|VERB promoting|VERB this|DET narrative|NOUN of|ADP hate|NOUN that|ADJ led|VERB to|ADP the|DET stabbings|NOUN in|ADP Oregon|ENT ,|PUNCT "|PUNCT said|VERB Robert_McCaw|ENT ,|PUNCT a|DET top|ADJ official|NOUN with|ADP the_Council_on_American-Islamic_Relations|ENT .|PUNCT
+"|PUNCT Trump|ENT needs|VERB to|PART make|VERB it|PRON clear|ADJ once|ADV and|CCONJ for|ADP all|ADJ that|ADJ American_Muslims|ENT are|VERB equal_citizens|NOUN and|CCONJ that|ADP they|PRON also|ADV need|VERB protection|NOUN .|PUNCT "|PUNCT
+Vice_President_Mike_Pence|ENT echoed|VERB Trump|ENT 's|PART statement|NOUN .|PUNCT "|PUNCT
+Well|ADV said|VERB ,|PUNCT Mr._President|PROPN ,|PUNCT "|PUNCT Pence|ENT tweeted|VERB .|PUNCT "|PUNCT
+Our|ADJ thoughts|NOUN and|CCONJ prayers|NOUN are|VERB with|ADP the|DET heroes|NOUN in|ADP Portland|ENT and|CCONJ the|DET loved|VERB ones|NOUN they|PRON left|VERB behind|ADV .|PUNCT "|PUNCT
+Police|NOUN charged|VERB Jeremy_Joseph_Christian|ENT ,|PUNCT 35|DATE ,|PUNCT with|ADP the|DET stabbing_deaths|NOUN of|ADP Taliesin_Myrddin_Namkai_Meche|ENT and|CCONJ Rick_Best|ENT .|PUNCT
+A|DET third_man|NOUN ,|PUNCT Micah_David-Cole_Fletcher|ENT ,|PUNCT was|VERB severely|ADV injured|VERB .|PUNCT
+They|PRON intervened|VERB when|ADV Christian|ENT started|VERB yelling|VERB hate_speech|NOUN in|ADP a|DET tirade|NOUN at|ADP two|CARDINAL Muslim_women|NOUN ,|PUNCT one|CARDINAL of|ADP whom|NOUN was|VERB wearing|VERB a|DET hijab|NOUN ,|PUNCT police|NOUN said|VERB .|PUNCT
+Christian|ENT ,|PUNCT 35|DATE ,|PUNCT is|VERB scheduled|VERB to|PART appear|VERB in|ADP court|NOUN Tuesday|DATE .|PUNCT
+He|PRON was|VERB charged|VERB with|ADP two|CARDINAL counts|NOUN of|ADP aggravated_murder|NOUN ,|PUNCT attempted|VERB murder|NOUN ,|PUNCT intimidation|NOUN and|CCONJ being|VERB a|DET felon|NOUN in|ADP possession|NOUN of|ADP a|DET restricted_weapon|NOUN .|PUNCT
+On|ADP Saturday|DATE ,|PUNCT about_1,000|CARDINAL people|NOUN gathered|VERB for|ADP a|DET vigil|NOUN in|ADP memory|NOUN of|ADP Namkai-Meche|ENT ,|PUNCT 23|DATE ,|PUNCT a|DET recent|ADJ college|NOUN graduate|NOUN ,|PUNCT and|CCONJ Best|ENT ,|PUNCT a|DET 53-year-old|DATE Army|ENT veteran|NOUN and|CCONJ father|NOUN of|ADP four|CARDINAL .|PUNCT
+Earlier|ADV Monday|DATE ,|PUNCT Trump|ENT honored|VERB U.S.|ENT military_members|NOUN who|NOUN died|VERB while|ADP serving|VERB their|ADJ country|NOUN during|ADP a|DET visit|NOUN to|ADP Arlington_National_Cemetery|ENT .|PUNCT

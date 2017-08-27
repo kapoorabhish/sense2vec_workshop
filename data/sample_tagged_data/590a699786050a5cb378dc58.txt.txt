@@ -1,0 +1,20 @@
+The|DET May_14|DATE elections|NOUN to|ADP seven|CARDINAL municipalities|NOUN in|ADP West_Bengal|ENT will|VERB be|VERB a|DET direct_fight|NOUN between|ADP the|DET BJP|ENT 's|PART pro-Hinduvta_campaign|NOUN and|CCONJ Mamata_Banerjee's|ENT politics|NOUN of|ADP defection|NOUN .|PUNCT
+Even|ADV though|ADP Congress|ENT and|CCONJ CPM|ENT are|VERB in|ADP the|DET fray|NOUN ,|PUNCT the|DET actual_fight|NOUN will|VERB be|VERB restricted|VERB between|ADP BJP|ENT and|CCONJ Trinamool_Congress|ENT .|PUNCT
+Last_month's|DATE by|ADP -|PUNCT election|NOUN to|PART Contai|ENT (|PUNCT South|ENT )|PUNCT assembly_seat|NOUN indicated|VERB a|DET straight_fight|NOUN between|ADP BJP|ENT and|CCONJ Trinamool|ENT in|ADP the|DET civic_polls|NOUN ,|PUNCT as|ADP the|DET saffron_brigade|NOUN finished|VERB second|ORDINAL in|ADP the|DET by|ADP -|PUNCT election|NOUN ,|PUNCT while|ADP CPM|ENT and|CCONJ Congress|ENT lost|VERB their|ADJ election_deposits|NOUN .|PUNCT
+The|DET BJP|ENT is|VERB optimistic|ADJ about|ADP better_results|NOUN in|ADP the|DET civic_polls|NOUN after|ADP holding|VERB rallies|NOUN across|ADP the|DET state|NOUN on|ADP Ramnavami.|ENT “|PUNCT
+We|PRON will|VERB certainly|ADV fare|VERB well|ADV in|ADP this|DET civic_elections|NOUN .|PUNCT
+Mamata_Banerjee|ENT and|CCONJ her|ADJ leaders|NOUN are|VERB now|ADV busy|ADJ projecting|VERB themselves|PRON as|ADP Hindus|ENT and|CCONJ that|DET is|VERB our|ADJ success|NOUN .|PUNCT
+It|PRON is|VERB our|ADJ chief_minister|NOUN who|NOUN tried|VERB her|ADJ best|ADJ to|PART serve|VERB a|DET particular_community|NOUN by|ADP ignoring|VERB the|DET fact|NOUN that|ADP ours|PRON is|VERB a|DET secular_government|NOUN ,|PUNCT which|ADJ can|VERB not|ADV give|VERB special_benefits|NOUN to|ADP any|DET community|NOUN on|ADP the|DET basis|NOUN of|ADP religion|NOUN .|PUNCT
+Fearing|VERB retaliation|NOUN from|ADP another|DET community|NOUN in|ADP this|DET civic_elections|NOUN ,|PUNCT the|DET chief|NOUN minister|NOUN and|CCONJ her|ADJ leaders|NOUN are|VERB now|ADV busy|ADJ projecting|VERB themselves|PRON as|ADP Hindus|ENT ,|PUNCT “|PUNCT
+BJP_state_president_Dilip_Ghosh|ENT said|VERB .|PUNCT
+He|PRON added|VERB :|PUNCT “|PUNCT We|PRON were|VERB highly|ADV criticised|VERB for|ADP organising|VERB armed_rallies|NOUN on|ADP the_day|DATE of|ADP Ramnavami|ENT .|PUNCT
+But|CCONJ all|ADJ those|DET criticisms|NOUN were|VERB politically|ADV motivated|VERB .|PUNCT
+We|PRON finished|VERB second|ORDINAL at|ADP Contai|ENT despite|ADP such_criticisms|NOUN .|PUNCT
+“|PUNCT
+Seven|CARDINAL municipalities|NOUN ,|PUNCT including|VERB Kurseong|ENT ,|PUNCT Darjeeling|ENT and|CCONJ Mirik|ENT in|ADP Darjeeling_district|NOUN ,|PUNCT Kalimpong|ENT municipality|NOUN ,|PUNCT which|ADJ falls|VERB under|ADP the|DET newly-created_Kalimpong_district|NOUN ,|PUNCT Pujali|ENT in|ADP South|PROPN 24-Parganas|NUM district|NOUN ,|PUNCT Raigunj|ENT municipality|NOUN in|ADP North_Dinajpur_district|NOUN and|CCONJ Domkal_civic_b|NOUN o|ADP d_y|PROPN i|PRON n|CCONJ Murshidabad|PROPN will|VERB go|VERB to|ADP polls|NOUN on|ADP May_14|DATE .|PUNCT
+Results|NOUN will|VERB be|VERB declared|VERB on|ADP May_17|DATE .|PUNCT
+In|ADP all|ADJ the|DET four|CARDINAL civic_bodies|NOUN in|ADP Dar|ENT jeeling|VERB dis_trict|NOUN ,|PUNCT the|DET fight|NOUN will|VERB remain|VERB confined|VERB between|ADP BJP|ENT and|CCONJ its|ADJ ally|NOUN Gorkha_Janamukti_Morcha|ENT ,|PUNCT and|CCONJ TMC|ENT .|PUNCT
+BJP|ENT won|VERB Darjeeling_Lok_Sabha_seat|NOUN in|ADP 2014|DATE with|ADP support|NOUN from|ADP the|DET GJM|ENT .|PUNCT
+It|PRON is|VERB now|ADV BJP|ENT 's|PART moral_responsibility|NOUN to|PART ensure|VERB victories|NOUN of|ADP GJM|ENT .|PUNCT
+Last_year|DATE ,|PUNCT GJM|ENT had|VERB won|VERB all|DET three|CARDINAL seats|NOUN of|ADP Kalimpong|ENT ,|PUNCT Kurseong|ENT and|CCONJ Darjeeling|ENT .|PUNCT
+But|CCONJ Banerjee|ENT and|CCONJ her|ADJ party|NOUN had|VERB managed|VERB to|PART split|VERB the|DET GJM|ENT as|ADP its|ADJ MLA|PROPN from|ADP Kalimpong_Harka_Bahadur_Chhetry|ENT resigned|VERB from|ADP the|DET party|NOUN as|ADV well|ADV as|ADP from|ADP the|DET assembly|NOUN and|CCONJ joined|VERB Trinamool_Congress|ENT .|PUNCT

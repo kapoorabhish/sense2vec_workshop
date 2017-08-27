@@ -1,0 +1,21 @@
+How the Trump administration will enforce antitrust law remains an open question, but don’t expect the Department of Justice to willingly provide many clues. Last week, the department said that it will not release any emails it may have from Makan Delrahim, the former corporate lobbyist Trump nominated in March to be the government’s top antitrust regulator.
+
+The Justice Department’s declaration came in response to an open records request from International Business Times. That request asked for any email correspondence between the Justice Department’s antitrust division and Delrahim.
+
+Delrahim, who served as deputy attorney general in the antitrust division under President George W. Bush, is currently deputy White House counsel and had been a registered lobbyist for clients with business before the antitrust division. One of his clients was health insurance giant Anthem, which is currently asking the antitrust division to settle a lawsuit blocking its $54 billion proposed merger with Cigna.
+
+IBT’s request specifically asked the government to release any email correspondence between antitrust regulators and Delrahim’s lobbying firm email address. In response, the department said “we can neither confirm nor deny the existence” of such email correspondence. However, the Justice Department also asserted that if such emails did exist, they are exempt from open records laws.
+
+“If records did exist, acknowledging communications between Antitrust Division employees and private individuals without their consent would constitute a clearly unwarranted invasion of personal privacy,” the department wrote, citing Freedom of Information Act exemptions designed to protect “personnel and medical files.”
+
+TechDirt, a technology and privacy website, noted that in the Justice Department appears to have abruptly changed its interpretation of federal open records laws. The site noted, for instance, that in responding to a past open records request, the antitrust division has previously released communications between its regulators and corporate officials with business before the department. TechDirt also scolded the department for citing a medical privacy exemption to justify a blanket ban on the release of any emails—including public policy-related correspondence—from a corporate lobbyist.
+
+"Revealing the simple fact that Delrahim -- as a lobbyist working on antirust issues -- might have emailed the DOJ's antitrust division (where he also used to work) is in no way the kind of 'privacy violation' that is intended under FOIA's exemptions against revealing 'personnel and medical files,'" wrote TechDirt’s founder Mike Masnick.
+
+The political timing of the Justice Department's rejection was notable on two fronts. For one, the department cited personal privacy concerns only a few days before Trump signed a bill allowing internet service providers to sell millions of internet users' private browsing history and personal data to corporations.
+
+The blanket rejection also comes just before Delrahim's nomination is set to be considered before the Senate Judiciary Committee. The department's decision might prevent the release of important documents that could shed new light on Delrahim's views about antitrust enforcement as lawmakers consider his nomination.
+
+Democrats are expected to ask Delrahim tough questions. Sen. Al Franken of Minnesota, who serves on the Judiciary Committee, has stated that he wants "to ensure [Delrahim] prioritizes consumers and competition over his corporate ties."
+
+Sen. Sherrod Brown of Ohio has called Delrahim’s ties to Anthem as "the definition of a conflict of interest," and said the public should expect Delrahim to recuse himself from the ongoing proceedings in the company’s proposed merger.

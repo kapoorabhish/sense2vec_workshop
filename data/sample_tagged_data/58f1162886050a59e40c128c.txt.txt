@@ -1,0 +1,6 @@
+Playing|VERB favourites|NOUN ?|PUNCT Bollywood|PROPN needs|VERB to|PART do|VERB more|ADJ to|PART shake|VERB off|PART its|ADJ nepotism_tag|NOUN ,|PUNCT writes|VERB Ranjita_Ganesan|ENT Bollywood|PROPN needs|VERB to|PART do|VERB more|ADJ to|PART shake|VERB off|PART its|ADJ nepotism_tag|NOUN ,|PUNCT writes|VERB Ranjita_Ganesan__Bollywood’s_lexicon|NOUN has|VERB turned|VERB deficient|ADJ in|ADP recent_months|DATE .|PUNCT
+Several_personalities|NOUN have|VERB abandoned|VERB discussing|VERB and|CCONJ even|ADV mentioning|VERB “|PUNCT nepotism|NOUN ”|PUNCT ,|PUNCT or|CCONJ ,|PUNCT as|ADP actress|NOUN Sonakshi_Sinha|ENT calls|VERB it|PRON ,|PUNCT the|DET N_word|NOUN .|PUNCT
+The|DET elephant|NOUN in|ADP Hindi_cinema’s_room|NOUN —|PUNCT its|ADJ routine|ADJ launching|NOUN of|ADP sons|NOUN and|CCONJ daughters|NOUN of|ADP film_families|NOUN —|PUNCT was|VERB casually|ADV spotlighted|VERB by|ADP actress_Kangana_Ranaut|ENT in|ADP an|DET interview|NOUN with|ADP Karan_Johar|ENT .|PUNCT
+Ranaut|ENT ,|PUNCT a|DET blunt|NOUN ,|PUNCT self|NOUN -|PUNCT made|VERB star|NOUN ,|PUNCT accused|VERB Johar|ENT ,|PUNCT an|DET influential|ADJ director|NOUN and|CCONJ son|NOUN of|ADP a|DET producer|NOUN ,|PUNCT of|ADP being|VERB a|DET flag-bearer|NOUN of|ADP this|DET practice|NOUN .|PUNCT
+In|ADP the_weeks|DATE that|ADJ followed|VERB ,|PUNCT ...|PUNCT
+Ranjita_Ganesan|PROPN

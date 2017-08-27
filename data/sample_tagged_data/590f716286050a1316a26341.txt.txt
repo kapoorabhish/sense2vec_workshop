@@ -1,0 +1,20 @@
+Two|CARDINAL Massachusetts_doctors|NOUN were|VERB found|VERB in|ADP their|ADJ luxury_Boston_condo|NOUN Friday_night|DATE with|ADP their|ADJ throats|NOUN slashed|VERB ,|PUNCT police|NOUN said|VERB .|PUNCT
+Authorities|NOUN in|ADP Boston|ENT identified|VERB the|DET couple|NOUN as|ADP Richard_Field|ENT ,|PUNCT 49|DATE ,|PUNCT and|CCONJ Lina_Bolanos|ENT ,|PUNCT 38|DATE .|PUNCT
+They|PRON were|VERB found|VERB dead|ADJ on|ADP the|DET 11th_floor|NOUN of|ADP the_Macallan_Building|ENT in|ADP their|ADJ residence|NOUN ,|PUNCT Fox|ENT 25|CARDINAL Boston|ENT reported|VERB .|PUNCT
+Police|NOUN arrested|VERB Bampumin_Teixeira|ENT ,|PUNCT 30|DATE ,|PUNCT in|ADP connection|NOUN with|ADP the|DET murders|NOUN .|PUNCT
+The|DET station|NOUN reported|VERB that|ADP police|NOUN responded|VERB to|ADP a|DET call|NOUN of|ADP a|DET man|NOUN with|ADP a|DET gun|NOUN in|ADP the|DET area|NOUN .|PUNCT
+As|ADP police|NOUN arrived|VERB ,|PUNCT Teixeira|ENT began|VERB firing|VERB at|ADP the|DET officers|NOUN .|PUNCT
+Police|NOUN returned|VERB fire|NOUN and|CCONJ hit|VERB the|DET man|NOUN several|ADJ times|NOUN ,|PUNCT but|CCONJ did|VERB not|ADV kill|VERB him|PRON .|PUNCT
+Teixeira|ENT has|VERB a|DET criminal_record|NOUN .|PUNCT
+He|PRON pleaded|VERB guilty|ADJ to|ADP two|CARDINAL bank_robberies|NOUN –|PUNCT
+one|CARDINAL in|ADP 2014|DATE and|CCONJ the|DET other|ADJ in|ADP 2016|DATE .|PUNCT
+In|ADP both|DET instances|NOUN ,|PUNCT he|PRON passed|VERB the|DET bank_teller|NOUN a|DET note|NOUN saying|VERB he|PRON had|VERB a|DET weapon|NOUN but|CCONJ never|ADV brandished|VERB one|CARDINAL .|PUNCT
+Fox|ENT 25|CARDINAL Boston|ENT reported|VERB that|ADP he|PRON will|VERB be|VERB arraigned|VERB Monday|DATE on|ADP a|DET long_list|NOUN of|ADP charges|NOUN .|PUNCT
+Field|ENT was|VERB a|DET doctor|NOUN at|ADP North_Shore_Pain_management|NOUN and|CCONJ served|VERB as|ADP an|DET anesthesiologist|NOUN and|CCONJ pain|NOUN management_specialist|NOUN at|ADP several_other_places|NOUN .|PUNCT
+"|PUNCT His|ADJ tragic|ADJ and|CCONJ sudden|ADJ passing|NOUN leaves|VERB an|DET inescapable_void|NOUN in|ADP all|DET of|ADP us|PRON .|PUNCT
+Our|ADJ deepest_thoughts|NOUN are|VERB with|ADP his|ADJ friends|NOUN and|CCONJ family|NOUN ,|PUNCT "|PUNCT North_Shore_Pain_management|NOUN said|VERB in|ADP a|DET statement|NOUN .|PUNCT
+Bolanos|ENT was|VERB a|DET pediatric_anesthesiologist|NOUN at|ADP Massachusetts_Eye|PROPN and|CCONJ Ear|PROPN .|PUNCT
+UPDATE|NOUN :|PUNCT Victims|NOUN found|VERB murdered|VERB in|ADP S._Boston_condo|NOUN both|DET anesthesiologists|NOUN ,|PUNCT Dr.|PROPN Lina_Bolanos|ENT (|PUNCT pictured|VERB )|PUNCT &|CCONJ Dr.|PROPN Richard_Field|ENT .|PUNCT They|PRON were|VERB engaged|VERB pic.twitter.com/CDOEKcVog2|NOUN —|PUNCT Elysia_Rodriguez|ENT (|PUNCT @ElysiaBoston25|PROPN )|PUNCT May_6,_2017|DATE "|PUNCT Dr._Bolanos|ENT was|VERB an|DET outstanding_pediatric_anesthesiologist|NOUN and|CCONJ a|DET wonderful_colleague|NOUN in|ADP the|DET prime|NOUN of|ADP both|DET her|ADJ career|NOUN and|CCONJ life|NOUN .|PUNCT
+We|PRON will|VERB do|VERB all|DET we|PRON can|VERB to|PART support|VERB their|ADJ families|NOUN and|CCONJ our|ADJ staff_members|NOUN who|NOUN are|VERB processing|VERB this|DET senseless_tragedy|NOUN and|CCONJ grieving|VERB an|DET enormous_loss|NOUN ,|PUNCT "|PUNCT John_Fernandez|ENT ,|PUNCT president|NOUN and|CCONJ CEO|NOUN of|ADP Massachusetts_Eye|PROPN and|CCONJ Ear|PROPN ,|PUNCT said|VERB in|ADP a|DET statement|NOUN .|PUNCT
+The|DET specialty_hospital|NOUN added|VERB that|ADP Bolanos|ENT and|CCONJ Field|ENT were|VERB engaged|VERB to|PART be|VERB married|VERB .|PUNCT
+Click|VERB for|ADP more|ADJ from|ADP Fox|ENT 25|CARDINAL Boston|ENT .|PUNCT

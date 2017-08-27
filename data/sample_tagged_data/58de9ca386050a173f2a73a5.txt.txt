@@ -1,0 +1,21 @@
+Chief_Economic_Adviser_Arvind_Subramanian|ENT today|DATE flayed|VERB foreign_credit_rating_agencies|NOUN for|ADP adopting|VERB inconsistent_standards|NOUN while|ADP evaluating|VERB the|DET country|NOUN ,|PUNCT saying|VERB that|ADP BRICS_countries|NOUN are|VERB looking|VERB to|PART set|VERB up|PART an|DET independent_rating_agency|NOUN to|PART overcome|VERB it|PRON .|PUNCT
+(|PUNCT PTI|ENT )|PUNCT Chief_Economic_Adviser_Arvind_Subramanian|ENT today|DATE flayed|VERB foreign_credit_rating_agencies|NOUN for|ADP adopting|VERB inconsistent_standards|NOUN while|ADP evaluating|VERB the|DET country|NOUN ,|PUNCT saying|VERB that|ADP BRICS_countries|NOUN are|VERB looking|VERB to|PART set|VERB up|PART an|DET independent_rating_agency|NOUN to|PART overcome|VERB it|PRON .|PUNCT
+Stating|VERB that|ADP foreign_credit_rating_agencies|NOUN regularly|ADV meet|VERB him|PRON and|CCONJ evaluate|VERB the|DET risks|NOUN in|ADP the|DET country|NOUN ,|PUNCT he|PRON said|VERB ,|PUNCT “|PUNCT last|ADJ time|NOUN when|ADV they|PRON (|PUNCT credit|NOUN ratings|NOUN agency|NOUN )|PUNCT came|VERB was|VERB in|ADP September_2016|DATE and|CCONJ they|PRON said|VERB they|PRON will|VERB not|ADV upgrade|VERB rating|NOUN of|ADP India|ENT ”|PUNCT .|PUNCT “|PUNCT You|PRON know|VERB I|PRON might|VERB have|VERB written|VERB scathing_OP-ED_pages|NOUN after|ADP they|PRON left|VERB .|PUNCT
+But|CCONJ as|ADP a|DET government_official|NOUN I|PRON have|VERB to|PART be|VERB more|ADV responsible|ADJ .|PUNCT
+Instead|ADV what|NOUN we|PRON did|VERB in|ADP the_Economic_Survey|ENT was|VERB to|PART show|VERB how|ADV the|DET inconsistency|NOUN in|ADP some|DET of|ADP the|DET standards|NOUN employed|VERB by|ADP the|DET rating_agencies|NOUN are|VERB ”|PUNCT ,|PUNCT he|PRON said|VERB .|PUNCT
+Subramaniam|PROPN made|VERB these|DET comments|NOUN while|ADP delivering|VERB a|DET lecture|NOUN on|ADP ‘Economic_Survey|ENT 2016-17|DATE ;|PUNCT How|ADV India|ENT Surprises’|VERB at|ADP IIT_Madras|ENT here|ADV .|PUNCT “|PUNCT
+If|ADP (|PUNCT economic)_growth|NOUN comes|VERB down|PART ,|PUNCT risks|NOUN increase|VERB .|PUNCT
+If|ADP there|ADV are|VERB too_much_borrowings|NOUN in|ADP the|DET country|NOUN ,|PUNCT risks|VERB increase|NOUN .|PUNCT
+Despite|ADP India’s_growth|NOUN going|VERB up|PART compared|VERB to|ADP China|ENT ,|PUNCT the|DET ratings_agencies|NOUN have|VERB put|VERB us|PRON seven_notches|QUANTITY below|ADP China|ENT ”|PUNCT ,|PUNCT he|PRON said|VERB .|PUNCT
+“|PUNCT We|PRON call|VERB this|DET as|ADP poor_standards|NOUN .|PUNCT
+This|DET is|VERB a|DET kind|NOUN of|ADP inconsistent_evaluation|NOUN (|PUNCT by|ADP ratings_agencies|NOUN ”|PUNCT ,|PUNCT he|PRON said|VERB .|PUNCT
+You|PRON May|VERB Also|ADV Like|VERB To|PART Watch|VERB This|DET :|PUNCT To|PART avoid|VERB such_inconsistent_standards|NOUN ,|PUNCT the|DET five|CARDINAL -|PUNCT nation_group|NOUN of|ADP BRICS_countries|NOUN had|VERB decided|VERB to|PART set|VERB up|PART an|DET “independent_ratings|NOUN ”|PUNCT agency|NOUN .|PUNCT
+The|DET agency|NOUN would|VERB be|VERB based|VERB on|ADP market|NOUN -|PUNCT oriented_principles|NOUN ,|PUNCT and|CCONJ further|ADV strengthen|VERB the|DET global_governance_architecture|NOUN .|PUNCT
+Referring|VERB to|ADP property_tax_collection|NOUN in|ADP India|ENT ,|PUNCT he|PRON said|VERB cities|NOUN like|ADP Bengaluru|ENT ,|PUNCT Chennai|ENT ,|PUNCT Jaipur|ENT have|VERB been|VERB collecting|VERB lesser_taxes|NOUN compared|VERB to|ADP the|DET potential|NOUN they|PRON can|VERB .|PUNCT “|PUNCT
+The|DET more|ADV a|DET city|NOUN collects|VERB property_taxes|NOUN ,|PUNCT the|DET better|ADJ services|NOUN they|PRON can|VERB provide|VERB .|PUNCT
+It|PRON is|VERB unambiguously|ADV true|ADJ .|PUNCT
+But|CCONJ cities|NOUN like|ADP Jaipur|ENT collect|VERB just|ADV three_to_five_per|DATE cent|NOUN of|ADP the|DET potential|NOUN .|PUNCT
+Bengaluru|ENT collects|VERB only_10|CARDINAL per|NOUN cent|NOUN as|ADP property_taxes|NOUN ”|PUNCT ,|PUNCT he|PRON said|VERB .|PUNCT
+“|PUNCT
+Even|ADV Chennai|PROPN ,|PUNCT I|PRON am|VERB sure|ADJ it|PRON will|VERB be|VERB collecting|VERB about_7-8|CARDINAL per|NOUN cent|NOUN of|ADP property_taxes|NOUN than|ADP the|DET potential|NOUN it|PRON has|VERB .|PUNCT
+But|CCONJ with|ADP the|DET use|NOUN of|ADP technology|NOUN ,|PUNCT cities|NOUN can|VERB estimate|VERB and|CCONJ collect|VERB property_taxes|NOUN better|ADJ ”|PUNCT ,|PUNCT he|PRON said|VERB .|PUNCT

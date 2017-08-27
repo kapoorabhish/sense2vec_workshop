@@ -1,0 +1,27 @@
+It|PRON seemed|VERB like|ADP Draymond_Green|ENT was|VERB ejected|VERB in|ADP the_third_quarter|DATE of|ADP Game|PROPN 4|NUM after|ADP receiving|VERB a|DET second_technical_foul|NOUN .|PUNCT
+Cavaliers|NOUN fans|NOUN thought|VERB he|PRON was|VERB tossed|VERB .|PUNCT
+The|DET Cavaliers|PROPN thought|VERB he|PRON was|VERB tossed|VERB .|PUNCT
+The|DET entire_arena|NOUN thought|VERB he|PRON was|VERB tossed|VERB .|PUNCT
+He|PRON was|VERB n’t|ADV .|PUNCT
+Instead|ADV ,|PUNCT the|DET referees|NOUN explained|VERB that|ADP the|DET first_technical_foul|NOUN was|VERB actually|ADV given|VERB to|ADP Steve_Kerr|ENT and|CCONJ the|DET scorer’s_table|NOUN mistakenly|ADV assigned|VERB it|PRON to|ADP Green|ENT .|PUNCT
+That|DET meant|VERB that|ADP Green|ENT could|VERB stay|VERB in|ADP the|DET game|NOUN with|ADP just|ADV one|CARDINAL technical|ADJ ,|PUNCT much|ADJ to|ADP everyone|NOUN ’s|PART confusion|NOUN .|PUNCT
+After|ADP the|DET game|NOUN ,|PUNCT officials|NOUN Mike_Callahan|ENT and|CCONJ John_Goble|ENT took|VERB responsibility|NOUN for|ADP not|ADV clearly|ADV informing|VERB the|DET scorer’s_table|NOUN that|ADJ the|DET initial|ADJ technical|ADJ was|VERB on|ADP Kerr|ENT ,|PUNCT not|ADV Green|ENT .|PUNCT “|PUNCT
+In|ADP that|DET moment|NOUN ,|PUNCT I|PRON thought|VERB I|PRON had|VERB verbalized|VERB to|ADP the|DET table|NOUN that|ADJ the|DET technical_foul|NOUN was|VERB on|ADP Coach_Kerr|ENT ,|PUNCT ”|PUNCT
+Goble|ENT told|VERB pool_reporter_Brian_Mahoney|ENT of|ADP the_Associated_Press|ENT .|PUNCT
+After|ADP looking|VERB at|ADP the|DET video|NOUN ,|PUNCT I|PRON should|VERB have|VERB done|VERB a|DET better_job|NOUN of|ADP making|VERB sure|ADJ that|ADP the|DET table|NOUN knew|VERB the|DET technical_foul|NOUN was|VERB on|ADP Coach_Kerr|ENT .|PUNCT ”|PUNCT
+The|DET following|VERB was|VERB released|VERB by|ADP the|DET NBA|ENT :|PUNCT pic.twitter.com/KwfBulGj4b|NOUN —|PUNCT NBA_Official|PROPN (|PUNCT @NBAOfficial|PROPN )|PUNCT June_10,_2017|DATE Callahan|ENT also|ADV took|VERB responsibility|NOUN for|ADP not|ADV correcting|VERB the|DET public_address_announcement|NOUN that|ADP the|DET first|ORDINAL technical|ADJ was|VERB on|ADP Green|ENT .|PUNCT
+The|DET technical|ADJ in|ADP question|NOUN occurred|VERB when|ADV Green|ENT elbowed|VERB Iman_Shumpert|ENT in|ADP the|DET face|NOUN in|ADP pursuit|NOUN of|ADP a|DET loose_ball|NOUN .|PUNCT
+Green|ENT was|VERB shocked|ADJ when|ADV he|PRON was|VERB called|VERB for|ADP it|PRON (|PUNCT though|ADP it|PRON was|VERB a|DET very_obvious_whistle|NOUN )|PUNCT and|CCONJ reacted|VERB in|ADP a|DET very_Draymond_way|NOUN .|PUNCT
+Everyone|NOUN thought|VERB that|ADP earned|VERB him|PRON a|DET tech|NOUN .|PUNCT
+It|PRON did|VERB n’t|ADV though|ADV .|PUNCT
+Behind|ADP him|PRON ,|PUNCT Kerr|ENT made|VERB a|DET fuss|NOUN as|ADV well|ADV ,|PUNCT which|ADJ earned|VERB him|PRON the|DET tech|NOUN .|PUNCT
+Green|ENT said|VERB he|PRON knew|VERB that|ADP he|PRON did|VERB n’t|ADV receive|VERB that|ADP tech|NOUN ,|PUNCT but|CCONJ the|DET viewers|NOUN ,|PUNCT and|CCONJ seemingly|ADV everyone|NOUN in|ADP the|DET arena|NOUN ,|PUNCT including|VERB Kerr|ENT ,|PUNCT were|VERB n’t|ADV relayed|VERB that|DET information|NOUN .|PUNCT
+First|ORDINAL half|DET box|NOUN we|PRON were|VERB given|VERB on|ADP press_row|NOUN ,|PUNCT for|ADP what|NOUN it|PRON 's|VERB worth|ADJ .|PUNCT
+Clearly|ADV states|NOUN Draymond|ENT had|VERB been|VERB given|VERB that_1st_quarter|DATE tech_pic.twitter.com/wwDhCeophJ|NOUN —_Sam_Amick_(@sam_amick)_June|ENT 10|NUM ,|PUNCT 2017|NUM
+In|ADP fact|NOUN ,|PUNCT ABC’s_Doris_Burke|ENT confirmed|VERB during|ADP the|DET broadcast|NOUN that|ADJ scorers’_table|NOUN thought|VERB the|DET first_tech|NOUN was|VERB Draymond’s|ENT up|ADP until|ADP the|DET refs|NOUN corrected|VERB them|PRON after|ADP his|ADJ second|ORDINAL technical|ADJ .|PUNCT “|PUNCT
+They|PRON all|DET agreed|VERB as|ADP a|DET unit|NOUN that|ADP they|PRON were|VERB told|VERB by|ADP the|DET officials|NOUN that|ADP that|DET first|ORDINAL -|PUNCT half|NOUN technical|ADJ was|VERB in|ADP fact|NOUN on|ADP Draymond_Green|ENT ,|PUNCT ”|PUNCT Burke|ENT said|VERB on|ADP ABC|ENT midway|NOUN through|ADP the_third_quarter|DATE .|PUNCT “|PUNCT
+That|DET ’s|NOUN why|ADV it|PRON was|VERB marked|VERB that|DET way|NOUN in|ADP the|DET scorer’s_table|NOUN .|PUNCT
+It|PRON was|VERB n’t|ADV until|ADP that|DET last_incident|NOUN ,|PUNCT when|ADV there|ADV was|VERB that|DET stoppage|NOUN in|ADP play|NOUN ,|PUNCT that|ADP the|DET officials|NOUN went|VERB to|ADP the|DET scorers|NOUN and|CCONJ said|VERB ,|PUNCT ‘|PUNCT
+No|INTJ ,|PUNCT that|DET first-half|DATE technical|ADJ was|VERB on|ADP Steve_Kerr|ENT ,|PUNCT .|PUNCT ”|PUNCT
+It|PRON was|VERB a|DET confusing_effort|NOUN that|ADJ took|VERB minutes|TIME to|PART sort|VERB out|PART and|CCONJ reflected|VERB poorly|ADV on|ADP the|DET officiating_crew|NOUN .|PUNCT
+At|ADP least|ADJ they|PRON are|VERB taking|VERB responsibility|NOUN for|ADP the|DET error|NOUN .|PUNCT

@@ -1,0 +1,59 @@
+18|CARDINAL fraternity_brothers|NOUN have|VERB been|VERB charged|VERB in|ADP conjunction|NOUN with|ADP his|ADJ death|NOUN ;|PUNCT 8|CARDINAL brothers|NOUN have|VERB been|VERB charged|VERB with|ADP involuntary_manslaughter|NOUN .|PUNCT
+Security_footage|NOUN from|ADP the|DET house|NOUN on|ADP the_night_of_Piazza's_death|TIME provides|VERB a|DET detailed_sequence|NOUN of|ADP events|NOUN .|PUNCT
+At|ADP about_9_p.m.|TIME on|ADP February_2|DATE ,|PUNCT 19-year-old_Timothy_Piazza|ENT showed|VERB up|PART for|ADP a|DET pledge_event|NOUN at|ADP Penn_State's|ENT Beta_Theta_Pi_fraternity|NOUN .|PUNCT
+He|PRON joined|VERB the|DET other_pledges|NOUN -|PUNCT all|DET dressed|VERB similarly|ADV in|ADP khakis|NOUN ,|PUNCT button-down_shirts|NOUN ,|PUNCT and|CCONJ sports_jackets|NOUN -|PUNCT ready|ADJ to|PART take|VERB part|NOUN in|ADP a|DET hazing_ritual|NOUN called|VERB "|PUNCT the|DET gauntlet|NOUN .|PUNCT "|PUNCT
+Fourteen_hours_later|DATE ,|PUNCT he|PRON was|VERB rushed|VERB to|ADP the|DET hospital|NOUN ,|PUNCT and|CCONJ died|VERB the_next_day|DATE .|PUNCT
+Eighteen|CARDINAL members|NOUN of|ADP Beta_Theta_Pi|ENT ,|PUNCT as|ADV well|ADV as|ADP the|DET fraternity|NOUN corporation|NOUN ,|PUNCT had|VERB charges|NOUN brought|VERB against|ADP them|PRON on|ADP Friday|DATE for|ADP their|ADJ alleged_role|NOUN in|ADP his|ADJ death|NOUN .|PUNCT
+Eight|CARDINAL of|ADP the|DET 18|CARDINAL ,|PUNCT along|ADP with|ADP the|DET corporation|NOUN ,|PUNCT have|VERB been|VERB charged|VERB with|ADP involuntary_manslaughter|NOUN .|PUNCT
+The|DET other_charges|NOUN ,|PUNCT totaling|VERB more_than_1,000|CARDINAL ,|PUNCT include|VERB aggravated|ADJ assault|NOUN ,|PUNCT tampering|VERB with|ADP evidence|NOUN ,|PUNCT hazing|NOUN ,|PUNCT and|CCONJ providing|VERB alcohol|NOUN to|ADP minors|NOUN .|PUNCT
+The|DET specific_events|NOUN leading|VERB up|ADP to|ADP Piazza|ENT 's|PART death|NOUN have|VERB come|VERB into|ADP clearer_focus|NOUN since|ADP the|DET charges|NOUN were|VERB filed|VERB .|PUNCT
+A|DET surveillance_camera|NOUN in|ADP Beta_Theta_Pi's|ENT house|NOUN captured|VERB most|ADJ of|ADP the|DET events|NOUN on|ADP February_2|DATE ,|PUNCT and|CCONJ a|DET Grand_Jury_presentment|NOUN has|VERB provided|VERB a|DET minute|NOUN -|PUNCT by|NOUN -|PUNCT minute_account|NOUN of|ADP the|DET "|PUNCT the|DET gauntlet|NOUN "|PUNCT and|CCONJ the_final_hours|TIME before|ADP Piazza|ENT 's|PART death|NOUN .|PUNCT
+The_Grand_Jury|ENT presentment|NOUN has|VERB a|DET section|NOUN called|VERB "|PUNCT Revelations|NOUN from|ADP Beta_Theta_Pi's|ENT Video|PROPN Surveillance|PROPN ,|PUNCT "|PUNCT which|ADJ begins|VERB with|ADP pledges|NOUN arriving|VERB to|ADP the|DET house|NOUN for|ADP "|PUNCT the|DET gauntlet|NOUN ,|PUNCT "|PUNCT which|ADJ one|CARDINAL member|NOUN of|ADP the|DET fraternity|NOUN testified|VERB was|VERB an|DET event|NOUN where|ADV pledges|NOUN drank|VERB at|ADP series|NOUN of|ADP alcohol_stations|NOUN ,|PUNCT and|CCONJ consumed|VERB four_to|QUANTITY five|NUM drinks|NOUN in|ADP as_little_as|QUANTITY two|NUM -|PUNCT minute|NOUN spans|NOUN .|PUNCT
+9:06_p.m._-_Piazza|TIME comes|VERB into|ADP view|NOUN on|ADP the|DET camera|NOUN .|PUNCT
+Pledges|NOUN begin|VERB going|VERB through|ADP the|DET "|PUNCT gauntlet|NOUN "|PUNCT and|CCONJ drinking|VERB at|ADP different_stations|NOUN .|PUNCT
+9:21_p.m._-_Piazza_is_handed|TIME a|DET bottle|NOUN of|ADP vodka|NOUN to|PART drink|VERB from|ADP ,|PUNCT then|ADV shotguns|VERB a|DET beer|NOUN .|PUNCT
+Other_gauntlet_stations|NOUN are|VERB not|ADV visible|ADJ from|ADP the|DET camera_angles|NOUN .|PUNCT
+10:43_p.m._-_A_visibly|TIME intoxicated_Piazza|ENT is|VERB seen|VERB "|PUNCT staggering|VERB with|ADP great_difficulty|NOUN walking|VERB .|PUNCT "|PUNCT __10:45_p.m._-_Piazza|TIME staggers|VERB drunkenly|ADV toward|ADP basement_steps|NOUN .|PUNCT
+10:45_p.m_._-|TIME
+On|ADP camera|NOUN ,|PUNCT a|DET fraternity_brother|NOUN is|VERB visible|ADJ "|PUNCT pointing|VERB agitatedly|ADV "|PUNCT toward|ADP the|DET basement_steps|NOUN .|PUNCT
+The|DET fall|NOUN is|VERB not|ADV captured|VERB on|ADP camera|NOUN ,|PUNCT so|ADV a|DET detective|NOUN outlines|VERB for|ADP the|DET jury|NOUN .|PUNCT
+In|ADP an|DET interview|NOUN with|ADP police|NOUN a|DET fraternity_brother|NOUN said|VERB he|PRON saw|VERB Piazza|ENT laying|VERB "|PUNCT face|NOUN -|PUNCT down|NOUN at|ADP the|DET bottom|NOUN of|ADP the|DET steps|NOUN .|PUNCT
+"|PUNCT In|ADP a|DET text_message|NOUN that_night|TIME at|ADP 11:53_p.m.|TIME
+the|DET brother|NOUN wrote|VERB :|PUNCT "|PUNCT Also|ADV Tim_Piazza|ENT might|VERB actually|ADV be|VERB a|DET problem|NOUN .|PUNCT
+He|PRON fell_15_feet|QUANTITY down|ADP a|DET flight|NOUN of|ADP stairs|NOUN ,|PUNCT hard|ADJ -|PUNCT first|ORDINAL ,|PUNCT going|VERB to|PART need|VERB help|NOUN .|PUNCT "|PUNCT
+10:47_p.m._-_Piazza|TIME is|VERB carried|VERB upstairs|ADV by|ADP four|CARDINAL Beta_brothers|NOUN .|PUNCT
+He|PRON appears|VERB unconscious|ADJ and|CCONJ on|ADP the|DET left_side|NOUN of|ADP his|ADJ abdomen|NOUN there|ADV is|VERB a|DET visible_bruise|NOUN .|PUNCT
+10:49_p.m._-_Two_brothers|TIME dump|VERB liquid|NOUN on|ADP his|ADJ face|NOUN .|PUNCT
+11:14_p.m._-_Kordel_Davis|TIME ,|PUNCT a|DET newly|ADV initiated|VERB brother|NOUN ,|PUNCT is|VERB seen|VERB pointing|VERB animatedly|ADV at|ADP Piazza|ENT .|PUNCT
+He|PRON testified|VERB before|ADP the_Grand_Jury|ENT that|ADJ he|PRON saw|VERB Piazza|PROPN making|VERB weird_moments|NOUN on|ADP the|DET couch|NOUN ,|PUNCT and|CCONJ screamed|VERB at|ADP the|DET other_brothers|NOUN to|PART get|VERB help|NOUN .|PUNCT __11:15_p.m._-|TIME Another|DET brother|NOUN shoves|VERB Davis|ENT into|ADP a|DET wall|NOUN .|PUNCT
+In|ADP his|ADJ testimony|NOUN ,|PUNCT Davis|ENT said|VERB he|PRON was|VERB told|VERB to|PART leave|VERB and|CCONJ they|PRON had|VERB it|PRON under|ADP control|NOUN .|PUNCT
+11:25_p.m.|TIME -|PUNCT The|DET fraternity_Pledge_Master|ENT slaps|VERB Piazza|PROPN in|ADP his|ADJ face|NOUN three|CARDINAL times|NOUN .|PUNCT
+1:00_a.m._-_Brothers|TIME who|NOUN remained|VERB in|ADP the|DET room|NOUN observed|VERB Piazza_vomit|NOUN and|CCONJ twitch|NOUN on|ADP the|DET couch|NOUN .|PUNCT
+They|PRON "|PUNCT backpack|NOUN "|PUNCT Piazza|ENT ,|PUNCT putting|VERB text_books|NOUN in|ADP a|DET backpack|NOUN in|ADP an|DET attempt|NOUN to|PART ensure|VERB he|PRON does|VERB n't|ADV roll|VERB onto|ADP his|ADJ stomach|NOUN and|CCONJ aspirate|NOUN on|ADP vomit|NOUN .|PUNCT
+1:48_a.m._-_Piazza|TIME rolls|VERB off|ADP couch|NOUN and|CCONJ onto|ADP the|DET floor|NOUN .|PUNCT
+He|PRON 's|VERB placed|VERB back|ADV on|ADP the|DET couch|NOUN forcefully|ADV by|ADP Beta_brothers|NOUN .|PUNCT __1:50_a.m._-_A_brother_-_who|TIME appears|VERB to|PART be|VERB frustrated_-_strikes_Piazza|PROPN hard|ADV in|ADP the|DET abdomen|NOUN
+.|PUNCT __2:38_a.m._-_Piazza|TIME again|ADV rolls|VERB to|ADP the|DET floor|NOUN .|PUNCT
+3:22_a.m._-_Piazza|TIME attempts|VERB to|PART regain|VERB his|ADJ feet|NOUN ,|PUNCT but|CCONJ falls|VERB backwards|ADV and|CCONJ strikes|VERB head|NOUN on|ADP the|DET hardwood_floor|NOUN .|PUNCT
+3:54_am_-_Piazza|TIME attempts|VERB to|PART stand|VERB again|ADV ,|PUNCT but|CCONJ falls|VERB face|VERB down|PART on|ADP the|DET hardwood|NOUN .|PUNCT
+4:59_a.m._-_Piazza|TIME staggers|VERB toward|ADP lobby|NOUN ,|PUNCT falls|VERB head|NOUN -|PUNCT first|ADV into|ADP an|DET iron_railing|NOUN ,|PUNCT and|CCONJ lands|NOUN on|ADP a|DET stone_floor|NOUN .|PUNCT
+Seconds|ORDINAL later|ADV ,|PUNCT he|PRON attempts|VERB go|VERB to|ADP the|DET front_door|NOUN but|CCONJ falls|VERB head|NOUN -|PUNCT first|ORDINAL into|ADP the|DET door|NOUN .|PUNCT
+5:15_a.m._-_A_Beta|TIME brother|NOUN steps|VERB over|ADP him|PRON for|ADP water|NOUN and|CCONJ then|ADV goes|VERB back|ADV upstairs|ADV .|PUNCT
+6:57_a.m._-_A_fellow_pledge|TIME videos_Piazza|ENT on|ADP Snapchat|PROPN .|PUNCT
+7:18_a.m._-_Piazza|TIME staggers|VERB toward|ADP basement_steps|NOUN .|PUNCT
+He|PRON is|VERB not|ADV seen|VERB again|ADV on|ADP camera|NOUN until|ADP a|DET number|NOUN of|ADP brothers|NOUN and|CCONJ a|DET pledge|NOUN carry|VERB him|PRON upstairs|ADV again|ADV .|PUNCT
+A|DET fraternity_brother|NOUN testified|VERB that|ADP he|PRON found|VERB Piazza|PROPN in|ADP the|DET basement|NOUN at|ADP 10_a.m.|TIME breathing|VERB heavily|ADV ,|PUNCT with|ADP blood|NOUN on|ADP his|ADJ face|NOUN .|PUNCT
+He|PRON felt|VERB cold|ADJ to|ADP the|DET touch|NOUN ,|PUNCT with|ADP pale_skin|NOUN and|CCONJ eyes|NOUN half|CARDINAL -|PUNCT opened|VERB .|PUNCT
+For|ADP the_next_42_minutes|DATE surveillance|NOUN depicts|VERB Piazza|ENT lying|VERB unconscious|ADJ while|ADP brothers|NOUN shook|VERB him|PRON ,|PUNCT covered|VERB him|PRON with|ADP a|DET blanket|NOUN ,|PUNCT wiped|VERB his|ADJ face|NOUN ,|PUNCT and|CCONJ attempted|VERB to|PART dress|VERB him|PRON .|PUNCT
+At|ADP 10:48|CARDINAL a.m.fraternity|ADJ brother|NOUN calls|VERB 911|CARDINAL .|PUNCT
+Piazza|NOUN was|VERB transported|VERB to|ADP the|DET hospital|NOUN and|CCONJ died|VERB on|ADP February_4|DATE .|PUNCT
+He|PRON had|VERB a|DET ruptured_spleen|NOUN ,|PUNCT severe_injuries|NOUN to|ADP his|ADJ head|NOUN ,|PUNCT and|CCONJ a|DET blood_alcohol_content|NOUN somewhere|ADV between_.28_and_.36|CARDINAL .|PUNCT
+Piazza|ENT 's|PART death|NOUN rocked|VERB has|VERB rocked|VERB Penn_State's|ENT Greek_Life|ENT ,|PUNCT and|CCONJ magnified|VERB the|DET dangers|NOUN of|ADP drinking|NOUN culture|NOUN and|CCONJ hazing|NOUN on|ADP campus|NOUN .|PUNCT
+The|DET university|NOUN banned|VERB Beta_Theta_Pi|ENT from|ADP campus|NOUN for|ADP at_least_five_years|DATE ,|PUNCT and|CCONJ potentially|ADV forever|ADV pending|VERB results|NOUN from|ADP the|DET investigation|NOUN .|PUNCT
+Other_Greek_organizations|NOUN are|VERB banned|VERB from|ADP recruiting|VERB new_members|NOUN until|ADP 2018|DATE ,|PUNCT and|CCONJ other_limits|NOUN have|VERB been|VERB placed|VERB on|ADP the|DET number|NOUN of|ADP social_events|NOUN they|PRON can|VERB hold|VERB .|PUNCT
+Penn_State_President_Eric_Barron|ENT released|VERB a|DET statement|NOUN calling|VERB the|DET details|NOUN alleged|VERB in|ADP the|DET findings|NOUN "|PUNCT heart|NOUN -|PUNCT wrenching|VERB and|CCONJ incomprehensible|ADJ "|PUNCT and|CCONJ that|ADP "|PUNCT The_University_community|ENT continues|VERB to|PART mourn|VERB his|ADJ tragic_death|NOUN .|PUNCT "|PUNCT
+A_representative|NOUN for|ADP Beta_Theta_Pi|ENT did|VERB not|ADV immediately|ADV respond|VERB to|ADP a|DET request|NOUN for|ADP comment|NOUN from|ADP Business_Insider|ENT .|PUNCT
+The|DET editorial_board|NOUN at|ADP The_Daily_Collegian|ENT ,|PUNCT Penn|PROPN State|ENT 's|PART student|NOUN paper|NOUN ,|PUNCT also|ADV voiced|VERB their|ADJ concern|NOUN and|CCONJ anger|NOUN .|PUNCT "|PUNCT
+Incomprehensible|ADJ that|ADP a|DET 19-year-old|DATE with|ADP his|ADJ whole_life|NOUN ahead|ADV of|ADP him|PRON could|VERB be|VERB alive|ADJ one_day|DATE ,|PUNCT and|CCONJ gone|VERB the|DET next|ADJ .|PUNCT
+Sickening|VERB that|DET young_adults|NOUN could|VERB be|VERB so|ADV careless|ADJ and|CCONJ have|VERB such_little_respect|NOUN for|ADP human_life|NOUN ,|PUNCT "|PUNCT they|PRON wrote|VERB .|PUNCT
+They|PRON do|VERB n't|ADV believe|VERB enough|ADJ has|VERB been|VERB done|VERB to|PART ensure|VERB a|DET similar_tragedy|NOUN does|VERB n't|ADV occur|VERB in|ADP the|DET futures|NOUN .|PUNCT
+"|PUNCT The|DET governing_body|NOUN failed|VERB to|PART tackle|VERB the|DET underlying_cause|NOUN of|ADP Piazza|ENT 's|PART death_-_hazing|NOUN ,|PUNCT "|PUNCT the|DET editorial_board|NOUN continued|VERB .|PUNCT

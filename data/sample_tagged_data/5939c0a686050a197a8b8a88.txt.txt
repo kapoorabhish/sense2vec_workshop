@@ -1,0 +1,22 @@
+By|ADP Julien_Pretot__PARIS|PROPN ,|PUNCT June_8|DATE (|PUNCT Reuters|PROPN )|PUNCT -|PUNCT Timea_Bacsinszky's_party|NOUN was|VERB ruined|VERB when|ADV fellow_birthday_girl|NOUN Jelena_Ostapenko|ENT beat|VERB her|PRON in|ADP the_French_Open_semi|ENT -|PUNCT finals|NOUN on|ADP Thursday|DATE but|CCONJ the|DET Swiss|ENT appeared|VERB to|PART be|VERB taking|VERB her|ADJ second_failure|NOUN at|ADP that|DET stage|NOUN in|ADP three_years|DATE in|ADP her|ADJ stride|NOUN .|PUNCT
+Asked|VERB if|ADP she|PRON would|VERB still|ADV celebrate|VERB her|ADJ 28th_birthday|NOUN ,|PUNCT she|PRON joked|VERB :|PUNCT "|PUNCT Yes|INTJ .|PUNCT
+I|PRON 'm|VERB going|VERB to|PART drink|VERB some|DET beer|NOUN ,|PUNCT finally|ADV .|PUNCT "|PUNCT
+Bacsinszky|PROPN battled|VERB back|ADV after|ADP losing|VERB the|DET first_set_tiebreak|NOUN but|CCONJ the|DET 30th_seed|NOUN was|VERB eventually|ADV overwhelmed|VERB by|ADP her|ADJ 20-year-old_Latvian_opponent|NOUN ,|PUNCT who|NOUN prevailed|VERB 7|CARDINAL -|SYM 6(4|NUM )|PUNCT 3|CARDINAL -|SYM 6|NUM 6-3|CARDINAL .|PUNCT
+The|DET contest|NOUN was|VERB tight|ADJ ,|PUNCT Ostapenko|ENT winning|VERB 106|CARDINAL points|NOUN to|ADP Bacsinszky|ENT 's|PART 105|CARDINAL ,|PUNCT but|CCONJ even|ADV that|DET did|VERB not|ADV spoil|VERB the|DET mood|NOUN of|ADP the|DET Swiss|ENT ,|PUNCT who|NOUN was|VERB obviously|ADV disappointed|ADJ but|CCONJ dejected|ADJ .|PUNCT "|PUNCT What|NOUN 's|VERB the|DET point_difference|NOUN that|ADJ we|PRON have|VERB ?|PUNCT
+But|CCONJ it|PRON was|VERB n't|ADV that|ADV much|ADJ .|PUNCT
+Ah|INTJ ,|PUNCT only|ADV one|NUM ?|PUNCT
+Ah|INTJ ,|PUNCT bad_luck|NOUN .|PUNCT
+Okay|INTJ .|PUNCT
+It|PRON 's|VERB a|DET tough_one|NOUN ,|PUNCT "|PUNCT she|PRON said|VERB .|PUNCT
+"|PUNCT I|PRON cry|VERB now|ADV or|CCONJ later|ADV ?|PUNCT
+It|PRON actually|ADV makes|VERB me|PRON cry|VERB now|ADV .|PUNCT
+Ah|INTJ ,|PUNCT but|CCONJ it|PRON 's|VERB okay|ADJ .|PUNCT "|PUNCT
+For|ADP all|DET her|ADJ tactical_skills|NOUN ,|PUNCT Bacsinszky|ENT could|VERB not|ADV contain|VERB Ostapenko|ENT ,|PUNCT who|NOUN hit|VERB the|DET lines|NOUN on|ADP multiple_occasions|NOUN in|ADP an|DET aggressive_style|NOUN reminiscent|ADJ of|ADP Monica_Seles|ENT .|PUNCT
+"|PUNCT I|PRON 'm|VERB not|ADV ashamed|ADJ to|PART say|VERB that|ADP she|PRON played|VERB better|ADJ ,|PUNCT "|PUNCT said|VERB Bacsinszky|ENT .|PUNCT "|PUNCT
+She|PRON was|VERB braver|ADJ .|PUNCT
+She|PRON had|VERB more|ADJ courage|NOUN .|PUNCT "|PUNCT
+The|DET Latvian|ENT is|VERB also|ADV eight|CARDINAL centimetres|NOUN taller|ADJ ,|PUNCT meaning|VERB it|PRON was|VERB easier|ADJ for|ADP Ostapenko|ENT to|PART hit|VERB the|DET ball|NOUN harder|ADV .|PUNCT
+That|DET did|VERB not|ADV unduly|ADV depress|VERB Bacsinszky|ENT either|ADV .|PUNCT
+Asked|VERB how|ADV she|PRON thought|VERB she|PRON could|VERB handle|VERB Ostapenko|ENT 's|PART power|NOUN in|ADP future|NOUN ,|PUNCT the|DET Swiss|ENT joked|VERB :|PUNCT "|PUNCT Well|INTJ ,|PUNCT I|PRON was|VERB thinking|VERB about|ADP gaining|VERB three|CARDINAL inches|NOUN or|CCONJ four|CARDINAL inches|NOUN .|PUNCT
+No|INTJ ,|PUNCT I|PRON 'm|VERB just|ADV kidding|VERB .|PUNCT "|PUNCT
+(|PUNCT Reporting|VERB by|ADP Julien_Pretot|ENT ;|PUNCT Editing|VERB by|ADP Ken_Ferris|ENT )|PUNCT

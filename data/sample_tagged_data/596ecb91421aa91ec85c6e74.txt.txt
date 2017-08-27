@@ -1,0 +1,23 @@
+Skip|VERB in|ADP Skip|ADJ x|SYM Embed_x_Share|ENT CLOSE|PROPN
+One|NUM of|ADP the|DET largest_icebergs|NOUN ever|ADV recorded|VERB broke|VERB free|ADJ in|ADP Antarctica|ENT ,|PUNCT and|CCONJ scientists|NOUN are|VERB saying|VERB another|DET collapse|NOUN might|VERB have|VERB catastrophic_consequences|NOUN .|PUNCT
+Veuer|ENT 's|PART Elizabeth_Keatinge|ENT has|VERB the|DET full_story|NOUN .|PUNCT Buzz60|PUNCT
+The|DET iceberg|NOUN A-68|PROPN has|VERB sheared|VERB off|PART from|ADP the|DET Larsen_C_ice_shelf|NOUN in|ADP Antarctica|ENT .|PUNCT
+The|DET inset_photos|NOUN show|VERB close-ups|NOUN of|ADP where|ADV smaller_bergs|NOUN are|VERB beginning|VERB to|PART break|VERB off|PART .|PUNCT
+(|PUNCT Photo|NOUN :|PUNCT Deimos_Imaging|ENT ,|PUNCT an|DET UrtheCast|ENT company|NOUN )|PUNCT The|DET sea_cruise|NOUN is|VERB underway|ADJ .|PUNCT
+The|DET massive_iceberg|NOUN that|ADJ calved|VERB off|ADP Antarctica|ENT last_week|DATE is|VERB slowly|ADV drifting|VERB into|ADP the_Weddell_Sea|ENT .|PUNCT
+Satellite_images|NOUN show|VERB the|DET widening_gap|NOUN between|ADP the|DET 1-trillion-|QUANTITY ton_berg|PROPN —|PUNCT known|VERB as|ADP A-68|PROPN —|PUNCT and|CCONJ the|DET Larsen_C_ice_shelf|NOUN .|PUNCT
+At|ADP 2,200_square_miles|QUANTITY ,|PUNCT the|DET chunk|NOUN of|ADP floating|VERB ice|NOUN is|VERB one|CARDINAL of|ADP the|DET largest|ADJ ever|ADV recorded|VERB .|PUNCT
+It|PRON 's|VERB nearly_the_size|NOUN of|ADP Delaware|ENT .|PUNCT
+Due|ADP to|ADP long_winter_nights|NOUN and|CCONJ extensive_cloud_cover|NOUN in|ADP Antarctica|ENT ,|PUNCT photos|NOUN of|ADP the|DET iceberg|NOUN are|VERB difficult|ADJ to|PART obtain|VERB .|PUNCT
+Scientists|NOUN studying|VERB the|DET iceberg|NOUN rely|VERB on|ADP satellites|NOUN equipped|VERB with|ADP radar-imaging_systems|NOUN or|CCONJ infrared_sensors|NOUN ,|PUNCT which|ADJ can|VERB create|VERB images|NOUN regardless|ADV of|ADP cloud_cover|NOUN or|CCONJ darkness|NOUN .|PUNCT
+The|DET image|NOUN on|ADP the|DET top|NOUN of|ADP this|DET page|NOUN came|VERB from|ADP the|DET Deimos-1_satellite|NOUN .|PUNCT
+Actual_photos|NOUN from|ADP research_aircraft|NOUN wo|VERB n't|ADV be|VERB possible|ADJ until|ADP later_this_year|DATE ,|PUNCT during|ADP the|DET Antarctic_spring|NOUN and|CCONJ summer|DATE ,|PUNCT according|VERB to|ADP Adrian_Luckman|ENT ,|PUNCT a|DET professor|NOUN of|ADP Swansea_University|ENT and|CCONJ the|DET lead|NOUN investigator|NOUN of|ADP the|DET research_group|NOUN Project_MIDAS|ENT .|PUNCT
+The_U.S._National_Ice_Center|ENT will|VERB monitor|VERB the|DET path|NOUN of|ADP the|DET new_iceberg|NOUN ,|PUNCT which|ADJ will|VERB be|VERB determined|VERB by|ADP ocean_currents|NOUN around|ADP Antarctica|ENT ,|PUNCT NASA|ENT said|VERB .|PUNCT
+The|DET new_berg|NOUN is|VERB likely|ADJ to|PART follow|VERB a|DET similar_path|NOUN to|ADP the|DET icebergs|NOUN produced|VERB by|ADP the|DET collapse|NOUN of|ADP Larsen_B|PROPN :|PUNCT North|NOUN along|ADP the|DET coast|NOUN of|ADP the|DET Peninsula|ENT ,|PUNCT then|ADV northeast|ADV into|ADP the_South_Atlantic_Ocean|ENT ,|PUNCT perhaps|ADV near|ADP the_South_Georgia|ENT and|CCONJ the_South_Sandwich_Islands|ENT ,|PUNCT a|DET British|ENT territory|NOUN .|PUNCT “|PUNCT
+It|PRON ’s|VERB very|ADV unlikely|ADJ it|PRON will|VERB cause|VERB any|DET trouble|NOUN for|ADP navigation|NOUN ,|PUNCT ”|PUNCT said|VERB Kelly_Brunt|ENT ,|PUNCT a|DET glaciologist|NOUN with|ADP NASA’s_Goddard_Space_Flight_Center|ENT .|PUNCT
+It|PRON will|VERB likely|ADV fracture|VERB into|ADP smaller_bergs|NOUN as|ADP it|PRON makes|VERB its|ADJ way|NOUN out|ADP to|ADP sea|NOUN ,|PUNCT the|DET ice_center|NOUN said|VERB in|ADP a|DET statement|NOUN .|PUNCT
+As|ADP for|ADP its|ADJ inelegant_moniker|NOUN of|ADP A-68|ENT ,|PUNCT iceberg_names|NOUN are|VERB derived|VERB from|ADP the|DET Antarctic_quadrant|NOUN in|ADP which|ADJ they|PRON were|VERB originally|ADV sighted|VERB ,|PUNCT the|DET ice_center|NOUN said|VERB .|PUNCT
+Thus|ADV ,|PUNCT this|DET is|VERB the|DET 68th_iceberg|NOUN the|DET ice_center|NOUN has|VERB tracked|VERB in|ADP the|DET A_quadrant|NOUN ,|PUNCT which|ADJ includes|VERB Weddell_Sea_bergs|NOUN .|PUNCT
+This|DET satellite_image|NOUN shows|VERB the_Larsen_C|ENT ice_shelf|NOUN on|ADP July_12,_2017|DATE .|PUNCT
+According|VERB to|ADP a|DET statement|NOUN by|ADP scientists|NOUN of|ADP the|DET MIDAS_project|NOUN on|ADP an|DET iceberg|NOUN has|VERB fully|ADV detached|VERB from|ADP the_Larsen_C|ENT ice_shelf|NOUN .|PUNCT
+(|PUNCT Photo|NOUN :|PUNCT Copernicus_EU/|ENT ESA_Earth_Observation|ENT /|SYM ESA|ENT )|PUNCT Read|VERB or|CCONJ Share|VERB this|DET story|NOUN :|PUNCT %%URL|X

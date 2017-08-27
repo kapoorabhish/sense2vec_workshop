@@ -1,0 +1,12 @@
+Chief_Minister_P.S.Badal|PROPN during|ADP the|DET Eid|PROPN at|ADP Malerkotla|ENT .|PUNCT
+After|ADP a|DET gap|NOUN of|ADP almost_two_years|DATE ,|PUNCT Punjab_chief_minister|NOUN Parkash_Singh_Badal|ENT attended|VERB an|DET Eid_function|NOUN at|ADP Malerkotla’s_Idgah|ENT on|ADP Friday|DATE .|PUNCT
+Ever|ADV since|ADP Bhagwant_Mann|ENT won|VERB the|DET 2014|DATE Lok_Sabha_elections|NOUN from|ADP Sangrur|ENT ,|PUNCT the|DET chief_minister|NOUN has|VERB not|ADV been|VERB seen|VERB at|ADP many_public_functions|NOUN at|ADP Malerkotla|ENT .|PUNCT
+The|DET CM|ENT pointed|VERB to|ADP his|ADJ busy_calendar|NOUN for|ADP his|ADJ absence|NOUN from|ADP functions|NOUN in|ADP Malerkotla|ENT .|PUNCT
+On|ADP Friday|DATE ,|PUNCT however|ADV ,|PUNCT the|DET chief_minister|NOUN came|VERB to|ADP the|DET area|NOUN along|ADP with|ADP Parminder_Singh_Dhindsa|ENT and|CCONJ local_MLA_Farzana_Alam|ENT and|CCONJ handed|VERB over|ADP a|DET cheque|NOUN worth|ADJ almost_Rs|DATE 23|CARDINAL lakh|NOUN for|ADP renovating|VERB a|DET Haj_building|NOUN .|PUNCT
+Badal|ENT used|VERB the|DET opportunity|NOUN to|PART take|VERB a|DET dig|NOUN at|ADP Mann|ENT .|PUNCT
+“|PUNCT Entertainers|NOUN can|VERB never|ADV do|VERB anything|NOUN good|ADJ for|ADP the|DET state|NOUN .|PUNCT
+They|PRON can|VERB misguide|VERB you|PRON for|ADP a|DET while|NOUN ,|PUNCT or|CCONJ even|ADV make|VERB you|PRON laugh|VERB ,|PUNCT but|CCONJ when|ADV it|PRON comes|VERB to|ADP politics|NOUN ,|PUNCT they|PRON fail|VERB utterly|ADV .|PUNCT
+So|ADV one|PRON should|VERB believe|VERB in|ADP serious_politician|NOUN who|NOUN actually|ADV works|VERB for|ADP your|ADJ welfare|NOUN ,|PUNCT ”|PUNCT Badal|ENT said|VERB .|PUNCT
+Other_leaders|NOUN too|ADV seemed|VERB to|PART focus|VERB on|ADP Mann|ENT in|ADP their|ADJ speeches|NOUN at|ADP Idgah|ENT .|PUNCT
+Chief_minister|NOUN Parkash_Singh_Badal|ENT also|ADV said|VERB that|ADP the|DET government|NOUN would|VERB look|VERB into|ADP setting|VERB up|ADP of|ADP a|DET food_park|NOUN and|CCONJ a|DET sewerage_treatment_plant|NOUN in|ADP the|DET area|NOUN .|PUNCT
+For|ADP all|ADJ the|DET latest_India_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

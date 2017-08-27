@@ -1,0 +1,7 @@
+Robots|NOUN and|CCONJ artificial_intelligence|NOUN are|VERB upending|VERB everything|NOUN we|PRON thought|VERB we|PRON knew|VERB about|ADP what|NOUN it|PRON means|VERB to|PART be|VERB human|ADJ .|PUNCT
+The|DET boundaries|NOUN between|ADP person|NOUN and|CCONJ machine|NOUN are|VERB becoming|VERB difficult|ADJ to|PART define|VERB .|PUNCT
+Human|NOUN brains|NOUN power|NOUN robotic|NOUN limbs|NOUN ;|PUNCT an|DET artificially_intelligent_machine|NOUN serves|VERB as|ADP the|DET manager|NOUN for|ADP tens_of_thousands|CARDINAL of|ADP workers|NOUN ;|PUNCT chatbots_act|NOUN as|ADP digital_replicas|NOUN of|ADP us|PRON .|PUNCT
+Humanity|NOUN is|VERB ,|PUNCT in|ADP effect|NOUN ,|PUNCT getting|VERB an|DET upgrade|NOUN .|PUNCT
+What|NOUN were|VERB once_capabilities|NOUN thought|VERB unique|ADJ to|ADP humans|NOUN are|VERB now|ADV powering|VERB technologies|NOUN that|ADJ could|VERB offer|VERB the|DET ability|NOUN to|PART extend|VERB and|CCONJ deepen|VERB our|ADJ lives|NOUN —|PUNCT or|CCONJ supplant|VERB our|ADJ livelihoods|NOUN .|PUNCT
+Quartz|ENT explores|VERB the|DET stories|NOUN of|ADP humans|NOUN who|NOUN are|VERB navigating|VERB the|DET complex_reality|NOUN of|ADP a|DET world|NOUN where|ADV machines|NOUN have|VERB brains|NOUN .|PUNCT
+Reuters|ENT /|SYM Mike_Blake|ENT

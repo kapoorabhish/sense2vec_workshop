@@ -1,0 +1,18 @@
+Earlier|ADV in|ADP the_day|DATE ,|PUNCT Nitish_Kumar|ENT took|VERB oath|NOUN as|ADP chief_minister|NOUN for|ADP the|DET sixth_time|NOUN .|PUNCT
+(|PUNCT IE|PROPN )|PUNCT With|ADP Nitish_Kumar|PROPN joining|VERB hands|NOUN with|ADP the|DET BJP|ENT to|PART form|VERB the|DET government|NOUN in|ADP Bihar|ENT once|ADV again|ADV after|ADP breaking|VERB the|DET grand_alliance|NOUN ,|PUNCT RJD_supporters|NOUN reportedly|ADV pelted|VERB stones|NOUN in|ADP cars|NOUN of|ADP district_magistrate|NOUN of|ADP Saran_Harihar_Prasad|ENT and|CCONJ district|NOUN SP_SP_Anusuya_Ransingh_Sahu|PROPN ,|PUNCT a|DET Times_of|ENT India|ENT report|NOUN said|VERB .|PUNCT
+Times_Now|ENT also|ADV showed|VERB party_supporters|NOUN apparently|ADV even|ADV thrashing|VERB the|DET DM|ENT .|PUNCT
+As|ADP per|ADP the|DET report|NOUN ,|PUNCT both|DET DM|ENT and|CCONJ SP|ENT had|VERB reached|VERB Sonpur’s_JP_Bridge|ENT that|ADJ was|VERB blocked|VERB by|ADP party_supporters|NOUN after|ADP Nitish_Kumar|ENT left|VERB Grand_Alliance_partners|NOUN RJD|PROPN and|CCONJ Congress|ENT to|PART form|VERB the|DET government|NOUN in|ADP the|DET state|NOUN along|ADP with|ADP BJP|ENT .|PUNCT
+Confirming|VERB the|DET incident|NOUN ,|PUNCT Deputy_Inspector_General_of|ENT Police_Ajit_Kumar_Raian_FIR|PROPN has|VERB been|VERB filed|VERB on|ADP the|DET incident|NOUN .|PUNCT
+After|ADP chasing|VERB away|ADV protestors|NOUN ,|PUNCT police|NOUN restored|VERB traffic|NOUN on|ADP the|DET bridge|NOUN .|PUNCT
+Reports|NOUN of|ADP protest_march|NOUN by|ADP RJD_supporters|NOUN also|ADV came|VERB from|ADP Begusarai|ENT and|CCONJ Hajipur|ENT among|ADP others|NOUN in|ADP the_day|DATE ,|PUNCT PTI|ENT said|VERB .|PUNCT
+Earlier_in|TIME the|DET day|NOUN ,|PUNCT Nitish_Kumar|ENT took|VERB oath|NOUN as|ADP chief_minister|NOUN for|ADP the|DET sixth_time|NOUN with|ADP BJP’s_Sushil_Mode|PROPN sworn|VERB in|PART as|ADP his|ADJ deputy|NOUN .|PUNCT
+Last_evening|TIME he|PRON had|VERB walked|VERB out|ADP of|ADP Grand_Alliance|ENT ,|PUNCT saying|VERB it|PRON was|VERB getting|VERB difficult|ADJ for|ADP him|PRON to|PART work|VERB under|ADP the|DET circumstances|NOUN ,|PUNCT Indian_Express|ENT said|VERB .|PUNCT
+The|DET recent_CBI_raids|NOUN on|ADP premises|NOUN linked|VERB to|ADP RJD_supremo|NOUN Lalu_Prasad_Yadav|ENT and|CCONJ his|ADJ family|NOUN and|CCONJ accusations|NOUN of|ADP corruption|NOUN on|ADP his|ADJ deputy_chief_minister|NOUN Tejashwi_Yadav|ENT proved|VERB to|PART be|VERB too|ADV much|ADJ for|ADP Nitish_Kumar|PROPN to|PART continue|VERB with|ADP the|DET alliance|NOUN ,|PUNCT he|PRON had|VERB said|VERB .|PUNCT
+You|PRON may|VERB also|ADV like|VERB to|PART watch|VERB this|DET video|NOUN “|PUNCT
+When|ADV I|PRON felt|VERB that|ADP I|PRON can|VERB not|ADV work|VERB with|ADP my|ADJ principles|NOUN in|ADP this|DET government|NOUN ,|PUNCT I|PRON separated|VERB myself|PRON .|PUNCT
+I|PRON submitted|VERB my|ADJ resignation|NOUN to|ADP the|DET Governor|PROPN .|PUNCT
+The|DET Governor|PROPN has|VERB accepted|VERB it|PRON and|CCONJ asked|VERB me|PRON to|PART continue|VERB till|ADP further_arrangements|NOUN are|VERB made|VERB ,|PUNCT ”|PUNCT
+Kumar|ENT told|VERB reporters|NOUN last_Night|TIME as|ADP per|ADP the|DET paper|NOUN .|PUNCT
+Sushil_Modi|ENT had|VERB earlier|ADV as|ADP the|DET state|NOUN ’s|NUM deputy_chief_minister|NOUN between_2005_and_2013|DATE as|ADP part|NOUN of|ADP the|DET JD(U)-BJP_government|NOUN and|CCONJ will|VERB continue|VERB with|ADP that|DET role|NOUN .|PUNCT
+No|DET other_minister|NOUN was|VERB sworn|VERB in|PART today|DATE .|PUNCT
+The|DET BJP|ENT had|VERB yesterday|DATE decided|VERB to|PART form|VERB a|DET government|NOUN with|ADP the|DET JD(U|ENT )|PUNCT after|ADP it|PRON said|VERB that|ADP it|PRON was|VERB not|ADV favoured|VERB mid-term_elections|NOUN .|PUNCT

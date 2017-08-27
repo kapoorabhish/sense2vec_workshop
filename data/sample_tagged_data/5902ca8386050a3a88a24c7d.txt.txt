@@ -1,0 +1,46 @@
+While|ADP President_Trump|ENT overcame|VERB deep_Democratic_resistance|NOUN to|PART install|VERB his|ADJ Cabinet_picks|NOUN in|ADP his|ADJ first_100_days|DATE ,|PUNCT the|DET former_executive|NOUN has|VERB struggled|VERB to|PART fill|VERB hundreds|CARDINAL of|ADP other_administration_posts|NOUN --|PUNCT and|CCONJ the|DET vacancies|NOUN could|VERB pose|VERB a|DET mounting_challenge|NOUN as|ADP his|ADJ presidency|NOUN moves|VERB into|ADP the|DET next_phase|NOUN .|PUNCT
+Trump|ENT has|VERB been|VERB historically|ADV slow|ADJ in|ADP naming|VERB people|NOUN to|ADP non|ADJ -|PUNCT Cabinet_posts|NOUN requiring|VERB Senate_confirmation|NOUN .|PUNCT
+Overall|ADV ,|PUNCT he|PRON 's|VERB had|VERB the|DET fewest_nominations|NOUN and|CCONJ confirmations|NOUN in|ADP his|ADJ first_100_days_of|DATE any|DET president|NOUN in|ADP the_last_40_years|DATE .|PUNCT
+According|VERB to|ADP Partnership_for_Public_Service|ENT ,|PUNCT a|DET nonprofit|ADJ organization|NOUN that|ADJ tracks|VERB presidential_appointments|NOUN ,|PUNCT there|ADV are|VERB approximately_556|CARDINAL key_administration_positions|NOUN that|ADJ require|VERB presidential_appointment|NOUN and|CCONJ Senate_confirmation|NOUN .|PUNCT
+Of|ADP those|DET ,|PUNCT 468|CARDINAL are|VERB missing|VERB a|DET full-time_replacement|NOUN .|PUNCT
+Senate_Minority_Leader_Chuck_Schumer|ENT ,|PUNCT D|ENT -|PUNCT N.Y.|PROPN ,|PUNCT claimed|VERB this|DET was|VERB just|ADV “|PUNCT
+another|DET example|NOUN ”|PUNCT of|ADP an|DET unsuccessful_first_100_days|DATE .|PUNCT
+“|PUNCT Because|ADP of|ADP the_White_House|ENT ’s|VERB glacial_pace|NOUN ,|PUNCT there|ADV are|VERB hundreds_and_hundreds|CARDINAL of|ADP Senate|ENT confirmable_positions|NOUN without|ADP any|DET pending_nominee|NOUN from|ADP the|DET administration|NOUN ,|PUNCT and|CCONJ just_7_pending_nominees|NOUN before|ADP the|DET Senate|ENT ,|PUNCT ”|PUNCT
+Schumer|ENT said|VERB .|PUNCT “|PUNCT
+Instead|ADV of|ADP pointing_fingers|NOUN of|ADP blame|NOUN ,|PUNCT the|DET administration|NOUN ought|VERB to|PART roll|VERB up|PART their|ADJ sleeves|NOUN and|CCONJ send|VERB qualified_nominees|NOUN to|ADP the|DET Senate|ENT .|PUNCT
+”|PUNCT The_White_House|ENT did|VERB not|ADV respond|VERB to|ADP Fox_News’_request|NOUN for|ADP comment|NOUN on|ADP the|DET delay|NOUN in|ADP announcing|VERB nominees|NOUN ,|PUNCT but|CCONJ just_this_week|DATE ,|PUNCT the|DET president|NOUN told|VERB the_Associated_Press|ENT he|PRON just|ADV “|PUNCT never|ADV realized|VERB how|ADV big|ADJ it|PRON was|VERB .|PUNCT ”|PUNCT
+“|PUNCT
+This|DET is|VERB thousands|CARDINAL of|ADP times|NOUN bigger|ADJ ,|PUNCT the_United_States|ENT ,|PUNCT than|ADP the|DET biggest_company|NOUN in|ADP the|DET world|NOUN —|PUNCT the|DET second-largest_company|NOUN in|ADP the|DET world|NOUN is|VERB the_Defense_Department|ENT ,|PUNCT the|DET third-largest_company|NOUN in|ADP the|DET world|NOUN is|VERB Social_Security|ENT ,|PUNCT ”|PUNCT Trump|ENT told|VERB the_Associated_Press|ENT .|PUNCT “|PUNCT
+It|PRON ’s|VERB massive|ADJ ,|PUNCT every|DET agency|NOUN is|VERB ,|PUNCT like|ADP ,|PUNCT bigger|ADJ than|ADP any|DET company|NOUN —|PUNCT
+so|ADV ,|PUNCT you|PRON know|VERB ,|PUNCT I|PRON really|ADV just|ADV see|VERB the|DET bigness|NOUN of|ADP it|PRON all|DET ,|PUNCT but|CCONJ also|ADV the|DET responsibility|NOUN .|PUNCT ”|PUNCT
+By|ADP the_100th_day|DATE of|ADP Barack_Obama’s|ENT first|ORDINAL term|NOUN ,|PUNCT he|PRON had|VERB 69|CARDINAL positions|NOUN filled|VERB and|CCONJ confirmed|VERB .|PUNCT
+As|ADP of|ADP day|NOUN 98|CARDINAL ,|PUNCT Trump|ENT has|VERB 24|CARDINAL .|PUNCT
+Despite|ADP the|DET delay|NOUN for|ADP mid-level_posts|NOUN ,|PUNCT Trump|ENT just|ADV about|ADV has|VERB his|ADJ Cabinet|ENT in|ADP place|NOUN .|PUNCT
+He|PRON is|VERB waiting|VERB only|ADV on|ADP Alexander_Acosta|ENT to|PART be|VERB installed|VERB as|ADP Labor_secretary|NOUN and|CCONJ Robert_Lightheizer|ENT as|ADP trade_representative|NOUN .|PUNCT
+Sonny_Perdue|ENT was|VERB confirmed|VERB as|ADP Agriculture_secretary|NOUN on|ADP Tuesday|DATE .|PUNCT
+Trump|ENT also|ADV was|VERB decisive|ADJ with|ADP his|ADJ February_appointment|NOUN of|ADP Judge_Neil_Gorsuch|ENT to|PART take|VERB late-Justice_Antonin_Scalia’s_seat|NOUN on|ADP the|DET bench|NOUN of|ADP the_Supreme_Court|ENT .|PUNCT
+Democrats|ENT attempted|VERB to|PART block|VERB Gorsuch|ENT ,|PUNCT which|ADJ pushed|VERB Republicans|ENT to|PART “|PUNCT go|VERB nuclear|ADJ ”|PUNCT and|CCONJ change|NOUN Senate|ENT precedent|NOUN to|PART secure|VERB confirmation|NOUN earlier_this_month|DATE .|PUNCT
+But|CCONJ among|ADP the|DET hundreds|CARDINAL of|ADP vacancies|NOUN are|VERB 93|CARDINAL unfilled_U.S._attorneys_posts|NOUN ,|PUNCT after|ADP Attorney_General_Jeff_Sessions’_request|NOUN for|ADP the|DET resignation|NOUN of|ADP holdover_U.S._attorneys|NOUN in|ADP March|DATE .|PUNCT
+Sessions|ENT told|VERB Fox_News|ENT last_week|DATE that|ADP U.S._attorney_nominations|NOUN and|CCONJ confirmations|NOUN typically|ADV “|PUNCT follow|VERB ”|PUNCT other_critical_appointments|NOUN .|PUNCT
+Just_this_week|DATE ,|PUNCT Sessions|ENT saw|VERB his|ADJ first_Senate-confirmed_member|NOUN of|ADP the|DET DOJ|ENT ,|PUNCT Deputy|PROPN Attorney|PROPN General|PROPN Rod_Rosenstein|ENT .|PUNCT
+The|DET new_No|NOUN .|PUNCT
+2|CARDINAL is|VERB a|DET longtime_federal_prosecutor|NOUN and|CCONJ will|VERB oversee|VERB the|DET federal_probe|NOUN into|ADP Russian_influence|NOUN in|ADP the|DET 2016|DATE presidential_election|NOUN after|ADP Sessions|ENT recused|VERB himself|PRON .|PUNCT
+“|PUNCT Congress|ENT is|VERB always|ADV slow|ADJ —|PUNCT we|PRON are|VERB not|ADV behind|ADV on|ADP U.S._attorneys|NOUN —|PUNCT they|PRON have|VERB ,|PUNCT and|CCONJ always|ADV have|VERB been|VERB late_summer|DATE ,|PUNCT early|ADJ fall|NOUN ,|PUNCT ”|PUNCT
+Sessions|ENT told|VERB Fox_News'|ENT "|PUNCT Happening_Now|ENT .|PUNCT "|PUNCT “|PUNCT
+We|PRON are|VERB moving|VERB forward|ADV with|ADP some|DET really_great_nominees|NOUN —|PUNCT
+U.S._attorneys|NOUN are|VERB critical_law_enforcement_officers|NOUN —|PUNCT
+they|PRON work|VERB with|ADP federal_agencies|NOUN ,|PUNCT all|ADJ the|DET state_agencies|NOUN and|CCONJ they|PRON provide|VERB leadership|NOUN and|CCONJ drive|VERB for|ADP those|DET prosecutions|NOUN —|PUNCT we|PRON need|VERB great_U.S._attorneys|NOUN .|PUNCT ”|PUNCT But|CCONJ the|DET responsibility|NOUN to|PART nominate|VERB these|DET attorneys|NOUN and|CCONJ other_key_posts|NOUN falls|VERB to|ADP the|DET president|NOUN .|PUNCT “|PUNCT
+It|PRON ’s|VERB hard|ADJ to|PART point|VERB the|DET finger|NOUN at|ADP Senate_Democrats|ENT when|ADV there|ADV are|VERB n’t|ADV very_many_names|NOUN before|ADP them|PRON ,|PUNCT ”|PUNCT
+Max_Stier|ENT ,|PUNCT CEO_of_Partnership|ENT for|ADP Public_Service|PROPN ,|PUNCT told|VERB Fox_News|ENT .|PUNCT “|PUNCT
+The|DET Trump_team|NOUN has|VERB fallen|VERB behind|ADV on|ADP an|DET essential_aspect|NOUN of|ADP running|VERB the|DET most_complicated,_important,_diverse_organization|NOUN on|ADP the|DET planet|NOUN and|CCONJ you|PRON ca|VERB n’t|ADV do|VERB it|PRON properly|ADV if|ADP you|PRON do|VERB n’t|ADV have|VERB the|DET right_people|NOUN put|VERB in|ADP place|NOUN .|PUNCT ”|PUNCT
+Stier|ENT did|VERB ,|PUNCT however|ADV ,|PUNCT sympathize|VERB with|ADP the|DET president|NOUN 's|PART situation|NOUN ,|PUNCT saying|VERB there|ADV are|VERB “|PUNCT too|ADV many|ADJ ”|PUNCT
+political_appointees|NOUN and|CCONJ “|PUNCT no|DET one|NOUN has|VERB done|VERB this|DET process|NOUN right|INTJ .|PUNCT ”|PUNCT “|PUNCT
+If|ADP you|PRON do|VERB n’t|ADV have|VERB your|ADJ top_people|NOUN confirmed|VERB quickly|ADV ,|PUNCT then|ADV you|PRON ca|VERB n’t|ADV select|VERB people|NOUN downstream|ADV from|ADP there|ADV ,|PUNCT ”|PUNCT
+Stier|ENT said|VERB .|PUNCT
+Former|ADJ chief|NOUN of|ADP staff|NOUN to|ADP President_George_H.W._Bush|ENT and|CCONJ former_governor|NOUN of|ADP New_Hampshire_John_Sununu|ENT gave|VERB the|DET Trump_administration|NOUN the|DET school|NOUN -|PUNCT grade|NOUN of|ADP a|DET ‘|PUNCT
+C’|PROPN in|ADP terms|NOUN of|ADP putting|VERB their|ADJ team|NOUN in|ADP place|NOUN .|PUNCT
+“|PUNCT They|PRON need|VERB to|PART be|VERB more|ADV aggressive|ADJ on|ADP getting|VERB their|ADJ appointments|NOUN through|ADP ,|PUNCT even|ADV to|ADP the|DET point|NOUN of|ADP trying|VERB to|PART figure|VERB out|PART how|ADV to|PART name|VERB acting_people|NOUN in|ADP the|DET agencies|NOUN in|ADP order|NOUN to|PART get|VERB their|ADJ policies|NOUN implemented|VERB ,|PUNCT ”|PUNCT
+Sununu|ENT told|VERB "|PUNCT America|ENT 's|PART Newsroom|ENT .|PUNCT "|PUNCT “|PUNCT
+Bring|VERB people|NOUN up|ADV from|ADP the|DET bottom|NOUN of|ADP the|DET ranks|NOUN that|ADJ they|PRON trust|VERB ,|PUNCT and|CCONJ put|VERB them|PRON in|ADP an|DET acting_position|NOUN and|CCONJ start|VERB making|VERB the|DET changes|NOUN that|ADJ will|VERB force|VERB the|DET Democrats|ENT to|PART start|VERB doing|VERB the|DET approvals|NOUN in|ADP the|DET Senate|ENT .|PUNCT
+”|SYM __Brooke_Singman|ENT is|VERB a|DET Reporter|NOUN for|ADP Fox_News|ENT .|PUNCT
+Follow|VERB her|PRON on|ADP Twitter_at|ENT @brookefoxnews|PROPN .|PUNCT

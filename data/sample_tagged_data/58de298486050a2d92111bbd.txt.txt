@@ -1,0 +1,11 @@
+External_Affairs_Minister_Sushma_Swaraj|ENT (|PUNCT File_Photo|ENT )|PUNCT External|PROPN Affairs|PROPN Minister|PROPN Sushma_Swaraj|ENT (|PUNCT File_Photo|ENT )|PUNCT Government|NOUN today|DATE termed|VERB as|ADP “|PUNCT unfortunate|ADJ ”|PUNCT the|DET incidents|NOUN of|ADP attacks|NOUN on|ADP African_students|NOUN in|ADP Greater_Noida|ENT and|CCONJ said|VERB External_Affairs_Minister_Sushma_Swaraj|ENT will|VERB make|VERB a|DET statement|NOUN on|ADP this|DET in|ADP the|DET Lok_Sabha|ENT on|ADP Wednesday|DATE .|PUNCT
+Parliamentary_Affairs_Minister_Ananth_Kumar|ENT assured|VERB the|DET House|PROPN of|ADP an|DET impartial_probe|NOUN in|ADP the|DET matter|NOUN after|ADP Rajeev_Satav|ENT (|PUNCT Congress|ENT )|PUNCT raised|VERB the|DET issue|NOUN during|ADP the_Zero_Hour|ENT ,|PUNCT asking|VERB the|DET government|NOUN to|PART take|VERB serious_note|NOUN of|ADP this|DET and|CCONJ make|VERB a|DET statement|NOUN .|PUNCT “|PUNCT
+The|DET whole|ADJ House|ENT shares|VERB the|DET concern|NOUN of|ADP the|DET member|NOUN (|PUNCT Satav|PROPN )|PUNCT .|PUNCT
+Two|CARDINAL incidents|NOUN have|VERB happened|VERB and|CCONJ they|PRON are|VERB unfortunate|ADJ .|PUNCT
+Sushma_Swaraj|ENT has|VERB spoken|VERB to|ADP the_Uttar_Pradesh_Chief_Minister|ENT .|PUNCT
+Action|NOUN has|VERB already|ADV started|VERB .|PUNCT
+Inquiry|NOUN will|VERB be|VERB impartial|ADJ .|PUNCT “|PUNCT
+When|ADV the|DET House|ENT meets|VERB next|ADV on|ADP April_5|DATE ,|PUNCT she|PRON will|VERB give|VERB a|DET statement|NOUN ,|PUNCT ”|PUNCT
+Kumar|ENT said|VERB .|PUNCT
+Satav|ENT said|VERB these|DET students|NOUN ,|PUNCT including|VERB a|DET woman|NOUN ,|PUNCT were|VERB beaten|VERB up|PART mercilessly|ADV and|CCONJ quoted|VERB local_officials|NOUN to|PART say|VERB that|ADP over_450|CARDINAL African_students|NOUN live|VERB in|ADP the|DET area|NOUN .|PUNCT
+For|ADP all|ADJ the|DET latest_India_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

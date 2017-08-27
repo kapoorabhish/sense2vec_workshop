@@ -1,0 +1,4 @@
+ISTANBUL|PROPN —|PUNCT Turkey|ENT expected|VERB a|DET honeymoon|NOUN with|ADP President_Donald_Trump|ENT .|PUNCT
+Instead|ADV ,|PUNCT it|PRON increasingly|ADV looks|VERB like|ADP Ankara|ENT and|CCONJ Washington|ENT are|VERB heading|VERB for|ADP a|DET squabble|NOUN ,|PUNCT if|ADP not|ADV a|DET divorce|NOUN .|PUNCT
+For|ADP now|ADV ,|PUNCT President_Recep_Tayyip_Erdogan|ENT has|VERB bitten|VERB his|ADJ tongue|NOUN and|CCONJ avoided|VERB attacking|VERB the|DET Trump_administration|NOUN with|ADP the|DET kind|NOUN of|ADP inflammatory_statements|NOUN that|ADP he|PRON routinely|ADV hurls|VERB at|ADP European_and_regional_leaders|NOUN .|PUNCT
+The_White_House|ENT ,|PUNCT too|ADV ,|PUNCT has|VERB kept|VERB largely|ADV mum|ADJ about|ADP Turkish|ENT ...|PUNCT

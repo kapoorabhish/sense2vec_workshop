@@ -1,0 +1,45 @@
+US_President_Donald_Trump|ENT has|VERB said|VERB that|ADP his|ADJ Russian_counterpart|NOUN Vladimir_Putin|ENT would|VERB have|VERB been|VERB happier|ADJ if|ADP his|ADJ Democratic_rival|NOUN Hillary_Clinton|ENT would|VERB have|VERB won|VERB the_last_year's|DATE general_elections|NOUN ,|PUNCT as|ADP this|DET would|VERB have|VERB made|VERB America|ENT weaker|ADJ .|PUNCT
+In|ADP his|ADJ first_major_interview|NOUN after|ADP his|ADJ last_week's|DATE maiden_meeting|NOUN with|ADP Putin|ENT in|ADP Hamburg|ENT ,|PUNCT Germany|ENT on|ADP the|DET sidelines|NOUN of|ADP the|DET G-20_Summit|ENT ,|PUNCT Trump|ENT said|VERB he|PRON and|CCONJ the|DET Russian_leader|NOUN both|DET are|VERB advocating|VERB interest|NOUN of|ADP their|ADJ respective_countries|NOUN .|PUNCT
+But|CCONJ there|ADV is|VERB scope|NOUN for|ADP co-operation|NOUN between|ADP the|DET two|CARDINAL at|ADP the|DET global_stage|NOUN .|PUNCT
+"|PUNCT We|PRON are|VERB the|DET most_powerful_country|NOUN in|ADP the|DET world|NOUN and|CCONJ we|PRON are|VERB getting|VERB more|ADJ and|CCONJ more|ADV powerful|ADJ because|ADP I|PRON 'm|VERB a|DET big_military_person|NOUN .|PUNCT
+As|ADP an|DET example|NOUN ,|PUNCT if|ADP Hillary|ENT had|VERB won|VERB ,|PUNCT our|ADJ military|NOUN would|VERB be|VERB decimated|VERB .|PUNCT
+Our|ADJ energy|NOUN would|VERB be|VERB much|ADV more|ADV expensive|ADJ .|PUNCT
+That|DET 's|VERB what|NOUN Putin|ENT does|VERB n't|ADV like|VERB about|ADP me|PRON ,|PUNCT "|PUNCT Trump|ENT told|VERB Christian_Broadcasting_Network|ENT (|PUNCT CBN|ENT )|PUNCT in|ADP an|DET interview|NOUN .|PUNCT "|PUNCT
+And|CCONJ that|DET 's|VERB why|ADV I|PRON say|VERB ,|PUNCT why|ADV would|VERB he|PRON want|VERB me|PRON ?|PUNCT
+Because|ADP from_day|DATE one|NUM I|PRON wanted|VERB a|DET strong_military|NOUN ,|PUNCT he|PRON does|VERB n't|ADV want|VERB to|PART see|VERB that|DET ,|PUNCT "|PUNCT he|PRON said|VERB ,|PUNCT according|VERB to|ADP the|DET excerpts|NOUN of|ADP the|DET interview|NOUN released|VERB by|ADP CBN|ENT .|PUNCT
+"|PUNCT From|ADP day|NOUN one|NUM I|PRON want|VERB fracking|NOUN and|CCONJ everything|NOUN else|ADV to|PART get|VERB energy_prices|NOUN low|ADJ and|CCONJ to|PART create|VERB tremendous_energy|NOUN .|PUNCT
+We|PRON 're|VERB going|VERB to|PART be|VERB self|NOUN -|PUNCT supporting|VERB ,|PUNCT we|PRON just|ADV about|ADV are|VERB now|ADV .|PUNCT
+We|PRON 're|VERB going|VERB to|PART be|VERB exporting|VERB energy|NOUN –|PUNCT he|PRON does|VERB n't|ADV want|VERB that|DET .|PUNCT "|PUNCT He|PRON would|VERB like|VERB Hillary|ENT where|ADV she|PRON wants|VERB to|PART have|VERB windmills|NOUN .|PUNCT
+He|PRON would|VERB much|ADV rather|ADV have|VERB that|DET because|ADP energy_prices|NOUN would|VERB go|VERB up|PART and|CCONJ Russia|ENT as|ADP you|PRON know|VERB relies|VERB very|ADV much|ADV on|ADP energy|NOUN ,|PUNCT "|PUNCT he|PRON continued|VERB .|PUNCT
+The|DET full_interview|NOUN is|VERB scheduled|VERB to|PART be|VERB telecast|VERB today|DATE .|PUNCT
+"|PUNCT So|ADV there|ADV are|VERB many_things|NOUN that|ADJ I|PRON do|VERB that|DET are|VERB the|DET exact_opposite|NOUN of|ADP what|NOUN he|PRON would|VERB want|VERB .|PUNCT
+So|ADV what|NOUN I|PRON keep|VERB hearing|VERB about|ADP that|ADP he|PRON would|VERB have|VERB rather|ADV had|VERB Trump|ENT ,|PUNCT I|PRON think|VERB '|PUNCT probably|ADV not|ADV ,|PUNCT '|PUNCT because|ADP when|ADV I|PRON want|VERB a|DET strong_military|NOUN ,|PUNCT you|PRON know|VERB she|PRON would|VERB n't|ADV have|VERB spent|VERB the|DET money|NOUN on|ADP military|NOUN ,|PUNCT "|PUNCT he|PRON said|VERB .|PUNCT
+"|PUNCT When|ADV I|PRON want|VERB tremendous_energy|NOUN ,|PUNCT we|PRON 're|VERB opening|VERB up|PART coal|NOUN ,|PUNCT we|PRON 're|VERB opening|VERB up|PART natural_gas|NOUN ,|PUNCT we|PRON 're|VERB opening|VERB up|PART fracking|NOUN ,|PUNCT all|ADJ the|DET things|NOUN that|ADJ he|PRON would|VERB hate|VERB ,|PUNCT but|CCONJ nobody|NOUN ever|ADV mentions|VERB that|ADP ,|PUNCT "|PUNCT said|VERB the|DET US_President|PROPN .|PUNCT
+In|ADP the_middle_of_a_political_storm|DATE ,|PUNCT because|ADP of|ADP allegations|NOUN of|ADP Russian_connections|NOUN by|ADP his|ADJ campaign|NOUN ,|PUNCT Trump|ENT said|VERB the|DET two|CARDINAL countries|NOUN can|VERB get|VERB along|PART together|ADV .|PUNCT "|PUNCT
+Well|INTJ he|PRON wants|VERB what|NOUN 's|VERB good|ADJ for|ADP Russia|ENT ,|PUNCT and|CCONJ I|PRON want|VERB what|NOUN 's|VERB good|ADJ for|ADP the_United_States|ENT .|PUNCT
+And|CCONJ I|PRON think|VERB in|ADP a|DET case|NOUN like|ADP Syria|ENT where|ADV we|PRON can|VERB get|VERB together|ADV ,|PUNCT do|VERB a|DET ceasefire|NOUN ,|PUNCT and|CCONJ there|ADV are|VERB many_other_cases|NOUN where|ADV getting|VERB along|ADV can|VERB be|VERB a|DET very_positive_thing|NOUN ,|PUNCT but|CCONJ always|ADV Putin|ENT is|VERB going|VERB to|PART want|VERB Russia|ENT and|CCONJ Trump|ENT is|VERB going|VERB to|PART want|VERB the_United_States|ENT and|CCONJ that|DET 's|VERB the|DET way|NOUN it|PRON is|VERB ,|PUNCT "|PUNCT Trump|ENT told|VERB CBN|ENT .|PUNCT
+His|ADJ meeting|NOUN with|ADP Putin|ENT in|ADP Germany|ENT last_week|DATE went|VERB quite|ADV well|ADV ,|PUNCT he|PRON said|VERB .|PUNCT
+"|PUNCT Sometimes|ADV you|PRON 're|VERB not|ADV going|VERB to|PART get|VERB along|PART on|ADP things|NOUN and|CCONJ sometimes|ADV you|PRON will|VERB .|PUNCT
+But|CCONJ we|PRON had|VERB a|DET good_meeting|NOUN ,|PUNCT it|PRON was|VERB a|DET face|NOUN to|ADP face_meeting|NOUN ,|PUNCT it|PRON was|VERB a|DET long_meeting|NOUN .|PUNCT
+It|PRON was|VERB two_hours|TIME and|CCONJ 15_minutes|TIME .|PUNCT
+Everyone|NOUN was|VERB surprised|VERB by|ADP the|DET amount|NOUN of|ADP time|NOUN but|CCONJ that|DET was|VERB a|DET good_thing|NOUN and|CCONJ not|ADV a|DET bad_thing|NOUN ,|PUNCT "|PUNCT he|PRON said|VERB .|PUNCT
+"|PUNCT Yeah|INTJ ,|PUNCT I|PRON think|VERB we|PRON get|VERB along|PART very|ADV well|ADV and|CCONJ I|PRON think|VERB that|DET 's|VERB a|DET good_thing|NOUN ,|PUNCT that|DET 's|VERB not|ADV a|DET bad_thing|NOUN .|PUNCT
+People|NOUN said|VERB ,|PUNCT '|PUNCT Oh|INTJ they|PRON should|VERB n't|ADV get|VERB along|PART .|PUNCT '|PUNCT
+Well|INTJ ,|PUNCT who|NOUN are|VERB the|DET people|NOUN that|ADJ are|VERB saying|VERB that|DET ?|PUNCT
+I|PRON think|VERB we|PRON get|VERB along|ADP very|ADV ,|PUNCT very|ADV well|ADV .|PUNCT
+We|PRON are|VERB a|DET tremendously_powerful_nuclear_power|NOUN ,|PUNCT and|CCONJ so|ADV are|VERB they|PRON .|PUNCT
+It|PRON does|VERB n't|ADV make|VERB sense|NOUN not|ADV to|PART have|VERB some|DET kind|NOUN of|ADP a|DET relationship|NOUN ,|PUNCT "|PUNCT Trump|ENT said|VERB .|PUNCT
+Syria|ENT is|VERB one|CARDINAL area|NOUN where|ADV there|ADV is|VERB potential|NOUN of|ADP a|DET large_cooperation|NOUN .|PUNCT
+"|PUNCT I|PRON think|VERB we|PRON had|VERB an|DET excellent_meeting|NOUN .|PUNCT
+One|CARDINAL thing|NOUN we|PRON did|VERB is|VERB we|PRON had|VERB a|DET ceasefire|NOUN in|ADP a|DET major_part|NOUN of|ADP Syria|ENT where|ADV there|ADV was|VERB tremendous_bedlam|NOUN and|CCONJ tremendous_killing|NOUN .|PUNCT
+And|CCONJ ,|PUNCT by|ADP the|DET way|NOUN ,|PUNCT this|DET is|VERB now_four_days|DATE ,|PUNCT "|PUNCT Trump|ENT said|VERB .|PUNCT
+"|PUNCT The|DET ceasefire|NOUN has|VERB held|VERB for|ADP four_days|DATE .|PUNCT
+Those|DET (|PUNCT previous)_ceasefires|NOUN haven't|ADV held|VERB at|ADP all|ADV .|PUNCT
+That|DET 's|VERB because|ADP President_Putin|ENT and|CCONJ President_Trump|ENT made|VERB the|DET deal|NOUN ,|PUNCT and|CCONJ it|PRON 's|VERB held|VERB .|PUNCT
+Now|ADV ,|PUNCT I|PRON do|VERB n't|ADV know|VERB what|NOUN 's|VERB going|VERB to|PART happen|VERB .|PUNCT
+Maybe|ADV as|ADP we|PRON 're|VERB speaking|VERB they|PRON start|VERB shooting|VERB again|ADV .|PUNCT
+But|CCONJ this|DET has|VERB held|VERB unlike|ADP all|DET of|ADP the|DET other_ceasefires|NOUN that|ADJ did|VERB n't|ADV mean|VERB anything|NOUN ,|PUNCT "|PUNCT he|PRON said|VERB .|PUNCT
+"|PUNCT So|ADV ,|PUNCT that|DET was|VERB a|DET great_thing|NOUN that|ADJ came|VERB out|ADP of|ADP that|DET meeting|NOUN .|PUNCT
+I|PRON think|VERB a|DET lot|NOUN of|ADP things|NOUN came|VERB out|ADP of|ADP that|DET meeting|NOUN but|CCONJ I|PRON do|VERB believe|VERB it|PRON 's|VERB important|ADJ to|PART have|VERB a|DET dialogue|NOUN and|CCONJ if|ADP you|PRON do|VERB n't|ADV have|VERB a|DET dialogue|NOUN ,|PUNCT it|PRON 's|VERB a|DET lot|NOUN of|ADP problems|NOUN for|ADP our|ADJ country|NOUN and|CCONJ for|ADP their|ADJ country|NOUN .|PUNCT
+I|PRON think|VERB we|PRON need|VERB dialogue|NOUN .|PUNCT
+We|PRON need|VERB dialogue|NOUN with|ADP everybody|NOUN ,|PUNCT "|PUNCT Trump|ENT told|VERB CBN|ENT .|PUNCT

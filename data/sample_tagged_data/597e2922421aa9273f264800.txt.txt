@@ -1,0 +1,12 @@
+India|ENT and|CCONJ South_Korea|ENT are|VERB carrying|VERB out|PART a|DET review|NOUN of|ADP their|ADJ free_trade_agreement|NOUN to|PART further|ADV boost|VERB bilateral_trade|NOUN and|CCONJ investment|NOUN ,|PUNCT a|DET senior_commerce_ministry_official|NOUN has|VERB said|VERB .|PUNCT
+The|DET agreement|NOUN ,|PUNCT officially|ADV dubbed|VERB as|ADP Comprehensive_Economic_Partnership_Agreement|ENT (|PUNCT CEPA|ENT )|PUNCT ,|PUNCT between|ADP the|DET two|CARDINAL countries|NOUN was|VERB implemented|VERB in|ADP January_2010|DATE .|PUNCT
+Both|ADJ the|DET sides|NOUN have|VERB constituted|VERB sub-groups|NOUN on|ADP issues|NOUN such|ADJ as|ADP goods|NOUN ,|PUNCT services|NOUN ,|PUNCT investments|NOUN and|CCONJ rules|NOUN of|ADP origin|NOUN .|PUNCT
+"|PUNCT Review_is_on_to_see_how_we_can|ENT improve|VERB utilisation|NOUN of|ADP this|DET pact|NOUN .|PUNCT
+Discussions|NOUN are|VERB underway|ADJ ,|PUNCT "|PUNCT the|DET official|NOUN said|VERB and|CCONJ added|VERB "|PUNCT we|PRON are|VERB also|ADV looking|VERB at|ADP how|ADV trade|NOUN between|ADP the|DET countries|NOUN have|VERB behaved|VERB "|PUNCT since|ADP the|DET implementation|NOUN .|PUNCT
+Exporters|NOUN '|PART body|NOUN FIEO_(Federation_of_Indian_Export_Organisations|ENT )|PUNCT said|VERB that|ADP there|ADV is|VERB a|DET huge_scope|NOUN of|ADP increasing|VERB trade|NOUN and|CCONJ investment|NOUN with|ADP South_Korea|ENT .|PUNCT
+"|PUNCT We|PRON can|VERB look|VERB at|ADP increasing|VERB exports|NOUN of|ADP marine_products|NOUN and|CCONJ other_commodities|NOUN besides|ADP huge_investment_opportunities|NOUN are|VERB there|ADV for|ADP South_Korean_companies|NOUN in|ADP India|ENT ,|PUNCT "|PUNCT FIEO|PROPN Director_General_Ajay_Sahai|ENT said|VERB .|PUNCT
+The|DET bilateral_trade|NOUN between|ADP the|DET countries|NOUN stood|VERB at|ADP USD_16.83_billion|MONEY in|ADP 2016-17|DATE .|PUNCT
+The|DET trade|NOUN is|VERB in|ADP favour|NOUN of|ADP South_Korea|ENT .|PUNCT
+India|ENT 's|PART imports|NOUN during|ADP the_last_fiscal|DATE was|VERB USD_12.59_billion|MONEY ,|PUNCT while|ADP exports|NOUN were|VERB only|ADV USD_4.24_billion|MONEY .|PUNCT
+India|ENT has|VERB received|VERB USD_2.26_billion|MONEY foreign_direct_investment|NOUN from|ADP South_Korea|ENT between|ADP March_2000|DATE and|CCONJ April_2017|DATE .|PUNCT
+Under|ADP a|DET free_trade_agreement|NOUN ,|PUNCT duties|NOUN on|ADP most|ADJ of|ADP the|DET products|NOUN traded|VERB between|ADP the|DET countries|NOUN are|VERB either|CCONJ eliminated|VERB or|CCONJ reduced|VERB sharply|ADV .|PUNCT

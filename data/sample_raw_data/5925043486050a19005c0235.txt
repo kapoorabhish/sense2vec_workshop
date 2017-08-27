@@ -1,0 +1,15 @@
+Unity Technologies, a 13-year-old, San Francisco-based company that makes development tools for video game creators, has raised $400 million in fresh funding from the private equity firm Silver Lake.
+
+The round follows on the heels of the company’s last round, closed just 10 months ago, in which the company had raised $181 million from investors led by DFJ Growth.
+
+Others of its earlier investors include China Investment Corporation, FreeS Fund, Thrive Capital, WestSummit Capital, serial entrepreneur Max Levchin, and Sequoia Capital, which remains its largest shareholder. (Roelof Botha, one of Sequoia’s most powerful investors, sits on its board.)
+
+Investors valued Unity at $1.5 billion last year, according to the New York Times. This new round reportedly brings the company’s valuation to $2.6 billion.
+
+It’s easy to understand the enthusiasm around the company, whose game engine — code that handles games’ basic operations — radically speeds up the time it takes developers to produce a game. Certainly, it boasts of a lot of very impressive metrics, among them that: half of all new mobile games rely on its software for their creation; it powers 70 percent of all virtual reality and augmented reality experiences; its games and apps reach 2.4 billion devices quarterly; and that mobile developers using Unity’s technology generated $12.4 billion in net revenue over the last two years. (Undoubtedly, a big chunk of that derived from last year’s breakout hit Pokémon Go, which relied on Unity’s software.)
+
+The company says now that the new funding will be used for what it sees next, including increasingly pervasive 3D visuals that will become more pervasive in our lives.
+
+Unity does have competitors. Not one to pass up a potentially lucrative market, for example, Amazon last year introduced its own game engine called Lumberyard. Autodesk introduced its own entrant in 2015 called Stingray.
+
+Unity is led by CEO John Riccitiello, a rock star in the game industry who previously spent five years at the helm of Electronic Arts. Riccitiello was also an early investor in Oculus VR, another Unity customer.

@@ -1,0 +1,19 @@
+The|DET collision|NOUN occurred|VERB shortly|ADV after|ADP 2|CARDINAL am|VERB local_time|NOUN in|ADP the_Dover_Strait|ENT ,|PUNCT around_15_miles|QUANTITY from|ADP Dover|ENT ,|PUNCT on|ADP the_south-_east_coast|NOUN of|ADP England|ENT .|PUNCT
+(|PUNCT RNLI|ENT )|PUNCT Indian|ENT and|CCONJ Chinese|ENT crew|NOUN on|ADP board|NOUN a|DET tanker|NOUN and|CCONJ a|DET cargo|NOUN ship|NOUN escaped|VERB unharmed|ADJ after|ADP the|DET two|CARDINAL vessels|NOUN collided|VERB today|DATE in|ADP the|DET waters|NOUN between|ADP France|ENT and|CCONJ Britain|ENT in|ADP the_English_Channel|ENT ,|PUNCT authorities|NOUN said|VERB .|PUNCT
+The|DET ‘|PUNCT
+Seafrontier’_oil_tanker|NOUN ,|PUNCT carrying|VERB 38,000|CARDINAL tonnes|NOUN of|ADP petrol|NOUN to|ADP Guatemala|ENT ,|PUNCT collided|VERB with|ADP the|DET ‘|PUNCT
+Huayan_Endeavor’|ENT ,|PUNCT which|ADJ was|VERB on|ADP its|ADJ way|NOUN from|ADP the_Netherlands_to_Nigeria|ENT .|PUNCT
+Both|DET ships|NOUN are|VERB Hong_Kong|ENT registered|VERB and|CCONJ flagged|VERB and|CCONJ were|VERB carrying|VERB 49|CARDINAL crew_members|NOUN from|ADP India|ENT and|CCONJ China|ENT ,|PUNCT according|VERB to|ADP the_British_Coast_Guard|ENT .|PUNCT “|PUNCT
+Although|ADP both|DET vessels|NOUN have|VERB been|VERB damaged|VERB ,|PUNCT there|ADV is|VERB no|DET water_ingress|NOUN and|CCONJ no|DET pollution|NOUN .|PUNCT
+A|DET French_tug|NOUN is|VERB on|ADP scene|NOUN with|ADP the|DET vessels|NOUN .|PUNCT
+There|ADV are|VERB no|DET injuries|NOUN and|CCONJ all|DET of|ADP the|DET crew|NOUN are|VERB accounted|VERB for|ADP ,|PUNCT ”|PUNCT a|DET spokesperson|NOUN for|ADP the|DET UK’s_Maritime_and_Coastguard_Agency|ENT (|PUNCT MCA|ENT )|PUNCT said|VERB .|PUNCT
+The|DET collision|NOUN occurred|VERB shortly|ADV after|ADP 2|CARDINAL am|VERB local_time|NOUN in|ADP the_Dover_Strait|ENT ,|PUNCT around_15_miles|QUANTITY from|ADP Dover|ENT ,|PUNCT on|ADP the_south-_east_coast|NOUN of|ADP England|ENT .|PUNCT
+The|DET 600-feet_oil_tanker|NOUN ,|PUNCT which|ADJ is|VERB loaded|VERB with|ADP gasoline|NOUN ,|PUNCT has|VERB a|DET hole|NOUN above|ADP the|DET waterline|NOUN and|CCONJ damage|NOUN to|ADP the|DET superstructure|NOUN and|CCONJ being|VERB monitored|VERB for|ADP leaks|NOUN ,|PUNCT the|DET UK’s_Royal_National_Lifeboat_Institution|ENT (|PUNCT RNLI|PROPN )|PUNCT charity|NOUN said|VERB .|PUNCT
+“|PUNCT It|PRON was|VERB fortunate|ADJ there|ADV were|VERB no|DET casualties|NOUN ,|PUNCT ”|PUNCT an|DET RNLI_spokesperson|NOUN said|VERB .|PUNCT
+A|DET British_Coastguard_helicopter|NOUN and|CCONJ lifeboats|NOUN from|ADP Dover|ENT and|CCONJ Ramsgate|ENT were|VERB sent|VERB to|ADP the|DET scene|NOUN ,|PUNCT in|ADP case|NOUN of|ADP a|DET possible|ADJ evacuation|NOUN ,|PUNCT but|CCONJ have|VERB since|ADP left|VERB .|PUNCT
+A|DET tug|NOUN from|ADP Boulogne|ENT ,|PUNCT France|ENT ,|PUNCT was|VERB called|VERB and|CCONJ the|DET ‘|PUNCT
+Seafrontier’|ENT was|VERB taken|VERB under|ADP tow|NOUN .|PUNCT
+Watch|VERB this|DET also|ADV :|PUNCT __The|ENT ‘|PUNCT
+Huayang_Endeavour’|ENT is|VERB anchored|VERB mid-Channel|NOUN between|ADP the|DET two|CARDINAL shipping_lanes|NOUN .|PUNCT
+The_UK’s_Channel_Navigation_Information_Service|ENT is|VERB working|VERB to|PART ensure|VERB “|PUNCT safe_passage|NOUN ”|PUNCT of|ADP the|DET vessels|NOUN through|ADP the_Dover_Strait|ENT ,|PUNCT which|ADJ is|VERB the|DET busiest_shipping_lane|NOUN in|ADP the|DET world|NOUN .|PUNCT
+An|DET investigation|NOUN into|ADP the|DET incident|NOUN ,|PUNCT which|ADJ came|VERB during|ADP favourable_conditions|NOUN with|ADP moderate_winds|NOUN and|CCONJ calm_seas|NOUN ,|PUNCT is|VERB underway|ADV .|PUNCT

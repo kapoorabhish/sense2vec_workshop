@@ -1,0 +1,2 @@
+You|PRON are|VERB on|ADP Twitter_Mobile|ENT because|ADP you|PRON are|VERB using|VERB an|DET old_version|NOUN of|ADP Safari|PROPN .|PUNCT
+Learn|VERB more|ADV here|ADV

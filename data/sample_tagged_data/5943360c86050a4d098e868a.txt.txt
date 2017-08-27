@@ -1,0 +1,21 @@
+AUSTIN_-_A_bizarre_snapshot|NOUN from|ADP Google_Maps’_Street_View|ENT has|VERB Reddit_users|NOUN divided|VERB .|PUNCT
+Reddit_user_Skilletquesoandchill|ENT posted|VERB a|DET screenshot|NOUN from|ADP Google|ENT ,|PUNCT which|ADJ depicts|VERB a|DET person|NOUN backing|VERB out|ADP of|ADP a|DET driveway|NOUN in|ADP a|DET residential_neighborhood|NOUN with|ADP their|ADJ hand|NOUN hanging|VERB outside|ADP the|DET driver’s_side_window|NOUN ,|PUNCT middle_finger|NOUN to|ADP the|DET wind|NOUN —|PUNCT and|CCONJ yes|INTJ ,|PUNCT it|PRON ’s|NUM uncensored|ADJ .|PUNCT
+A_few_yards|QUANTITY to|ADP the|DET left|NOUN ,|PUNCT a|DET woman|NOUN stands|VERB ,|PUNCT expressionless|NOUN .|PUNCT
+So|ADV ,|PUNCT what|NOUN has|VERB them|PRON divided|VERB ?|PUNCT
+Reddit_users|NOUN want|VERB to|PART know|VERB why|ADV the|DET driver|NOUN is|VERB so|ADV angry|ADJ .|PUNCT
+Is|VERB it|PRON the|DET woman|NOUN or|CCONJ the|DET Google_camera_car_driver|NOUN ?|PUNCT
+Some|DET people|NOUN say|VERB the|DET enigmatic_woman|NOUN was|VERB standing|VERB nearby|ADV by|ADP chance|NOUN ,|PUNCT other|ADJ ’s|NOUN believe|VERB she|PRON might|VERB have|VERB a|DET reason|NOUN .|PUNCT “|PUNCT
+She|PRON was|VERB probably|ADV mad|ADJ that|ADP he|PRON did|VERB n't|ADV sweep|VERB the|DET sidewalk|NOUN after|ADP mowing|VERB ,|PUNCT ”|PUNCT wrote|VERB one|CARDINAL user|NOUN .|PUNCT
+He|PRON may|VERB be|VERB right|ADJ ,|PUNCT as|ADP grass_clippings|NOUN can|VERB be|VERB seen|VERB all|ADV over|ADV —|PUNCT and|CCONJ she|PRON ’s|VERB choosing|VERB to|PART stand|VERB off|PART the|DET curb|NOUN .|PUNCT
+However|ADV ,|PUNCT it|PRON seems|VERB most_people|NOUN believe|VERB he|PRON has|VERB reasons|NOUN to|PART hate|VERB on|ADP Google|ENT .|PUNCT “|PUNCT
+Maybe|ADV the|DET woman|NOUN was|VERB just_a_coincidence|NOUN and|CCONJ the|DET person|NOUN in|ADP the|DET car|NOUN just|ADV likes|VERB to|PART flip|VERB off|PART the|DET Google_cars|NOUN for|ADP funsies|NOUN ,|PUNCT ”|PUNCT wrote|VERB another|DET .|PUNCT ”|PUNCT
+My|ADJ coworkers|NOUN waved|VERB at|ADP a|DET Google_car|NOUN a_few_months_ago|DATE ,|PUNCT and|CCONJ earlier_this_week|DATE we|PRON were|VERB looking|VERB to|PART see|VERB if|ADP you|PRON could|VERB see|VERB it|PRON on|ADP street_view|NOUN .|PUNCT
+Sadly|ADV they|PRON were|VERB mostly|ADV obscured|VERB by|ADP a|DET tree|NOUN ,|PUNCT lol|NOUN .|PUNCT ”|PUNCT
+Surprisingly|ADV ,|PUNCT one|CARDINAL Redditor|PROPN admitted|VERB they|PRON ’d|VERB actually|ADV given|VERB the|DET bird|NOUN to|ADP a|DET Google_driver|NOUN before|ADV :|PUNCT “|PUNCT I|PRON was|VERB featured|VERB flipping|VERB off|PART the|DET Google_car|NOUN in|ADP my|ADJ driveway|NOUN last_year|DATE .|PUNCT
+It|PRON only|ADV stayed|VERB up|PART for|ADP a_month_or_two|DATE ,|PUNCT then|ADV Google|ENT replaced|VERB several_frames|NOUN of|ADP that|DET most_recent_drive|NOUN -|PUNCT by|ADP with|ADP frames|NOUN from|ADP a|DET previous_drive-by|NOUN .|PUNCT
+It|PRON took|VERB them|PRON about_5_months|DATE to|PART even|ADV process|VERB and|CCONJ post|VERB the|DET original_photos|NOUN .|PUNCT
+I|PRON was|VERB flipping|VERB it|PRON off|ADV mostly|ADV because|ADP it|PRON was|VERB doing|VERB 45|CARDINAL on|ADP my|ADJ 25MPH_street|NOUN .|PUNCT ”|PUNCT
+So|ADV ,|PUNCT how|ADV do|VERB you|PRON vote|VERB :|PUNCT the|DET woman|NOUN or|CCONJ Google|ENT driver|NOUN ?|PUNCT
+The|DET answer|NOUN may|VERB lie|VERB forever|ADV ,|PUNCT shrouded|VERB in|ADP bizarre_mystery|NOUN .|PUNCT
+Keep|VERB Austin|ENT weird|ADJ ,|PUNCT y’|PRON all|DET .|PUNCT
+©_2017|DATE KVUE-TV|PROPN

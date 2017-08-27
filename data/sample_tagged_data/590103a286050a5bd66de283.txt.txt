@@ -1,0 +1,15 @@
+Fiat_Chrysler_Automobiles|ENT turned|VERB in|ADP its_best_quarter|DATE ever|ADV for|ADP the_first_three_months_of_2017|DATE ,|PUNCT and|CCONJ CEO_Sergio_Marchionne|ENT was|VERB in|ADP a|DET good_mood|NOUN on|ADP the|DET company|NOUN 's|PART call|NOUN with|ADP investors|NOUN .|PUNCT
+Marchionne|ENT has|VERB been|VERB an|DET outspoken_critic|NOUN of|ADP electric_vehicles|NOUN ,|PUNCT arguing|VERB that|ADP nobody|NOUN wants|VERB to|PART buy|VERB them|PRON and|CCONJ that|ADP he|PRON loses|VERB money|NOUN on|ADP the|DET ones|NOUN that|ADJ FCA|ENT does|VERB produce|VERB .|PUNCT
+But|CCONJ he|PRON seems|VERB to|PART be|VERB more|ADV excited|ADJ about|ADP self|NOUN -|PUNCT driving_tech|NOUN ,|PUNCT as|ADP FCA|ENT 's|PART expanding_partnership|NOUN with|ADP Google|ENT 's|PART Waymo|ENT demonstrates|VERB .|PUNCT
+This_week|DATE ,|PUNCT Waymo|ENT announced|VERB that|ADP it|PRON 's|VERB sending|VERB 500|CARDINAL additional_Chrysler_Pacifica_minivans|NOUN to|ADP its|ADJ Arizona_self-driving_fleet|NOUN -|PUNCT and|CCONJ inviting|VERB the|DET public|ADJ to|PART take|VERB some_rides|DATE .|PUNCT
+On|ADP the|DET earnings_call|NOUN ,|PUNCT Marchionne|ENT was|VERB asked|VERB by|ADP Morgan_Stanley's|ENT Adam_Jonas|ENT why|ADV the|DET CEO|ENT said|VERB "|PUNCT Yes|INTJ "|PUNCT to|ADP joining|VERB with|ADP Google|ENT /|SYM Waymo|PROPN when|ADV everyone|NOUN else|ADV seemed|VERB to|PART be|VERB saying|VERB "|PUNCT No|INTJ .|PUNCT "|PUNCT
+Marchionne|ENT was|VERB quick|ADJ to|PART tout|VERB Waymo|ENT 's|PART competitive_advantage|NOUN ,|PUNCT arguing|VERB that|ADP the|DET project|NOUN would|VERB be|VERB "|PUNCT substantially|ADV ahead|ADV "|PUNCT of|ADP other_players|NOUN once|ADP the|DET tech_giant|NOUN begins|VERB to|PART commercialize|VERB its|ADJ autonomous_systems|NOUN .|PUNCT
+"|PUNCT That|DET 's|VERB the|DET bet|NOUN we|PRON 've|VERB taken|VERB ,|PUNCT "|PUNCT Marchionne|ENT said|VERB .|PUNCT
+He|PRON added|VERB that|ADP Waymo|ENT will|VERB ultimately|ADV have|VERB an|DET "|PUNCT unbeatable_solution|NOUN .|PUNCT "|PUNCT
+Marchionne|ENT 's|PART enthusiasm|NOUN for|ADP self|NOUN -|PUNCT driving|VERB might|VERB contrast|VERB with|ADP his|ADJ electric-car_skepticism|NOUN ,|PUNCT but|CCONJ he|PRON 's|VERB on|ADP point|NOUN with|ADP a|DET major_change|NOUN in|ADP the|DET future|NOUN -|PUNCT of|ADP -|PUNCT transportation_narrative|NOUN .|PUNCT
+From|ADP around|ADP 2010|DATE until|ADP a_year_or_two_ago|DATE ,|PUNCT it|PRON was|VERB all|DET about|ADP EVs|NOUN .|PUNCT
+But|CCONJ the|DET big_story|NOUN now|ADV is|VERB self|NOUN -|PUNCT driving|VERB .|PUNCT
+Marchionne|ENT 's|PART obviously|ADV understands|VERB that|ADP he|PRON already|ADV builds|VERB hundreds_of_thousands|CARDINAL of|ADP vehicles|NOUN ,|PUNCT including|VERB Pacificas|ENT ,|PUNCT that|ADJ run|VERB on|ADP gas|NOUN and|CCONJ that|DET could|VERB be|VERB updated|ADJ to|PART drive|VERB themselves|PRON .|PUNCT
+No|DET electric_innovation|NOUN required|VERB .|PUNCT
+That|DET 's|VERB why|ADV he|PRON really|ADV likes|VERB his|ADJ bet|NOUN on|ADP Google|ENT .|PUNCT
+Get|VERB the|DET latest_Google_stock_price|NOUN here|ADV .|PUNCT

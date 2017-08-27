@@ -1,0 +1,67 @@
+Senate Republican leadership released a long-awaited Obamacare repeal and replace bill Thursday , providing the first look at their vision of the future for America's healthcare system.
+
+The 142-page discussion draft, called the Better Care Reconciliation Act, has the potential to affect a wide scope of Americans' lives - from taxes on medical equipment to tax credits for people to buy coverage.
+
+For people who have insurance through their employers, a bulk of the country, there would be substantial but less-direct effects. The more immediate impact would come on people who get their insurance through the individual insurance marketplace, like the exchanges established by the Affordable Care Act, or government programs like Medicaid.
+
+We've broken it down by income strata with some additional information on the broader effects. (Note: Income levels are chosen to highlight distinctive features of the bill.)
+
+Low-income Americans
+
+Definition: 138% of the federal poverty limit, the cutoff to qualify for Medicaid under Obamacare's expansion . That translates to an annual income of $20,782 for an individual and $42,435 for a family of four.
+
+138% of the federal poverty limit, the cutoff to qualify for Medicaid under Obamacare's expansion . That translates to an annual income of $20,782 for an individual and $42,435 for a family of four. Effect on costs: The upper portion of this group - those making between the federal poverty limit and 138% of it - are currently eligible for Obamacare's Medicaid expansion in the 32 states that took up the program . The Senate bill would continue the expansion through 2020 and then slowly taper it until it is dropped altogether after 2023. Those people would then be shifted to the individual marketplace and given subsidies, which cover much less than Medicaid.
+
+
+
+For those under the federal poverty line, the Senate bill would shift Medicaid funding to a block-grant system that is less generous than the current system, which matches a percentage of whatever states spend. States would be forced to choose between having to shoulder more of the burden for Medicaid or letting it get more expensive for consumers.
+
+
+
+Bottom line: Costs would likely rise for people on both Medicaid and the expansion.
+
+The upper portion of this group - those making between the federal poverty limit and 138% of it - are currently eligible for Obamacare's Medicaid expansion in the 32 states that took up the program . The Senate bill would continue the expansion through 2020 and then slowly taper it until it is dropped altogether after 2023. Those people would then be shifted to the individual marketplace and given subsidies, which cover much less than Medicaid. For those under the federal poverty line, the Senate bill would shift Medicaid funding to a block-grant system that is less generous than the current system, which matches a percentage of whatever states spend. States would be forced to choose between having to shoulder more of the burden for Medicaid or letting it get more expensive for consumers. Bottom line: Costs would likely rise for people on both Medicaid and the expansion. Effect on care: Without the expansion, it is more likely that more people would go uninsured. The Congressional Budget Office estimated that 14 million fewer Americans would be on Medicaid in 2026 under the House's version of the law. The Senate version's CBO score will come next week, but it is likely to be similar.
+
+
+
+Additionally, the Senate bill would allow states to apply for waivers to repeal a regulation in Obamacare called essential health benefits (EHBs). EHBs standardize 10 types of care that are the bare minimum for insurance plans including mental health and maternity care. Without those, insurers could offer skimpier plans that cover less.
+
+
+
+Bottom line: There would be fewer lower-income people covered - and in states that take up waivers, their plans would cover less.
+
+Middle-income Americans
+
+Definition: The Pew Research's definition cuts off middle income at $72,500 for an individual and $145,000 for a family of four. (This is based on the national median income, so it is not adjusted for cost of living in different areas.)
+
+The Pew Research's definition cuts off middle income at $72,500 for an individual and $145,000 for a family of four. (This is based on the national median income, so it is not adjusted for cost of living in different areas.) Effect on costs: For middle-income people who access coverage through the individual market, the Senate bill would have tax subsidies similar to Obamacare based on income. One proposed change: The cutoff for subsidies would drop from 400% of the poverty line to 350% of the poverty line. So the highest income a person could make and qualify for assistance is $52,710 for an individual (down from $62,240) and $107,625 for a family of four (down from $123,000). More people would be left out from getting help paying for premiums.
+
+
+
+The subsidies also make it so a person cannot pay more than a certain percentage of their income on premiums. Under the Senate bill, the percentage would increase with age. For instance, a 33-year-old person who makes $50,000 annually, or 332% of the poverty line, would pay up to 8.9% of their income on premiums, or $4,450 a year. For a person age 61, that increases to 16.2% of their income, or $8,100 a year.
+
+
+
+Additionally, the benchmark plan for Obamacare has an actuarial value - in essence, the percentage of all costs covered - of 70% . Under the Senate bill, the value would drop to 58%. In practice, that would mean many plans would have higher deductibles and out-of-pocket costs .
+
+
+
+The bill also would repeal the mandate that employers provide coverage, so more people (in any income bracket) could also end up in that boat.
+
+
+
+Bottom line: People receiving subsidies would likely end up paying more, and fewer middle-income Americans would receive assistance with premiums.
+
+For middle-income people who access coverage through the individual market, the Senate bill would have tax subsidies similar to Obamacare based on income. One proposed change: The cutoff for subsidies would drop from 400% of the poverty line to 350% of the poverty line. So the highest income a person could make and qualify for assistance is $52,710 for an individual (down from $62,240) and $107,625 for a family of four (down from $123,000). More people would be left out from getting help paying for premiums. The subsidies also make it so a person cannot pay more than a certain percentage of their income on premiums. Under the Senate bill, the percentage would increase with age. For instance, a 33-year-old person who makes $50,000 annually, or 332% of the poverty line, would pay up to 8.9% of their income on premiums, or $4,450 a year. For a person age 61, that increases to 16.2% of their income, or $8,100 a year. The bill also would repeal the mandate that employers provide coverage, so more people (in any income bracket) could also end up in that boat. Bottom line: People receiving subsidies would likely end up paying more, and fewer middle-income Americans would receive assistance with premiums. Effect on care: The potential repeal of essential health benefits would also affect this group. But without larger subsides to purchase optional packages that would make up for those losses, people would likely choose lower-cost plans that cover much less. And higher deductibles and co-pays would mean people would be less likely to utilize their insurance.
+
+High-income Americans
+
+Definition: Above $72,500 for an individual and $145,000 for a family of four.
+
+Above $72,500 for an individual and $145,000 for a family of four. Effect on costs: People at this income level on the Obamacare exchanges are not eligible for subsidies, so direct costs would not increase. The biggest difference would be for people making over $200,000 as an individual or a married couple making over $250,000, regardless of where they get their insurance. Since the Senate bill would repeal Obamacare's taxes, this group would likely see their tax bills decline.
+
+
+
+Bottom line: The most wealthy people could pay a lot less in taxes, while maintaining the same price for their insurance.
+
+People at this income level on the Obamacare exchanges are not eligible for subsidies, so direct costs would not increase. The biggest difference would be for people making over $200,000 as an individual or a married couple making over $250,000, regardless of where they get their insurance. Since the Senate bill would repeal Obamacare's taxes, this group would likely see their tax bills decline. Bottom line: The most wealthy people could pay a lot less in taxes, while maintaining the same price for their insurance. Effect on care: Higher-income Americans would be subject to the same EHB repeals in states that get waivers. These people would be more likely to be able to afford plans that still cover those baselines, however.

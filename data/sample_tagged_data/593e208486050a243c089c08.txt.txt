@@ -1,0 +1,1 @@
+The|DET story|NOUN behind|ADP Snapdeal|ENT 's|PART increasing_cart|NOUN of|ADP woes|NOUN

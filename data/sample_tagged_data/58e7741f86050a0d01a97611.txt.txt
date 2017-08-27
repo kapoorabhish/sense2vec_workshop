@@ -1,0 +1,56 @@
+Does|VERB President_Trump|ENT deserve|VERB praise|NOUN for|ADP attacking|VERB Syria|ENT ?|PUNCT
+Or|CCONJ is|VERB he|PRON turning|VERB out|PART to|PART be|VERB another|DET “|PUNCT
+cuck|NOUN “|PUNCT ?|PUNCT
+During|ADP the|DET president|NOUN ’s|CARDINAL candidacy|NOUN and|CCONJ through|ADP the_early_days|DATE of|ADP his|ADJ term|NOUN ,|PUNCT many|ADJ of|ADP Trump|ENT ’s|PART most_vocal_proponents|NOUN have|VERB supported|VERB him|PRON for|ADP his|ADJ perceived_“anti-globalist|NOUN ”|PUNCT vision|NOUN .|PUNCT
+In|ADP their|ADJ view|NOUN ,|PUNCT such|ADJ a|DET vision|NOUN entailed|VERB staying|VERB out|ADP of|ADP conflicts|NOUN that|ADJ do|VERB n’t|ADV affect|VERB the|DET US|ENT directly|ADV —|PUNCT a|DET sentiment|NOUN that|ADJ stemmed|VERB from|ADP disillusionment|NOUN with|ADP the|DET outcome|NOUN of|ADP the|DET war|NOUN in|ADP Iraq|ENT .|PUNCT
+Trump|ENT himself|PRON gave|VERB mixed_messages|NOUN regarding|VERB his|ADJ stance|NOUN on|ADP military_policy|NOUN ,|PUNCT but|CCONJ his|ADJ consistent_criticism|NOUN of|ADP the|DET handling|NOUN of|ADP Iraq|ENT and|CCONJ repeated|VERB calls|NOUN to|PART stay|VERB out|ADP of|ADP Syria|ENT during|ADP president_Barack_Obama’s|ENT second_term|NOUN led|VERB many|ADJ to|PART believe|VERB he|PRON would|VERB pursue|VERB a|DET non|ADJ -|PUNCT interventionist_strategy|NOUN in|ADP the_Middle_East|ENT .|PUNCT
+The|DET missile_attack|NOUN Trump|ENT authorised|VERB on|ADP Syria|ENT on|ADP Thursday|DATE (|PUNCT April_6|DATE )|PUNCT ,|PUNCT however|ADV ,|PUNCT has|VERB disappointed|VERB many_people|NOUN that|ADJ make|VERB up|PART this|DET segment|NOUN of|ADP the|DET president|NOUN ’s_supporters|NOUN .|PUNCT
+The|DET result|NOUN —|PUNCT members|NOUN of|ADP the|DET pro-Trump|ENT
+“|PUNCT alt-right”|NOUN are|VERB now|ADV suddenly|ADV lashing|VERB out|PART against|ADP Trump|ENT ,|PUNCT while|ADP others|NOUN are|VERB clawing|VERB for|ADP reasons|NOUN to|PART defend|VERB Trump|ENT ’s|NUM decision|NOUN .|PUNCT
+Mike_Cernovich|ENT ,|PUNCT one|CARDINAL of|ADP the|DET main_voices|NOUN of|ADP the|DET pro-Trump_alt-right|NOUN ,|PUNCT expressed|VERB disappointment|NOUN about|ADP the|DET missile|NOUN strikes|VERB on|ADP Twitter|ENT to|ADP his|ADJ 246,170|CARDINAL followers|NOUN .|PUNCT
+He|PRON also|ADV went|VERB on|ADP a|DET marathon_YouTube_livestream|NOUN to|PART mull|VERB over|ADP the|DET decision|NOUN with|ADP his|ADJ fans|NOUN .|PUNCT
+Anyone|NOUN who|NOUN claimed|VERB Trump|ENT had|VERB blind_loyalty|NOUN had|VERB a|DET wake|VERB up|PART call|NOUN today|DATE .|PUNCT
+#|PUNCT NoMoreWars|NOUN —|PUNCT Mike_Cernovich_🇺🇸|ENT (|PUNCT @Cernovich|PROPN )|PUNCT April_7,_2017|DATE I|PRON have|VERB been|VERB streaming|VERB for|ADP over_10_hours|TIME straight|ADV .|PUNCT
+This|DET is|VERB how|ADV passionate|ADJ @realDonaldTrump_supporters|NOUN are|VERB for|ADP #NoMoreWars|MONEY .|PUNCT
+—_Mike_Cernovich_🇺🇸|PROPN (|PUNCT @Cernovich|PROPN )|PUNCT April_7,_2017|DATE Ann_Coulter|ENT ,|PUNCT another|DET vocal|ADJ Trump|ENT supporter|ADV best|ADV known|VERB as|ADP a|DET voice|NOUN for|ADP America’s|PROPN evangelical|ADJ right|NOUN ,|PUNCT also|ADV criticized|VERB Trump|ENT .|PUNCT
+Meddling|VERB in|ADP the_Middle_East|ENT has|VERB destroyed|VERB every|DET president|NOUN who|NOUN ’s|ENT ever|ADV tried|VERB it|PRON .|PUNCT
+—_Ann_Coulter_(@AnnCoulter)_April|ENT 7|NUM ,|PUNCT 2017|NUM Those|DET who|NOUN wanted|VERB us|PRON meddling|VERB in|ADP the_Middle_East|ENT voted|VERB for|ADP other_candidates|NOUN .|PUNCT
+—_Ann_Coulter_(@AnnCoulter)_April|ENT 7|NUM ,|PUNCT 2017|DATE Richard_Spencer|ENT ,|PUNCT the|DET white_nationalist|NOUN who|NOUN won|VERB media_attention|NOUN for|ADP waving|VERB Nazi_salutes|NOUN at|ADP his|ADJ pro-Trump_rallies|NOUN ,|PUNCT also|ADV spoke|VERB out|PART against|ADP the|DET strikes|NOUN .|PUNCT
+In|ADP a|DET 20-minute_YouTube_video|NOUN where|ADV he|PRON speaks|VERB to|ADP the|DET camera|NOUN beside|ADP a|DET toy_frog|NOUN ,|PUNCT he|PRON called|VERB the|DET decision|NOUN “|PUNCT a|DET betrayal|NOUN .|PUNCT
+”|PUNCT It|PRON ’s|VERB a|DET betrayal|NOUN of|ADP the|DET meaning|NOUN of|ADP his|ADJ candidacy|NOUN .|PUNCT
+He|PRON ran|VERB on|PART “|PUNCT
+America|ENT first|ORDINAL .|PUNCT ”|PUNCT
+We|PRON ’re|VERB not|ADV gon|VERB na|PART do|VERB all|DET that|ADJ crap|NOUN about|ADP Barack_Obama|ENT ,|PUNCT Libya|ENT ,|PUNCT all|ADJ that|DET kind|NOUN of|ADP stuff|NOUN ,|PUNCT we|PRON ’re|VERB not|ADV gon|VERB na|PART do|VERB all|DET that|ADJ disastrous|ADJ wars|NOUN of|ADP George_W._Bush|ENT .|PUNCT
+No|INTJ ,|PUNCT it|PRON ’s|ADV different|ADJ ,|PUNCT it|PRON ’s|X america|VERB first|ORDINAL .|PUNCT
+That|DET was|VERB his|ADJ promise|NOUN ,|PUNCT that|DET was|VERB his|ADJ message|NOUN ,|PUNCT that|ADJ was|VERB the|DET meaning|NOUN of|ADP his|ADJ campaign|NOUN .|PUNCT
+And|CCONJ he|PRON absolutely|ADV betrayed|VERB it|PRON .|PUNCT
+I|PRON absolutely|ADV condemn|VERB Washington|ENT 's|PART military_strike|NOUN against|ADP Syria|ENT .|PUNCT
+#|PUNCT Syria|ENT #|PUNCT NoMoreWar|PROPN —|PUNCT Richard_🥛_Spencer|ENT (|PUNCT @RichardBSpencer|PROPN )|PUNCT April_7,_2017|DATE If|ADP Bannon|ENT does|VERB not|ADV resign|VERB ,|PUNCT I|PRON will|VERB have|VERB lost|VERB a|DET tremendous_amount|NOUN of|ADP respect|NOUN for|ADP him|PRON .|PUNCT
+#|PUNCT NoWarInSyria|PROPN —|PUNCT Richard_🥛_Spencer|ENT (|PUNCT @RichardBSpencer|PROPN )|PUNCT April_7,_2017|DATE @Al_Letson|NOUN @AnnCoulter|NOUN Congrats|NOUN .|PUNCT
+We|PRON now|ADV have|VERB George_W._Bush's|ENT third_term|NOUN .|PUNCT
+—|PUNCT Richard_🥛_Spencer|ENT (|PUNCT @RichardBSpencer|PROPN )|PUNCT April_7,_2017|DATE On|ADP Breitbart|ENT ,|PUNCT the|DET right|ADJ -|PUNCT wing|NOUN online|ADJ media|NOUN outlet|NOUN once|ADV chaired|VERB by|ADP Steve_Bannon|ENT ,|PUNCT the|DET top_commenters|NOUN on|ADP the|DET article|NOUN announcing|VERB the|DET strike|NOUN were|VERB no|ADV more|ADJ forgiving|NOUN toward|ADP Trump|ENT .|PUNCT
+One|ENT wrote|VERB tersely|ADV ,|PUNCT “|PUNCT
+This|DET is|VERB n’t|ADV what|NOUN I|PRON voted|VERB for|ADP .|PUNCT
+”__Others|NOUN had|VERB a|DET more_favorable_view|NOUN of|ADP the|DET attack|NOUN .|PUNCT
+Scott_Adams|ENT ,|PUNCT the|DET Dilbert|ENT creator|NOUN who|NOUN has|VERB lately|ADV fashioned|VERB himself|PRON into|ADP something|NOUN of|ADP a|DET Trump_apologist|NOUN ,|PUNCT hailed|VERB the|DET decision|NOUN as|ADP a|DET brilliant_pre-emptive_decision|NOUN .|PUNCT
+Syrian_Airforce_free_punch|NOUN :|PUNCT Solves|VERB for|ADP the|DET Trump/Russia_allegations|NOUN .|PUNCT
+Pre-suades|PROPN China|ENT ,|PUNCT North_Korea|ENT ,|PUNCT Iran|ENT .|PUNCT Dominates|VERB news|NOUN .|PUNCT
+Good|ADJ for|ADP Israel|ENT .|PUNCT
+—_Scott_Adams|ENT (|PUNCT @ScottAdamsSays|PROPN )|PUNCT April_7,_2017|DATE Bill_Mitchell|ENT ,|PUNCT a|DET North_Carolina|ENT talk|NOUN radio|NOUN host|NOUN and|CCONJ vocal|ADJ Trump|ENT supporter|NOUN (|PUNCT who|NOUN once|ADV appeared|VERB on|ADP Reddit’s_The_Donald_channel|NOUN for|ADP an|DET “|PUNCT
+Ask|VERB Me|PRON Anything|NOUN ”|PUNCT
+Q&A|PROPN )|PUNCT also|ADV called|VERB for|ADP calm|NOUN .|PUNCT
+I|PRON know|VERB this|DET attack|NOUN on|ADP Syria|ENT seems|VERB shocking|ADJ .|PUNCT
+It|PRON 's|VERB been|VERB so|ADV long|ADV since|ADP we|PRON 've|VERB had|VERB decisive_leadership|NOUN in|ADP DC|ENT .|PUNCT
+—_Bill_Mitchell|ENT (|PUNCT @mitchellvii|PROPN )|PUNCT April_7,_2017|DATE Let|VERB 's|PRON be|VERB clear_folks|NOUN .|PUNCT
+This|DET is|VERB NOT|ADV war|NOUN .|PUNCT
+This|DET was|VERB a|DET precision_air_strike|NOUN on|ADP a|DET chemical_weapons_site|NOUN .|PUNCT
+—_Bill_Mitchell|ENT (|PUNCT @mitchellvii|PROPN )|PUNCT April_7,_2017|DATE It|PRON 's|VERB ironic|ADJ ,|PUNCT some|DET of|ADP the|DET same_folks|NOUN who|NOUN hated|VERB being|VERB put|VERB into|ADP "|PUNCT baskets|NOUN "|PUNCT by|ADP Hillary|ENT are|VERB the|DET first|ORDINAL to|PART put|VERB Trump|ENT into|ADP a|DET basket|NOUN with|ADP neocons|NOUN .|PUNCT
+—_Bill_Mitchell|ENT (|PUNCT @mitchellvii|PROPN )|PUNCT April_7,_2017|DATE The|DET question|NOUN of|ADP whether|ADP a|DET President_Trump|ENT has|VERB the|DET guts|NOUN to|PART pull|VERB the|DET trigger|NOUN was|VERB just|ADV answered|VERB .|PUNCT
+—_Bill_Mitchell|ENT (|PUNCT @mitchellvii|PROPN )|PUNCT April_7,_2017|DATE Adam’s|ENT and|CCONJ Mitchell’s|ENT comments|NOUN show|VERB how|ADV easy|ADJ it|PRON will|VERB be|VERB for|ADP Trump_voters|NOUN to|PART rationalize|VERB continued|VERB support|NOUN for|ADP him|PRON ,|PUNCT including|VERB those|DET who|NOUN are|VERB unhappy|ADJ about|ADP the|DET strikes|NOUN .|PUNCT
+They|PRON can|VERB note|VERB that|ADP Trump|ENT hasn’t|NUM yet|ADV started|VERB a|DET war|NOUN .|PUNCT
+They|PRON can|VERB argue|VERB that|ADP the|DET swamp|NOUN hasn’t|ADV been|VERB drained|VERB ,|PUNCT and|CCONJ that|ADP Trump|ENT is|VERB still|ADV subject|ADJ to|ADP influence|NOUN from|ADP “|PUNCT the|DET establishment|NOUN ,|PUNCT ”|PUNCT in|ADP spite|NOUN of|ADP his|ADJ own_inclinations|NOUN .|PUNCT
+They|PRON can|VERB argue|VERB that|ADP Trump|ENT is|VERB merely|ADV using|VERB the|DET strikes|NOUN to|PART “|PUNCT send|VERB a|DET message”—to_Assad|ENT ,|PUNCT or|CCONJ Russia|ENT ,|PUNCT or|CCONJ ISIS|ENT ,|PUNCT or|CCONJ North_Korea|ENT and|CCONJ other_adversaries|NOUN .|PUNCT
+They|PRON can|VERB even|ADV argue|VERB that|ADP the|DET strikes|NOUN finally|ADV put|VERB to|PART rest|VERB any|DET notion|NOUN that|ADP Trump|ENT has|VERB compromising|VERB ties|NOUN to|ADP Russia|ENT .|PUNCT
+But|CCONJ for|ADP now|ADV ,|PUNCT some|DET soul|NOUN searching|VERB is|VERB in|ADP order|NOUN for|ADP Trump_supporters|NOUN who|NOUN expected|VERB “|PUNCT America_First|ENT ”|PUNCT meant|VERB “|PUNCT
+No|DET more_wars|NOUN .|PUNCT
+”|PUNCT And|CCONJ fissions|NOUN that|ADJ already|ADV exist|VERB in|ADP America|ENT at|ADP large|ADJ and|CCONJ the_Republican_Party|ENT now|ADV seem|VERB poised|ADJ to|PART emerge|VERB within|ADP the|DET pro-Trump_camp|NOUN .|PUNCT

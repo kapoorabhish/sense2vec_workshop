@@ -1,0 +1,45 @@
+IPOs|NOUN will|VERB be|VERB robust|ADJ this_year|DATE and|CCONJ investors|NOUN can|VERB make|VERB 25_30%_returns|PERCENT if|ADP issues|NOUN are|VERB priced|VERB well|ADV ,|PUNCT saidmanaging|VERB director_atwhich|NOUN managed|VERB fund|NOUN -|PUNCT raising_deals|NOUN worth|ADJ about_Rs|DATE 26,600|CARDINAL crore|NOUN in|ADP 2016-17|DATE .|PUNCT
+In|ADP an|DET interview|NOUN ,|PUNCT Mehta|ENT told|VERB Sanam_Mirchandani|ENT that|ADP consumption_sector_companies|NOUN would|VERB be|VERB a|DET preferred_theme|NOUN ,|PUNCT and|CCONJ organised_sector|NOUN will|VERB benefit|VERB the|DET most|ADV because|ADP of|ADP GST.Edited_excerpts|NOUN :|PUNCT It|PRON will|VERB be|VERB a_good_year|DATE again|ADV for|ADP IPOs|NOUN as|ADP the|DET quality|NOUN of|ADP companies|NOUN that|ADJ will|VERB be|VERB raising|VERB capital|NOUN is|VERB very|ADV good|ADJ and|CCONJ if|ADP the|DET IPOs|NOUN are|VERB priced|VERB properly|ADV ,|PUNCT one|PRON can|VERB make|VERB decent_returns|NOUN .|PUNCT
+But|CCONJ to|PART beat|VERB last_year's|DATE returns|NOUN of|ADP 80%-plus|DATE on|ADP IPOs|NOUN will|VERB be|VERB tough|ADJ .|PUNCT
+One|PRON has|VERB to|PART be|VERB realistic|ADJ and|CCONJ look|VERB to|PART make|VERB 25-30%_return|PERCENT .|PUNCT
+It|PRON was|VERB attractively|ADV priced|VERB and|CCONJ due|ADP to|ADP the|DET move|NOUN from|ADP unorganised|ADJ to|ADP organised|ADJ sector|NOUN ,|PUNCT they|PRON will|VERB be|VERB one|CARDINAL the|DET biggest_beneficiaries|NOUN .|PUNCT
+They|PRON have|VERB the|DET best_management|NOUN and|CCONJ business_model|NOUN .|PUNCT
+Investors|NOUN wanted|VERB to|PART invest|VERB in|ADP the|DET retail_sector|NOUN and|CCONJ there|ADV were|VERB not|ADV too_many_options|NOUN .|PUNCT
+If|ADP the|DET economy|NOUN does|VERB n't|ADV do|VERB well|ADV ,|PUNCT even_they|PRON will|VERB also|ADV suffer|VERB like|ADP others|NOUN .|PUNCT
+Their|ADJ business_model|NOUN too|ADV depends|VERB on|ADP what|NOUN happens|VERB in|ADP the|DET country|NOUN though|ADP they|PRON will|VERB be|VERB far|ADV better|ADJ off|ADV than|ADP others|NOUN as|ADP they|PRON have|VERB done|VERB it|PRON more|ADV efficiently|ADV with|ADP a|DET low-cost_model|NOUN and|CCONJ a|DET conservative_approach|NOUN .|PUNCT
+The|DET consumption_story|NOUN is|VERB going|VERB to|PART be|VERB more|ADJ preferred|VERB as|ADP they|PRON reflect|VERB the|DET India_story|NOUN .|PUNCT
+The|DET deal_sizes|NOUN are|VERB going|VERB to|PART be|VERB larger|ADJ and|CCONJ the|DET quality|NOUN of|ADP the|DET deals|NOUN is|VERB going|VERB to|PART be|VERB far|ADV superior|ADJ .|PUNCT
+General_insurance_companies|NOUN and|CCONJ solar_energy_firms|NOUN are|VERB going|VERB to|PART come|VERB as|ADV well|ADV .|PUNCT
+Dilip_Buildcon|ENT ,|PUNCT which|ADJ listed|VERB last|ADJ yea|NOUN has|VERB done|VERB very|ADV well|ADV .|PUNCT
+This|DET shows|VERB peo_ple|NOUN can|VERB make|VERB money|NOUN in|ADP infrastructure_companies|NOUN subject|ADJ to|ADP one|NUM getting|VERB the|DET right_company|NOUN to|PART invest|VERB at|ADP the|DET right_value|NOUN .|PUNCT
+It|PRON depends|VERB on|ADP what|NOUN is|VERB the|DET underlying_asset|NOUN and|CCONJ what|NOUN is|VERB the|DET profile|NOUN of|ADP the|DET project|NOUN .|PUNCT
+There|ADV are|VERB some|DET taxation_issues|NOUN which|ADJ will|VERB be|VERB clarified|VERB soon|ADV .|PUNCT
+Banks|NOUN are|VERB also|ADV allowed|VERB to|PART invest|VERB now|ADV .|PUNCT
+The|DET size|NOUN of|ADP REITs|NOUN and|CCONJ InvITs_this_year|DATE is|VERB also|ADV going|VERB to|PART be|VERB large|ADJ .|PUNCT
+It|PRON is|VERB good|ADJ for|ADP the|DET country|NOUN and|CCONJ the|DET sector|NOUN because|ADP we|PRON needed|VERB these|DET highyielding_products|NOUN .|PUNCT
+There|ADV will|VERB be|VERB divestments|NOUN and|CCONJ strategic_sales|NOUN this_year|DATE .|PUNCT
+The|DET government|NOUN is|VERB smartly|ADV divesting|VERB via|ADP ETFs|NOUN and|CCONJ not|ADV hitting|VERB the|DET market|NOUN with|ADP large_deals|NOUN on|ADP single_stocks|NOUN .|PUNCT
+You|PRON will|VERB see|VERB a|DET lot|NOUN of|ADP ETFs|NOUN coming|VERB this_year|DATE .|PUNCT
+Last_year|DATE was|VERB still|ADV a|DET volatile_year|NOUN for|ADP the|DET equity_market|NOUN but|CCONJ this_year_-unless|NOUN we|PRON get|VERB a|DET bad_monsoon|NOUN ,|PUNCT major_global_crisis|NOUN or|CCONJ oil|NOUN moves|VERB up|ADP -there|ADV will|VERB be|VERB decent_money|NOUN raised|VERB via|ADP divestments|NOUN .|PUNCT
+Valuations|ENT are|VERB expensive|ADJ and|CCONJ people|NOUN are|VERB underestimating|VERB the|DET supply|NOUN of|ADP paper|NOUN that|ADJ will|VERB come|VERB over|ADP the_next_year|DATE including|VERB divestments|NOUN .|PUNCT
+But|CCONJ the|DET domestic_liquidity|NOUN is|VERB the|DET key_difference|NOUN between|ADP all|DET other_bull_markets|NOUN and|CCONJ this|DET bull_market|NOUN .|PUNCT
+India|ENT is|VERB much|ADV better|ADV placed|VERB fundamentally|ADV in|ADP the|DET global_pack|NOUN .|PUNCT
+Oil_prices|NOUN and|CCONJ low_interest_rates|NOUN are|VERB a|DET huge_plus|NOUN for|ADP India|ENT .|PUNCT
+Also|ADV ,|PUNCT money|NOUN parked|VERB in|ADP banks|NOUN will|VERB ultimately|ADV come|VERB to|ADP equity|NOUN as|ADP real_estate|NOUN and|CCONJ gold|NOUN are|VERB not|ADV doing|VERB well|ADV .|PUNCT
+Investors|NOUN are|VERB smartly|ADV investing|VERB in|ADP SIPs|NOUN so|ADP it|PRON is|VERB not|ADV a|DET bubble|NOUN .|PUNCT
+Yes|INTJ .|PUNCT
+There|ADV is|VERB `|PUNCT 4,000-crore|CARDINAL worth|NOUN of|ADP money|NOUN coming|VERB to|ADP SIPs|NOUN every_month|DATE .|PUNCT
+Just|ADV as|ADP SIPs|NOUN took|VERB off|PART as|ADP a|DET product|NOUN ,|PUNCT ETFs_(Exchange_Traded_Funds|ENT )|PUNCT will|VERB also|ADV do|VERB well|ADV .|PUNCT
+They|PRON will|VERB be|VERB the|DET next|ADJ .|PUNCT
+GST|ENT going|VERB through|ADP was|VERB a|DET game_changer_event|NOUN which|ADJ the|DET market|NOUN is|VERB ignoring|VERB .|PUNCT
+The|DET impact|NOUN of|ADP digital_India|ENT is|VERB still|ADV not|ADV understood|VERB very|ADV well|ADV .|PUNCT
+Some|DET problems|NOUN will|VERB be|VERB there|ADV but|CCONJ the|DET organised_sector|NOUN will|VERB benefit|VERB the|DET most|ADV .|PUNCT
+Those|DET are|VERB the|DET listed_stocks|NOUN one|PRON should|VERB buy|VERB .|PUNCT
+The|DET only_thing|NOUN which|ADJ is|VERB now|ADV pending|VERB is|VERB the|DET real_kick-start|NOUN to|ADP the|DET economy|NOUN or|CCONJ spending|NOUN of|ADP money|NOUN on|ADP infrastructure|NOUN in|ADP a|DET big_way|NOUN .|PUNCT
+The|DET private_sector|NOUN has|VERB not|ADV contributed|VERB to|ADP the|DET capex_story|NOUN of|ADP India|ENT .|PUNCT
+A|DET lot|NOUN of|ADP money|NOUN has|VERB moved|VERB to|ADP passive_vs_active_investment|NOUN globally|ADV and|CCONJ that|DET passive_money|NOUN is|VERB also|ADV coming|VERB to|ADP India|ENT in|ADP a|DET big_way|NOUN .|PUNCT
+If|ADP passive|ADJ money|NOUN starts|VERB moving|VERB away|ADV from|ADP emerging|VERB markets|NOUN due|ADJ to|ADP global_events|NOUN ,|PUNCT India|ENT could|VERB also|ADV get|VERB the|DET brunt|NOUN .|PUNCT
+Monsoon|ENT is|VERB once|ADV again|ADV an|DET important_factor|NOUN and|CCONJ a|DET bad_monsoon|NOUN coupled|VERB with|ADP farmloan_waivers|NOUN can|VERB be|VERB a|DET huge_risk|NOUN to|ADP the|DET India_story|NOUN .|PUNCT
+In|ADP case|NOUN any|DET other_investment_option|NOUN domestically|ADV like|ADP real_estate|NOUN ,|PUNCT gold|NOUN and|CCONJ fixed_deposits|NOUN become|VERB attractive|ADJ ,|PUNCT then|ADV money|NOUN may|VERB move|VERB out|ADV of|ADP stock_markets|NOUN .|PUNCT
+Most|ADV importantly|ADV ,|PUNCT earnings|NOUN miss|VERB is|VERB the|DET biggest_risk|NOUN to|ADP markets|NOUN .|PUNCT
+The|DET next_rally|NOUN will|VERB be|VERB led|VERB by|ADP infrastructure_companies|NOUN ,|PUNCT private_banks|NOUN and|CCONJ domestic_consumption,_and_organised_players|NOUN will|VERB do|VERB well|ADV because|ADP of|ADP GST|ENT .|PUNCT

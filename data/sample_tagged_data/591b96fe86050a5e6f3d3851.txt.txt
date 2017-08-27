@@ -1,0 +1,11 @@
+MP_Kirron_Kher|ENT .|PUNCT
+(|PUNCT File_Photo|ENT )|PUNCT MP|PROPN Kirron|PROPN Kher|ENT .|PUNCT (|PUNCT
+File_Photo|ENT )|PUNCT Member|PROPN of|ADP Parliament_Kirron_Kher|PROPN Tuesday|DATE laid|VERB the|DET foundation_stone|NOUN of|ADP two|CARDINAL Government_High_Schools|ENT in|ADP two|CARDINAL different_sites|NOUN at|ADP Maloya|ENT .|PUNCT
+The|DET tentative_cost|NOUN of|ADP construction|NOUN will|VERB be|VERB Rs_15|CARDINAL crore|NOUN for|ADP each|DET school|NOUN .|PUNCT
+The|DET tenders|NOUN for|ADP the|DET construction|NOUN of|ADP these|DET schools|NOUN have|VERB been|VERB allotted|VERB and|CCONJ the|DET construction|NOUN will|VERB begin|VERB soon,”said|VERB an|DET official|NOUN .|PUNCT
+The|DET target|NOUN for|ADP completion|NOUN of|ADP construction|NOUN of|ADP these|DET schools|NOUN is|VERB 18_months|DATE .|PUNCT
+These|DET schools|NOUN will|VERB have|VERB 8|CARDINAL classrooms|NOUN on|ADP the|DET ground_floor|NOUN and|CCONJ 15|CARDINAL classrooms|NOUN each|DET on|ADP the|DET first,_second_and_third_floors|NOUN .|PUNCT
+The|DET ground_floor|NOUN of|ADP the|DET school|NOUN will|VERB also|ADV have|VERB a|DET medical_room|NOUN .|PUNCT
+Each|DET school|NOUN will|VERB also|ADV have|VERB a|DET ramp|NOUN .|PUNCT
+It|PRON needs|VERB to|PART be|VERB mentioned|VERB that|ADP the|DET schools|NOUN are|VERB constructed|VERB keeping|VERB in|ADP mind|NOUN their|ADJ requirement|NOUN after|ADP the|DET flats|NOUN are|VERB allotted|VERB under|ADP the|DET rehabilitation_scheme|NOUN in|ADP Maloya_colony|NOUN .|PUNCT
+For|ADP all|ADJ the|DET latest_India_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

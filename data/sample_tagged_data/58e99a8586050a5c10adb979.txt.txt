@@ -1,0 +1,19 @@
+An|DET officer|NOUN stands|VERB guard|NOUN as|ADP police|NOUN cordon|NOUN off|ADP a|DET large_area|NOUN around|ADP a|DET subway_station|NOUN on|ADP a|DET busy_commercial_street|NOUN Saturday|DATE night|TIME ,|PUNCT April_8,_2017|DATE ,|PUNCT after|ADP finding|VERB what|NOUN they|PRON described|VERB as|ADP a|DET “|PUNCT bomb|NOUN -|PUNCT like”_device|NOUN ,|PUNCT in|ADP Oslo|ENT ,|PUNCT Norway|ENT .|PUNCT
+(|PUNCT Fredrik_Varfjell_/NTB_scanpix|NOUN via|ADP AP|ENT )|PUNCT
+An|DET officer|NOUN stands|VERB guard|NOUN as|ADP police|NOUN cordon|NOUN off|ADP a|DET large_area|NOUN around|ADP a|DET subway_station|NOUN on|ADP a|DET busy_commercial_street|NOUN Saturday|DATE night|TIME ,|PUNCT April_8,_2017|DATE ,|PUNCT after|ADP finding|VERB what|NOUN they|PRON described|VERB as|ADP a|DET “|PUNCT bomb|NOUN -|PUNCT like”_device|NOUN ,|PUNCT in|ADP Oslo|ENT ,|PUNCT Norway|ENT .|PUNCT
+(|PUNCT Fredrik_Varfjell_/NTB_scanpix|NOUN via|ADP AP|ENT )|PUNCT Police|NOUN in|ADP the|DET Norwegian_capital|NOUN of|ADP Oslo|ENT said|VERB they|PRON neutralized|VERB an|DET explosive_device|NOUN found|VERB in|ADP a|DET busy_area|NOUN of|ADP downtown_Oslo|ENT late_Saturday_night|TIME and|CCONJ said|VERB they|PRON had|VERB arrested|VERB a|DET suspect|NOUN .|PUNCT
+Police|NOUN Chief_Vidar_Pedersen|ENT confirmed|VERB that|ADP the|DET device|NOUN ,|PUNCT initially|ADV described|VERB as|ADP “|PUNCT bomb|NOUN -|PUNCT like|ADJ ,|PUNCT ”|PUNCT was|VERB an|DET explosive|NOUN .|PUNCT
+The|DET police_Twitter_account|NOUN said|VERB it|PRON had|VERB been|VERB defused|VERB or|CCONJ neutralized|VERB .|PUNCT
+Police|NOUN would|VERB not|ADV give|VERB any|DET details|NOUN about|ADP the|DET suspect|NOUN ,|PUNCT or|CCONJ further_information|NOUN about|ADP the|DET device|NOUN .|PUNCT
+Pedersen|ENT said|VERB the|DET device|NOUN was|VERB found|VERB on|ADP the|DET street|NOUN just|ADV outside|ADP the|DET Groenland_underground_station|NOUN ,|PUNCT and|CCONJ police|NOUN swept|VERB through|ADP the|DET area|NOUN to|PART remove|VERB people|NOUN from|ADP bars|NOUN and|CCONJ restaurants|NOUN .|PUNCT
+“|PUNCT
+Every|DET restaurant|NOUN was|VERB being|VERB closed|VERB ,|PUNCT ”|PUNCT said|VERB 23-year-old_Malin_Myrvold|ENT ,|PUNCT who|NOUN witnessed|VERB the|DET scene|NOUN from|ADP a|DET fourth-story_window|NOUN .|PUNCT
+“|PUNCT You|PRON could|VERB see|VERB cops|NOUN in|ADP heavy_armor|NOUN going|VERB in|ADP every|DET store|NOUN and|CCONJ restaurant|NOUN .|PUNCT
+“|PUNCT We|PRON were|VERB trying|VERB to|PART see|VERB what|NOUN was|VERB going|VERB on|PART .|PUNCT
+The|DET police|NOUN were|VERB screaming|VERB at|ADP us|PRON to|PART get|VERB back|ADV inside|ADV and|CCONJ stay|VERB where|ADV we|PRON were|VERB ,|PUNCT ”|PUNCT she|PRON added|VERB by|ADP telephone|NOUN .|PUNCT
+Norway|ENT was|VERB put|VERB on|ADP high_alert|NOUN after|ADP neighboring_Sweden|ENT suffered|VERB a|DET truck_attack|NOUN in|ADP the|DET capital|NOUN that|ADJ killed|VERB four|CARDINAL people|NOUN and|CCONJ injured|VERB 15|CARDINAL .|PUNCT
+The|DET suspect|NOUN in|ADP Friday’s_attack|NOUN ,|PUNCT a|DET 39-year-old_native|NOUN of|ADP Uzbekistan|ENT ,|PUNCT has|VERB been|VERB arrested|VERB .|PUNCT
+It|PRON was|VERB unclear|ADJ whether|ADP he|PRON was|VERB also|ADV a|DET Swedish_citizen|NOUN or|CCONJ resident|NOUN or|CCONJ even|ADV how|ADV long|ADV he|PRON ’d|VERB been|VERB in|ADP the|DET country|NOUN .|PUNCT
+The|DET Norwegian_incident|NOUN happened|VERB less|ADJ than|ADP a_mile|QUANTITY from|ADP the|DET government_buildings|NOUN that|ADJ were|VERB damaged|VERB in|ADP a|DET deadly_bomb_attack|NOUN carried|VERB out|PART by|ADP right_wing_extremist|NOUN Anders_Breivik|ENT in|ADP 2011|DATE .|PUNCT
+That|DET bomb|NOUN and|CCONJ a|DET subsequent_gun_massacre|NOUN killed|VERB a|DET total|NOUN of|ADP 77|CARDINAL people|NOUN .|PUNCT
+For|ADP all|ADJ the|DET latest_World_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

@@ -1,0 +1,35 @@
+FRESNO|ENT ,|PUNCT Calif.|ENT --|PUNCT The|DET father|NOUN of|ADP a|DET teenage_driver|NOUN who|NOUN livestreamed|VERB part|NOUN of|ADP a|DET car_crash|NOUN that|ADJ authorities|NOUN say|VERB killed|VERB her|ADJ younger_sister|NOUN is|VERB speaking|VERB out|PART .|PUNCT
+Nicandro_Sanchez|ENT told|VERB California_television_station|NOUN KFSN|ENT he|PRON has|VERB seen|VERB the|DET video|NOUN and|CCONJ that|ADP he|PRON believes|VERB the|DET crash|NOUN was|VERB "|PUNCT an|DET accident|NOUN .|PUNCT "|PUNCT "|PUNCT It|PRON 's|VERB an|DET accident|NOUN ,|PUNCT "|PUNCT Sanchez|ENT said|VERB .|PUNCT
+"|PUNCT It|PRON happened|VERB that|DET way|NOUN .|PUNCT
+Who|NOUN knows|VERB why|ADV ?|PUNCT "|PUNCT
+He|PRON said|VERB he|PRON hasn't|ADV spoken|VERB to|ADP his|ADJ daughter|NOUN ,|PUNCT Obdulia_Sanchez|ENT ,|PUNCT 18|DATE ,|PUNCT who|NOUN authorities|NOUN say|VERB was|VERB driving|VERB the|DET car|NOUN ,|PUNCT but|CCONJ he|PRON believes|VERB she|PRON knows|VERB she|PRON did|VERB something|NOUN wrong|ADJ but|CCONJ does|VERB n't|ADV know|VERB what|NOUN happened|VERB .|PUNCT "|PUNCT
+What|NOUN I|PRON think|VERB ,|PUNCT she|PRON knows|VERB she|PRON 's|VERB done|VERB something|NOUN wrong|ADJ .|PUNCT
+Because|ADP she|PRON knows|VERB ,|PUNCT and|CCONJ that|DET 's|VERB what|NOUN I|PRON feel|VERB .|PUNCT
+She|PRON feels|VERB bad|ADJ ,|PUNCT but|CCONJ she|PRON still|ADV killed|VERB her|ADJ own_sister|NOUN ,|PUNCT "|PUNCT he|PRON said|VERB .|PUNCT
+Merced_County|ENT Sheriff|PROPN 's|PART Office|PROPN Nicandro_Sanchez|ENT said|VERB Obdulia|ENT had|VERB a|DET difficult_childhood|NOUN and|CCONJ graduated|VERB from|ADP high_school|NOUN last_year|DATE .|PUNCT
+She|PRON was|VERB in|ADP the|DET custody|NOUN of|ADP Child_Protective_Services|ENT the_past_two_years|DATE ,|PUNCT he|PRON added|VERB .|PUNCT
+After|ADP a|DET gap|NOUN in|ADP Friday|DATE 's|PART livestream|NOUN ,|PUNCT Obdulia_Sanchez|ENT is|VERB seen|VERB leaning|VERB over|ADP the|DET body|NOUN of|ADP her|ADJ sister|NOUN ,|PUNCT trying|VERB to|PART shake|VERB her|PRON awake|ADJ and|CCONJ saying|VERB she|PRON was|VERB sorry|ADJ .|PUNCT "|PUNCT Wake|VERB up|PART ,|PUNCT baby|NOUN ,|PUNCT I|PRON 'm|VERB f|X ---|PUNCT ing|VERB sorry|ADJ ,|PUNCT baby|NOUN ,|PUNCT I|PRON did|VERB not|ADV mean|VERB to|PART kill|VERB you|PRON ,|PUNCT sweetie|NOUN ,|PUNCT "|PUNCT Sanchez|ENT says|VERB .|PUNCT
+She|PRON said|VERB she|PRON expected|VERB to|PART spend|VERB the|DET rest|NOUN of|ADP her|ADJ life|NOUN in|ADP prison|NOUN but|CCONJ does|VERB n't|ADV care|VERB .|PUNCT
+"|PUNCT This|DET is|VERB the|DET last_thing|NOUN I|PRON wanted|VERB to|PART happen|VERB ,|PUNCT OK|INTJ ?|PUNCT ...|PUNCT Rest|VERB in|ADP peace|NOUN ,|PUNCT sweetie|NOUN ,|PUNCT "|PUNCT the|DET teen|NOUN says|VERB .|PUNCT
+"|PUNCT If|ADP you|PRON do|VERB n't|ADV survive|VERB ,|PUNCT I|PRON 'm|VERB so|ADV (|PUNCT expletive|NOUN )|PUNCT sorry|ADJ .|PUNCT
+"|PUNCT The|DET car|NOUN veered|VERB onto|ADP the|DET shoulder|NOUN of|ADP a|DET road|NOUN about_75_miles|QUANTITY northwest|ADV of|ADP Fresno|ENT .|PUNCT
+Sanchez|ENT overcorrected|VERB ,|PUNCT causing|VERB the|DET vehicle|NOUN to|PART swerve|VERB and|CCONJ overturn|VERB into|ADP a|DET field|NOUN ,|PUNCT ejecting|VERB her|ADJ sister|NOUN ,|PUNCT the_California_Highway_Patrol|ENT said|VERB on|ADP Monday|DATE .|PUNCT
+Jacqueline_Sanchez|ENT ,|PUNCT 14|DATE ,|PUNCT of|ADP Stockton|ENT died|VERB in|ADP the|DET crash|NOUN ,|PUNCT Merced_County_Sheriff_Vern_Warnke|ENT said|VERB .|PUNCT
+Her|ADJ friend|NOUN Manuela_Seja|ENT ,|PUNCT also|ADV 14|DATE ,|PUNCT was|VERB in|ADP the|DET backseat|NOUN and|CCONJ survived|VERB with|ADP a|DET leg_injury|NOUN ,|PUNCT CBS_Fresno|ENT affiliate|NOUN KGPE|PROPN -|PUNCT TV|PROPN reports|VERB .|PUNCT
+"|PUNCT I|PRON still|ADV believe|VERB she|PRON 'll|VERB call|VERB me|PRON as|ADV soon|ADV as|ADP I|PRON wake|VERB up|PART ,|PUNCT "|PUNCT Manuela|PROPN told|VERB KGPE-TV|ENT .|PUNCT "|PUNCT
+Yes|INTJ ,|PUNCT I|PRON do|VERB cry|VERB because|ADP I|PRON think|VERB about|ADP her|PRON ,|PUNCT but|CCONJ I|PRON do|VERB my|ADJ best|ADJ to|PART stay|VERB strong|ADJ for|ADP her|PRON .|PUNCT "|PUNCT
+The|DET driver|NOUN was|VERB wearing|VERB a|DET seatbelt|NOUN but|CCONJ not|ADV the|DET two|CARDINAL girls|NOUN ,|PUNCT the|DET CHP|ENT said|VERB .|PUNCT
+Obdulia_Sanchez|ENT was|VERB arrested|VERB on|ADP suspicion|NOUN of|ADP drunken|ADJ driving|NOUN and|CCONJ vehicular_manslaughter|NOUN and|CCONJ remained|VERB in|ADP jail|NOUN with|ADP bail|NOUN set|VERB at|ADP $|SYM 300,000|MONEY .|PUNCT
+The|DET livestream|NOUN was|VERB recorded|VERB on|ADP Instagram|ENT and|CCONJ posted|VERB on|ADP Facebook|PROPN by|ADP someone|NOUN who|NOUN had|VERB seen|VERB it|PRON .|PUNCT
+Stockton_resident|NOUN Mary_Hernandez|ENT said|VERB she|PRON saw|VERB the|DET video|NOUN there|ADV and|CCONJ reposted|VERB it|PRON .|PUNCT
+"|PUNCT People|NOUN need|VERB to|PART know|VERB these|DET things|NOUN can|VERB happen|VERB ,|PUNCT "|PUNCT Hernandez|ENT said|VERB ,|PUNCT adding|VERB that|ADP she|PRON had|VERB gotten|VERB a|DET range|NOUN of|ADP responses|NOUN from|ADP anger|NOUN to|ADP gratitude|NOUN .|PUNCT
+"|PUNCT I|PRON mean|VERB no|DET disrespect|NOUN to|ADP their|ADJ family|NOUN for|ADP posting|VERB it|PRON ,|PUNCT "|PUNCT she|PRON said|VERB .|PUNCT
+Hernandez|ENT said|VERB she|PRON knew|VERB about|ADP Obdulia_Sanchez|ENT through|ADP social_media|NOUN ,|PUNCT but|CCONJ they|PRON never|ADV met|VERB in|ADP person|NOUN .|PUNCT
+Rob_Carroll|ENT ,|PUNCT a|DET chief|ADJ deputy|NOUN in|ADP the_Merced_County_District_Attorney's|ENT Office|PROPN ,|PUNCT said|VERB he|PRON had|VERB not|ADV yet|ADV seen|VERB the|DET video|NOUN .|PUNCT
+But|CCONJ he|PRON expects|VERB it|PRON will|VERB be|VERB a|DET key_piece|NOUN of|ADP evidence|NOUN .|PUNCT
+"|PUNCT Drinking|NOUN ,|PUNCT driving|VERB and|CCONJ driving|VERB erratically|ADV -|PUNCT obviously|ADV those|DET are|VERB poor_choices|NOUN ,|PUNCT "|PUNCT Carroll|ENT said|VERB .|PUNCT
+Relatives|NOUN have|VERB set|VERB up|PART a|DET GoFundMe_page|NOUN to|PART pay|VERB for|ADP the|DET funeral|NOUN of|ADP Jacqueline_Sanchez|ENT .|PUNCT
+The|DET page|NOUN says|VERB she|PRON was|VERB planning|VERB to|PART celebrate|VERB her|ADJ 15th|ORDINAL birthday|NOUN -|PUNCT known|VERB as|ADP a|DET quincenera|NOUN -|PUNCT on|ADP Sunday|DATE .|PUNCT
+Her|ADJ parents|NOUN ,|PUNCT however|ADV ,|PUNCT told|VERB KFSN|ENT Jacqueline|ENT was|VERB going|VERB to|PART be|VERB confirmed|VERB in|ADP a|DET Catholic_church|NOUN .|PUNCT
+Neither|DET Obdulia_Sanchez|ENT nor|CCONJ an|DET attorney|NOUN representing|VERB her|PRON could|VERB be|VERB reached|VERB for|ADP comment|NOUN .|PUNCT
+She|PRON is|VERB expected|VERB to|PART make|VERB her|ADJ first_court_appearance|NOUN Wednesday|DATE .|PUNCT

@@ -1,0 +1,19 @@
+New money laundering prevention tool launched
+
+Payments and compliance system provider Pelican has launched a trade-based money laundering (TBML) detection solution incorporating artificial intelligence.
+
+With TBML increasingly at the forefront of banks’ concerns, various technology providers are looking at commercialising specialised solutions. The Pelican product, part of its PelicanSecure compliance platform, incorporates natural language processing (NLP) and machine learning (ML) to scrutinise, contextualise, understand and compare structured and unstructured data elements along the trade chain, helping to detect and prevent TBML.
+
+It works by identifying irregularities indicative of potential TBML, as well as screening vessels and third-parties, and monitoring the complete transaction workflow.
+
+At the ongoing BAFT Americas annual conference in Miami, Pelican representatives held an informal roundtable (attended by GTR) to survey banks about what they would be looking for in a TBML detection solution. There, the main aspects of TBML emerged: monitoring dual-use goods and their potential risk impact, following shipping routes and the potential for fraud at various ports, and detecting over and under-invoicing.
+
+According to bankers and Pelican representatives present at the roundtable, this latter issue is the toughest to address, as bankers don’t feel like they have the authority to comment on the pricing of goods being shipped. The Pelican technology provides part of an answer, setting off real-time alerts against potential commodity and invoice pricing manipulation to notify compliance teams that a closer look is needed.
+
+The TBML detection product also provides alerts for dual-use goods detection and shipment to high-risk countries.
+
+Parth Desai, founder and CEO of Pelican, says: “Global trade is increasingly being targeted by fraudsters and money laundering operations. Detecting fraud within complex trade finance processes presents unique challenges for organisations, with tighter regulation increasing the reputational and financial risks of non-compliance. Pelican is uniquely placed to leverage the over two decades of expertise we have in the practical application of AI disciplines to help secure global trade against the growing threats posed by TBML.”
+
+GTR learns that the solution was piloted with a bank and discussed with US regulators on an informal basis. It comes at the right time, as many bankers present at the conference seem convinced, from experience, that TBML will be the next great sanctions focus for US regulators.
+
+Recommended for you

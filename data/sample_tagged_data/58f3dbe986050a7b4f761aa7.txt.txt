@@ -1,0 +1,15 @@
+Authorities|NOUN in|ADP Ohio|ENT are|VERB interviewing|VERB victims|NOUN to|PART identify|VERB suspects|NOUN involved|VERB in|ADP the|DET shooting|NOUN at|ADP a|DET Columbus_club|NOUN that|ADJ left|VERB nine|CARDINAL wounded|VERB early|ADV Sunday|DATE .|PUNCT
+An|DET argument|NOUN sparked|VERB gunfire|NOUN at|ADP the_J&R_Party_Hall|ENT on|ADP Cleveland|ENT Ave.where|VERB five|CARDINAL women|NOUN and|CCONJ four|CARDINAL men|NOUN were|VERB shot|VERB after|ADP 3_a.m.|QUANTITY ,|PUNCT police|NOUN said|VERB .|PUNCT
+Those|DET victims’_injuries|NOUN range|VERB from|ADP minor|ADJ to|ADP life|NOUN -|PUNCT threatening|VERB ,|PUNCT police|NOUN said|VERB .|PUNCT
+Authorities|NOUN have|VERB identified|VERB the|DET victims|NOUN as|ADP Sharda_Hall|ENT ,|PUNCT 25|CARDINAL ;|PUNCT Brooklyn_Bradley|ENT ,|PUNCT 20|CARDINAL ;|PUNCT Diamond_Harris|ENT ,|PUNCT 33|CARDINAL ;|PUNCT Ja'Voughn_Henderson|ENT ,|PUNCT 22|CARDINAL ;|PUNCT Cornecia_Pruitt|ENT ,|PUNCT 25|CARDINAL ;|PUNCT Keante_McGrew|ENT ,|PUNCT 31|CARDINAL ;|PUNCT Kaadijah_Travis|ENT ,|PUNCT 23|CARDINAL ;|PUNCT William_Boswell|ENT ,|PUNCT 27|DATE ,|PUNCT and|CCONJ Jawaun_McCrae|ENT ,|PUNCT 20|DATE ,|PUNCT according|VERB to|ADP 10TV|CARDINAL .|PUNCT
+Police|NOUN are|VERB still|ADV searching|VERB for|ADP the|DET suspect|NOUN in|ADP connection|NOUN with|ADP the|DET nightclub_shooting|NOUN .|PUNCT
+(|PUNCT WBNS|ENT )|PUNCT __Multiple-caliber_shell_casings|NOUN were|VERB found|VERB inside|ADP the|DET venue|NOUN .|PUNCT
+Seven|CARDINAL victims|NOUN are|VERB being|VERB treated|VERB at|ADP Grant_Medical_Center|ENT ,|PUNCT and|CCONJ two|CARDINAL others|NOUN are|VERB at|ADP Ohio_State_University_Medical_Center|ENT ,|PUNCT the|DET station|NOUN reported|VERB .|PUNCT
+Police|NOUN said|VERB they|PRON have|VERB interviewed|VERB victims|NOUN ,|PUNCT but|CCONJ they|PRON have|VERB either|CCONJ refused|VERB to|PART cooperate|VERB with|ADP the|DET authorities|NOUN or|CCONJ claim|VERB that|ADP they|PRON did|VERB not|ADV see|VERB what|NOUN happened|VERB .|PUNCT
+A|DET motive|NOUN for|ADP the|DET shooting|NOUN was|VERB n’t|ADV immediately|ADV clear|ADJ .|PUNCT
+Last_month|DATE ,|PUNCT a|DET dispute|NOUN in|ADP Cincinnati|ENT ’s_Cameo_nightclub|NOUN prompted|VERB a|DET shooting|NOUN that|ADJ left|VERB 15|CARDINAL people|NOUN wounded|VERB and|CCONJ two|CARDINAL dead|ADJ .|PUNCT
+Nine|CARDINAL people|NOUN were|VERB shot|VERB at|ADP J&R_Party_Hall|ENT in|ADP Columbus|ENT early_Sunday|DATE .|PUNCT
+(|PUNCT WBNS|ENT )|PUNCT Cornell_Beckley|ENT ,|PUNCT 27|DATE ,|PUNCT the|DET man|NOUN accused|VERB of|ADP opening_fire|NOUN in|ADP the|DET club|NOUN ,|PUNCT has|VERB pleaded|VERB not|ADV guilty|ADJ to|ADP murder_charges|NOUN in|ADP the|DET case|NOUN .|PUNCT
+He|PRON ’s|VERB being|VERB held|VERB on|ADP $1.7_million|MONEY bond|NOUN .|PUNCT
+Beckley’s_trial|NOUN is|VERB set|VERB to|PART begin|VERB on|ADP May_30|DATE ,|PUNCT according|VERB to|ADP WCPO-TV|ENT .|PUNCT
+With|ADP News_Wire_Services|ENT

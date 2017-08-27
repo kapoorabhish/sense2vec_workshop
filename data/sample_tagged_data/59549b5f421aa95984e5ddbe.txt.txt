@@ -1,0 +1,10 @@
+Chief_Election_Commissioner_Nasim_Zaidi|ENT (|PUNCT PTI|ENT .|PUNCT
+File_photo|NOUN )|PUNCT Chief|PROPN Election|PROPN Commissioner|PROPN Nasim_Zaidi|ENT (|PUNCT PTI|ENT .|PUNCT
+File_photo|NOUN )|PUNCT __The_Vice_Presidential|ENT election|NOUN will|VERB be|VERB held|VERB on|ADP August_5|DATE ,|PUNCT Chief_Election_Commissioner_Nasim_Zaidi|ENT announced|VERB at|ADP a|DET press_conference|NOUN on|ADP Thursday|DATE .|PUNCT
+The|DET results|NOUN will|VERB also|ADV be|VERB announced|VERB on|ADP the_same_day|DATE .|PUNCT
+The|DET last_date|NOUN for|ADP filing_nominations|NOUN is|VERB July_18|DATE ,|PUNCT Zaidi|ENT said|VERB .|PUNCT
+The|DET election|NOUN for|ADP the|DET Vice_President|PROPN is|VERB conducted|VERB through|ADP a|DET secret_ballot|NOUN where|ADV only_members|NOUN of|ADP both|CCONJ the|DET Lok_Sabha|ENT and|CCONJ Rajya_Sabha|ENT get|VERB to|PART vote|VERB .|PUNCT
+A|DET person|NOUN needs|VERB to|PART satisfy|VERB the|DET following_prerequisites|NOUN to|PART become|VERB a|DET Vice-President|PROPN .|PUNCT
+1|CARDINAL )|PUNCT Needs|NOUN to|PART be|VERB a|DET citizen|NOUN of|ADP India|ENT 2|CARDINAL )|PUNCT Is|VERB at_least_35|CARDINAL years|NOUN old|ADJ or|CCONJ above|ADV .|PUNCT
+3|CARDINAL )|PUNCT is|VERB qualified|ADJ to|PART become|VERB a|DET member|NOUN of|ADP the_Rajya_Sabha|ENT
+For|ADP all|ADJ the|DET latest_India_News|ENT ,|PUNCT download|VERB Indian_Express_App__©_IE_Online_Media_Services_Pvt_Ltd|ENT

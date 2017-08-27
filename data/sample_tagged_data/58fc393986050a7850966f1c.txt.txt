@@ -1,0 +1,14 @@
+Erin_Moran|ENT ,|PUNCT the|DET former|ADJ child|NOUN star|NOUN who|NOUN played|VERB Joanie_Cunningham|ENT in|ADP the|DET sitcoms|NOUN “|PUNCT
+Happy_Days”|ENT and|CCONJ “|PUNCT Joanie_Loves_Chachi|ENT ,|PUNCT ”|PUNCT died|VERB Saturday|DATE at|ADP 56|CARDINAL .|PUNCT
+Authorities|NOUN in|ADP Indiana|ENT said|VERB "|PUNCT received|VERB a|DET 911|CARDINAL call|NOUN about|ADP an|DET unresponsive_female|NOUN .|PUNCT
+Upon|ADP arrival|NOUN of|ADP first_responders|NOUN ,|PUNCT it|PRON was|VERB determined|VERB that|ADP Erin_Moran_Fleischmann|ENT was|VERB deceased|ADJ .|PUNCT
+An|DET autopsy|NOUN is|VERB pending|VERB .|PUNCT
+"|PUNCT __The_Harrison_County|ENT dispatcher|NOUN told|VERB the|DET AP|ENT that|ADP the|DET woman|NOUN was|VERB an|DET actress|NOUN ,|PUNCT who|NOUN had|VERB been|VERB married|ADJ to|ADP Steven_Fleischmann|ENT .|PUNCT
+A|DET Burbank|ENT ,|PUNCT Calif._native|NOUN ,|PUNCT Moran|ENT began|VERB acting|VERB in|ADP TV|NOUN and|CCONJ movies|NOUN before|ADP she|PRON was|VERB 10_years_old|DATE .|PUNCT
+She|PRON had|VERB nearly_a_decade's|DATE worth|NOUN of|ADP experience|NOUN when|ADV she|PRON was|VERB cast|VERB in|ADP 1974|DATE in|ADP "|PUNCT Happy_Days"_as|ENT Joanie_Cunningham|ENT ,|PUNCT the|DET kid|NOUN sister|NOUN to|ADP high_school_student_Richie_Cunningham|ENT ,|PUNCT played|VERB by|ADP Ron_Howard|ENT .|PUNCT
+Debuting|VERB at|ADP a|DET time|NOUN of|ADP nostalgia|NOUN for|ADP the|DET seemingly_innocent_1950s|DATE ,|PUNCT the|DET sitcom|NOUN was|VERB set|VERB in|ADP Milwaukee|ENT and|CCONJ soon|ADV became|VERB a|DET hit|NOUN .|PUNCT
+Howard|ENT and|CCONJ Henry_Winkler|ENT ,|PUNCT who|NOUN played|VERB tough_guy|NOUN Arthur|ENT "|PUNCT The_Fonz|ENT "|PUNCT Fonzarelli|PROPN ,|PUNCT were|VERB the|DET show|NOUN 's|PART biggest_stars|NOUN ,|PUNCT but|CCONJ Moran|ENT also|ADV became|VERB popular|ADJ .|PUNCT
+In|ADP 1982|DATE ,|PUNCT she|PRON was|VERB paired|VERB off|PART with|ADP fellow|ADJ "|PUNCT Happy_Days|ENT "|PUNCT performer|NOUN Scott_Baio|ENT in|ADP the|DET short|ADJ -|PUNCT lived|VERB "|PUNCT Joanie_Loves_Chachi|ENT .|PUNCT "|PUNCT
+Her|ADJ more_recent_credits|NOUN included|VERB "The_Love_Boat|ENT "|PUNCT and|CCONJ "|PUNCT Murder,_She|ENT Wrote|VERB ,|PUNCT "|PUNCT but|CCONJ she|PRON never|ADV approached|VERB the|DET success|NOUN of|ADP "|PUNCT Happy_Days|ENT "|PUNCT and|CCONJ was|VERB more|ADV often|ADV in|ADP the|DET news|NOUN for|ADP her|ADJ numerous_personal_struggles|NOUN .|PUNCT
+Winkler|ENT tweeted|VERB his|ADJ condolences|NOUN late_Saturday|DATE .|PUNCT
+OH|INTJ Erin|ENT ...|PUNCT now|ADV you|PRON will|VERB finally|ADV have|VERB the|DET peace|NOUN you|PRON wanted|VERB so|ADV badly|ADV here|ADV on|ADP earth|NOUN ...|PUNCT Rest|VERB In|ADP It|PRON serenely|ADV now|ADV ..|PUNCT too|ADV soon|ADV —|PUNCT Henry_Winkler|ENT (|PUNCT @hwinkler4real|PROPN )|PUNCT April_23,_2017|DATE The_Associated_Press|ENT contributed|VERB to|ADP this|DET report|NOUN .|PUNCT

@@ -1,0 +1,8 @@
+The|DET son|NOUN of|ADP Brazilian_World_Cup_winner|NOUN Bebeto|ENT has|VERB joined|VERB Sporting_Lisbon|ENT from|ADP fellow|ADJ Portuguese|ENT club|NOUN Estoril|ENT .|PUNCT
+Mattheus_Oliveira|ENT ,|PUNCT 22|DATE ,|PUNCT signed|VERB a|DET five-year_deal|NOUN after|ADP Sporting|VERB agreed|VERB to|ADP a|DET one_million-euro|CARDINAL transfer_fee|NOUN for|ADP the|DET midfielder|NOUN ,|PUNCT Xinhua_news_agency|NOUN aquoted|VERB Brazilian_news_portal_Globo_Esporte|ENT as|ADP reporting|VERB on|ADP Monday|DATE .|PUNCT
+Bebeto|ENT ,|PUNCT who|NOUN scored|VERB 39|CARDINAL goals|NOUN in|ADP 75|CARDINAL appearances|NOUN for|ADP Brazil|ENT ,|PUNCT confirmed|VERB the|DET news|NOUN on|ADP his|ADJ official_Twitter_account|NOUN .|PUNCT
+"|PUNCT I|PRON 'm|VERB very|ADV proud|ADJ of|ADP my|ADJ son|NOUN ,|PUNCT "|PUNCT the|DET former_star_striker|NOUN ,|PUNCT who|NOUN was|VERB part|NOUN of|ADP Brazil|ENT 's|PART 1994|DATE World_Cup|ENT -|PUNCT winning_team|NOUN ,|PUNCT said|VERB .|PUNCT
+"|PUNCT Keep|VERB working|VERB hard|ADV and|CCONJ with|ADP humility|NOUN and|CCONJ you|PRON will|VERB go|VERB far|ADV .|PUNCT
+You|PRON can|VERB create|VERB history|NOUN with|ADP Sporting|ENT ,|PUNCT "|PUNCT
+Oliveira|ENT has|VERB played|VERB 52|CARDINAL matches|NOUN for|ADP Estoril|ENT ,|PUNCT having|VERB joined|VERB the|DET club|NOUN from|ADP Rio_de_Janeiro_outfit_Flamengo|ENT in|ADP January_2015|DATE .|PUNCT
+--IANS|NUM ajb|NOUN /|SYM vm|PROPN (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

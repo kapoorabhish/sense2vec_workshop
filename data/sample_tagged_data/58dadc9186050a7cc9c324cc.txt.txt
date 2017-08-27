@@ -1,0 +1,7 @@
+WELLINGTON|ENT ,|PUNCT March_29|DATE (|PUNCT Reuters|ENT )|PUNCT -|PUNCT Heavy_overnight_rain|NOUN delayed|VERB the|DET start|NOUN of|ADP play|NOUN on|ADP the_final_day_of_the_third_test|DATE between|ADP New_Zealand|ENT and|CCONJ South_Africa|ENT at|ADP Seddon_Park|ENT in|ADP Hamilton|ENT on|ADP Wednesday|DATE .|PUNCT
+Play|NOUN had|VERB been|VERB scheduled|VERB to|PART begin|VERB at|ADP 10:30_a.m._(|TIME 2130_GMT|MONEY )|PUNCT but|CCONJ the|DET covers|NOUN remained|VERB on|ADP the|DET wicket_block|NOUN with|ADP large_pools|NOUN of|ADP water|NOUN still|ADV evident|ADJ on|ADP the|DET outfield|NOUN .|PUNCT
+Further_rain_showers|NOUN are|VERB forecast|VERB for|ADP the|DET rest|NOUN of|ADP the_day|DATE .|PUNCT
+New_Zealand|ENT are|VERB in|ADP a|DET strong_position|NOUN to|PART win|VERB the|DET game|NOUN having|VERB reduced|VERB South_Africa|ENT to|ADP 80|CARDINAL for|ADP five|CARDINAL in|ADP their|ADJ second_innings|NOUN and|CCONJ still|ADV needing|VERB another|DET 95|CARDINAL runs|NOUN to|PART make|VERB the|DET hosts|NOUN bat|NOUN again|ADV .|PUNCT
+South_Africa|ENT lead|VERB the|DET series|NOUN 1-|ENT 0|NUM having|VERB won|VERB the|DET second_game|NOUN in|ADP Wellington|ENT by|ADP eight|CARDINAL wickets|NOUN .|PUNCT
+The|DET rain|NOUN -|PUNCT hit_first_test|NOUN in|ADP Dunedin|ENT ended|VERB in|ADP a|DET draw|NOUN .|PUNCT
+(|PUNCT Reporting|VERB by|ADP Greg_Stutchbury|ENT ;|PUNCT Editing|NOUN by|ADP Toby_Davis|ENT )|PUNCT

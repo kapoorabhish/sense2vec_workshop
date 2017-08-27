@@ -1,0 +1,43 @@
+Google Home is a great little connected speaker, but its smartest features will be lost on non-enthusiasts.
+
+At the risk of stating the obvious, the home is a tough space to break into. Everyone's home is set out differently, and we're all looking for different things out of an internet-connected gadget for our living room, kitchen, bedroom or wherever. (Assuming we're not creeped out by the very idea of this kind of always-listening product that we dismiss it out of hand.) And that's to say nothing of the variety in tastes and services among people who are in the market for a connected speaker with internet-driven intelligence.
+
+In the UK, Google Home makes its debut a good six months after Amazon's Echo series. That device's arrival shortly before the Christmas sales period, combined with heavy marketing, ensured Alexa had a substantial holiday-driven lead. Nevertheless, Google Home is here now, and after three weeks with the device, I'm mostly sold on it. Even so, I find I'm underutilizing Home's higher functions, and on a day-to-day basis I'm mostly using it for audio content, as opposed to Google Assistant.
+
+See at Google Store
+
+Google Home is designed to blend into the background — unless you want it to stand out.
+
+Physically, Google Home is an unassuming little matte plastic cylinder, sitting around six inches tall, with a slanted, touch-sensitive surface up top. It's designed to look like furniture, not gadgetry, and it pulls off that look pretty well. The lower third makes up the actual speaker portion of this speaker. With the standard grey fabric base, it easily blends into the background. Other, jazzier colors are available for £18 from Google's store if you want Home to match the aesthetic of a particular room. That includes one metal option (with others coming soon) that may be a better fit for rooms like your kitchen.
+
+Google Home's touch panel animates in the classic "Google" primary colors when you say the "OK Google" hot-word, and there's a iPod Classic-style clickwheel volume with similar illumination. Should you wish to stop Google Home listening in, there's a microphone mute button around the back. And that's basically it as far as touch interactions go — everything else you'll do directly on Google Home happens via voice.
+
+Like Google Wifi, setup is quick and uncomplicated, handled via the Google Home app. In the process, you'll pair your Google account with your Home, and set up news sources for your daily briefing. That app also gives you a non-touch way to manage anything casting to the device.
+
+As a connected speaker, Google Home is surprisingly capable. You'd hope so for £129 — but Home, despite its diminutive size, manages to put out a great deal of volume, and does so with ample bass even at high volume levels. Thanks to the near ubiquity of Google Cast Chromecast support in popular streaming apps (with the notable exception of Apple Music), chances are whatever you're using for music, podcasts and radio will just work via a phone or tablet.
+
+On the device itself, your app options are a little more limited. Still, I was impressed by how well Home handled the multitude of commands I threw at it:
+
+Stuff like "play the Android Central podcast" ... or "Skip ahead 60 seconds" ... or "Go back to the start" ... or "Play the previous track"
+
+That's only held back by the clunkiness of having to prefix everything you want to do with "OK Google."
+
+There have been a few mishaps along the way, too: Google Home once delivered me the BBQ Central Podcast instead of our own Android Central podcast — go figure. (I'm sure it's a quality show!) And Home was repeatedly stumped by "play Chvrches" (pronounced "churches"), I guess because the written name doesn't line up with the pronunciation. And of course there's a non-zero chance it'll accidentally spring to life if anyone nearby is talking about... well, Google.
+
+Google's far-field mics are sensitive enough to detect you a good distance away.
+
+On that note, it's worth underscoring just how good Google's far-field microphones are in this gadget. (If you want to be creeped out a little, try whispering "OK Google" and see how quiet you can get and still have it respond.) The other side of that coin is that even in larger rooms, or situations where there's a decent amount of background noise, Home has you covered.
+
+In the smartphone world, we're used to living in siloed apps. With Google Home, you're supposed to just ask for what you want, without worrying about where it lives. Assuming it works with all the services you regularly use, as it does in my case, you're all good.
+
+Assistant is the other big tentpole feature of Google Home — and, as it has been since it first debuted on the Pixel phones, is a bit of a mixed bag. Bafflingly, Assistant on Google Home still can't set reminders. There are issues with multiple accounts, where calendar entries from my Mobile Nations Google account wouldn't show up in briefings and direct answers, because only my main Google account could be synced.
+
+More: How to set up and use Google Assistant
+
+Google Assistant is still a work-in-progress.
+
+Besides that, Google Assistant is pretty much the same as the phone-based experience. It's remarkably clever one moment, able to pull what you want from the web, even if it doesn't exist in Google's knowledge graph. ("What's the tallest building in Berlin", for instance.) Yet at the same time it's undone by basic requests like "when will I next be in London", and the long-running "reminders" thing.
+
+That's why I've mostly stuck to using Home as a glorified Google Cast target — albeit one with above-average intelligence, slick voice controls and a handy companion app. Google Assistant is still in its infancy, of course, and it's almost certain the major functionality gaps will be plugged in the months and years ahead. Assistant on phones has had the same growing pains, and is slowly becoming smarter.
+
+You probably already know whether or not you fall into the "early adopter" camp. If that's you, there's plenty of cool stuff to explore in Google Home beyond the core casting and streaming experience. If not, buy it because you want a good, stylish connected speaker that can occasionally tell you the distance between London and Edinburgh and remind you how many cups are in a quart.

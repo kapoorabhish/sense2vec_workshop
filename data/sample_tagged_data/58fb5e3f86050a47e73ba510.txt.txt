@@ -1,0 +1,25 @@
+Knight_Riders|PROPN (|PUNCT KKR|ENT )|PUNCT bowling|VERB coach|NOUN Lakshmipathy_Balaji|ENT on|ADP Saturday|DATE said|VERB it|PRON 's|VERB hard|ADJ to|PART plan|VERB against|ADP the|DET likes|NOUN of|ADP Virat_Kohli|ENT and|CCONJ Chris_Gayle|ENT of|ADP Royal_Challengers|PROPN Bangalore|ENT ,|PUNCT likening|VERB it|PRON to|ADP an|DET armyman|NOUN going|VERB to|ADP war|NOUN .|PUNCT "|PUNCT
+It|PRON 's|VERB hard|ADJ to|PART plan|VERB .|PUNCT
+It|PRON 's|VERB like|ADP an|DET armyman|NOUN going|VERB to|ADP the|DET battlefield|NOUN ,|PUNCT "|PUNCT Balaji|ENT said|VERB smiling|VERB when|ADV asked|VERB whether|ADP the|DET KKR_bowling_unit|NOUN will|VERB be|VERB able|ADJ to|PART contain|VERB Kohli|ENT and|CCONJ Gayle|ENT who|NOUN is|VERB in|ADP good_form|NOUN .|PUNCT
+The|DET KKR_bowlers|NOUN had|VERB taken|VERB a|DET hammering|NOUN in|ADP their|ADJ last_match|NOUN on|ADP Friday|DATE when|ADV Gujarat_Lions'|ENT skipper_Suresh_Raina|ENT smashed|VERB 84|CARDINAL runs|NOUN off|ADP just_46|CARDINAL deliveries|NOUN .|PUNCT
+KKR|ENT lost|VERB the|DET match|NOUN by|ADP four|CARDINAL wickets|NOUN .|PUNCT
+"|PUNCT You|PRON may|VERB have|VERB a|DET lot|NOUN of|ADP planning|NOUN but|CCONJ on|ADP the|DET contact|NOUN of|ADP the|DET innings|NOUN you|PRON try|VERB to|PART disorient|VERB a|DET little_bit|NOUN .|PUNCT
+But|CCONJ the|DET important_thing|NOUN is|VERB what|NOUN we|PRON can|VERB control|VERB .|PUNCT
+The|DET very_good_thing|NOUN is|VERB we|PRON got|VERB five|CARDINAL wickets|NOUN (|PUNCT against|ADP Gujarat_Lions|ENT )|PUNCT .|PUNCT
+When|ADV you|PRON keep|VERB doing|VERB that|DET ,|PUNCT the|DET outcome|NOUN takes|VERB care|NOUN of|ADP its|ADJ own|ADJ ,|PUNCT "|PUNCT Balaji|ENT said|VERB .|PUNCT
+The|DET 35-year-old_former_India_pacer|NOUN backed|VERB his|ADJ bowlers|NOUN after|ADP an|DET underwhelming_outing|NOUN against|ADP Gujarat|ENT ,|PUNCT saying|VERB the|DET fact|NOUN that|ADP they|PRON are|VERB nearing|VERB the|DET 40-wicket_mark|NOUN this|DET season|NOUN is|VERB satisfying|VERB .|PUNCT
+"|PUNCT We|PRON have|VERB reached|VERB nearly_40|CARDINAL wickets|NOUN .|PUNCT
+It|PRON 's|VERB about|ADV wickets|NOUN .|PUNCT
+Do|VERB n't|ADV go|VERB by|ADV runs|NOUN because|ADP as|ADP a|DET bowler|NOUN your|ADJ destination|NOUN depends|VERB on|ADP how_many_wickets|NOUN you|PRON take|VERB and|CCONJ not|ADV by|ADP economy_rate|NOUN ,|PUNCT "|PUNCT he|PRON said|VERB .|PUNCT
+"|PUNCT You|PRON may|VERB bowl|VERB a|DET couple|NOUN of|ADP maidens|NOUN but|CCONJ wickets|NOUN are|VERB important|ADJ as|ADP a|DET bowler|NOUN .|PUNCT
+We|PRON will|VERB improve|VERB in|ADP a|DET couple|NOUN of|ADP areas|NOUN .|PUNCT "|PUNCT
+The|DET KKR_bowlers|NOUN have|VERB so|ADV far|ADV taken|VERB 38|CARDINAL wickets|NOUN in|ADP six|CARDINAL matches|NOUN .|PUNCT
+Left-arm_wrist_spinner|NOUN Kuldeep_Yadav|ENT has|VERB been|VERB the|DET most|ADV successful|ADJ among|ADP their|ADJ bowlers|NOUN with|ADP six|CARDINAL scalps|NOUN to|ADP his|ADJ name|NOUN .|PUNCT
+Asked|VERB about|ADP RCB|ENT being|VERB a|DET batting_heavy_team|NOUN with|ADP the|DET news|NOUN of|ADP South_African_star_batsman_AB_de_Villiers|ENT returning|VERB to|ADP their|ADJ line-up|NOUN ,|PUNCT Balaji|ENT said|VERB :|PUNCT "|PUNCT Twenty_20|CARDINAL is|VERB all|ADV about|ADV on|ADP that_day|DATE what|NOUN you|PRON do|VERB .|PUNCT "|PUNCT
+It|PRON does|VERB n't|ADV matter|VERB what|NOUN you|PRON do|VERB ,|PUNCT batting|VERB decides|VERB the|DET outcome|NOUN most|ADJ of|ADP the|DET times|NOUN .|PUNCT
+I|PRON feel|VERB like|ADP when|ADV you|PRON look|VERB at|ADP it|PRON individually|ADV and|CCONJ skillwise|NOUN ,|PUNCT we|PRON have|VERB all|ADJ the|DET set|NOUN of|ADP skills|NOUN and|CCONJ have|VERB been|VERB playing|VERB good_cricket|NOUN .|PUNCT "|PUNCT
+"|PUNCT We|PRON have|VERB to|PART look|VERB at|ADP our|ADJ limitations|NOUN
+.|PUNCT We|PRON can|VERB not|ADV control|VERB the|DET opposition|NOUN .|PUNCT
+We|PRON can|VERB control|VERB many_things|NOUN which|ADJ we|PRON are|VERB doing|VERB and|CCONJ that|DET 's|VERB why|ADV we|PRON are|VERB in|ADP the|DET top|ADJ three|CARDINAL ,|PUNCT "|PUNCT he|PRON added|VERB .|PUNCT
+KKR|ENT are|VERB second|ORDINAL in|ADP the|DET IPL_table|NOUN with|ADP eight|CARDINAL points|NOUN from|ADP six|CARDINAL outings|NOUN .|PUNCT
+--IANS|NUM dm|ADJ /|SYM ajb|ADV /|SYM bg|ADV (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

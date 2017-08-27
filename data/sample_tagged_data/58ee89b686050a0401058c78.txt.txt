@@ -1,0 +1,30 @@
+The_Ministry_of_Consumer_Affairs|ENT ,|PUNCT Food_and_Public_distribution|NOUN ,|PUNCT is|VERB planning|VERB to|PART regulate|VERB food_portions|NOUN at|ADP restaurants|NOUN .|PUNCT
+The_Ministry_of_Consumer_Affairs|ENT ,|PUNCT Food_and_Public_distribution|NOUN ,|PUNCT is|VERB planning|VERB to|PART regulate|VERB food_portions|NOUN at|ADP restaurants|NOUN .|PUNCT
+Recently|ADV ,|PUNCT Prime_Minister_Narendra_Modi|ENT expressed|VERB concern|NOUN over|ADP “|PUNCT wastage|NOUN of|ADP food|NOUN ”|PUNCT in|ADP his|ADJ radio_programme|NOUN ,|PUNCT Mann_Ki_Baat|ENT .|PUNCT
+Two_weeks_later|DATE ,|PUNCT his|ADJ government|NOUN has|VERB devised|VERB a|DET plan|NOUN to|PART counter|VERB it|PRON .|PUNCT
+The_Ministry_of_Consumer_Affairs|ENT ,|PUNCT Food_and_Public|ENT distribution|NOUN is|VERB planning|VERB to|PART regulate|VERB food_portions|NOUN served|VERB at|ADP restaurants|NOUN and|CCONJ is|VERB said|VERB to|PART be|VERB drafting|VERB a|DET questionnaire|NOUN for|ADP hotels|NOUN and|CCONJ restaurants|NOUN to|PART explain|VERB what|NOUN dish_sizes|NOUN they|PRON should|VERB serve|VERB to|ADP a|DET customer|NOUN .|PUNCT
+Some|DET say|VERB that|ADP the|DET mandate|NOUN for|ADP eateries|NOUN would|VERB just|ADV be|VERB to|PART clearly|ADV mention|VERB the|DET portion_size|NOUN on|ADP the|DET menu|NOUN so|ADP that|ADP customers|NOUN know|VERB how|ADV much|ADJ to|PART order|VERB .|PUNCT
+In|ADP any|DET case|NOUN ,|PUNCT this|DET has|VERB added|VERB to|ADP the|DET confusion|NOUN among|ADP the|DET restaurant_owners|NOUN ,|PUNCT who|NOUN are|VERB already|ADV working|VERB hard|ADV to|PART get|VERB around|ADP the|DET liquor_ban|NOUN .|PUNCT
+Calling|VERB it|PRON a|DET cheap_publicity_tactic|NOUN ,|PUNCT Riyaaz_Amlani|ENT ,|PUNCT President|PROPN of|ADP National_Restaurant_Association_of_India|ENT told|VERB The_Indian_Express|ENT ,|PUNCT “|PUNCT
+Keeping|VERB a|DET check|NOUN on|ADP food_wastage|NOUN is|VERB a|DET very_good_idea|NOUN but|CCONJ maybe|ADV they|PRON should|VERB start|VERB with|ADP government|NOUN -|PUNCT run_godowns|NOUN and|CCONJ sabzi_mandis|NOUN where|ADV several_metric_tonnes|NOUN of|ADP food|NOUN is|VERB wasted|VERB .|PUNCT
+As|ADV far|ADV as|ADP the|DET restaurants|NOUN are|VERB concerned|VERB ,|PUNCT food|NOUN never|ADV goes|VERB waste|NOUN because|ADP customers|NOUN get|VERB the|DET food|NOUN packed|VERB if|ADP they|PRON ca|VERB n’t|ADV finish|VERB it|PRON or|CCONJ it|PRON is|VERB distributed|VERB among|ADP the|DET poor|ADJ .|PUNCT ”|PUNCT
+Adds|VERB Amit_Burman|ENT ,|PUNCT promoter|NOUN of|ADP Lite_Bite_Foods|ENT ,|PUNCT who|NOUN has|VERB seven|CARDINAL restaurant_chains|NOUN across|ADP India|ENT including|VERB Punjab_Grill|ENT ,|PUNCT Zambar|ENT ,|PUNCT Asia|ENT 7|NUM and|CCONJ the|DET Subway|ENT outlets|NOUN ,|PUNCT “|PUNCT
+I|PRON do|VERB n’t|ADV understand|VERB who|NOUN is|VERB advising|VERB the|DET government|NOUN to|PART come|VERB up|PART with|ADP such_ideas|NOUN .|PUNCT
+They|PRON have|VERB bigger_things|NOUN to|PART do|VERB .|PUNCT ”|PUNCT
+Burman|PROPN adds|VERB that|ADP it|PRON is|VERB absolutely|ADV impractical|ADJ to|PART put|VERB such|ADJ a|DET regulation|NOUN in|ADP place|NOUN .|PUNCT
+“|PUNCT The|DET question|NOUN here|ADV is|VERB :|PUNCT how|ADV are|VERB they|PRON going|VERB to|PART do|VERB it|PRON ?|PUNCT
+For|ADP instance|NOUN ,|PUNCT if|ADP we|PRON are|VERB serving|VERB grilled_chicken|NOUN ,|PUNCT how|ADV can|VERB the|DET government|NOUN decide|VERB the|DET size|NOUN of|ADP chicken|NOUN ?|PUNCT ”|PUNCT he|PRON says|VERB .|PUNCT
+There|ADV are|VERB many_factors|NOUN ,|PUNCT he|PRON says|VERB ,|PUNCT that|DET go|VERB into|ADP a|DET restaurant|NOUN arriving|VERB at|ADP a|DET suitable_portion_size|NOUN —|PUNCT such|ADJ as|ADP pricing|NOUN ,|PUNCT raw_material|NOUN and|CCONJ the|DET number|NOUN of|ADP ingredients|NOUN used|VERB in|ADP a|DET particular_dish|NOUN .|PUNCT “|PUNCT
+We|PRON do|VERB n’t|ADV need|VERB to|PART be|VERB told|VERB that|ADP food|NOUN should|VERB not|ADV be|VERB wasted|VERB .|PUNCT
+This|DET is|VERB common_sense|NOUN .|PUNCT
+This|DET is|VERB no|DET way|NOUN to|PART figure|VERB out|PART a|DET standard_size|NOUN .|PUNCT
+Portions|NOUN are|VERB decided|VERB on|ADP the|DET basis|NOUN of|ADP research|NOUN and|CCONJ customer_feedback|NOUN .|PUNCT
+This|DET is|VERB a|DET service_industry|NOUN and|CCONJ has|VERB to|PART be|VERB run|VERB by|ADP our|ADJ guests|NOUN and|CCONJ not|ADV the|DET government|NOUN .|PUNCT
+Some|DET of|ADP our|ADJ raw_materials|NOUN come|VERB pre|ADV -|PUNCT portioned|VERB while|ADP others|NOUN that|ADJ have|VERB a|DET shelf-life|NOUN are|VERB closely|ADV monitored|VERB ,|PUNCT ”|PUNCT says|VERB Rahul_Singh|ENT ,|PUNCT Owner|PROPN ,|PUNCT Beer_Cafe|ENT ,|PUNCT which|ADJ has|VERB many_outlets|NOUN across|ADP Delhi|ENT .|PUNCT
+Even_the_chefs|NOUN are|VERB quite|ADV unsure|ADJ how|ADV such|ADJ a|DET regulation|NOUN can|VERB be|VERB implemented|VERB .|PUNCT
+Also|ADV ,|PUNCT while|ADP everyone|NOUN agrees|VERB in|ADP principle|NOUN that|ADP food_wastage|NOUN needs|VERB to|PART be|VERB curbed|VERB ,|PUNCT people|NOUN in|ADP the|DET industry|NOUN are|VERB of|ADP the|DET view|NOUN that|ADP restaurants|NOUN are|VERB the|DET last_place|NOUN where|ADV wastage|NOUN of|ADP food|NOUN actually|ADV happens|VERB .|PUNCT
+Chef_Ravitej_Nath|ENT ,|PUNCT who|NOUN has|VERB worked|VERB with|ADP Oberoi_group|NOUN for|ADP 18_years|DATE ,|PUNCT says|VERB “|PUNCT
+Food_wastage|NOUN is|VERB a|DET huge_problem|NOUN but|CCONJ restaurants|NOUN are|VERB only_a_part|NOUN of|ADP the|DET problem|NOUN .|PUNCT
+What|NOUN we|PRON need|VERB is|VERB to|PART create|VERB awareness|NOUN and|CCONJ devise|VERB a|DET system|NOUN where|ADV food|NOUN is|VERB collected|VERB and|CCONJ redistributed|VERB .|PUNCT
+I|PRON do|VERB n’t|ADV think|VERB curbing|VERB portion_sizes|NOUN will|VERB help|VERB .|PUNCT ”|PUNCT
+For|ADP all|ADJ the|DET latest_Lifestyle_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

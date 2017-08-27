@@ -1,0 +1,11 @@
+A|DET maina|NOUN cools|VERB off|ADV on|ADP Saturday|DATE .|PUNCT
+(|PUNCT File_Photo|ENT /|SYM Jaipal_Singh|ENT )|PUNCT A|DET maina|NOUN cools|VERB off|ADV on|ADP Saturday|DATE .|PUNCT
+(|PUNCT File_Photo|ENT /|SYM Jaipal_Singh|ENT )|PUNCT The|DET maximum_temperature|NOUN on|ADP Tuesday|DATE continued|VERB to|PART hover|VERB above|ADP normal_limits|NOUN across|ADP Haryana|ENT and|CCONJ Punjab|ENT even|ADV as|ADP rains|NOUN lashed|VERB several_parts|NOUN of|ADP both|ADJ the|DET states|NOUN .|PUNCT
+In|ADP Haryana|ENT ,|PUNCT Hisar|ENT recorded|VERB maximum|NOUN at|ADP 35.6|CARDINAL degrees|NOUN Celsius,|DATE one_degree|QUANTITY above|ADP normal|ADJ .|PUNCT
+It|PRON also|ADV recorded|VERB 0.1_mm|MONEY of|ADP rainfall|NOUN ,|PUNCT MeT_department_report|NOUN said|VERB .|PUNCT
+Among|ADP other_places|NOUN ,|PUNCT Ambala|ENT and|CCONJ Narnaul|ENT recorded|VERB hot_weather_conditions|NOUN at|ADP 33.8|CARDINAL degrees|NOUN and|CCONJ 39|CARDINAL degrees|NOUN Celsius|ENT respectively|ADV ,|PUNCT up_to_five_notches|DATE above|ADV normal|ADJ .|PUNCT
+Union_Territory_Chandigarh|ENT recorded|VERB a|DET high|ADJ of|ADP 35.5|CARDINAL degrees|NOUN Celsius,|DATE three_degrees|QUANTITY above|ADP normal|ADJ .|PUNCT
+In|ADP Punjab|ENT ,|PUNCT Amritsar|ENT recorded|VERB high|ADJ at|ADP 33.9|CARDINAL degrees|NOUN while|ADP Ludhiana|ENT and|CCONJ Patiala|ENT braved|VERB hot_weather|NOUN at|ADV 34.9|CARDINAL degrees|NOUN and|CCONJ 33.3|CARDINAL degrees|NOUN Celsius|ENT respectively|ADV ,|PUNCT up_to_three_notches|DATE above|ADV normal|ADJ .|PUNCT
+Amritsar|PROPN ,|PUNCT Ludhiana|ENT and|CCONJ Patiala|ENT recorded|VERB rainfall|NOUN of|ADP 0.8_mm|MONEY ,|PUNCT 0.1_mm|MONEY and|CCONJ 0.2_mm|MONEY respectively|ADV ,|PUNCT as|ADP per|ADP the|DET MeT_report|NOUN .|PUNCT
+The|DET weatherman|NOUN predicted|VERB light|NOUN to|ADP moderate_rains|NOUN and|CCONJ thundershowers|NOUN at|ADP few_places|NOUN during|ADP next_36_hours|DATE in|ADP the|DET region|NOUN .|PUNCT
+For|ADP all|ADJ the|DET latest_India_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

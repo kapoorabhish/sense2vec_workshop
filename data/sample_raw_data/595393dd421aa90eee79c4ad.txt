@@ -1,0 +1,69 @@
+Fixed-income indexes performed well during the second quarter of 2017. Long-term fixed-income indexes easily outperformed short-term, as long-term yields have declined while short-term rates have risen, resulting in a flattening yield curve.
+
+Corporate bond indexes also performed well, as credit spreads have continued to tighten over the course of the second quarter as asset volatility has declined toward near-historic lows. A combination of factors has supported corporate credit markets: generally improving credit metrics, fewer debt-funded M&A or shareholder enhancement programs, and the market's expectation of possible Trump administration revisions to tax and regulatory policies reinvigorating economic growth and earnings.
+
+Morningstar's Core Bond Index, our broadest measure of the fixed-income universe, rose 2.10% in the second quarter through June 23. A combination of the yield carry on the underlying securities and the positive impact that lower long-term interest rates and tighter credit spreads have on bond prices has generated the return. The Short-Term Core Index has risen only 0.54% thus far this quarter as rising short-term interest rates pressured returns; whereas, the Intermediate Core index and the Long-Term Core Indexes have risen 1.58% and 4.83%, respectively, benefiting from declining long-term interest rates.
+
+Representative of the Treasury market, the Morningstar U.S. Government Bond Index rose by 1.90%, and the Morningstar Agency Bond Index rose 1.35%. The laggard this quarter was the Morningstar TIPS Index, which rose only 0.32% as inflation expectations have moderated along with the price of oil.
+
+In the corporate bond market, the Morningstar Corporate Bond Index (our proxy for the investment-grade bond market) rose by 3.02%, bolstered by a decrease in long-term interest rates and tightening credit spreads. In the high-yield market, the Bank of America Merrill Lynch High Yield Master Index rose 1.84%, as declining long-term interest rates did not have as much of an impact on the high-yield market because of its shorter duration. In Europe, the Morningstar Euro Corporate Bond Index rose 0.95% as tightening credit spreads helped to bolster its return.
+
+The emerging-markets fixed-income indexes posted solid returns in the second quarter, benefited by the low-volatility environment. The Morningstar Emerging Market Composite Index rose 2.16%, as the underlying Morningstar Emerging Market Sovereign Index rose 2.80% and the Morningstar Emerging Market Corporate Index rose 1.73%.
+
+Fixed-Income Index Returns
+
+Source: Morningstar, Inc., Bank of America Merrill Lynch Global Indexes. Data as of June 23, 2017.
+
+Part of the lack of volatility in the marketplace thus far this year has been due to ongoing lackluster economic growth. Real GDP in the United States expanded only by 1.2% in the first quarter. Second-quarter growth is expected to accelerate from the sluggish pace of the first quarter. For example, currently, the GDPNow estimate for second-quarter GDP produced by the Federal Reserve Bank of Atlanta is 2.9%.
+
+GDPNow—Federal Reserve Bank of Atlanta
+
+Source: Federal Reserve Bank of Atlanta
+
+Although growth may accelerate in the second quarter, that acceleration may be short-lived. Morningstar's Director of Economic Research Bob Johnson provided a midyear update to his economic forecasts in a June 23 video report
+
+Generally, he reiterated most of the projections he made at the beginning of the year, but he did lower his estimate for core inflation to range between 1.8% and 2.0%. Otherwise, he still expects real GDP growth for 2017 to range between 1.75% and 2% and established a new forecast for economic growth in 2018 to also range between 1.75% and 2%.
+
+The prior week, Bob stated that he thinks the Fed will not hike the federal funds rate this year, and in his view, it is more likely that the Fed will begin its program to reduce the size of the Fed's balance sheet as early as the September FOMC meeting. According to Bob, the Fed's plan will be to halt reinvesting the principal on maturing bonds to the tune of $10 billion a month. Yet, the Fed's goal will be to increase the portfolio roll-off to $50 billion per month, which is an annualized rate of $600 billion. Considering that the Fed's balance sheet is well north of $4 trillion, and it would likely want to keep about $1 trillion of assets on its books, this wind-down would occur over multiple years.
+
+Since the end of last quarter, through June 23, the Morningstar Corporate Bond Index, our proxy for the investment-grade bond market, tightened 7 basis points to +116; whereas the Bank of America Merrill Lynch High Yield Master Index tightened only 6 basis points to +386.
+
+The main impetus for the underperformance of credit spread tightening by the high-yield market as compared with the investment-grade market was the decline in oil prices to approximately $43 per barrel over the course of the second quarter. At this level, oil prices are near their lowest levels since last November. As oil prices dropped, the credit spread of the high-yield energy sector widened 115 basis points this quarter to +546; whereas, the energy sector in the investment-grade sector widened only 6 basis points. The average spread of the high-yield energy sector first breached +500 on June 16, which was the first time credit spreads had risen above that level since last November, when oil had last fallen below $45 per barrel. Year to date, the energy sector has tightened one basis point in the investment-grade market and has widened 97 basis points in the high-yield market.
+
+Corporate Bond Credit Spreads
+
+Source: Morningstar, Inc., Bank of America Merrill Lynch Global Indexes. Data as of June 23, 2017.
+
+Other than the underperformance in the energy sector, year to date, the retail and telecommunications sectors have performed poorly. In the retail sector, lower same-store sales and a shift away from traditional retailers to e-commerce have led to declining credit quality. In the telecommunications sector, the decline in credit quality has mainly been self-inflicted, as management teams look to increase growth through strategic acquisitions, which have been funded by greater amounts of debt, leading to worsening credit quality. Some of the best performance in the corporate credit markets have been in the cyclical sectors such as basic materials and transportation.
+
+Morningstar Corporate Credit Index YTD Spread Change
+
+Source: Morningstar, Inc. Data as of June 23, 2017.
+
+At current levels, both the investment-grade and high-yield indexes are trading much tighter than their long-term historical averages. Since the end of 1998, the average spread of our investment-grade index is +167, and since the end of 1996, the average spread of the high-yield index has averaged +607.
+
+As an indication of how tight corporate credit spreads have become compared with their historical averages, since the beginning of 2000, the average spread of the Morningstar Corporate Bond Index has registered below the current level only 24% of the time. In addition, not only are credit spreads tighter now than in much of the recent past, the average credit quality of the Morningstar Corporate Bond Index is lower than it has been much of the time. Currently, the average credit quality of the Morningstar Corporate Bond Index is A-; whereas since 2000, the average credit quality has been either closer to, or a single A for much of the time.
+
+Morningstar Corporate Bond Index Average Credit Spread
+
+Source: Morningstar, Inc. Data as of June 23, 2017.
+
+Volatility in the asset markets has been steadily declining and is bouncing around near new historic lows. Among the factors that have helped suppress volatility is a lack of many surprises in the first-quarter earnings season, which saw results generally within the range of expectations.
+
+From an economic point of view, while GDP was weak in the first quarter, it is expected to rebound in the second quarter. Although we may see a rebound this summer, merger and acquisition activity has also been generally quiet over the past few weeks. Even geopolitical risk has quieted down over the past few months. As markets expected, Macron won the French election, Brexit negotiations have not yet yielded any negative surprises, the ECB is maintaining its quantitative easing policy for now, and the rhetoric surrounding North Korea has subsided.
+
+In the equity market, the CBOE Volatility Index (which measures the market expectations of near-term volatility as conveyed by S&P 500 stock index option prices) declined to as low as 9.8 on May 8. Although this may not be a new historical low, there have been only three instances since 1990 in which the index has registered lower. Market volatility and corporate credit spreads have been highly correlated over time. Based on the average spread of the Morningstar Corporate Bond Index since 1990, the VIX and investment-grade credit spreads have an r-square of approximately 85%.
+
+VIX Index vs Morningstar Corporate Bond Index Spread
+
+Source: CBOE, Morningstar Inc. Data as of June 23, 2017.
+
+In the high-yield market, the average spread of the Bank of America Merrill Lynch High Yield Master Index has registered below its current level less than 19% of the time over the past 17 years.
+
+Bank of America Merrill Lynch U.S. High Yield Option-Adjusted Spread
+
+Source: Bank of America Merrill Lynch Global Indexes. Data as of June 23, 2017.
+
+Most of the time that these corporate bond market indexes were tighter than the current credit spread was during the buildup to the 2008-09 credit crisis. In 2004 through 2007, corporate credit spreads were pushed to new historically tight levels as new structured investment vehicles were engineered to arbitrage the differentials in expected default risk; however, once the credit crisis emerged, investors found that many of these vehicles did not perform as advertised.
+
+Stay tuned this week and next for our take on the big themes and best values in communication services, consumer defensive, consumer cyclical, energy, financials, industrials, real estate, tech, and utilities. Plus get performance analysis, and winners and losers among domestic- and international-stock funds and bond funds, and a midyear portfolio review checklist.

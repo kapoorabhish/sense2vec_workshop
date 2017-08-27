@@ -1,0 +1,5 @@
+Reported_sales|NOUN nil__Net_Loss|PROPN of|ADP reported|VERB to|ADP Rs_0.82|CARDINAL crore|NOUN in|ADP the_quarter_ended_March_2017|DATE as|ADP against|ADP net_loss|NOUN of|ADP Rs_0.14|CARDINAL crore|NOUN during|ADP the_previous_quarter_ended_March_2016|DATE .|PUNCT
+There|ADV were|VERB no|DET Sales|NOUN reported|VERB in|ADP the_quarter_ended_March_2017|DATE and|CCONJ during|ADP the_previous_quarter_ended_March_2016|DATE .|PUNCT
+For|ADP the_full_year|DATE ,|PUNCT net_loss|NOUN reported|VERB to|ADP Rs|NOUN 1.39|CARDINAL crore|NOUN in|ADP the_year_ended_March_2017|DATE as|ADP against|ADP net_loss|NOUN of|ADP Rs|NOUN 0.64|CARDINAL crore|NOUN during|ADP the_previous_year_ended_March_2016|DATE .|PUNCT
+There|ADV were|VERB no|DET Sales|NOUN reported|VERB in|ADP the_year_ended_March_2017|DATE as|ADP against|ADP Rs_4.82|ENT crore|NOUN during|ADP the_previous_year_ended_March_2016|DATE .|PUNCT
+Powered|VERB by|ADP Capital_Market_-_Live_News|ENT (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

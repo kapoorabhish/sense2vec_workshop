@@ -1,0 +1,128 @@
+Allow|VERB me|PRON to|PART take|VERB you|PRON back|ADV to|ADP the_Women’s_March|ENT last|ADJ January|PROPN in|ADP San_Francisco|ENT .|PUNCT
+I|PRON was|VERB there|ADV with|ADP a|DET neighbor|NOUN and|CCONJ dear_friend|NOUN .|PUNCT
+I|PRON trust|VERB her|PRON with|ADP my|ADJ 4_year_old_daughter|NOUN ,|PUNCT she|PRON trusts|VERB me|PRON with|ADP her|ADJ children|NOUN ;|PUNCT she|PRON ’s|VERB my|ADJ rock|NOUN .|PUNCT
+One_minute_we_are_shouting_slogans|TIME for|ADP women|NOUN ’s|PROPN rights|NOUN .|PUNCT
+The|DET next|ADJ we|PRON are|VERB chanting|VERB for|ADP trans_rights|NOUN .|PUNCT
+We|PRON are|VERB in|ADP a|DET sea|NOUN of|ADP umbrellas|NOUN and|CCONJ people|NOUN ,|PUNCT some|DET carrying|VERB the|DET iconic_image|NOUN of|ADP a|DET hijabi|NOUN wrapped|VERB in|ADP an|DET American_flag|NOUN ,|PUNCT some|DET chanting_slogans|NOUN against|ADP My|ADJ friend|NOUN looks|VERB at|ADP me|PRON and|CCONJ says|VERB ,|PUNCT “|PUNCT
+You|PRON do|VERB n’t|ADV have|VERB to|PART deal|VERB with|ADP that|DET stuff|NOUN ,|PUNCT right|ADJ ?|PUNCT
+”|PUNCT “|PUNCT
+Why|ADV ,|PUNCT because|ADP I|PRON 'm|VERB not|ADV Muslim|ENT ?|PUNCT
+”|PUNCT I|PRON ask|VERB ?|PUNCT
+I|PRON have|VERB had|VERB this|DET conversation|NOUN before|ADP .|PUNCT
+People|NOUN I|PRON work|VERB with|ADP ,|PUNCT or|CCONJ people|NOUN who|NOUN have|VERB known|VERB me|PRON for|ADP years|NOUN ,|PUNCT separate|VERB me|PRON ,|PUNCT the|DET Sahar|ENT they|PRON know|VERB ,|PUNCT from|ADP the|DET popular_idea|NOUN of|ADP “|PUNCT Muslims|ENT ”|PUNCT built|VERB in|ADP their|ADJ imagination|NOUN .|PUNCT
+They_de-Muslim|ENT me|PRON .|PUNCT
+There|ADV are|VERB 1.7_billion|MONEY Muslims|ENT worldwide|ADV .|PUNCT
+We|PRON do|VERB n't|ADV all|DET look|VERB the|DET same|ADJ .|PUNCT
+We|PRON practice|VERB our|ADJ religion|NOUN differently|ADV .|PUNCT
+We|PRON identify|VERB with|ADP being|VERB Muslim|ENT differently|ADV .|PUNCT
+But|CCONJ somehow|ADV we|PRON all|DET get|VERB packed|VERB into|ADP the|DET same_Muslim_box|NOUN .|PUNCT
+This|DET box|NOUN is|VERB so|ADV well|ADV constructed|VERB in|ADP our|ADJ collective_imaginations|NOUN that|ADJ when|ADV like|ADP me|PRON do|VERB n’t|ADV fit|VERB in|ADP it|PRON ,|PUNCT we|PRON get|VERB de|ADP -|PUNCT Muslimed|PROPN .|PUNCT
+Being_De-Muslimed|ENT I|PRON am|VERB not|ADV alone|ADV in|ADP this|DET .|PUNCT
+It|PRON 's|VERB even|ADV happened|VERB to|ADP the|DET best-selling_poet|NOUN in|ADP America|ENT :|PUNCT What|NOUN images|NOUN come|VERB to|ADP your|ADJ mind|NOUN when|ADV you|PRON think|VERB of|ADP him|PRON
+?|PUNCT Love|ENT ?|PUNCT
+Peace|NOUN ?|PUNCT
+When|ADV Jalaluddin|ENT was|VERB my|ADJ age|NOUN ,|PUNCT he|PRON was|VERB an|DET orthodox_Muslim_preacher|NOUN and|CCONJ scholar|NOUN .|PUNCT
+Islam|ENT ,|PUNCT
+the|DET and|CCONJ Prophet_Muhammad|ENT were|VERB central|ADJ to|ADP his|ADJ poetry|NOUN until|ADP the_day|DATE he|PRON died|VERB .|PUNCT
+But|CCONJ Rumi’s_religion|NOUN has|VERB been|VERB erased|VERB from|ADP Western_imagination|NOUN and|CCONJ most_popular_translations|NOUN of|ADP his|ADJ poetry|NOUN .|PUNCT
+This|DET erasure|NOUN is|VERB a|DET big_part|NOUN of|ADP the|DET story|NOUN of|ADP the|DET world|NOUN 's|PART 1.7_billion|MONEY Another|DET is|VERB the|DET reductionist_images|NOUN of|ADP that|ADJ have|VERB colonized|VERB western_books|NOUN for|ADP centuries|DATE .|PUNCT
+This|DET seductive_imagery|NOUN is|VERB defined|VERB by|ADP the|DET dark_men|NOUN you|PRON should|VERB fear|VERB and|CCONJ the|DET exotic|ADJ women|NOUN you|PRON should|VERB save|VERB .|PUNCT
+The|DET path|NOUN -|PUNCT breaking_Palestinian_American_scholar|NOUN Edward_Said|ENT deconstructed|VERB the|DET history|NOUN behind|ADP these|DET images|NOUN in|ADP the_1970s|DATE .|PUNCT
+But|CCONJ these|DET images|NOUN stand|VERB tall|ADJ today|DATE .|PUNCT
+Our|ADJ politicians|NOUN ,|PUNCT the|DET news|NOUN industry|NOUN ,|PUNCT and|CCONJ Hollywood|ENT all|DET continue|VERB to|PART perpetuate|VERB them|PRON .|PUNCT
+Take|VERB the|DET 1998|DATE film|NOUN The_Siege|ENT ,|PUNCT where|ADV Arab_American_men|NOUN are|VERB actually|ADV rounded|VERB up|PART in|ADP an|DET internment_camp|NOUN in|ADP New_York|ENT .|PUNCT
+On|ADP the|DET right|NOUN ,|PUNCT you|PRON 'll|VERB see|VERB Denzel_Washington|ENT with|ADP the|DET bad|ADJ dangerous|ADJ Muslim|ENT at|ADP the|DET top|NOUN and|CCONJ the|DET good_patriotic_Muslim_FBI_agent|NOUN below|ADV .|PUNCT
+I|PRON ’ve|VERB worked|VERB in|ADP the|DET news_industry|NOUN for|ADP 13_years|DATE ,|PUNCT and|CCONJ I|PRON ’ve|VERB seen|VERB this|DET powerful_flawed_narrative|NOUN dominate|VERB our|ADJ newsfeeds|NOUN .|PUNCT
+This|DET narrative|NOUN overshadows|VERB the|DET reality|NOUN that|ADP nine|CARDINAL Muslim_women|NOUN have|VERB led|VERB their|ADJ countries|NOUN in|ADP the_last_three_decades|DATE ,|PUNCT while|ADP the|DET US|ENT could|VERB n’t|ADV even|ADV elect|VERB its|ADJ first_real_female_presidential_candidate|NOUN in|ADP 2016|DATE .|PUNCT
+This|DET narrative|NOUN fails|VERB to|PART recognize|VERB that|ADP French_Muslim_women|NOUN prevented|VERB from|ADP wearing|VERB their|ADJ hijab|NOUN in|ADP public_buildings|NOUN and|CCONJ Saudi_Muslim_women|NOUN forced|VERB to|PART cover|VERB their|ADJ bodies|NOUN by|ADP their|ADJ government|NOUN ,|PUNCT are|VERB two|CARDINAL sides|NOUN of|ADP the|DET same_coin|NOUN .|PUNCT
+It|PRON ’s_one|CARDINAL powerful_group|NOUN exerting|VERB its|ADJ “|PUNCT control”|NOUN on|ADP the|DET “|PUNCT other|ADJ ”|PUNCT .|PUNCT
+This|DET powerful_narrative|NOUN diminishes|ADP Muslim_women|NOUN leading|VERB movements|NOUN for|ADP change|NOUN .|PUNCT
+It|PRON ignores|VERB that|ADP the|DET first_Muslim_prayers|NOUN on|ADP American_soil|NOUN were|VERB said|VERB by|ADP Africans|ENT brought|VERB here|ADV on|ADP slave_ships|NOUN .|PUNCT
+It|PRON erases|VERB the|DET existence|NOUN of|ADP Queer_Muslims|ENT .|PUNCT
+This|DET narrative|NOUN has|VERB captured|VERB our|ADJ collective_imaginations|NOUN so|ADV deeply|ADV and|CCONJ so|ADV inaccurately|ADV that|ADP Sikh_men|NOUN and|CCONJ children|NOUN are|VERB often|ADV targets|NOUN of|ADP anti-Muslim_attacks|NOUN and|CCONJ bullying|NOUN .|PUNCT Because|ADP of|ADP the|DET stories|NOUN we|PRON tell|VERB ,|PUNCT and|CCONJ the|DET way|NOUN we|PRON tell|VERB them|PRON ,|PUNCT today|DATE ,|PUNCT is|VERB n’t|ADV just|ADV fear|NOUN of|ADP Islam|ENT ,|PUNCT the|DET religion|NOUN ,|PUNCT it|PRON is|VERB fear|NOUN of|ADP the|DET “|PUNCT other|ADJ ”|PUNCT .|PUNCT Belonging|VERB to|ADP the|DET 1.7|NUM billion|NUM In|ADP the|DET news_industry|NOUN ,|PUNCT we|PRON tell|VERB more|ADJ than|ADP just_stories|NOUN based|VERB on|ADP facts|NOUN .|PUNCT
+Or|CCONJ alternative_facts|NOUN .|PUNCT
+We|PRON also|ADV build|VERB narratives|NOUN that|ADJ help|VERB you|PRON make|VERB sense|NOUN of|ADP the|DET world|NOUN .|PUNCT
+And|CCONJ my|ADJ industry|NOUN has|VERB epically|ADV failed|VERB at|ADP capturing|VERB the|DET narrative|NOUN of|ADP the|DET 1.7|NUM billion|NUM .|PUNCT
+And|CCONJ we|PRON ’ve|VERB failed|VERB them|PRON here|ADV ,|PUNCT where|ADV 7_million|CARDINAL make|VERB up|PART the|DET most_“diverse”_religious_group|NOUN in|ADP America|ENT .|PUNCT
+About_a_third|CARDINAL of|ADP the|DET total_Muslim_population|NOUN here|ADV is|VERB made|VERB up|PART African_Americans|ENT .|PUNCT
+Six|CARDINAL out|ADP of|ADP 10|CARDINAL American|ENT are|VERB first-generation_immigrants|NOUN who|NOUN come|VERB from|ADP 77|CARDINAL countries|NOUN .|PUNCT
+Four_decades_ago|DATE ,|PUNCT my|ADJ immigrant_parents|NOUN arrived|VERB in|ADP New_York|ENT to|PART live|VERB their|ADJ American_dream|NOUN .|PUNCT
+My|ADJ mother|NOUN placed|VERB her|PRON first_jewelry_designs|NOUN on|ADP 5th_Avenue|ENT ,|PUNCT and|CCONJ my|ADJ father|NOUN worked|VERB hard|ADV in|ADP the|DET skyscrapers|NOUN of|ADP New_York|ENT ;|PUNCT skyscrapers|NOUN made|VERB possible|ADJ by|ADP a_Bangladeshi_Muslim|ENT American_structural_engineer|NOUN named|VERB Fazlur_Rahman_Khan|ENT .|PUNCT
+Back|ADV when|ADV Khan|ENT was|VERB reimagining|VERB the|DET skylines|NOUN of|ADP the|DET world|NOUN ,|PUNCT my|ADJ parents|NOUN were|VERB unapologetically|ADV Muslim|ENT and|CCONJ American|ENT .|PUNCT
+But|CCONJ am|VERB I|PRON unapologetically|ADV Muslim|ENT and|CCONJ American|ENT now|ADV ?|PUNCT
+Sometimes|ADV when|ADV people|NOUN ask|VERB me|PRON why|ADV I|PRON do|VERB n’t|ADV eat|VERB pork|NOUN ,|PUNCT instead|ADV of|ADP pulling|VERB out|PART my|ADJ Muslim_receipts|NOUN or|CCONJ my|ADJ handy_pocket|NOUN that|ADJ all|DET carry|VERB ,|PUNCT I|PRON say|VERB ,|PUNCT “|PUNCT out|ADP of|ADP respect|NOUN for|ADP Peppa_Pig|ENT ”|PUNCT .|PUNCT
+I|PRON 'm|VERB joking|VERB ,|PUNCT we|PRON do|VERB n’t|ADV all|DET carry|VERB pocket_Qurans|ENT .|PUNCT
+We|PRON do|VERB n’t|ADV have|VERB to|PART be|VERB theology_experts|NOUN to|PART be|VERB “|PUNCT
+Muslim|ENT ”|PUNCT or|CCONJ to|ADP almost|ADV always|ADV get|VERB selected|VERB for|ADP extra_security_checks|NOUN at|ADP the|DET airport|NOUN .|PUNCT
+There|ADV are|VERB hundreds|CARDINAL of|ADP stellar_Muslim_scholars|NOUN ,|PUNCT Muslim_activists|NOUN ,|PUNCT and|CCONJ interfaith_activists|NOUN trying|VERB to|PART combat|VERB pervasive_lies|NOUN about|ADP Islam|ENT .|PUNCT
+These|DET lies|NOUN are|VERB churned|VERB out|PART by|ADP a|DET well-oiled_Islamophobia_machine|NOUN with|ADP financial_backers|NOUN ,|PUNCT think-tanks|NOUN ,|PUNCT and|CCONJ misinformation_experts|NOUN who|NOUN swept|VERB in|PART and|CCONJ easily|ADV manipulated|VERB our|ADJ already_flawed_image|NOUN of|ADP what|NOUN a|DET Muslim|ENT is|VERB ;|PUNCT of|ADP what|NOUN Islam|ENT is|VERB .|PUNCT Because|ADP of|ADP the|DET stories|NOUN we|PRON tell|VERB ,|PUNCT and|CCONJ the|DET way|NOUN we|PRON tell|VERB them|PRON ,|PUNCT is|VERB more|ADJ than|ADP a|DET stranger|NOUN snatching|VERB a|DET hijab|NOUN off|ADP a|DET woman|NOUN .|PUNCT
+Or|CCONJ the|DET horrifying_map|NOUN of|ADP attacks|NOUN on|ADP mosques|NOUN across|ADP the|DET US|ENT below|ADV .|PUNCT in|ADP its|ADJ ugliest_forms|NOUN attacks|VERB our|ADJ belonging|VERB .|PUNCT
+It|PRON attacks|VERB our|ADJ identity|NOUN ,|PUNCT which|ADJ is|VERB so|ADV vast|ADJ ,|PUNCT varied|ADJ ,|PUNCT and|CCONJ intersectional|ADJ that|ADP it|PRON can|VERB not|ADV possibly|ADV fit|VERB into|ADP a|DET box|NOUN .|PUNCT
+Let|VERB me|PRON explain|VERB .|PUNCT
+I|PRON was|VERB born|VERB Muslim|ENT ,|PUNCT but|CCONJ being|VERB Muslim|ENT was|VERB born|VERB into|ADP my|ADJ imagination|NOUN ,|PUNCT when|ADV I|PRON was|VERB 4_years_old|DATE ,|PUNCT in|ADP a|DET makeshift_mosque|NOUN in|ADP the|DET basement|NOUN of|ADP a|DET Presbyterian_Church|PROPN in|ADP New_York|ENT .|PUNCT
+When|ADV social_scientists|NOUN describe|VERB religious_life|NOUN ,|PUNCT they|PRON refer|VERB to|ADP the|DET three|CARDINAL Bs|NOUN :|PUNCT belief|NOUN ,|PUNCT behavior|NOUN ,|PUNCT and|CCONJ belonging|VERB .|PUNCT
+My|ADJ Muslim_belief|NOUN and|CCONJ behaviour|NOUN may|VERB not|ADV always|ADV be|VERB visible|ADJ ,|PUNCT but|CCONJ it|PRON ’s|VERB there|ADV .|PUNCT
+Perhaps|ADV my|ADJ friend|NOUN ,|PUNCT my|ADJ neighbor|NOUN ,|PUNCT my|ADJ rock|NOUN ,|PUNCT would|VERB see|VERB that|ADP I|PRON ’m|VERB Muslim|ENT if|ADP she|PRON could|VERB see|VERB through|ADP the_50_feet|QUANTITY of|ADP concrete|NOUN and|CCONJ air|NOUN that|ADJ separates|VERB our|ADJ homes|NOUN .|PUNCT
+She|PRON ’d|VERB see|VERB the|DET nighttime_ritual|NOUN with|ADP my|ADJ daughter|NOUN ,|PUNCT cradled|VERB in|ADP the|DET crook|NOUN of|ADP my|ADJ arm|NOUN ,|PUNCT me|PRON whispering|VERB the|DET Arabic_protection|NOUN verses|ADP that|DET seal|NOUN the|DET called|VERB the|DET Quls|ENT .|PUNCT
+Repeating|VERB them|PRON three|CARDINAL times|NOUN each|DET .|PUNCT
+Asking|VERB her|PRON to|PART be|VERB protected|VERB from|ADP the|DET evil|NOUN that|ADJ can|VERB be|VERB seen|VERB and|CCONJ can|VERB not|ADV be|VERB seen|VERB .|PUNCT
+My|ADJ Muslim_belief|NOUN may|VERB not|ADV always|ADV be|VERB visible|ADJ ,|PUNCT but|CCONJ my|ADJ Muslim_belonging|NOUN is|VERB always|ADV part|NOUN of|ADP my|ADJ shadow|NOUN .|PUNCT
+Belonging|PROPN is|VERB the|DET image|NOUN of|ADP my|ADJ maternal_grandmother|NOUN with|ADP her|ADJ sisters|NOUN ;|PUNCT winning|VERB a|DET flower_art_competition|NOUN decades_ago|DATE in|ADP Karachi|ENT .|PUNCT
+It|PRON is|VERB the|DET image|NOUN of|ADP her|PRON that|ADJ I|PRON see|VERB right|ADV now|ADV ,|PUNCT when|ADV I|PRON close|VERB my|ADJ eyes|NOUN :|PUNCT Nano|ENT ,|PUNCT surrounded|VERB by|ADP her|ADJ finished_and_unfinished_canvases|NOUN of|ADP painted|VERB Sufi_saints|NOUN ;|PUNCT and|CCONJ a|DET heavily_bookmarked_Quran|ENT ,|PUNCT a|DET book|NOUN with|ADP one_hundred_and_fourteen|CARDINAL chapters|NOUN that|ADJ she|PRON knows|VERB practically|ADV by|ADP heart|NOUN .|PUNCT
+Being|VERB Muslim|ENT is|VERB saying|VERB the|DET prayers|NOUN she|PRON tells|VERB me|PRON to|PART say|VERB when|ADV I|PRON ’m|VERB having|VERB a|DET bad_day|NOUN .|PUNCT
+Being|VERB Muslim|ENT is|VERB how|ADV she|PRON taught|VERB me|PRON to|PART refer|VERB to|ADP God|PROPN :|PUNCT Allah_Mian|ENT ,|PUNCT which|ADJ means|VERB God|PROPN ,|PUNCT my|ADJ only|ADJ master|NOUN .|PUNCT
+For|ADP a|DET people|NOUN colonized–|VERB for|ADP centuries|DATE –|PUNCT by|ADP an|DET “empire|NOUN ”|PUNCT that|ADJ started|VERB as|ADP a|DET corporation|NOUN called|VERB the|DET Honorable|ADJ British|ADJ East|PROPN India|PROPN Company|PROPN ,|PUNCT calling|VERB God|PROPN ,|PUNCT my|ADJ only_master|NOUN ,|PUNCT has|VERB deep_meaning|NOUN .|PUNCT
+Belonging|PROPN is|VERB growing|VERB up|PART hearing|VERB men|NOUN do|VERB n’t|ADV cry|VERB ,|PUNCT but|CCONJ also|ADV seeing|VERB my|ADJ refugee_grandfather|NOUN cry|VERB .|PUNCT
+In|ADP between|ADP writing_books|NOUN on|ADP Modern_Islam|ENT and|CCONJ Kashmiri|ENT independence|NOUN ,|PUNCT Nana_Jaan|ENT cried|VERB unapologetically|ADV for|ADP his|ADJ family|NOUN in|ADP Indian|ENT -|PUNCT ruled_Kashmir|ENT ,|PUNCT family|NOUN he|PRON was|VERB n’t|ADV allowed|VERB to|PART embrace|VERB in|ADP half_a_century|DATE .|PUNCT
+Belonging|PROPN is|VERB knowing|VERB that|ADP there|ADV are|VERB millions|CARDINAL of|ADP Kurds|ENT and|CCONJ Palestinians|ENT ,|PUNCT like|ADP my|ADJ grandfather|NOUN ,|PUNCT whose|ADJ families|NOUN were|VERB torn|VERB apart|ADV by|ADP colonialists|NOUN who|NOUN divided|VERB the|DET Muslim_world|NOUN like|ADP a|DET game|NOUN of|ADP risk|NOUN .|PUNCT
+Being|VERB Muslim|ENT is|VERB knowing|VERB that|ADP Europeans|ENT “|PUNCT
+colonized|VERB ”|PUNCT all|DET but|ADP four|CARDINAL Muslim_countries|NOUN in|ADP the_last_two_centuries|DATE .|PUNCT
+It|PRON is|VERB knowing|VERB that|ADP the|DET first_aerial_bomb|NOUN ever|ADV was|VERB dropped|VERB a_century_ago|DATE on|ADP a|DET Muslim_country|NOUN .|PUNCT
+It|PRON is|VERB knowing|VERB that|ADP around|ADP the|DET same_time|NOUN ,|PUNCT my|ADJ grandmother’s_grandfather|NOUN ,|PUNCT an|DET Indian|ENT Kashmiri|PROPN British|ENT imperialist|ADJ subject|NOUN ,|PUNCT was|VERB called|VERB “|PUNCT dangerous”|NOUN by|ADP newspapers|NOUN of|ADP the|DET time|NOUN for|ADP running|VERB the|DET first_mosque|NOUN in|ADP England|ENT .|PUNCT
+Before|ADP airplanes|NOUN existed|VERB ,|PUNCT he|PRON traveled|VERB to|ADP more_parts|NOUN of|ADP the|DET world|NOUN than|ADP I|PRON have|VERB been|VERB ,|PUNCT preaching|VERB the|DET radical_word|NOUN of|ADP love|NOUN ,|PUNCT peace|NOUN and|CCONJ social_justice|NOUN .|PUNCT
+The|DET word|NOUN of|ADP Islam|ENT .|PUNCT
+Belonging|VERB to|ADP my|ADJ Muslim_tribe|NOUN of|ADP 1.7_billion|MONEY runs|VERB deep|ADV into|ADP our|ADJ unforgettable_bloodlines|NOUN ;|PUNCT our|ADJ unacknowledged_histories|NOUN .|PUNCT
+It|PRON is|VERB remembering|VERB that|ADP fourteen_years_ago|DATE ,|PUNCT the|DET most_powerful_military|NOUN in|ADP the|DET world|NOUN ,|PUNCT with|ADP troops|NOUN currently|ADV spread|VERB on|ADP every|DET continent|NOUN except|ADP Antarctica|ENT ,|PUNCT went|VERB into|ADP Iraq|ENT chasing|VERB Weapons_of_Mass_Destruction|ENT that|ADJ did|VERB n’t|ADV exist|VERB .|PUNCT
+It|PRON ’s|VERB knowing|VERB that|ADP now|ADV more_than_half_a_million|CARDINAL Iraqis|ENT are|VERB buried|VERB under|ADP the|DET rubble|NOUN of|ADP war|NOUN .|PUNCT
+Being|VERB an|DET American_Muslim|PROPN is|VERB knowing|VERB that|ADP the|DET rate|NOUN of|ADP suicide|NOUN among|ADP our|ADJ veterans|NOUN has|VERB jumped|VERB more_than_32|CARDINAL percent|NOUN since|ADP 2001|DATE .|PUNCT
+It|PRON is|VERB knowing|VERB that|ADP when|ADV tragedy|NOUN strikes|VERB in|ADP the|DET US|ENT and|CCONJ a|DET suspect|NOUN has|VERB a|DET Muslim_name|NOUN ,|PUNCT the|DET story|NOUN receives|VERB four|CARDINAL times|NOUN more|ADJ coverage|NOUN than|ADP a|DET story|NOUN involving|VERB a|DET white_attacker|NOUN .|PUNCT
+It|PRON is|VERB knowing|VERB that|ADP fourteen_hundred_years_ago|DATE ,|PUNCT the|DET first_call|NOUN to|ADP prayer|NOUN ,|PUNCT the|DET Azaan|ENT ,|PUNCT was|VERB said|VERB by|ADP a|DET freed_black_slave|NOUN named|VERB Bilal|ENT .|PUNCT
+It|PRON is|VERB knowing|VERB that|ADP an|DET African_Islamic_scholar|NOUN named|VERB Bilali_Muhammad|ENT was|VERB enslaved|VERB and|CCONJ brought|VERB to|ADP this|DET land|NOUN two_hundred_years_ago|DATE .|PUNCT
+It|PRON is|VERB calling|VERB Malcolm_X|ENT an|DET American|ENT hero|NOUN .|PUNCT
+It|PRON ’s|VERB the|DET warmth|NOUN I|PRON felt|VERB when|ADV people|NOUN overwhelmed|VERB the|DET airports|NOUN to|PART fight|VERB the|DET Muslim_Ban|PROPN .|PUNCT
+It|PRON ’s|VERB the|DET hope|NOUN I|PRON feel|VERB when|ADV we|PRON stand|VERB up|PART for|ADP our|ADJ Dreamers|NOUN and|CCONJ when|ADV we|PRON say|VERB Black_Lives_Matter|ENT .|PUNCT
+Being|VERB an|DET American|ENT and|CCONJ a|DET Pakistani|ENT and|CCONJ a|DET Kashmiri|ENT and|CCONJ a|DET Pahari|ENT and|CCONJ a|DET Punjabi|ENT and|CCONJ a|DET Muslim|ENT and|CCONJ a|DET journalist|NOUN is|VERB knowing|VERB the|DET inherent_intersectionality|NOUN of|ADP our|ADJ multi-hyphenated_identities|NOUN ,|PUNCT but|CCONJ failing|VERB to|PART communicate|VERB it|PRON to|ADP you|PRON .|PUNCT
+The|DET narrative|NOUN of|ADP the|DET 1.7_billion|MONEY has|VERB more_possibilities|NOUN than|ADP a|DET Rubik’s_cube|NOUN ,|PUNCT but|CCONJ it|PRON is|VERB portrayed|VERB in|ADP reductive_binaries|NOUN :|PUNCT “|PUNCT
+Us|PROPN ”|PUNCT versus|ADP “|PUNCT Them|PRON .|PUNCT ”|PUNCT
+Being|VERB a|DET mother|NOUN it|PRON is|VERB the|DET worry|NOUN I|PRON carry|VERB for|ADP my|ADJ child|NOUN ,|PUNCT and|CCONJ all|DET Muslim|ENT children|NOUN ,|PUNCT knowing|VERB that|ADP powerful|ADJ ,|PUNCT privileged_people|NOUN build|VERB structural|ADJ on|ADP these|DET binaries|NOUN .|PUNCT
+Structural|PROPN is|VERB the|DET Muslim_registries|NOUN that|ADJ began|VERB with|ADP President_Bush|ENT ,|PUNCT and|CCONJ expanded|VERB under|ADP President_Obama|ENT .|PUNCT
+It|PRON ’s|VERB pervasive_mosque_surveillance|NOUN .|PUNCT
+It|PRON ’s|VERB the|DET immigration_officer|NOUN who|NOUN handcuffed|VERB a|DET 5_year_old_child|NOUN .|PUNCT
+It|PRON ’s|VERB a|DET country|NOUN closing|VERB its|ADJ borders|NOUN to|ADP people|NOUN from|ADP the|DET very_countries|NOUN it|PRON is|VERB bombing|NOUN .|PUNCT
+It|PRON ’s|VERB an|DET inaccurate|ADJ and|CCONJ vague|ADJ “|PUNCT no|DET fly|NOUN list|NOUN ”|PUNCT that|DET target|NOUN Arabs|ENT and|CCONJ Muslim|ENT broadly|ADV .|PUNCT
+It|PRON ’s|VERB the|DET wars|NOUN we|PRON wage|VERB and|CCONJ the|DET bombs|NOUN we|PRON drop|VERB on|ADP Muslim_countries|NOUN .|PUNCT Because|ADP of|ADP the|DET stories|NOUN we|PRON tell|VERB ,|PUNCT and|CCONJ the|DET ones|NOUN we|PRON do|VERB n’t|ADV tell|VERB ,|PUNCT here|ADV we|PRON are|VERB today|DATE .|PUNCT
+In|ADP a|DET study|NOUN called|VERB the_Ascent_of_Man|ENT ,|PUNCT researchers|NOUN at|ADP Northwestern_University|ENT showed|VERB participants|NOUN a|DET scientifically_incorrect_image|NOUN and|CCONJ asked|VERB them|PRON to|PART rate|VERB groups|NOUN on|ADP a|DET scale|NOUN of|ADP 1_to_100|CARDINAL in|ADP terms|NOUN of|ADP evolution|NOUN .|PUNCT
+scored|VERB the|DET lowest|ADJ .|PUNCT
+The|DET Conversations|NOUN We|PRON Need|VERB to|PART Have|VERB We|PRON are|VERB too|ADV deep|ADJ into|ADP de|ADP -|PUNCT humanizing|VERB the|DET Muslim|ENT or|CCONJ the|DET “|PUNCT other|ADJ ”|PUNCT .|PUNCT
+We|PRON are|VERB decades|NOUN behind|ADV on|ADP recognizing|VERB the|DET roots|NOUN of|ADP our|ADJ fears|NOUN and|CCONJ the|DET flawed|ADJ dangerous|ADJ tropes|NOUN we|PRON perpetuate|VERB in|ADP our|ADJ newsrooms|NOUN .|PUNCT
+At|ADP least|ADJ there|ADV is|VERB a|DET growing_movement|NOUN led|VERB by|ADP American|ENT within|ADP the|DET media_industry|NOUN that|ADJ tries|VERB to|PART capture|VERB our|ADJ multi-hyphenated_identities|NOUN and|CCONJ forgotten|VERB histories|NOUN .|PUNCT
+Buzzfeed|VERB ’s_See_Something|ENT ,|PUNCT Say|VERB Something_podcast|NOUN ;|PUNCT the|DET #|NOUN GoodMuslimBadMuslim|PROPN podcast|NOUN ;|PUNCT the_Secret_Lives_of_Muslims|ENT viral|ADJ video|NOUN series|NOUN ;|PUNCT Sapelo_Square|ENT on|ADP Black_American_Muslims|ENT ;|PUNCT Simon_&_Schuster's|ENT Salam|PROPN Reads|PROPN ,|PUNCT an|DET initiative|NOUN to|PART publish|VERB more_Muslim_authors|NOUN ;|PUNCT and|CCONJ Ms|PROPN Marvel|ENT ,|PUNCT the_Pakistani_Muslim|ENT American|ADJ superhero|NOUN —|PUNCT all|DET of|ADP these|DET give|VERB me|PRON hope|NOUN .|PUNCT
+But|CCONJ I|PRON ’m|VERB worried|ADJ about|ADP this|DET difficult_global_moment|NOUN we|PRON are|VERB in|ADP .|PUNCT
+And|CCONJ this|DET moment|NOUN has|VERB consequences|NOUN beyond|ADP the|DET 1.7_billion|CARDINAL .|PUNCT
+There|ADV ’s|VERB a|DET reason|NOUN conspiracy_theorists|NOUN that|ADJ existed|VERB in|ADP the|DET dark_corners|NOUN of|ADP the|DET Internet|NOUN now|ADV run|VERB the_White_House|ENT .|PUNCT
+They|PRON rose|VERB exponentially|ADV because|ADP they|PRON “|PUNCT othered|VERB ”|PUNCT
+There|ADV ’s|VERB another|DET group|NOUN that|ADJ rose|VERB exponentially|ADV by|ADP creating|VERB the|DET “|PUNCT other|ADJ ”|PUNCT out|ADP of|ADP all|DET of|ADP us|PRON .|PUNCT
+They|PRON did|VERB n’t|ADV exist|VERB a_few_years_ago|DATE ;|PUNCT now|ADV they|PRON control|VERB large_areas|NOUN of|ADP Syria|ENT and|CCONJ Iraq|ENT .|PUNCT
+I|PRON ’m|VERB worried|ADJ about|ADP the|DET realities|NOUN and|CCONJ histories|NOUN I|PRON was|VERB unaware|ADJ of|ADP when|ADV I|PRON was|VERB my|ADJ daughter|NOUN ’s_age|QUANTITY ,|PUNCT but|CCONJ that|DET make|VERB me|PRON unapologetically|ADV Muslim|ENT today|DATE .|PUNCT
+Things|NOUN I|PRON left|VERB breadcrumbs|NOUN for|ADP throughout|ADP this|DET talk|NOUN .|PUNCT
+Things|NOUN that|ADJ might|VERB have|VERB triggered|VERB memories|NOUN in|ADP you|PRON too|ADV ,|PUNCT because|ADP in|ADP all|ADJ the|DET intersections|NOUN that|ADJ make|VERB up|PART our|ADJ humanity|NOUN ,|PUNCT there|ADV might|VERB lurk|VERB a|DET story|NOUN of|ADP being|VERB “|PUNCT othered|VERB .|PUNCT ”|PUNCT
+Right|ADV now|ADV ,|PUNCT there|ADV are|VERB conversations|NOUN happening|VERB at|ADP the|DET 8th_annual_Islamophobia_conference|NOUN across|ADP the|DET bridge|NOUN at|ADP Berkeley|ENT .|PUNCT
+More_than_a_hundred_academics|DATE are|VERB talking|VERB about|ADP our|ADJ problems|NOUN with|ADP the|DET “|PUNCT other”,_“structural_racism|NOUN ”|PUNCT ,|PUNCT and|CCONJ
+“|PUNCT American_militarism|NOUN ”|PUNCT .|PUNCT
+But|CCONJ these|DET are|VERB n’t|ADV terms|NOUN we|PRON throw|VERB around|PART casually|ADV in|ADP our|ADJ schools|NOUN or|CCONJ read|VERB in|ADP our|ADJ newspapers|NOUN .|PUNCT
+All|DET of|ADP us|PRON need|VERB to|PART ask|VERB ourselves|PRON ,|PUNCT why|ADV ?|PUNCT
+Why|ADV am|VERB I|PRON telling|VERB you|PRON this|DET at|ADP a|DET TEDx_talk|NOUN at|ADP Stanford|ENT in|ADP 2017|DATE ,|PUNCT when|ADV Edward_Said|ENT ,|PUNCT the|DET man|NOUN who|NOUN showed|VERB us|PRON how|ADV wars|NOUN are|VERB waged|VERB and|CCONJ people|NOUN are|VERB dehumanized|VERB by|ADP creating|VERB the|DET “|PUNCT other|ADJ ”|PUNCT in|ADP popular_imagination|NOUN ,|PUNCT was|VERB a|DET scholar|NOUN at|ADP Stanford|ENT four_decades_ago|DATE .|PUNCT
+We|PRON need|VERB to|PART ask|VERB ourselves|PRON uncomfortable_questions|NOUN about|ADP our|ADJ roles|NOUN in|ADP consciously|ADV and|CCONJ unconsciously|ADV perpetuating|VERB the|DET “|PUNCT other|ADJ ”|PUNCT ;|PUNCT like|ADP my|ADJ friend|NOUN and|CCONJ I|PRON did|VERB in|ADP the|DET rain|NOUN at|ADP the_Women’s_March|ENT ,|PUNCT because|ADP the|DET work|NOUN of|ADP imagining|VERB a|DET new_future|NOUN ,|PUNCT where|ADV we|PRON do|VERB n’t|ADV have|VERB a|DET President|PROPN eating|VERB chocolate_cake|NOUN while|ADP bombing|VERB broken_countries|NOUN and|CCONJ “|PUNCT othered|VERB ”|PUNCT people|NOUN ,|PUNCT goes|VERB way|NOUN beyond|ADP the|DET visible|ADJ and|CCONJ invisible|ADJ 1.7_billion|MONEY .|PUNCT
+It|PRON starts|VERB here|ADV with|ADP all|DET of|ADP us|PRON .|PUNCT
+Sahar_Habib_Ghazi|ENT is|VERB the|DET managing_editor|NOUN at|ADP Global_Voices|ENT .|PUNCT
+This|DET article|NOUN is|VERB a|DET modified_version|NOUN of|ADP the|DET script|NOUN of|ADP a|DET TEDx_talk|NOUN she|PRON delivered|VERB at|ADP Stanford_University|ENT on|ADP April_24,_2017|DATE .|PUNCT

@@ -1,0 +1,18 @@
+The|DET statistics|NOUN are|VERB telling|VERB .|PUNCT
+In|ADP 2008|DATE ,|PUNCT Electronic_Arts|ENT published|VERB 60|CARDINAL games|NOUN .|PUNCT
+In|ADP 2016|DATE ,|PUNCT EA|ENT published|VERB just_eight|CARDINAL games|NOUN .|PUNCT
+And|CCONJ that|DET means|VERB that|ADP a|DET lot|NOUN fewer|ADJ of|ADP those|DET games|NOUN are|VERB original_titles|NOUN .|PUNCT
+Justin_Bailey|ENT ,|PUNCT the|DET chief|ADJ executive|ADJ officer|NOUN of|ADP Fig|ENT ,|PUNCT pointed|VERB to|ADP this|DET statistic|NOUN as|ADP an|DET example|NOUN of|ADP “|PUNCT sequelitis|NOUN ,|PUNCT ”|PUNCT or|CCONJ the|DET risk_aversion|NOUN that|ADJ is|VERB resulting|VERB in|ADP big_bets|NOUN on|ADP established_intellectual_properties|NOUN .|PUNCT
+And|CCONJ he|PRON was|VERB n’t|ADV just|ADV picking|VERB on|ADP EA|ENT .|PUNCT
+Square_Enix|ENT ,|PUNCT another|DET huge|ADJ company|NOUN ,|PUNCT is|VERB making|VERB games|NOUN like|ADP Final_Fantasy_XV|ENT .|PUNCT
+They|PRON ’re|VERB big_bets|NOUN on|ADP games|NOUN that|ADJ players|NOUN come|VERB back|ADV to|ADP over|NOUN and|CCONJ over|ADV .|PUNCT
+Players|NOUN get|VERB what|NOUN they|PRON want|VERB this|DET way|NOUN ,|PUNCT until|ADP they|PRON do|VERB n’t|ADV want|VERB it|PRON anymore|ADV .|PUNCT
+And|CCONJ then|ADV the|DET market|NOUN for|ADP games|NOUN shrinks|VERB .|PUNCT
+Mobile_gaming|NOUN has|VERB the|DET same_problem|NOUN .|PUNCT
+But|CCONJ there|ADV ’s|VERB a|DET cure|NOUN .|PUNCT
+Game_developers|NOUN can|VERB turn|VERB to|ADP game_communities|NOUN to|ADP greenlight_projects|NOUN that|ADJ stem|VERB from|ADP an|DET original_idea|NOUN .|PUNCT
+Then|ADV financing_companies|NOUN like|ADP Fig|ENT can|VERB fund|VERB the|DET titles|NOUN that|ADJ have|VERB the|DET community_support|NOUN .|PUNCT
+Bailey|ENT was|VERB inspired|VERB to|PART create|VERB equity_crowdfunding|NOUN as|ADP an|DET alternative_source|NOUN of|ADP funding|NOUN for|ADP the|DET game_industry|NOUN based|VERB on|ADP how|ADV other_industries|NOUN evolved|VERB .|PUNCT
+He|PRON pointed|VERB to|ADP Easy_Riders|ENT ,|PUNCT Raging_Bulls|ENT ,|PUNCT a|DET book|NOUN about|ADP how|ADV the|DET music_industry|NOUN was|VERB saved|VERB .|PUNCT
+But|CCONJ sequelitis|NOUN has|VERB a|DET cure|NOUN ,|PUNCT Bailey|ENT said|VERB .|PUNCT
+Check|VERB out|PART his|ADJ video_talk|NOUN .|PUNCT

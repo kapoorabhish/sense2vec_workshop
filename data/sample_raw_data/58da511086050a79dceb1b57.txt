@@ -1,0 +1,23 @@
+Artificial Intelligence is the Apex technology of the information age and will impact absolutely everything in our workplace and lives. Goldman Sachs Researchers believe that “Today’s machine self-learning capability is the most far-reaching and significant advancement of the 21st century”.
+
+Simply put, our world today is moving beyond people instructing machines to operate by pre-programmed coding to a new era where people present problems to machines – not coded rules. These new robotic minds are now capable of solving the world’s problem on their own announces Heath Terry, a Senior Internet Researcher at Goldman Sachs Research.
+
+Google DeepMind is an illustration of the AI deep learning breakthroughs occurring now – not years in the future as many imagine. Google made headlines in 2016 after its AlphaGo AI program beat a human world champion Go player—an ancient Chinese game—for the first time. This win was extraordinary because the possibilities of the game were endless and could not be preprogrammed. Prior to learning the Chinese Go board game, AlphaGo was taught how to play the popular Space Invaders game once. After eight hours of continuous play against itself and executing on merely a desktop computer, AlphaGo mastered the game of Space Invaders with superhuman skills.
+
+Now even social skills have been demonstrated by an AI robotic assistant. Recently, the Socially-Aware Robot Assistant SARA developed in the ArticuLab at Carnegie Mellon University made her second debut at the 2017 World Economic Forum. CMU researchers demonstrated that the first hurdle of people working closely with self-learning machines requires the robotic assistant to understand spoken words and the accompanying facial expressions along with most of the non-verbal human behaviours.
+
+Case in point, my Amazon Alexa always makes me laugh when I say “Alexa – Am I pretty today“. Her most often response is “I can’t see you yet – but I hear you are very pretty“. The addition of vision will add another universe of capabilities to our new AI robotic friends, our automobiles and even to most formerly dumb household appliances in our homes. At CES this January, Intel highlighted their low power Vision Processing Unit (VPU) along with their acquisition of Movidius.
+
+One commonality among drone analytics applications and deep learning AI applications as well as the coming on strong autonomous everything is the requirement for new computing platforms capable of delivering massive parallel floating point operations per second (FLOPS). The traditional server architecture utilised by cloud computing primarily delivers only CPU threads and memory for multi-tasked applications.
+
+DroneData deploys this new class of Giga FLOPS compute intensive architecture with its line of Accelerated High-Performance Compute Servers utilising the latest unlocked Intel i7 Broadwell CPUs, XMP memory, NVMe storage and coupled with Nvidia GPU Accelerators. During the deep learning phase, a DroneData Extreme 20 server allowed the SARA project to meet its debut timetable at the 2017 WEF.
+
+DroneData is the only provider of hosted GPU accelerated servers utilising the entire product line of NVIDIA GPUs and Accelerators. Depending on the level of acceleration required by the application, servers can be populated with multiple Nvidia GPUs or Accelerators ranging from under 200 GPU computing cores to over 20,000 cores. Four Nvidia P100 Accelerators deliver an unparalleled 50K single precision GFLOPS (50,000,000,000,000) or 20K double precision GFLOPS (20,000,000,000,000) which is 100% more than the cloud offerings from Amazon Web Services, Google Cloud and IBM Softlayer. Microsoft Azure has not released GPU computing as of this posting.
+
+All DroneData Windows and Linux CPU/GPU server configurations are built on single tenant – dedicated hardware platforms, never virtualized. Cloud operating systems are complex and add a second layer on top of the native O/S and consume resources from the application.
+
+DroneData also eliminates the cloud computing stopwatch billing environment by utilising fixed monthly server billing with only one month advance rental payment and with no term commitments.
+
+Learn more by visiting DroneData or About DroneData Accelerated Servers.
+
+http://www.dronedata.com/blog/ai-impacting-workplace/

@@ -1,0 +1,1 @@
+The|DET 14th_anniversary|NOUN of|ADP the|DET handover|NOUN of|ADP Hong_Kong|ENT to|ADP China|ENT on|ADP Friday|DATE solicited|VERB both|DET protest|NOUN and|CCONJ celebration|NOUN .|PUNCT

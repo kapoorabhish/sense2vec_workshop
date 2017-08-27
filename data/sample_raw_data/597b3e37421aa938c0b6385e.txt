@@ -1,0 +1,17 @@
+Google Android O to be called Android Octopus? Google Android O to be called Android Octopus?
+
+Android O is supposed to be Android 8, and like it is with all Android updates, everyone just wants to know which dessert name Google is picking this time. Android Oreo, Android Oatmeal Cookie, or some other dessert. Android Oreo is being seen as a winner by many, but it looks like Google might not go with that name at all.
+
+Google’s just replaced the Easter Egg image in the latest Android O developer preview, and now an Octopus is showing up. The image of this Octopus was also discussed in Reddit AMA, where Google engineers were showcasing Android Developer Preview 4.0, which is the final beta build before the stable build gets rolled out.
+
+Now this Easter Egg shows up till the actual name of the OS is revealed, but the Octopus image has people confused. For those wondering where the Octopus image is appearing, you have to tap on the Android version in your phone’s settings, and after a couple of taps, the Octopus image should appear.
+
+Traditionally Google has stuck with naming Android after a dessert, but will Android 8 mark a break from the trend? Or is the Octopus image one huge distraction, and the dessert name tradition will continue? We’ll only the truth once Google decides to reveal the actual name of Android O, which should be later in the summer.
+
+Dave Burke, who is Google’s VP of Engineering, wrote a blog post announcing the release of Android O Developer Preview 4.0 and it also confirmed the mobile OS will be launching later this summer, which is August-September time frame. For those wondering how they can download Android O on their smartphones, the public beta is limited to the Pixel and Nexus smartphones.
+
+Users have to go to the Android beta website and register for the same. Before installing Android O beta version, do a data backup so you don’t lose any important information when switching to the new OS. Android O is promising improved battery performance, notifications, and more.
+
+For all the latest Technology News, download Indian Express App
+
+© IE Online Media Services Pvt Ltd

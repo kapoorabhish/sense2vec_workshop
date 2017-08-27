@@ -1,0 +1,2 @@
+In|ADP a|DET weekly_series|NOUN ,|PUNCT Wall_Street_Journal_photo_editors|NOUN share|VERB with|ADP readers|NOUN a|DET photograph|NOUN from|ADP this_week|DATE in|ADP history|NOUN .|PUNCT
+Check|VERB here|ADV each|DET Thursday|DATE to|PART see|VERB the|DET latest_selection|NOUN from|ADP archived_images|NOUN featuring|VERB news|NOUN to|ADP nostalgia|NOUN ,|PUNCT sport|NOUN to|ADP science.#TBT|NOUN :|PUNCT

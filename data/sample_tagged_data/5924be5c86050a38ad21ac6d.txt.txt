@@ -1,0 +1,5 @@
+On|ADP the|DET third_anniversary_celebration|NOUN of|ADP NDA_government|NOUN which|ADJ coincides|VERB with|ADP one_year_completion|NOUN of|ADP BJP|ENT led|VERB government|NOUN in|ADP Assam|ENT ,|PUNCT local_holiday|NOUN is|VERB declared|VERB in|ADP Tinsukia|ENT and|CCONJ Dhemaji|ENT Districts|NOUN on|ADP May_26|DATE .|PUNCT
+Holiday|ENT has|VERB also|ADV been|VERB declared|VERB in|ADP Kamrup|ENT (|PUNCT Metro|ENT )|PUNCT from|ADP 2|CARDINAL pm|NOUN onwards|ADV on|ADP May_26,_2017|DATE .|PUNCT
+Prime_Minister_Narendra_Modi|ENT will|VERB inaugurate|VERB the|DET Dhola-Sadiya_Bridge|PROPN and|CCONJ will|VERB also|ADV be|VERB laying|VERB the|DET foundation_stone|NOUN of|ADP All_India_Institute_of_Medical_Sciences|ENT (|PUNCT AIIMS|ENT )|PUNCT in|ADP Changsari|ENT in|ADP the|DET vicinity|NOUN of|ADP Guwahati|ENT .|PUNCT “|PUNCT
+The|DET Prime_Minister|PROPN will|VERB also|ADV inaugurate|VERB the_Indian_Council_of_Agricultural_Research's|ENT project|NOUN in|ADP Gogamukh|ENT in|ADP Dhemaji|ENT .|PUNCT
+He|PRON will|VERB be|VERB addressing|VERB the|DET nation|NOUN from|ADP Guwahati|ENT .|PUNCT

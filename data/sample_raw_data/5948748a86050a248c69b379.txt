@@ -1,0 +1,13 @@
+Airbnb, the property rental unicorn, is in the process of integrating itself with Trooly, a little known California-based startup founded by three Indian-origin entrepreneurs.
+
+Trooly has helped Airbnb stay trouble-free since 2015 by filtering out spurious postings. Now, the $31-billion, San Francisco-based company has decided to buy Trooly, Bloomberg reported on Friday. “We look forward to welcoming the Trooly team to Airbnb in the coming weeks,” company spokesman Tim Rathschmidt told Bloomberg.
+
+The startup is the brainchild of entrepreneurs Savi Baveja, Anish Das Sarma, and Nilesh Dalvi, who serve as its chief executive officer, chief technology officer, and the chief science officer respectively. Baveja came on board Trooly after a stint as senior partner at consulting firm Bain & Company, where he was also a member of the board of directors. Sarma and Dalvi are both Indian Institute of Technology (IIT) graduates with research experience. The former, an IIT gold medallist, has worked at Google Research and Yahoo Research and completed a PhD from Stanford University. The latter has worked with Facebook and Yahoo Research.
+
+Airbnb has long struggled with people trying to game the system. Sometimes, those posing as property owners post fraudulent listings on the site. At other times, renters try to sidestep it by contacting the hosts directly on social media and offering to pay them, circumventing Airbnb’s fees.
+
+The Los Altos-based background-check startup uses information from the public web, the dark web, permissible social media, and its own aggregation of records to gauge the credentials of individuals and businesses. Its website claims that its comparatively wholesome predictions are “free of bias than old school background checks, credit scores, and risk management tools.”
+
+Airbnb isn’t the only one taken by Trooly’s technology. Towards the end of last year, it raised $10 million from backers like Bain Capital Ventures and Milliways Ventures.
+
+Details of the Airbnb-Trooly deal are still under wraps but aside from the core technology, it’s likely that Airbnb will also add Trooly’s 16 employees to its staff. Bloomberg said the deal is expected to close on Monday (June 19), when Trooly is expected to shut down operations as an independent company.

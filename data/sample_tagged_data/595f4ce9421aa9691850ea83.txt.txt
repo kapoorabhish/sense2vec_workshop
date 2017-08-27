@@ -1,0 +1,10 @@
+Casio_Computer_Co.,_Ltd.|ENT ,|PUNCT announced|VERB today|DATE the|DET release|NOUN of|ADP new_additions|NOUN to|ADP its|ADJ EDIFICE_line|NOUN of|ADP high_performance_sports|NOUN chronographs|VERB that|DET combine|VERB dynamic_design|NOUN with|ADP advanced_technology|NOUN .|PUNCT
+The|DET four|CARDINAL new_EQS-600_models|NOUN are|VERB solar_powered_chronographs|NOUN featuring|VERB 3D_inset_dials|NOUN .|PUNCT
+Under|ADP the|DET concept|NOUN of|ADP "|PUNCT Speed_and_Intelligence|ENT "|PUNCT ,|PUNCT the|DET EDIFICE_brand|NOUN evokes|VERB the|DET sense|NOUN of|ADP velocity|NOUN found|VERB in|ADP motorsports|NOUN ,|PUNCT while|ADP offering|VERB diverse_functions|NOUN made|VERB possible|ADJ by|ADP cutting-edge_electronics_technology|NOUN .|PUNCT
+The|DET new_EQS-600_watches|NOUN are|VERB solar|ADJ powered|ADJ ,|PUNCT and|CCONJ they|PRON feature|VERB a|DET stopwatch|NOUN that|ADJ can|VERB measure|VERB up_to_30|CARDINAL minutes|NOUN in|ADP one|NUM second|ORDINAL increments|NOUN .|PUNCT
+The|DET inset_dial|NOUN in|ADP the|DET six|NUM o'clock_position|NOUN serves|VERB as|ADP a|DET battery_level_indicator|NOUN for|ADP added|VERB convenience|NOUN .|PUNCT
+The|DET watches|NOUN also|ADV feature|VERB three-dimensional_inset_dials|NOUN .|PUNCT
+Utilizing|VERB proprietary_molding_technology|NOUN developed|VERB by|ADP Yamagata_Casio|ENT in|ADP Japan|ENT ,|PUNCT the|DET inset_dials|NOUN are|VERB integrated|VERB with|ADP the|DET 3D_watch_face|NOUN ,|PUNCT producing|VERB a|DET dynamic_look|NOUN unique|ADJ to|ADP EDIFICE|ENT .|PUNCT
+The|DET dial_accent_lines|NOUN of|ADP red|ADJ ,|PUNCT blue|ADJ or|CCONJ gold|NOUN set|VERB off|PART a|DET design|NOUN that|ADJ evokes|VERB an|DET advanced_image|NOUN of|ADP high_velocity|NOUN .|PUNCT
+The|DET same_accent_colors|NOUN are|VERB used|VERB for|ADP the|DET second_hand|NOUN ,|PUNCT for|ADP greater_design_impact|NOUN and|CCONJ readability|NOUN .|PUNCT
+(|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

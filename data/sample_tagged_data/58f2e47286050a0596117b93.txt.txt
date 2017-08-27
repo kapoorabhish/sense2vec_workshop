@@ -1,0 +1,10 @@
+Something|NOUN just|ADV does|VERB n’t|ADV add|VERB up|PART .|PUNCT
+A|DET Brooklyn_man|NOUN apparently|ADV did|VERB n’t|ADV have|VERB $|SYM 2.75|MONEY to|PART get|VERB on|ADP the|DET train|NOUN ,|PUNCT but|CCONJ claimed|VERB he|PRON could|VERB come|VERB up|PART with|ADP $|SYM 50,000|MONEY if|ADP cops|NOUN did|VERB n’t|ADV arrest|VERB him|PRON for|ADP using|VERB a|DET student_MetroCard|PROPN that|ADJ did|VERB n’t|ADV belong|VERB to|ADP him|PRON .|PUNCT
+Jesus_Rodriguez|ENT allegedly|ADV offered|VERB transit_cops|NOUN the|DET cash_incentive|NOUN after|ADP he|PRON was|VERB busted|VERB at|ADP a|DET Brooklyn_subway_station|NOUN ,|PUNCT officials|NOUN said|VERB Saturday|DATE .|PUNCT
+Cops|NOUN grabbed|VERB Rodriguez|ENT ,|PUNCT of|ADP Bedford-Stuyvesant|ENT ,|PUNCT around|ADP noon|TIME on|ADP Thursday|DATE when|ADV he|PRON used|VERB the|DET student|NOUN MetroCard|PROPN to|PART enter|VERB the|DET Hoyt-Schermerhorn_St._station|NOUN ,|PUNCT officials|NOUN said|VERB .|PUNCT
+Three|CARDINAL men|NOUN charged|VERB in|ADP ex-Cuomo_aide_fraud_scheme|NOUN stay|VERB out|ADV on|ADP bond|NOUN When|ADV cops|NOUN stopped|VERB him|PRON ,|PUNCT he|PRON freely|ADV admitted|VERB the|DET card|NOUN belonged|VERB to|ADP his|ADJ girlfriend|NOUN .|PUNCT
+Police|NOUN took|VERB Rodriguez|ENT into|ADP custody|NOUN for|ADP fare_evasion|NOUN and|CCONJ brought|VERB him|PRON to|ADP an|DET NYPD_transit_police_station|NOUN ,|PUNCT where|ADV he|PRON allegedly|ADV approached|VERB a|DET sergeant|NOUN and|CCONJ offered|VERB the|DET supervisor|NOUN $50,000|MONEY to|PART let|VERB him|PRON go|VERB .|PUNCT
+The|DET sergeant|NOUN recorded|VERB the|DET offer|NOUN ,|PUNCT and|CCONJ Rodriguez|ENT was|VERB charged|VERB with|ADP bribery|NOUN ,|PUNCT criminal_trespass|NOUN and|CCONJ fare_evasion|NOUN ,|PUNCT officials|NOUN said|VERB .|PUNCT
+A|DET judge|NOUN ordered|VERB him|PRON released|VERB without|ADP bail|NOUN during|ADP a|DET brief_arraignment|NOUN Thursday|DATE night|TIME .|PUNCT
+Attempts|NOUN to|PART reach|VERB Rodriguez|ENT were|VERB not|ADV successful|ADJ Saturday|DATE .|PUNCT
+With|ADP Marco_Poggio|ENT

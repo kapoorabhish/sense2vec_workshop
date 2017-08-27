@@ -1,0 +1,32 @@
+We|PRON met|VERB Chef_Mario_Paecke_in|ENT the|DET spacious_confines|NOUN of|ADP Threesixtyone|ENT ,|PUNCT The|DET Oberoi|ENT ,|PUNCT the|DET restaurant|NOUN hosting|VERB his|ADJ cosmopolitan_menu|NOUN ,|PUNCT just|ADV before|ADP the|DET preparations|NOUN for|ADP the_lunch_hour|TIME were|VERB to|PART begin|VERB .|PUNCT
+He|PRON is|VERB Chef_De_Cuisine|ENT at|ADP the|DET one|CARDINAL Michelin|ENT -|PUNCT starred_restaurant|NOUN ,|PUNCT Luce_d’Oro|ENT ,|PUNCT Schloss_Elmau|ENT in|ADP Germany|ENT ,|PUNCT and|CCONJ was|VERB recently|ADV hosted|VERB by|ADP the_The_Oberoi|ENT ,|PUNCT Gurgaon|ENT ,|PUNCT where|ADV he|PRON presented|VERB a|DET seven|CARDINAL -|PUNCT course_degustation_menu|NOUN over_five_days|DATE .|PUNCT
+Paecke|PROPN ’s|PUNCT childlike_enthusiasm|NOUN has|VERB an|DET instant_disarming_effect|NOUN .|PUNCT
+For|ADP him|PRON ,|PUNCT cooking|VERB and|CCONJ food|NOUN were|VERB a|DET calling|NOUN that|ADJ was|VERB perhaps|ADV genetic|ADJ .|PUNCT “|PUNCT I|PRON wanted|VERB to|PART be|VERB a|DET chef|NOUN ever|ADV since|ADP I|PRON was|VERB 13_years_old|DATE .|PUNCT
+I|PRON grew|VERB up|PART with|ADP the|DET smell|NOUN of|ADP apple_strudel|NOUN wafting|VERB through|ADP the|DET house|NOUN as|ADP my|ADJ grandmother|NOUN baked|VERB a|DET lot|NOUN .|PUNCT
+It|PRON was|VERB all|DET seasonal|ADJ —|PUNCT apple|NOUN in|ADP the|DET winters|NOUN ,|PUNCT pumpkin|NOUN in|ADP autumn|DATE .|PUNCT
+I|PRON was|VERB hooked|VERB to|ADP food|NOUN and|CCONJ the|DET process|NOUN of|ADP cooking|NOUN ,|PUNCT ”|PUNCT said|VERB the|DET 35-year-old|DATE .|PUNCT
+He|PRON has|VERB prepared|VERB a|DET menu|NOUN which|ADJ features|VERB his|ADJ signature|NOUN Black_Cod|ENT ,|PUNCT Carrot|ENT ,|PUNCT Pomelo|ENT and|CCONJ Gen|PROPN Mai_Chai|ENT .|PUNCT “|PUNCT
+The_Black_Cod|ENT is|VERB something|NOUN I|PRON am|VERB very|ADV proud|ADJ of|ADP .|PUNCT
+The|DET flavours|NOUN are|VERB very|ADV strong|ADJ but|CCONJ very|ADV distinct|ADJ .|PUNCT
+We|PRON marinate|VERB it|PRON with|ADP miso|NOUN ,|PUNCT sake|NOUN ,|PUNCT sugar|NOUN and|CCONJ salt|NOUN .|PUNCT
+We|PRON let|VERB it|PRON sit|VERB for|ADP 24_hours|TIME .|PUNCT
+We|PRON put|VERB it|PRON in|ADP a|DET sous-vide|NOUN ,|PUNCT ”|PUNCT he|PRON said|VERB .|PUNCT
+With|ADP the|DET mention|NOUN of|ADP sous-vide|NOUN ,|PUNCT things|NOUN get|VERB more|ADV interesting|ADJ .|PUNCT “|PUNCT
+It|PRON ’s|CCONJ like|ADP cooking|VERB in|ADP a|DET water_bath|NOUN .|PUNCT
+It|PRON ’s|VERB a|DET technique|NOUN of|ADP cooking|NOUN where|ADV the|DET food|NOUN is|VERB placed|VERB in|ADP a|DET temperature|NOUN -|PUNCT controlled_steam_environment|NOUN .|PUNCT
+It|PRON ’s|VERB very|ADV useful|ADJ when|ADV we|PRON have|VERB to|PART cook|VERB something|NOUN for|ADP long|ADJ —|PUNCT and|CCONJ at|ADP temperatures|NOUN lower|ADJ than|ADP what|NOUN we|PRON usually|ADV use|VERB .|PUNCT
+We|PRON do|VERB n’t|ADV have|VERB to|PART manually|ADV control|VERB it|PRON .|PUNCT
+After|ADP the|DET steam_cooking|NOUN ,|PUNCT we|PRON roast|VERB the|DET fish|NOUN in|ADP a|DET salamander_oven|NOUN .|PUNCT
+The|DET flavours|NOUN —|PUNCT with|ADP the|DET help|NOUN of|ADP the|DET oven|NOUN —|PUNCT get|VERB enhanced|VERB a_hundred|CARDINAL times|NOUN ,|PUNCT ”|PUNCT he|PRON added|VERB .|PUNCT
+Paecke|ENT has|VERB worked|VERB with|ADP the|DET best_brands|NOUN in|ADP the|DET business|NOUN —|PUNCT Mandarin_Oriental_Munich|ENT ,|PUNCT Kempinski_Hotel_Four_Seasons|ENT Munich|PROPN and|CCONJ the_Residenz|ENT Heinz_Winkler|ENT .|PUNCT
+But|CCONJ ,|PUNCT it|PRON was|VERB while|ADP backpacking|NOUN in|ADP East_Asia|ENT that|ADP he|PRON discovered|VERB the|DET unique_flavours|NOUN of|ADP street_food|NOUN ,|PUNCT which|ADJ inspired|VERB him|PRON to|PART approach|VERB food|NOUN in|ADP a|DET more_cosmopolitan_manner|NOUN .|PUNCT
+“|PUNCT We|PRON ,|PUNCT as|ADP chefs|NOUN ,|PUNCT sometimes|ADV forget|VERB the|DET natural_flavours|NOUN of|ADP the|DET ingredients|NOUN ,|PUNCT and|CCONJ we|PRON start|VERB depending|VERB heavily|ADV on|ADP the|DET spices|NOUN ,|PUNCT and|CCONJ sauces|NOUN and|CCONJ other_garnishes|NOUN .|PUNCT
+I|PRON am|VERB attempting|VERB to|PART make|VERB the|DET ingredients|NOUN —|PUNCT be|VERB it|PRON meat|NOUN or|CCONJ vegetables|NOUN —|PUNCT retain|VERB their|ADJ natural_flavour|NOUN and|CCONJ yet|ADV be|VERB part|NOUN of|ADP a|DET gourmet_experience|NOUN ,|PUNCT ”|PUNCT said|VERB Paecke|ENT .|PUNCT
+The|DET other_dishes|NOUN that|ADJ stood|VERB out|PART at|ADP the|DET degustation_menu|NOUN were|VERB Silver_Hill_Duck_Beijing_Style_and_Surprise_Egg|ENT .|PUNCT
+The|DET latter|ADJ needs|VERB a|DET special_mention|NOUN for|ADP its|ADJ presentation|NOUN alone|ADV .|PUNCT
+The|DET almost_mustard_coloured_yolk|NOUN was|VERB set|VERB off|PART brilliantly|ADV with|ADP soba_noodles|NOUN ,|PUNCT mushrooms|NOUN and|CCONJ green_Brussel_sprouts|NOUN .|PUNCT
+Due|ADP to|ADP his|ADJ strict_discipline|NOUN ,|PUNCT Paecke|ENT has|VERB attained|VERB a|DET zen|NOUN -|PUNCT like_state|NOUN in|ADP the|DET kitchen|NOUN .|PUNCT “|PUNCT
+His|ADJ operation|NOUN at|ADP the|DET Luce_D’_Oro|ENT ,|PUNCT Munich|ENT ,|PUNCT is|VERB like|ADP a|DET well-oiled_machine|NOUN ,|PUNCT ”|PUNCT says|VERB Manish_Sharma|ENT ,|PUNCT Executive_Chef|PROPN ,|PUNCT The|DET Oberoi|ENT .|PUNCT
+We|PRON wonder|VERB if|ADP Paecke|ENT meditates|VERB or|CCONJ if|ADP cooking|NOUN is|VERB meditative|ADJ enough|ADV .|PUNCT
+“|PUNCT I|PRON run|VERB and|CCONJ exercise|VERB ,|PUNCT ”|PUNCT he|PRON said|VERB .|PUNCT
+For|ADP all|ADJ the|DET latest_Lifestyle_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

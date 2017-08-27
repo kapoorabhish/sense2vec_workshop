@@ -1,0 +1,15 @@
+ST|NOUN .|PUNCT
+LOUIS|ENT (|PUNCT AP|ENT )|PUNCT —|PUNCT
+The_Latest_on|ENT the|DET St._Louis_city_elections|NOUN (|PUNCT all|DET times|NOUN local|ADJ )|PUNCT :|PUNCT __10:45_p.m.__St._Louis|TIME '|PART newly_elected_mayor|NOUN is|VERB promising|VERB to|PART help|VERB the|DET city|NOUN reduce|VERB the|DET sort|NOUN of|ADP violent_crime|NOUN that|ADJ devastated|VERB her|ADJ own_family|NOUN two_decades_ago|DATE .|PUNCT
+Democrat_Lyda_Krewson|ENT easily|ADV won|VERB over|ADP Republican_Andrew_Jones|ENT and|CCONJ four|CARDINAL other_candidates|NOUN in|ADP the|DET general_election|NOUN Tuesday|DATE .|PUNCT
+Her|ADJ narrow_victory|NOUN over|ADP city|NOUN Treasurer|PROPN Tishaura_Jones|ENT in|ADP the|DET March_primary|NOUN made|VERB her|PRON the|DET odds|NOUN -|PUNCT on|ADP favorite|NOUN to|PART win|VERB the|DET race|NOUN in|ADP the|DET heavily_Democratic_city|NOUN .|PUNCT
+She|PRON will|VERB replace|VERB St._Louis'|ENT only_four-term_mayor|NOUN ,|PUNCT Francis_Slay|ENT ,|PUNCT who|NOUN was|VERB first|ORDINAL elected|VERB in|ADP 2001|DATE and|CCONJ decided|VERB against|ADP another|DET run|NOUN .|PUNCT
+Krewson|ENT has|VERB pledged|VERB to|PART work|VERB to|PART reduce|VERB crime|NOUN and|CCONJ improve|VERB impoverished_neighborhoods|NOUN .|PUNCT
+She|PRON and|CCONJ her|ADJ two|CARDINAL young_children|NOUN were|VERB in|ADP the|DET car|NOUN in|ADP front|NOUN of|ADP their|ADJ home|NOUN in|ADP 1995|DATE when|ADV her|ADJ husband|NOUN ,|PUNCT Jeff|ENT ,|PUNCT was|VERB slain|VERB during|ADP a|DET random_carjacking_attempt|NOUN .|PUNCT
+_|PUNCT _|PUNCT _|PUNCT 11:30_a.m.__|TIME
+An|DET anti-crime_advocate|NOUN whose|ADJ husband|NOUN was|VERB murdered|VERB in|ADP an|DET attempted|VERB carjacking|VERB more_than_two|CARDINAL decades|NOUN ago|ADV is|VERB heavily|ADV favored|VERB to|PART become|VERB the|DET first_new_mayor|NOUN of|ADP St._Louis|ENT in|ADP 16_years|DATE .|PUNCT
+Veteran|PROPN Democratic_City_Council_woman|NOUN Lyda_Krewson|ENT would|VERB become|VERB the|DET city|NOUN 's|PART first_female_mayor|NOUN and|CCONJ replace|VERB Francis_Slay|ENT .|PUNCT
+He|PRON who|NOUN chose|VERB not|ADV to|PART seek|VERB a|DET fifth_term|NOUN .|PUNCT
+Krewson|ENT has|VERB pledged|VERB to|PART work|VERB to|PART reduce|VERB crime|NOUN and|CCONJ improve|VERB impoverished_neighborhoods|NOUN .|PUNCT
+She|PRON and|CCONJ her|ADJ two|CARDINAL young_children|NOUN were|VERB in|ADP the|DET car|NOUN in|ADP front|NOUN of|ADP their|ADJ home|NOUN in|ADP 1995|DATE when|ADV her|ADJ husband|NOUN ,|PUNCT Jeff|ENT ,|PUNCT was|VERB slain|VERB during|ADP a|DET random_carjacking_attempt|NOUN .|PUNCT
+Voters|NOUN also|ADV will|VERB decide|VERB whether|ADP to|PART devote|VERB business_tax_proceeds|NOUN to|ADP funding|VERB a|DET Major_League_Soccer_stadium_downtown|NOUN and|CCONJ whether|ADP to|PART consolidate|VERB city_services|NOUN to|PART free|VERB up|PART money|NOUN for|ADP police_body_cameras|NOUN .|PUNCT

@@ -1,0 +1,18 @@
+The|DET team|NOUN supervised|VERB by|ADP Crime_Branch_DCP_Ram_Gopal_Naik|PROPN reached|VERB the|DET Indira_Gandhi_International_airport|NOUN and|CCONJ recorded|VERB the|DET statements|NOUN of|ADP the|DET AirIndia_staff|NOUN .|PUNCT
+(|PUNCT PTI|ENT )|PUNCT
+A|DET team|NOUN of|ADP Delhi_Police|ENT today|DATE recorded|VERB statements|NOUN of|ADP 15|CARDINAL Air_India_staffers|NOUN ,|PUNCT including|VERB the|DET 60-year-old_airline_official|NOUN ,|PUNCT who|NOUN was|VERB allegedly|ADV assaulted|VERB by|ADP Shiv_Sena_MP_Ravindra_Gaikwad|PROPN at|ADP IGI_airport|NOUN here|ADV last_week|DATE .|PUNCT
+The|DET team|NOUN supervised|VERB by|ADP Crime_Branch_DCP_Ram_Gopal_Naik|PROPN reached|VERB the|DET Indira_Gandhi_International_airport|NOUN and|CCONJ recorded|VERB the|DET statements|NOUN of|ADP the|DET AirIndia_staff|NOUN .|PUNCT
+They|PRON also|ADV took|VERB possession|NOUN of|ADP the|DET CCTV_footage|NOUN and|CCONJ videos|NOUN capturing|VERB the|DET incident|NOUN .|PUNCT “|PUNCT
+The|DET statements|NOUN of|ADP around_15_AirIndia_staffers|NOUN who|NOUN witnessed|VERB the|DET assault|NOUN on|ADP Sukumar|ENT were|VERB recorded|VERB .|PUNCT
+The|DET CCTV_footage|NOUN and|CCONJ other_videos|NOUN capturing|VERB the|DET incident|NOUN were|VERB also|ADV obtained|VERB ,|PUNCT ”|PUNCT said|VERB a|DET senior_police_officer|NOUN .|PUNCT
+The|DET 57-year-old_first-term|NOUN MP|ENT had|VERB repeatedly|ADV hit|VERB the_Air_India|ENT staffer|NOUN on|ADP March_23|DATE after|ADP the|DET Pune-Delhi_flight|NOUN landed|VERB in|ADP the|DET national_capital|NOUN .|PUNCT
+He|PRON was|VERB furious|ADJ at|ADP having|VERB to|PART fly|VERB economy|NOUN on|ADP an|DET all|ADV -|PUNCT economy_flight|NOUN despite|ADP having|VERB a|DET business_class_coupon|NOUN .|PUNCT
+A|DET case|NOUN was|VERB registered|VERB by|ADP the|DET Delhi_police|NOUN in|ADP connection|NOUN with|ADP the|DET incident|NOUN on|ADP Friday|DATE .|PUNCT
+Later|ADV ,|PUNCT the|DET case|NOUN was|VERB transferred|VERB to|ADP the_Crime_Branch|ENT .|PUNCT
+The|DET incident|NOUN had|VERB led|VERB to|ADP widespread_condemnation|NOUN and|CCONJ outrage|NOUN as|ADP a|DET purported_video_clip|NOUN of|ADP the|DET episode|NOUN went|VERB viral|ADJ on|ADP social_media|NOUN .|PUNCT
+The|DET officer|NOUN added|VERB that|ADP the|DET possibility|NOUN of|ADP arrest|NOUN of|ADP the|DET MP|ENT could|VERB not|ADV be|VERB commented|VERB upon|ADP as|ADP the|DET matter|NOUN was|VERB under|ADP investigation|NOUN .|PUNCT
+You|PRON May|VERB Also|ADV Want|VERB To|PROPN Watch|VERB :|PUNCT Today_Shiv_Sena|ENT and|CCONJ other_ministers|NOUN also|ADV came|VERB out|PART in|ADP support|NOUN of|ADP Gaikwad|ENT saying|VERB that|ADP airlines|NOUN barring|VERB him|PRON from|ADP traveling|VERB are|VERB wrong|ADJ as|ADP he|PRON has|VERB not|ADV been|VERB proven|VERB guilty|ADJ .|PUNCT
+Gaikwad|ENT has|VERB alleged|VERB that|ADP the_Air_India|ENT staff_member|NOUN pushed|VERB him|PRON and|CCONJ yelled|VERB at|ADP him|PRON which|ADJ provoked|VERB him|PRON .|PUNCT
+He|PRON has|VERB also|ADV filed|VERB an|DET FIR|NOUN against|ADP the|DET airline|NOUN .|PUNCT
+The|DET case|NOUN is|VERB being|VERB probed|VERB .|PUNCT
+Shiv_Sena_leader|NOUN Uddhav_Thackeray|ENT and|CCONJ the|DET Centre|ENT has|VERB also|ADV ordered|VERB an|DET inquiry|NOUN into|ADP the|DET matter|NOUN to|PART scrutinise|VERB the|DET series|NOUN of|ADP event|NOUN and|CCONJ bring|VERB out|PART the|DET culprit|NOUN .|PUNCT

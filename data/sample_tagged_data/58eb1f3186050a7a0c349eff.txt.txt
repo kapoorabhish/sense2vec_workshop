@@ -1,0 +1,17 @@
+Joseph_Jakubowski|ENT ,|PUNCT above|ADV .|PUNCT Jakubowski|ENT ,|PUNCT is|VERB suspected|VERB of|ADP stealing|VERB firearms|NOUN from|ADP a|DET gun_store|NOUN in|ADP Janesville|ENT and|CCONJ sending|VERB an|DET anti-government_manifesto|NOUN to|ADP President_Donald_Trump|ENT .|PUNCT
+(|PUNCT Source|NOUN :|PUNCT AP|ENT )|PUNCT Joseph_Jakubowski|ENT ,|PUNCT above|ADV .|PUNCT
+Jakubowski|ENT ,|PUNCT is|VERB suspected|VERB of|ADP stealing|VERB firearms|NOUN from|ADP a|DET gun_store|NOUN in|ADP Janesville|ENT and|CCONJ sending|VERB an|DET anti-government_manifesto|NOUN to|ADP President_Donald_Trump|ENT .|PUNCT
+(|PUNCT Source|NOUN :|PUNCT AP|ENT )|PUNCT A|DET massive_manhunt|NOUN was|VERB underway|ADJ in|ADP search|NOUN of|ADP a|DET “|PUNCT highly|ADV -|PUNCT dangerous|ADJ ”|PUNCT
+Wisconsin_man|NOUN who|NOUN US_authorities|NOUN said|VERB robbed|VERB a|DET gun_shop|NOUN and|CCONJ sent|VERB a|DET lengthy_manifesto|NOUN to|ADP President_Donald_Trump|ENT .|PUNCT
+Some|DET 150|CARDINAL local|ADJ ,|PUNCT state|NOUN and|CCONJ federal|ADJ police_officers|NOUN and|CCONJ personnel|NOUN were|VERB on|ADP Sunday|DATE searching|VERB for|ADP Joseph_Jakubowski|ENT ,|PUNCT 32|DATE ,|PUNCT who|NOUN on|ADP Tuesday|DATE allegedly|ADV stole|VERB some|DET 16|DATE “|PUNCT high-end_firearms|NOUN ”|PUNCT from|ADP a|DET gun_store|NOUN in|ADP Janesville|ENT ,|PUNCT Wisconsin|ENT and|CCONJ set|VERB fire|NOUN to|ADP a|DET car|NOUN nearby|ADV ,|PUNCT according|VERB to|ADP Rock_County_Sheriff_Robert_Spoden|ENT .|PUNCT
+Spoden|ENT said|VERB the|DET suspect|NOUN had|VERB written|VERB a|DET 161-page|CARDINAL long_anti-government_manifesto|NOUN ,|PUNCT which|ADJ he|PRON had|VERB mailed|VERB to|ADP the_White_House|ENT .|PUNCT
+Police|NOUN obtained|VERB a|DET copy|NOUN .|PUNCT “|PUNCT
+Joseph_Jakubowski|ENT has|VERB been|VERB highly|ADV agitated|VERB by|ADP national_politics|NOUN recently|ADV ,|PUNCT ”|PUNCT
+Sheriff_Robert_Spoden|ENT told|VERB journalists|NOUN Friday|DATE ,|PUNCT adding|VERB that|ADP an|DET associate|NOUN said|VERB Jakubowski|ENT “|PUNCT recently|ADV verbalized|VERB a|DET plan|NOUN to|PART steal|VERB guns|NOUN and|CCONJ use|VERB them|PRON in|ADP an|DET unspecified_attack|NOUN .|PUNCT
+”|PUNCT Spoden|PROPN described|VERB the|DET manifesto|NOUN as|ADP “|PUNCT a|DET long_laundry_list|NOUN of|ADP injustices|NOUN that|ADP he|PRON believes|VERB the|DET government|NOUN and|CCONJ society|NOUN and|CCONJ the|DET upper_class|NOUN have|VERB put|VERB forth|PART onto|ADP the|DET rest|NOUN of|ADP the|DET citizens|NOUN .|PUNCT
+”|PUNCT He|PRON added|VERB that|ADP the|DET suspect|NOUN had|VERB acquired|VERB a|DET bulletproof_vest|NOUN and|CCONJ a|DET helmet|NOUN and|CCONJ was|VERB considered|VERB “|PUNCT
+armed|ADJ and|CCONJ highly|ADV dangerous|ADJ .|PUNCT
+”|PUNCT The|DET threat|NOUN prompted|VERB area_schools|NOUN to|PART close|VERB on|ADP Friday|DATE .|PUNCT
+Patrols|NOUN were|VERB also|ADV increased|VERB at|ADP local_churches|NOUN “|PUNCT as|ADP a|DET result|NOUN of|ADP anti-religion_sentiment|NOUN depicted|VERB in|ADP Jakubowski’s_manifesto|NOUN ,|PUNCT ”|PUNCT the|DET sheriff’s_department|NOUN said|VERB in|ADP a|DET statement|NOUN Sunday|DATE .|PUNCT
+The|DET city|NOUN of|ADP Janesville|ENT ,|PUNCT located|VERB some_100_miles|QUANTITY northwest|ADV of|ADP Chicago|ENT ,|PUNCT is|VERB the|DET hometown|NOUN of|ADP US_House_Speaker_Paul_Ryan|ENT .|PUNCT
+For|ADP all|ADJ the|DET latest_World_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

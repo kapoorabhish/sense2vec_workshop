@@ -1,0 +1,29 @@
+When|ADV they|PRON crossed|VERB 60|CARDINAL ,|PUNCT they|PRON did|VERB not|ADV just|ADV contemplate|VERB a|DET blissful,_relaxed_life|NOUN with|ADP their|ADJ grandchildren|NOUN .|PUNCT
+They|PRON recharged|VERB their|ADJ batteries|NOUN and|CCONJ turned|VERB into|ADP successful_entrepreneurs|NOUN ,|PUNCT pursuing|VERB old_passions|NOUN with|ADP renewed_vigour|NOUN .|PUNCT
+Meet|VERB the|DET new-age_entrepreneurs|NOUN ,|PUNCT all|DET 60-plus|ENT ,|PUNCT with|ADP the|DET zest|NOUN of|ADP their|ADJ 20-year-old_competitors|NOUN .|PUNCT
+And|CCONJ ,|PUNCT in|ADP their|ADJ second_innings|NOUN ,|PUNCT they|PRON are|VERB giving|VERB young|ADJ start|NOUN -|PUNCT up|NOUN founders|NOUN a|DET run|NOUN for|ADP their|ADJ money|NOUN .|PUNCT
+Sixty-three-year-old_Dinesh_B_Singh|ENT ,|PUNCT founder|NOUN of|ADP Navrasa_Duende|ENT —|PUNCT a|DET start|NOUN -|PUNCT up|NOUN for|ADP different_forms|NOUN and|CCONJ genres|NOUN of|ADP global_art|NOUN on|ADP a|DET single_platform|NOUN —|PUNCT is|VERB busy|ADJ creating|VERB a|DET 100-acre|CARDINAL campus|NOUN nearly|ADV 70_km|QUANTITY from|ADP Bengaluru|ENT .|PUNCT
+“|PUNCT It|PRON will|VERB be|VERB like|ADP a|DET Disneyland|ENT for|ADP all|DET art|NOUN -|PUNCT loving_people|NOUN ,|PUNCT aged_12_years|DATE and|CCONJ above|ADP .|PUNCT
+The|DET first_phase|NOUN is|VERB expected|VERB to|PART be|VERB ready|ADJ in|ADP two_years|DATE ,|PUNCT ”|PUNCT he|PRON told|VERB BusinessLine|ENT .|PUNCT
+An|DET engineer|NOUN -|PUNCT technocrat|NOUN -|PUNCT entrepreneur|NOUN ,|PUNCT and|CCONJ connoisseur|NOUN -|PUNCT patron|NOUN of|ADP the|DET arts|NOUN ,|PUNCT he|PRON revived|VERB his|ADJ old_passions|NOUN as|ADP he|PRON felt|VERB corporate_houses|NOUN did|VERB not|ADV take|VERB the|DET arts|NOUN as|ADP a|DET serious_business|NOUN .|PUNCT
+His|ADJ start-up|NOUN is|VERB not|ADV only_an_event_organiser|NOUN ,|PUNCT but|CCONJ also|ADV a|DET production_house|NOUN that|ADJ has|VERB put|VERB together|ADV successful_events|NOUN as|ADV well|ADV as|ADP curated|VERB and|CCONJ promoted|VERB commercial_and_niche_arts|NOUN from|ADP around|ADP the|DET world|NOUN .|PUNCT
+Navrasa_Duende|ENT is|VERB part|NOUN of|ADP the_₹800-crore_Energo_Group|ENT .|PUNCT “|PUNCT
+We|PRON do|VERB n’t|ADV need|VERB funds|NOUN right|ADV now|ADV ,|PUNCT but|CCONJ may|VERB consider|VERB hitting|VERB the|DET capital_market|NOUN two_years_later|DATE ,|PUNCT ”|PUNCT he|PRON added|VERB .|PUNCT
+Singh|ENT ,|PUNCT also|ADV founder|NOUN and|CCONJ MD_of_Energo_Engineering_Projects|ENT ,|PUNCT was|VERB mentored|VERB in|ADP his|ADJ younger_days|NOUN by|ADP doyens|NOUN of|ADP arts|NOUN ,|PUNCT such|ADJ as|ADP SN_Mehdi|ENT ,|PUNCT President|PROPN ,|PUNCT Indian_Progressive_Theatres_Association|ENT (|PUNCT IPTA|ENT )|PUNCT ,|PUNCT and|CCONJ BM_Shah|ENT ,|PUNCT former|ADJ Director|PROPN of|ADP National_School_of_Drama|ENT (|PUNCT NSD|PROPN )|PUNCT .|PUNCT
+Founded|VERB in|ADP December_2016|DATE ,|PUNCT Navrasa|ENT has|VERB since|ADP organised|VERB its|ADJ first_cultural_initiative|NOUN with|ADP music_legend|NOUN Pandit_Jasraj|ENT on|ADP his|ADJ 87th_birthday|NOUN ,|PUNCT and|CCONJ a|DET screening_festival|NOUN of|ADP Franz_Kafka|ENT and|CCONJ Alfred_Hitchcock|ENT movies|NOUN .|PUNCT
+In|ADP September|DATE ,|PUNCT it|PRON will|VERB bring|VERB Swan_Lake_Ballet|ENT to|ADP India|ENT for|ADP the|DET first_time|NOUN ,|PUNCT and|CCONJ sign|VERB out|PART the|DET year|NOUN with|ADP a|DET carnival|NOUN in|ADP December|DATE .|PUNCT
+Vinay_Sehgal|ENT ,|PUNCT 67|DATE ,|PUNCT founded|VERB LURAP|ENT (|PUNCT abbreviated|VERB from|ADP Love_UR_Appearance|ENT !|PUNCT )|PUNCT in|ADP 2015|DATE ,|PUNCT to|PART offer|VERB a|DET “|PUNCT
+virtual_tailor|NOUN at|ADP your|ADJ doorstep|NOUN ”|PUNCT to|ADP plus|CCONJ -|PUNCT size|NOUN women|NOUN .|PUNCT
+“|PUNCT
+It|PRON is|VERB the|DET first_online_women|NOUN ’s|X shopping|VERB brand|NOUN offering|VERB 21|CARDINAL sizes|NOUN and|CCONJ styles|NOUN in|ADP every|DET garment|NOUN ,|PUNCT ”|PUNCT he|PRON said|VERB .|PUNCT
+From|ADP his|ADJ experience|NOUN in|ADP an|DET export_venture|NOUN in|ADP garments|NOUN ,|PUNCT home|NOUN furnishing|NOUN and|CCONJ leather|NOUN products|NOUN ,|PUNCT he|PRON decided|VERB to|PART explore|VERB the|DET niche_market|NOUN for|ADP plus|CCONJ -|PUNCT size|NOUN and|CCONJ customised_clothing|NOUN .|PUNCT “|PUNCT
+In|ADP online_markets|NOUN ,|PUNCT clothing|NOUN is|VERB the|DET dominant_segment|NOUN and|CCONJ women|NOUN are|VERB the|DET largest_segment|NOUN of|ADP customers|NOUN .|PUNCT
+But|CCONJ they|PRON lack|VERB quality|NOUN or|CCONJ customised_clothing|NOUN .|PUNCT
+We|PRON are|VERB now|ADV considering|VERB plus|CCONJ -|PUNCT size|NOUN and|CCONJ customised|VERB clothing|NOUN for|ADP men|NOUN as|ADV well|ADV .|PUNCT ”|PUNCT
+The|DET start-up|NOUN is|VERB about|ADP to|PART break|VERB -|PUNCT even|ADV in|ADP the_current_quarter|DATE as|ADP it|PRON expands|VERB to|PART make|VERB 15,000|CARDINAL garments|NOUN a|DET month|NOUN .|PUNCT
+Ex-banker_Sudarshan_Motwani|ENT ,|PUNCT founder|NOUN -|PUNCT CEO|NOUN of|ADP %%URL|X ,|PUNCT had|VERB been|VERB associated|VERB with|ADP travel|NOUN -|PUNCT related_foreign_exchange|NOUN and|CCONJ remittance_business|NOUN for|ADP 30_years|DATE when|ADV he|PRON retired|VERB from|ADP ING_Vysya_Bank|ENT .|PUNCT
+He|PRON conceptualised|VERB ,|PUNCT introduced|VERB and|CCONJ headed|VERB foreign_exchange_services|NOUN (|PUNCT FES|ENT )|PUNCT as|ADP a|DET new_revenue_line|NOUN in|ADP four|CARDINAL different_banks|NOUN .|PUNCT
+Founded|VERB in|ADP 2014|DATE ,|PUNCT BookMyForex|ENT broke|VERB even|ADV in|ADP July_2015|DATE .|PUNCT “|PUNCT Now|ADV investors|NOUN are|VERB on|ADP board|NOUN ,|PUNCT and|CCONJ we|PRON can|VERB think|VERB about|ADP scaling|VERB up|PART operations|NOUN .|PUNCT
+Our|ADJ turnover|NOUN in|ADP 2016-17|DATE is|VERB expected|VERB to|PART be|VERB around|ADP ₹1,500_crore|NOUN ,|PUNCT ”|PUNCT
+Motwani|ENT said|VERB .|PUNCT
+(|PUNCT This|DET article|NOUN was|VERB published|VERB on|ADP July_13,_2017|DATE )|PUNCT Related|VERB

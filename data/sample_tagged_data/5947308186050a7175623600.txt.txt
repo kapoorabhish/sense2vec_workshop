@@ -1,0 +1,18 @@
+It|PRON is|VERB cumbersome|ADJ to|PART maintain|VERB physical_insurance_policy_papers|NOUN of|ADP all|DET family_members|NOUN with|ADP different_covers|NOUN .|PUNCT
+To|PART avoid|VERB losing|VERB a|DET document|NOUN ,|PUNCT one|PRON can|VERB convert|VERB existing_insurance_policies|NOUN to|ADP e-insurance_policies|NOUN so|ADP that|ADP all|DET policies|NOUN are|VERB available|ADJ at|ADP the|DET click|NOUN of|ADP a|DET button|NOUN and|CCONJ are|VERB always|ADV accessible|ADJ .|PUNCT
+To|PART avail|VERB this|DET facility|NOUN ,|PUNCT an|DET e-insurance_account|NOUN needs|VERB to|PART be|VERB opened|VERB .|PUNCT
+An|DET e-insurance_account|NOUN can|VERB be|VERB opened|VERB with|ADP any|DET of|ADP the|DET four|CARDINAL insurance_repositories|NOUN approved|VERB by|ADP Irdai|ENT by|ADP filling|VERB up|PART an|DET account_opening_form|NOUN .|PUNCT
+Personal_details|NOUN of|ADP the|DET individual|NOUN ,|PUNCT bank_details|NOUN and|CCONJ contact_details|NOUN need|VERB to|PART be|VERB given|VERB .|PUNCT
+A|DET recent_passport_size_photograph|NOUN should|VERB be|VERB affixed|VERB on|ADP the|DET form|NOUN .|PUNCT
+Contact_information|NOUN of|ADP an|DET authorised_representative|NOUN must|VERB also|ADV be|VERB mentioned|VERB .|PUNCT
+The|DET person|NOUN is|VERB appointed|VERB by|ADP the|DET account_holder|NOUN and|CCONJ can|VERB access|VERB the|DET e-insurance_account|NOUN in|ADP the|DET event|NOUN of|ADP the|DET account_holder’s_demise|NOUN or|CCONJ if|ADP he|PRON is|VERB incapable|ADJ of|ADP accessing|VERB the|DET account|NOUN .|PUNCT
+The|DET representative|NOUN may|VERB be|VERB different|ADJ from|ADP the|DET nominee|NOUN .|PUNCT
+A|DET list|NOUN of|ADP documents|NOUN approved|VERB for|ADP filing|NOUN of|ADP the|DET form|NOUN is|VERB available|ADJ on|ADP the|DET form|NOUN .|PUNCT
+This|DET includes|VERB copies|NOUN of|ADP date|NOUN of|ADP birth_proof|NOUN ,|PUNCT identity_proof|NOUN and|CCONJ address_proof|NOUN .|PUNCT
+Once|ADP documents|NOUN are|VERB submitted|VERB and|CCONJ verified|VERB ,|PUNCT an|DET e-insurance_account|NOUN is|VERB opened|VERB .|PUNCT
+Existing_policies|NOUN can|VERB now|ADV be|VERB converted|VERB and|CCONJ deposited|VERB into|ADP the|DET e-insurance_account|NOUN .|PUNCT
+To|PART convert|VERB into|ADP e-policy|NOUN ,|PUNCT a|DET conversion_form|NOUN must|VERB be|VERB filled|VERB which|ADJ includes|VERB name|NOUN of|ADP the|DET policy_holder|NOUN ,|PUNCT policy|NOUN number|NOUN ,|PUNCT e|NOUN -|PUNCT insurance|NOUN account|NOUN number|NOUN and|CCONJ insurance|NOUN company|NOUN name|NOUN .|PUNCT
+Policy_document|NOUN may|VERB or|CCONJ may|VERB not|ADV be|VERB attached|VERB with|ADP the|DET form|NOUN depending|VERB upon|ADP the|DET requirement|NOUN of|ADP the|DET insurance_company|NOUN .|PUNCT
+On|ADP receipt|NOUN of|ADP policy_conversion_request|NOUN ,|PUNCT the|DET insurance_company|NOUN will|VERB credit|VERB the|DET policy|NOUN in|ADP the|DET policy_holder’s_e-insurance|NOUN account.*There|ADV are|VERB no|DET charges|NOUN for|ADP opening|VERB an|DET e-insurance_account|NOUN or|CCONJ conversion|NOUN .|PUNCT
+*|PUNCT Authorised_representative|NOUN can|VERB only|ADV access|VERB the|DET e-insurance_account|NOUN to|PART know|VERB the|DET portfolio|NOUN of|ADP insurance_policies|NOUN .|PUNCT
+*|PUNCT Once|ADP the|DET policy|NOUN is|VERB converted|VERB into|ADP e-policy|NOUN ,|PUNCT the|DET physical_insurance_policy_certificate|NOUN is|VERB deemed|VERB null|ADJ and|CCONJ void|ADJ .|PUNCT

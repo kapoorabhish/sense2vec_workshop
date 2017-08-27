@@ -1,0 +1,18 @@
+Since|ADP the|DET time|NOUN of|ADP its|ADJ inception|NOUN ,|PUNCT the|DET '|PUNCT Baahubali|ENT '|PUNCT franchise|NOUN has|VERB been|VERB breaking|VERB numerous_records|NOUN .|PUNCT
+And|CCONJ now_the_first_installment|NOUN ,|PUNCT '|PUNCT Baahubali:|ENT
+The|DET Beginning|NOUN '|PUNCT has|VERB broken|VERB yet|ADV another|DET record|NOUN .|PUNCT
+With|ADP more_than_900|CARDINAL screens|NOUN allotted|VERB only|ADV to|ADP its|ADJ Hindi_version|NOUN ,|PUNCT SS_Rajamouli's|ENT magnum_opus|NOUN is|VERB all|DET set|NOUN to|PART get|VERB the|DET widest_re-release|NOUN ever|ADV .|PUNCT
+Confirming|VERB the|DET scale|NOUN of|ADP the|DET re-release|NOUN ,|PUNCT trade_analyst_Taran_Adarsh|ENT tweeted|VERB ,|PUNCT "|PUNCT The|DET *|PUNCT Hindi_version|NOUN *|PUNCT of|ADP #|PUNCT Baahubali|PROPN [|PUNCT first|ORDINAL part|NOUN ]|PUNCT is|VERB being|VERB re|ADP -|PUNCT released|VERB in|ADP 900|CARDINAL screens|NOUN in|ADP tomorrow|DATE ...|PUNCT
+Screen_count|NOUN could|VERB increase|VERB .|PUNCT "|PUNCT
+Sharing|VERB details|NOUN on|ADP the|DET release|NOUN of|ADP '|PUNCT Baahubali:|ENT
+The|DET Beginning|NOUN ,|PUNCT '|PUNCT Karan_Johar|ENT had|VERB said|VERB ,|PUNCT "|PUNCT When|ADV a|DET movie|NOUN continues|VERB to|PART be|VERB topical|ADJ for|ADP two_years|DATE ,|PUNCT you|PRON know|VERB people|NOUN are|VERB loving|VERB every|DET bit|NOUN of|ADP it|PRON !|PUNCT
+Both|DET ,|PUNCT exhibitors|NOUN and|CCONJ film_lovers|NOUN ,|PUNCT have|VERB approached|VERB us|PRON to|PART make|VERB Baahubali|ENT a|DET binge|NOUN -|PUNCT watching|VERB experience|NOUN .|PUNCT "|PUNCT "|PUNCT Hence|ADV ,|PUNCT we|PRON are|VERB re|ADP -|PUNCT releasing|VERB the|DET first_part|NOUN on|ADP April_7th_with|DATE a|DET special_offer|NOUN that|ADJ takes|VERB care|NOUN of|ADP tickets|NOUN for|ADP both|DET parts|NOUN .|PUNCT
+We|PRON 're|VERB excited|ADJ .|PUNCT
+April|DATE will|VERB witness|VERB the|DET biggest_movie_event|NOUN ever|ADV !|PUNCT "|PUNCT he|PRON added|VERB .|PUNCT '|PUNCT
+Baahubali:|ENT
+The|DET Beginning|NOUN '|PUNCT emerged|VERB to|PART be|VERB an|DET underdog|NOUN in|ADP 2014|DATE and|CCONJ with|ADP the|DET film|NOUN re|ADP -|PUNCT releasing|VERB on|ADP such|ADJ a|DET huge_scale|NOUN ,|PUNCT it|PRON is|VERB only|ADV expected|VERB that|ADP the|DET franchise|NOUN will|VERB break|VERB many_further_records|NOUN .|PUNCT
+With|ADP this|DET ,|PUNCT the|DET first_part|NOUN is|VERB all|DET set|NOUN to|PART hit|VERB the|DET silver_screens|NOUN again|ADV ,|PUNCT two_weeks|DATE prior|ADV to|ADP the|DET release|NOUN of|ADP the|DET much|ADV awaited|VERB concluding|VERB installment|NOUN .|PUNCT
+'|PUNCT Baahubali_:|ENT
+The|DET Conclusion|PROPN '|PART has|VERB been|VERB in|ADP the|DET news|NOUN for|ADP having|VERB the|DET audience|NOUN at|ADP a|DET heightened_level|NOUN of|ADP anticipation_post|NOUN its|ADJ trailer_launch|NOUN .|PUNCT
+Produced|VERB by|ADP ARKA|ENT and|CCONJ directed|VERB by|ADP S.S_Rajamouli|ENT ,|PUNCT the|DET movie|NOUN stars|NOUN Prabhas|ENT in|ADP the|DET titular_role|NOUN in|ADP addition|NOUN to|ADP Rana_Daggubati|ENT ,|PUNCT Tamannaah_Bhatia|ENT ,|PUNCT Anushka_Shetty|ENT and|CCONJ Satyaraj|ENT in|ADP pivotal_roles|NOUN .|PUNCT '|PUNCT Baahubali_:_The_Conclusion|ENT '|PUNCT is|VERB all|DET set|NOUN to|PART hit|VERB the|DET screens|NOUN on|ADP April_28|DATE .|PUNCT
+(|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

@@ -1,0 +1,22 @@
+NEW_DELHI|NOUN :|PUNCT As|ADP part|NOUN of|ADP the|DET new_Haj_policy|NOUN ,|PUNCT the|DET Modi_government|NOUN is|VERB planning|VERB 15|CARDINAL cruise_trips|NOUN for|ADP pilgrims|NOUN from|ADP 2018|DATE onwards|ADV .|PUNCT
+The|DET “world_class|NOUN ”|PUNCT ships|NOUN would|VERB ferry|VERB worshippers|NOUN between|ADP Mumbai|ENT and|CCONJ Jeddah|ENT in|ADP Saudi_Arabia|ENT ,|PUNCT with|ADP about_5,000|CARDINAL pilgrims|NOUN travelling|VERB in|ADP every|DET trip|NOUN ,|PUNCT Union_minority_affairs_minister|NOUN Mukhtar_Abbas_Naqvi|ENT said|VERB .|PUNCT
+The|DET minister|NOUN added|VERB the|DET cruise|NOUN would|VERB be|VERB equipped|VERB with|ADP “|PUNCT
+world_class_facilities|NOUN ”|PUNCT and|CCONJ would|VERB take|VERB only_about_3-4|CARDINAL days|NOUN to|PART reach|VERB Jeddah|ENT .|PUNCT
+Naqvi|ENT said|VERB the|DET option|NOUN was|VERB now|ADV being|VERB weighed|VERB in|ADP the|DET light|NOUN of|ADP a|DET 2012|DATE Supreme_Court_order|NOUN asking|VERB the|DET Centre|ENT to|PART abolish|VERB by|ADP 2022|DATE the|DET subsidy|NOUN offered|VERB to|ADP the|DET Haj_pilgrims|NOUN who|NOUN travel|VERB by|ADP air|NOUN .|PUNCT
+“|PUNCT We|PRON do|VERB n’t|ADV want|VERB the|DET poor_pilgrims|NOUN to|PART suffer|VERB because|ADP of|ADP this|DET .|PUNCT
+Hence|ADV ,|PUNCT we|PRON are|VERB reviving|VERB the|DET sea_route|NOUN as|ADP part|NOUN of|ADP our|ADJ new_Haj|ENT policy.”The|X practice|NOUN of|ADP ferrying|VERB devotees|NOUN between|ADP Mumbai|ENT and|CCONJ Jeddah|ENT was|VERB stopped|VERB in|ADP 1995|DATE after|ADP MV_Akbari|ENT ,|PUNCT the|DET ship|NOUN which|ADJ was|VERB used|VERB for|ADP transporting|VERB pilgrims|NOUN ,|PUNCT grew|VERB old|ADJ .|PUNCT “|PUNCT
+It|PRON used|VERB to|PART take|VERB 10-15_days|DATE to|PART reach|VERB Jeddah|ENT then|ADV ,|PUNCT ”|PUNCT
+Naqvi|ENT said|VERB .|PUNCT
+The|DET pilgrims|NOUN will|VERB also|ADV be|VERB trained|VERB in|ADP “|PUNCT dos|NOUN and|CCONJ don’ts|NOUN ”|PUNCT ,|PUNCT which|ADJ would|VERB mainly|ADV look|VERB at|ADP norms|NOUN of|ADP prayers|NOUN during|ADP pilgrimage|NOUN .|PUNCT “|PUNCT
+Now|ADV ,|PUNCT we|PRON send|VERB our|ADJ trainers|NOUN to|ADP different_embankment_points|NOUN across|ADP states|NOUN to|PART train|VERB pilgrims|NOUN .|PUNCT ”|PUNCT
+Naqvi|ENT said|VERB the|DET government|NOUN would|VERB come|VERB out|PART with|ADP a|DET new_Haj_policy|NOUN next_year|DATE ,|PUNCT under|ADP which|ADJ even_poor_Muslims|ENT would|VERB be|VERB able|ADJ to|PART undertake|VERB pilgrimage|NOUN within|ADP their|ADJ budgets|NOUN .|PUNCT
+Ministry_sources|NOUN said|VERB a|DET high-level_committee|NOUN studied|VERB the|DET option|NOUN of|ADP sending|VERB pilgrims|NOUN via|ADP sea_route|NOUN to|ADP Jeddah|ENT .|PUNCT “|PUNCT
+The|DET shipping_ministry|NOUN has|VERB approved|VERB it|PRON and|CCONJ Saudi_Arabia|ENT has|VERB welcomed|VERB it|PRON too|ADV ,|PUNCT ”|PUNCT
+Naqvi|ENT said|VERB ,|PUNCT adding|VERB that|ADP various_people|NOUN from|ADP the|DET Muslim_community|NOUN were|VERB also|ADV asked|VERB for|ADP their|ADJ opinions|NOUN on|ADP this|DET .|PUNCT
+“|PUNCT The|DET community|NOUN is|VERB excited|VERB about|ADP this|DET .|PUNCT
+The|DET cost|NOUN would|VERB come|VERB down|ADV significantly|ADV .|PUNCT
+It|PRON costs|VERB a|DET pilgrim|NOUN Rs_2|CARDINAL lakh|NOUN via|ADP air|NOUN .|PUNCT Via|ADP sea_route|NOUN
+,|PUNCT the|DET cost|NOUN will|VERB come|VERB down|PART to|ADP Rs|DATE 60,000.”Saudi_Arabia|ENT had|VERB earlier_this_year|DATE increased|VERB India’s_Haj_quota|NOUN from|ADP 1.36|CARDINAL lakh|NOUN to|ADP 1.70|CARDINAL lakh|NOUN .|PUNCT
+A|DET total|NOUN of|ADP 1.35-lakh|CARDINAL Indian_devotees|NOUN undertook|VERB the|DET pilgrimage|NOUN last_year|DATE .|PUNCT
+The|DET decision|NOUN was|VERB taken|VERB during|ADP the|DET signing|NOUN of|ADP bilateral_annual_Haj_agreement|NOUN between|ADP India|ENT and|CCONJ Saudi_Arabia|ENT in|ADP Jeddah|ENT on|ADP January_11,_2017|DATE .|PUNCT
+This_year|DATE ,|PUNCT a|DET total|NOUN of|ADP 1,70,025|CARDINAL people|NOUN will|VERB go|VERB for|ADP the|DET pilgrimage|NOUN from|ADP India|ENT .|PUNCT

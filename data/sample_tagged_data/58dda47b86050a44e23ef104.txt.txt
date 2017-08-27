@@ -1,0 +1,17 @@
+Brands|NOUN which|ADJ have|VERB eclipsed|VERB are|VERB Microsoft|ENT ,|PUNCT NextBit_Robin|ENT ,|PUNCT Phicomm|ENT ,|PUNCT Qiku|ENT ,|PUNCT and|CCONJ Acer|ENT to|PART name|VERB a|DET few|ADJ .|PUNCT
+(|PUNCT Reuters|ENT )|PUNCT Shipment|NOUN of|ADP smartphones|NOUN to|ADP India|ENT may|VERB be|VERB increasing|VERB but|CCONJ the|DET number|NOUN of|ADP brands|NOUN are|VERB declining|VERB as|ADP several_small-time_brands|NOUN have|VERB either|CCONJ shut|VERB shop|NOUN or|CCONJ suspended|VERB production|NOUN .|PUNCT
+According|VERB to|ADP Counterpoint_Research_data|NOUN ,|PUNCT the|DET number|NOUN of|ADP smartphone_brands|NOUN in|ADP the|DET country|NOUN in|ADP January_2017|DATE stood|VERB at|ADP 75|CARDINAL ,|PUNCT down|ADV from|ADP 110|CARDINAL in|ADP calendar_year_2016|DATE .|PUNCT
+In|ADP January_2016|DATE ,|PUNCT the|DET number|NOUN of|ADP brands|NOUN stood|VERB at|ADP 85|CARDINAL .|PUNCT
+Most|ADJ of|ADP the|DET brands|NOUN which|ADJ have|VERB gone|VERB off-shelves|NOUN were|VERB in|ADP the|DET sub-R5,000_category|NOUN .|PUNCT
+“|PUNCT
+Almost|ADV 80%_of|PERCENT exits|NOUN involve|VERB regional_players|NOUN which|ADJ are|VERB unable|ADJ to|PART generate|VERB volumes|NOUN and|CCONJ thus|ADV scale|VERB up|PART their|ADJ portfolio|NOUN ,|PUNCT ”|PUNCT said|VERB Tarun_Pathak|ENT ,|PUNCT senior|ADJ analyst|NOUN ,|PUNCT mobile|ADJ devices|NOUN and|CCONJ ecosystems|NOUN ,|PUNCT Counterpoint_Research|ENT .|PUNCT
+Brands|NOUN which|ADJ have|VERB eclipsed|VERB are|VERB Microsoft|ENT ,|PUNCT NextBit_Robin|ENT ,|PUNCT Phicomm|ENT ,|PUNCT Qiku|ENT ,|PUNCT and|CCONJ Acer|ENT to|PART name|VERB a|DET few|ADJ .|PUNCT
+Taiwanese_player_Acer|ENT ,|PUNCT which|ADJ is|VERB not|ADV selling|VERB any|DET more|ADV in|ADP the|DET Indian_market|NOUN ,|PUNCT sold|VERB only_30,000|CARDINAL units|NOUN in|ADP the|DET country|NOUN in|ADP CY16|ENT .|PUNCT
+Compare|VERB this|DET with|ADP Chinese_player_Xiaomi|ENT ,|PUNCT which|ADJ sold|VERB 3_million|CARDINAL units|NOUN in|ADP the|DET country|NOUN July-September_in_2016|DATE .|PUNCT
+Even_Microsoft’s_Lumia|PROPN is|VERB not|ADV on|ADP sale|NOUN in|ADP the|DET country|NOUN for|ADP quite|ADV sometime|ADV now|ADV and|CCONJ there|ADV is|VERB no|DET new_product_announcement|NOUN by|ADP the|DET company|NOUN also|ADV .|PUNCT
+India|ENT ,|PUNCT is|VERB the|DET second_largest_mobile_handset_market|NOUN after|ADP China|ENT and|CCONJ the|DET fastest|ADJ growing|VERB one|NOUN with|ADP approximately_300_million_smartphone_users|NOUN in|ADP the|DET country|NOUN .|PUNCT
+Counterpoint’s_Pathak|ENT said|VERB that|ADP while|ADP new_brands|NOUN will|VERB keep|VERB entering|VERB the|DET market|NOUN ,|PUNCT this_year_exits|NOUN will|VERB exceed|VERB entrants|NOUN as|ADP the|DET market|NOUN is|VERB slowly|ADV moving|VERB up|PART the|DET price_band|NOUN with|ADP average_selling_price|NOUN of|ADP smartphones|NOUN increasing|VERB year-on-year|DATE .|PUNCT
+You|PRON may|VERB also|ADV like|VERB to|PART watch|VERB this|DET video|NOUN
+According|VERB to|ADP latest_numbers|NOUN from|ADP IDC|ENT ,|PUNCT the|DET Indian_mobile_market|NOUN saw|VERB 109.1_million|CARDINAL units|NOUN of|ADP smartphones|NOUN being|VERB shipped|VERB CY2016|ENT ,|PUNCT up|ADV 5.2%.|PERCENT
+The|DET slower_growth|NOUN was|VERB due|ADJ to|ADP a|DET 20.3%_decline|PERCENT in|ADP shipments|NOUN in|ADP the|DET October-December_quarter|DATE due|ADJ to|ADP demonetisation|NOUN .|PUNCT
+In|ADP CY2105|ENT ,|PUNCT smartphone|NOUN shipments|NOUN to|ADP India|ENT had|VERB increased|VERB by|ADP 28.8%.|PERCENT

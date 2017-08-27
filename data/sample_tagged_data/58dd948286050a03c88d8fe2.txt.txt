@@ -1,0 +1,3 @@
+Yojee_technology|NOUN is|VERB focused|VERB on|ADP logistics|NOUN and|CCONJ supply-chain_management|NOUN The|DET halt|NOUN will|VERB remain|VERB in|ADP place|NOUN until|ADP Tuesday_4th_April_2017|DATE .|PUNCT
+(|PUNCT )|PUNCT has|VERB been|VERB granted|VERB a|DET trading_halt|NOUN by|ADP the|DET ASX|ENT ,|PUNCT pending|VERB details|NOUN of|ADP a|DET placement|NOUN .|PUNCT
+The|DET halt|NOUN will|VERB remain|VERB in|ADP place|NOUN until|ADP the|DET opening|NOUN of|ADP trade|NOUN on|ADP Tuesday_4th_April_2017|DATE ,|PUNCT or|CCONJ earlier|ADV if|ADP an|DET announcement|NOUN is|VERB made|VERB to|ADP the|DET market|NOUN .|PUNCT

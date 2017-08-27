@@ -1,0 +1,10 @@
+Two|CARDINAL pavement_dwellers|NOUN were|VERB killed|VERB and|CCONJ as|ADV many|ADJ injured|VERB when|ADV they|PRON were|VERB run|VERB over|PART by|ADP a|DET car|NOUN in|ADP north|ADV today|DATE .|PUNCT
+The|DET incident|NOUN occurred|VERB around|ADP 12|CARDINAL noon|NOUN when|ADV a|DET person|NOUN ,|PUNCT identified|VERB as|ADP Harish|ENT ,|PUNCT was|VERB driving|VERB the|DET car|NOUN from|ADP Rajghat|ENT towards|ADP ISBT|ENT .|PUNCT
+Four|CARDINAL persons|NOUN ,|PUNCT who|NOUN were|VERB sleeping|VERB on|ADP the|DET pavement|NOUN ,|PUNCT came|VERB under|ADP the|DET wheels|NOUN of|ADP the|DET car|NOUN as|ADP it|PRON veered|VERB off|ADP the|DET road|NOUN .|PUNCT
+Two|CARDINAL of|ADP them|PRON died|VERB while|ADP two|CARDINAL others|NOUN were|VERB injured|VERB .|PUNCT
+They|PRON are|VERB yet|ADV to|PART be|VERB identified|VERB ,|PUNCT police|NOUN said|VERB .|PUNCT
+The|DET accused_driver|NOUN claimed|VERB that|ADP he|PRON was|VERB trying|VERB to|PART save|VERB a|DET beggar|NOUN ,|PUNCT who|NOUN was|VERB crossing|VERB the|DET road|NOUN ,|PUNCT and|CCONJ swerved|VERB to|ADP the|DET left|NOUN .|PUNCT
+He|PRON ended|VERB up|PART taking|VERB the|DET car|NOUN over|ADP the|DET pavement|NOUN ,|PUNCT they|PRON added|VERB .|PUNCT
+Police|NOUN said|VERB his|ADJ claims|NOUN were|VERB being|VERB verified|VERB .|PUNCT
+In|ADP April,|DATE two|CARDINAL pavement_dwellers|NOUN were|VERB killed|VERB and|CCONJ as|ADV many|ADJ injured|VERB after|ADP they|PRON were|VERB run|VERB over|PART by|ADP a|DET car|NOUN allegedly|ADV driven|VERB by|ADP a|DET class_XII_student|NOUN in|ADP north_Delhi's_Kashmere_Gate_area|NOUN .|PUNCT
+(|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

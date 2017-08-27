@@ -1,0 +1,11 @@
+When given alcohol, both groups of rats showed increased activity in a region of the brain called the central amygdala (CeA) - but this activity was due to two completely different brain signalling pathways. (Reuters)
+
+Scientists have revealed a key difference between the brains of alcohol-dependent and non- dependent rats, which may help develop personalised treatment for alcoholism and alcohol disorder. When given alcohol, both groups of rats showed increased activity in a region of the brain called the central amygdala (CeA) – but this activity was due to two completely different brain signalling pathways.
+
+Researchers from The Scripps Research Institute in the US gave non-dependent rats a dose of alcohol. They then engaged proteins called calcium channels and increased neuronal activity. Neurons fired as the specific calcium channels at play, called L-type voltage-gated calcium channels (LTCCs), boosted the release of a neurotransmitter called GABA. Researchers found that blocking these LTCCs reduced voluntary alcohol consumption in non-dependent rats.
+
+However, in alcohol-dependent rats, researchers found decreased abundance of LTCCs on neuronal cell membranes, disrupting their normal ability to drive a dose of alcohol’s effects on central amygdala (CeA) activity. Instead, increased neuronal activity was driven by a stress hormone called corticotropin-releasing factor (CRF) and its type 1 receptor (CRF1), researchers said. The team found that blocking CeA CRF1s reduced voluntary alcohol consumption in the dependent rats.
+
+Also Watch:
+
+“There is a switch in the molecular mechanisms underlying the CeA’s response to alcohol (from LTCC- to CRF1-driven) as the individual transitions to the alcohol-dependent state,” said Professor Marisa Roberto of The Scripps Research Institute. The findings could help researchers develop more personalised treatments for alcohol dependence, as they evaluate how a person’s brain responds to different therapeutics, Roberto said. The study was published in the Journal of Neuroscience.

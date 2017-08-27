@@ -1,0 +1,6 @@
+The|DET cotton_output|NOUN is|VERB estimated|VERB at|ADP 337.25_lakh_bales|QUANTITY (|PUNCT one|CARDINAL bale|NOUN is|VERB of|ADP 170|CARDINAL kg|NOUN )|PUNCT for|ADP the|DET 2016-17_crop_year|DATE as|ADP per|ADP the|DET June_estimates|NOUN .|PUNCT
+This|DET June_estimate|NOUN is|VERB similar|ADJ to|ADP the|DET May_projection|DATE ,|PUNCT Cotton_Association_of_India|ENT (|PUNCT CAI|PROPN )|PUNCT said|VERB on|ADP Thursday|DATE .|PUNCT
+In|ADP its|ADJ May_projection|NOUN ,|PUNCT CAI|ENT had|VERB estimated|VERB 336.25_lakh_bales|QUANTITY for|ADP the|DET 2016-17_crop_year|DATE ,|PUNCT beginning|VERB from|ADP October_1|DATE .|PUNCT
+Cotton_production|NOUN stood|VERB at|ADP 337.75_lakh_bales|QUANTITY the|DET previous|ADJ crop|NOUN year|NOUN ,|PUNCT CAI|ENT added|VERB .|PUNCT
+The|DET projected_balance_sheet|NOUN drawn|VERB by|ADP the|DET CAI|ENT estimated|VERB total_cotton_supply|NOUN for|ADP the|DET season|NOUN at|ADP 409.25_lakh_bales|QUANTITY while|ADP the|DET domestic_consumption|NOUN is|VERB estimated|VERB at|ADP 305_lakh_bales|QUANTITY .|PUNCT
+As|ADP per|ADP the|DET CAI_estimate|NOUN ,|PUNCT over|ADP 95_per|MONEY cent|NOUN of|ADP the|DET crop|NOUN for|ADP the|DET season|NOUN has|VERB already|ADV arrived|VERB in|ADP the|DET market|NOUN .|PUNCT

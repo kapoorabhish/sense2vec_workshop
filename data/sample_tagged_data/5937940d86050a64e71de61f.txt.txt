@@ -1,0 +1,5 @@
+Five|CARDINAL persons|NOUN including|VERB two|CARDINAL children|NOUN ,|PUNCT drowned|VERB in|ADP Shiravali_river|NOUN in|ADP Maharashtra|ENT 's|PART Raigad_district|ENT today|DATE ,|PUNCT police|NOUN said|VERB .|PUNCT
+The|DET incident|NOUN occurred|VERB this_morning|TIME at|ADP Khalapur|ENT when|ADV three|CARDINAL women|NOUN along|ADP with|ADP two|CARDINAL children|NOUN went|VERB to|ADP the|DET river_side|NOUN for|ADP washing|VERB clothes|NOUN ,|PUNCT they|PRON said|VERB .|PUNCT
+While|ADP the|DET women|NOUN were|VERB washing|VERB clothes|NOUN ,|PUNCT the|DET children|NOUN were|VERB taking|VERB bath|NOUN when|ADV they|PRON were|VERB swept|VERB away|ADV .|PUNCT
+Further_details|NOUN of|ADP the|DET incident|NOUN are|VERB awaited|VERB ,|PUNCT police|NOUN said|VERB .|PUNCT
+(|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

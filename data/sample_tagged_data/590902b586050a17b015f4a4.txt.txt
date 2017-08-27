@@ -1,0 +1,14 @@
+Notifications|NOUN are|VERB getting|VERB a|DET big_revamp|NOUN in|ADP Android_O|ENT and|CCONJ Google’s_apps|NOUN are|VERB beginning|VERB to|PART lay|VERB the|DET groundwork|NOUN to|PART support|VERB them|PRON .|PUNCT
+Google_Phone|ENT 9.0|NUM features|VERB several_strings|NOUN related|VERB to|ADP notification_channels|NOUN and|CCONJ might|VERB add|VERB more_messaging_options|NOUN ,|PUNCT like|ADP sending|VERB and|CCONJ receiving|VERB photos|NOUN during|ADP calls|NOUN .|PUNCT
+Nintendo_Switch__Notification_channels|NOUN give|VERB users|NOUN more_control|NOUN over|ADP what_types|NOUN of|ADP alerts|NOUN they|PRON receive|VERB .|PUNCT
+In|ADP supported_apps|NOUN ,|PUNCT users|NOUN will|VERB be|VERB able|ADJ to|PART block|VERB whole_categories|NOUN from|ADP ever|ADV appearing|VERB in|ADP the|DET notification_shade|NOUN .|PUNCT
+According|VERB to|ADP a|DET teardown|NOUN by|ADP Android_Police|ENT ,|PUNCT future_categories|NOUN include|VERB :|PUNCT Incoming_calls|NOUN ,|PUNCT Ongoing|ENT calls|VERB ,|PUNCT Missed|VERB calls|NOUN ,|PUNCT Voicemails|ENT ,|PUNCT External|ENT calls|VERB ,|PUNCT and|CCONJ Miscellaneous|ADJ .|PUNCT
+More|ADV importantly|ADV ,|PUNCT users|NOUN will|VERB be|VERB able|ADJ to|PART manage|VERB app_notifications|NOUN from|ADP one|CARDINAL consistent_system_UI|ENT .|PUNCT
+Other_features|NOUN include|VERB the|DET ability|NOUN to|PART mute|VERB and|CCONJ have|VERB them|PRON return|VERB at|ADP a|DET later_time|NOUN .|PUNCT
+None|NOUN of|ADP those|DET changes|NOUN are|VERB yet|ADV live|ADV in|ADP the|DET app|NOUN ,|PUNCT but|CCONJ with|ADP Google|ENT I|PRON /|SYM O|INTJ fast|ADV approaching|VERB ,|PUNCT they|PRON might|VERB be|VERB enabled|VERB by|ADP the|DET time|NOUN the|DET next_Android_O|NOUN Developer|PROPN Preview|ENT is|VERB released|VERB .|PUNCT
+One|CARDINAL convenient|ADJ feature|NOUN that|ADJ does|VERB not|ADV appear|VERB to|PART be|VERB O-specific|NOUN will|VERB allow|VERB users|NOUN to|PART quickly|ADV send|VERB and|CCONJ receive|VERB photos|NOUN during|ADP a|DET call|NOUN .|PUNCT
+A|DET related_feature|NOUN is|VERB the|DET ability|NOUN to|PART send|VERB a|DET quick_text|NOUN after|ADP finishing|VERB a|DET call|NOUN .|PUNCT
+By|ADP default|NOUN ,|PUNCT there|ADV are|VERB canned_responses|NOUN ,|PUNCT like|ADP
+“|PUNCT This|DET is|VERB urgent|ADJ .|PUNCT
+Call|VERB me|PRON back|ADV ,|PUNCT ”|PUNCT but|CCONJ users|NOUN will|VERB also|ADV be|VERB able|ADJ to|PART add|VERB their|ADJ own|ADJ .|PUNCT
+Google’s_Phone_app|NOUN is|VERB only|ADV officially|ADV available|ADJ for|ADP the|DET Pixel|ENT ,|PUNCT Nexus|ENT ,|PUNCT and|CCONJ other|ADJ Android_One|ENT devices|NOUN .|PUNCT

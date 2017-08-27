@@ -1,0 +1,2 @@
+Never|ADV miss|VERB a|DET great_news_story|NOUN !|PUNCT
+Get|VERB instant_notifications|NOUN from|ADP Economic_Times__AllowNot|ENT now|ADV You|PRON can|VERB switch|VERB off|PART notifications|NOUN anytime|ADV using|VERB browser_settings|NOUN .|PUNCT

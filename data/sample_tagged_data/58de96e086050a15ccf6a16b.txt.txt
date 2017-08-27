@@ -1,0 +1,3 @@
+For|ADP construction|NOUN and|CCONJ implementation|NOUN of|ADP a|DET slum_rehabilitation_project|NOUN has|VERB secured_contract|NOUN worth|ADJ Rs_131.67_crore|MONEY .|PUNCT
+The|DET Company|ENT has|VERB entered|VERB into|ADP an|DET agreement|NOUN for|ADP construction|NOUN and|CCONJ implementation|NOUN of|ADP a|DET slum_rehabilitation_project|NOUN with|ADP Vivyan_Infraprojects|ENT .|PUNCT
+Powered|VERB by|ADP Capital_Market_-_Live_News|ENT (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

@@ -1,0 +1,5 @@
+Michael_Ritter|ENT was|VERB leading|VERB a|DET staff_meeting|NOUN in|ADP Los_Angeles|ENT last_fall|DATE when|ADV his|ADJ phone|NOUN buzzed|VERB with|ADP a|DET group_text|NOUN from|ADP a|DET teammate|NOUN in|ADP the|DET football_videogame|NOUN “|PUNCT
+Madden_NFL_Mobile|ENT .|PUNCT ”|PUNCT
+It|PRON was|VERB one|CARDINAL of|ADP nearly_a_dozen|CARDINAL messages|NOUN that_day|DATE pleading|VERB for|ADP Mr._Ritter|ENT to|PART get|VERB his|ADJ head|NOUN in|ADP the|DET game|NOUN .|PUNCT
+“|PUNCT Why|ADV are|VERB n’t|ADV these|DET people|NOUN working|VERB ?|PUNCT ”|PUNCT
+Mr._Ritter|ENT ,|PUNCT a|DET 34-year-old|DATE technology|NOUN ...|PUNCT

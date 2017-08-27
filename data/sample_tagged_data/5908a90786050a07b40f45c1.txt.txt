@@ -1,0 +1,4 @@
+Kyle_Schwarber|ENT is|VERB accustomed|ADJ to|ADP the|DET view|NOUN he|PRON saw|VERB leading|VERB off|ADP the|DET first_inning|NOUN of|ADP a|DET game|NOUN last_month|DATE against|ADP Milwaukee|ENT :|PUNCT three|CARDINAL defenders|NOUN shifted|VERB to|ADP the|DET right_side|NOUN of|ADP the|DET infield|NOUN ,|PUNCT betting|VERB the|DET burly_left-handed_slugger|NOUN would|VERB pull|VERB any|DET pitch|NOUN he|PRON hit|VERB .|PUNCT
+On|ADP this_day|DATE ,|PUNCT however|ADV ,|PUNCT it|PRON seemed|VERB like|ADP a|DET dare|NOUN .|PUNCT
+The|DET Cubs|ENT trailed|VERB by|ADP two|CARDINAL ,|PUNCT and|CCONJ if|ADP Schwarber|ENT could|VERB reach|VERB base|NOUN in|ADP any|DET way|NOUN ,|PUNCT National_League_MVP|PROPN Kris_Bryant|ENT would|VERB come|VERB to|ADP the|DET plate|NOUN as|ADP the|DET tying_run|NOUN .|PUNCT
+So|ADV ...|PUNCT

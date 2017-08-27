@@ -1,0 +1,2 @@
+May_29_2017|DATE :|PUNCT
+The_Economic_Times|ENT (|PUNCT Mumbai|PROPN )|PUNCT Trump|PROPN Eyes|PROPN White_House_Rejig|ENT to|ADP Check_Russia_Crisis|ENT

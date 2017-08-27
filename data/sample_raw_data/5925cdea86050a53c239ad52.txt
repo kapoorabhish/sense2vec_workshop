@@ -1,0 +1,13 @@
+Coding enthusiasts have another hackathon to look forward to with flagging off (C4B 2017) to drive digital banking innovation.
+
+The hackathon is open to developers, start-ups and students in teams of up to five members. Teams can register their ideas by 29th May for the hackathon that will be held between 6th to 20th June. Applications have to be developed using SBI's internal APIs (code), external APIs and a combination of both.
+
+
+
+Finalists stand a chance to win monetary rewards between one to five lakh, said the bank in a statement. had conducted the hackathon internally earlier and this is the first time that it has been opened for the general public.
+
+"We will further engage with the winning teams to co-develop solutions and collaborate on IP. Scope of work and collaboration model will be decided at a later stage, " said an spokesperson in an emailed response regarding future use of the developed APIs.
+
+Previously, Axis Bank, National Payments Corporation of India (NPCI) and Government of India (Smart India) had initiated hackathons on similar lines. Earlier this year, DBS bank had conducted a hackathon in Hyderabad to recruit coders with hands on experience in banking technology and innovation. This year has already seen hackathons by the likes of ICICI Bank, and
+
+Technologies like predictive analysis, Fin-Tech/Blockchain, digital payments, IoT, AI, machine learning, bots and robotic process automation are the top themes across hackathons. C4B2017 will provide developers the opportunity to get a sense of banking requirements and open up space for further optimisation in digital banking space.

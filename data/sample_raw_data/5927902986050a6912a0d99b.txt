@@ -1,0 +1,93 @@
+
+
+
+
+BEIJING, May 25, 2017 (GLOBE NEWSWIRE) -- Gridsum Holding Inc. ("Gridsum" or the "Company") (NASDAQ:GSUM), a leading provider of cloud-based big-data analytics, machine learning and AI solutions in China, today announced that, as a part of its strategic evolution, it has consolidated all of its artificial intelligence ("AI") activities strategically, technically and organizationally into a new division called the Gridsum Prophet.
+
+
+
+TECHNOLOGY LEADERSHIP AND EVOLUTION
+
+Gridsum is a first mover in China in big data intelligence. Since 2005, the Company has utilized a distributed big-data computing architecture, developed and implemented sophisticated natural language processing ("NLP"), and leveraged machine learning directed toward large enterprise clients. During that time, from serving large enterprise customers, the Company has accumulated deep domain knowledge and expertise as well as a massive amount of data that fuels its machine learning algorithms.
+
+LEADERSHIP IN ENTERPRISE AI IN CHINA
+
+Since this early inception, the Company has continued to stay at the forefront through focus and investment, hiring and training extraordinary engineers and architects and, importantly, playing an active and leading role in the AI academic and developer communities. The Company believes it is currently the technology market leader in the China enterprise-focused AI space with a global best-of-breed Enterprise-AI engine.
+
+As of March 31, 2017, Gridsum has filed 1,653 patent applications in China, of which 583 are big-data focused and 148 are explicitly Enterprise-AI focused. The Company believes this is the largest number of Enterprise-AI focused patents for a company in China today.
+
+Mr. Guosheng Qi, Chief Executive Officer of Gridsum, stated, "We are excited to launch our new AI engine, Gridsum Prophet. AI is playing an increasingly key role in developing and optimizing our intelligent products and solutions across the board and providing quantifiable value-add to our enterprise and other customers. Through Gridsum Prophet, we are taking strategic moves to further accelerate our AI development in a more concentrated way. New product features driven by Gridsum Prophet have already been key in a double-digit number of both client wins and subscription renewals with substantial ARPU uplift."
+
+GRIDSUM PROPHET SCOPE
+
+In terms of scope, Gridsum Prophet encompasses all of the Company's AI capabilities: machine learning, natural language processing, image recognition, predictive industry modeling, and knowledge graph. Gridsum Prophet powers the Company's intelligent products and solutions across the matrix of clients and industry verticals. It also allows the Company to see cross-industry, product and demographic correlations and relationships to add further value for its clients.
+
+Gridsum Prophet is an explicit and important development area for the Company and is increasingly key in creating new differentiated product features for the Company's existing products (e.g. marketing automation) and is central in defining and shaping new products, such as the Company's social listening and brand management suite as well as its legal services and Intelligent CRM product suites.
+
+VALUE ADD
+
+Gridsum Prophet already plays a key role in driving quantifiable value for the Company's customers. It also defines a key competitive advantage for Gridsum versus other local and global players. This is the case in the marketing technology and broader Business Intelligence ecosystems where Gridsum Prophet is instrumental for the Company in driving new customer acquisition as well as ARPU growth with existing customers.
+
+Gridsum Prophet is also key to the Company's legal services product suite which, in some areas, Gridsum believes is consistent with passing a "soft" Turing Test - delivering results in a few seconds consistent with multiple man-hours of work by a team of junior lawyers and paralegals. Gridsum Prophet is also central to the development and success, so far in current Beta trials, for the Company's Intelligent CRM solution.
+
+ENTERPRISE AI COMPARED WITH CONSUMER AI
+
+Consumer-focused AI differs substantially from enterprise-focused AI.
+
+Broadly speaking, consumer AI often leverages the ubiquitous consumer Internet ecosystems across e-commerce, social, mobile, entertainment and others and focuses to quickly solve or facilitate relatively simple (from a mathematical standpoint) but often time-consuming, "painful" or distracting consumer challenges. Consumer AI is incredibly broad in scope, having the potential to revolutionize and facilitate the way people live and, within the next 10 years, will likely touch the lives of most of the people on the planet.
+
+Enterprise AI is different in focus, structure, development, management, application and goals. It requires a very different and focused "organizational DNA" which is particularly rare in China (and elsewhere in Asia). It is focused on creating immediate and quantifiable value for companies with an immediate KPI impact and evolving and increasing that value-add over time.
+
+Enterprise AI hence requires deep domain expertise and knowledge of the target industry and its ecosystem. This allows Gridsum to understand the challenges and opportunities where AI technologies can be effectively applied to delivering immediate and quantifiable value to an enterprise customer whether it is improving efficiency, reducing cost, or allocating marketing budget for optimized ROI. These are often industry-specific drivers and dynamics, typically requiring more focus and depth in a narrower area than consumer AI. To accomplish this, enterprise AI tends to heavily leverage supervised learning techniques to infuse human expertise into the resulting intelligent solutions.
+
+SUPERVISED LEARNING METHODOLOGY
+
+To drive high-value machine learning, Gridsum utilizes its growing team of industry experts and data scientists who also help tailor the Company's products, solutions, features and UI for specific industries and verticals. This is a key differentiator of enterprise AI (and Gridsum) when compared to the demands and development process for typical consumer AI.
+
+Gridsum uses an iterative learning process whereby high quality raw data is sourced. That data is organized across multiple dimensions and machine learning then produces intermediate results from analyzing the complex relationships within the data. The Company's industry experts review the results suggested by the system and, based on deep industry expertise, tag these results as relevant, less relevant or irrelevant which is then fed back into the system's machine learning cycle to further optimize the results, thereby forming a positive optimizing feedback loop.
+
+In addition to the Company's strong emphasis on supervised learning, it is important to note that Gridsum utilizes deep learning, supervised or unsupervised where appropriate, in areas such as abnormal pattern discovery, image recognition and customer value prediction.
+
+CASE STUDIES
+
+To further explain how Gridsum Prophet works in practice, below are three specific examples of the engine in action.
+
+AUTOMATED CLICK-FRAUD DETECTION & PREVENTION
+
+The Company estimates that over 35% of Internet traffic in China can be defined as "suspicious" (including non-human/bot and "malvertising"). Powered by the vast amount of online behavior data that the Company has been collecting and analyzing for over a decade across a broad range of industries and diverse sets of computing devices and software systems, Gridsum's supervised and deep learning algorithms continuously improve the coverage and accuracy of click fraud detection and prevention within its Web Dissector and other products. By consolidating all of its abnormal pattern recognition technology into the Prophet engine, the system is now leveraging cross-industry and cross-product machine learning resulting in improved performance. This helps the Company's clients to substantially and quantifiably improve their ROI from their digital market dollars.
+
+AUTOMATED MARKETING BUDGET ALLOCATION
+
+By mining historical media buying and performance data and leveraging Gridsum's deep knowledge and expertise in the China marketing space, the Company's data science team has developed an automated industry modeling and marketing budget allocation model. This means that a customer can input a desired range of KPI results and the system will then define and allocate a marketing budget to achieve this. This also allows a customer to have an accurate prediction of likely KPI outcomes from their marketing budget and strategy. This heavily leverages Gridsum's supervised machine learning algorithms that the Company has already successfully used to help clients in the financial industry to allocate their annual digital marketing budget across media channels to achieve optimal return on investment. This moves Gridsum's products up the value chain to a marketing strategy creation level, and has already resulted in significantly increased ARPU for a number of clients
+
+This is increasingly important in China today where the largest brands are finding it increasingly difficult to differentiate in an increasingly "noisy" and crowded landscape defined by a proliferation of lower-end brands.
+
+The Gridsum Prophet engine here also importantly helps clients to explore new media such as newsfeed, short video and social video in an ROI-focused, controlled, data-driven and results-oriented manner. These features have recently been a key differentiator in a number of the Company's new customer additions.
+
+CUSTOMER VALUE PREDICTION
+
+In another demonstration of the power of data and deep learning, Gridsum has built a customer value prediction system by analyzing the customers' online (spanning mobile app, browser and PC) and offline behavior data (contained within a customer's CRM system and other areas). Using predictive modeling and machine learning, the system has already been helping clients in the automotive industry to effectively improve their sales and call center performance by reducing the average number of calls needed for customer acquisition by as much as 90%.
+
+POTENTIAL FUTURE PRODUCT DEVELOPMENT
+
+Going forward, over the medium and longer term, Gridsum Prophet opens the opportunity for significant future product development. For example:
+
+An intelligent PR product Suite. The Prophet engine could allow for the dynamic tracking of the audience, across multiple online and offline sources of a customer's PR campaign, with multi-dimensional drill down across multiple KPI's. Combined with Prophet's natural language processing capabilities, the engine could also track the online social (and other) "buzz" and response and discussion across social platforms, forums, Q&A environments and other industry focused online environments, visualizing this data at a high level across multiple dimensions with drill-down capability to specific underlying posts where needed. The customer could then dynamically manage its PR campaign (e.g. product launch) in real time based on this feedback.
+
+Financial Services product Suite. Gridsum's predictive modeling capabilities, which are increasingly differentiating the Company's marketing automation suite, are already playing a key role in the development of the Company's financial services product suite which is expected to be launched this year.
+
+Fraud Detection and Prevention Suite. Gridsum's anomaly detection engine, already driving the click-fraud detection and prevention features of Web Dissector and other products, may have further applications in other areas, such as a broader cyber security focus. Here, abnormal patters in organizational communications, computer, other device and even Travel and Expenses use can be focused on detecting various types of fraud or even inefficient business processes/organizational behaviors.
+
+About Gridsum
+
+Gridsum Holding Inc. is a leading provider of cloud-based big-data analytics, machine learning and AI solutions for multinational and domestic enterprises and government agencies in China. Gridsum's core technology, the Gridsum Big Data Platform, is built on a distributed computing framework and performs real-time multi-dimensional correlation analysis of both structured and unstructured data. This enables Gridsum's customers to identify complex relationships within their data and gain new insights that help them make better business decisions. The Company is named "Gridsum" to symbolize the combination of distributed computing (Grid) and analytics (sum). As a digital intelligence pioneer, the Company's mission is to help enterprises and government organizations in China use data in new and powerful ways to make better informed decisions and be more productive.
+
+For more information, please visit http://www.gridsum.com/.
+
+Safe Harbor Statement
+
+This announcement contains forward-looking statements. These forward-looking statements are made under the "safe harbor" provisions of the U.S. Private Securities Litigation Reform Act of 1995. These statements can be identified by terminology such as "may," "will," "expects," "anticipates," "aims," "future," "intends," "plans," "believes," "estimates," "likely to" and similar statements. Among other things, quotations from management in this announcement, Gridsum's financial outlook as well as Gridsum's strategic and operational plans contain forward-looking statements. Gridsum may also make written or oral forward-looking statements in its reports filed with, or furnished to, the U.S. Securities and Exchange Commission, in its annual reports to shareholders, in press releases and other written materials and in oral statements made by its officers, directors or employees to third parties. Statements that are not historical facts, including statements about Gridsum's beliefs and expectations, are forward-looking statements. Forward-looking statements involve inherent risks and uncertainties. A number of factors could cause actual results to differ materially from those contained in any forward-looking statement, including but not limited to the following: unexpected difficulties in Gridsum's pursuit of its goals and strategies; the unexpected developments, including slow growth, in the digital intelligence market; reduced demand for, and market acceptance of, Gridsum's solutions; difficulties keeping and strengthening relationships with customers; potentially costly research and development activities; competitions in the digital intelligence market; PRC governmental policies relating to media, software, big data, the internet, internet content providers and online advertising; and general economic and business conditions in the regions where Gridsum provides solutions and services. Further information regarding these and other risks is included in Gridsum's reports filed with, or furnished to, the Securities and Exchange Commission. All information provided in this press release and in the attachments is as of the date of this press release, and Gridsum undertakes no duty to update such information except as required under applicable law.
+
+Investor Relation Contact: ICR, Inc.Xueli Song Tel: +1 (646) 328-2510 Email: IR@gridsum.com
+
+Source: Gridsum Holding Inc.

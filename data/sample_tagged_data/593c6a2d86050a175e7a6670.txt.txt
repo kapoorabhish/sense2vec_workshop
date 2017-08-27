@@ -1,0 +1,29 @@
+Lekhram_Godara_Lekhram_Godara|ENT On|ADP June_4|DATE ,|PUNCT Union_minister|NOUN Arjun_Ram_Meghwal|ENT had|VERB to|PART climb|VERB a|DET tree|NOUN in|ADP Dholia_village|ENT ,|PUNCT 85_km|QUANTITY from|ADP Bikaner|ENT ,|PUNCT to|PART make|VERB a|DET phone_call|NOUN to|ADP a|DET medical_officer|NOUN on|ADP behalf|NOUN of|ADP the|DET villagers|NOUN .|PUNCT
+A_week_later|DATE ,|PUNCT Lekhram_Godara|ENT ,|PUNCT sarpanch|NOUN of|ADP Udrasar_panchayat|NOUN ,|PUNCT under|ADP which|ADJ Dholia_village|NOUN falls|VERB ,|PUNCT says|VERB poor_mobile_connectivity|NOUN is|VERB one|CARDINAL of|ADP the|DET many_problems|NOUN villagers|NOUN face|VERB .|PUNCT
+Godara_lives|NOUN in|ADP Dholia|ENT .|PUNCT
+1|CARDINAL How|ADV did|VERB the|DET minister|NOUN end|VERB up|PART in|ADP that|DET situation|NOUN ?|PUNCT
+When|ADV the|DET minister|NOUN asked|VERB us|PRON about|ADP our|ADJ problems|NOUN ,|PUNCT we|PRON told|VERB him|PRON to|PART ask|VERB the|DET chief_medical_and_health_officer|NOUN (|PUNCT CMHO|ENT )|PUNCT to|PART appoint|VERB a|DET nurse|NOUN at|ADP our|ADJ medical_centre|NOUN .|PUNCT
+He|PRON asked|VERB his|ADJ assistant|NOUN to|PART call|VERB the|DET CMHO|ENT ,|PUNCT but|CCONJ there|ADV was|VERB no|DET mobile_network|NOUN .|PUNCT
+So|ADV we|PRON suggested|VERB the|DET only_thing|NOUN we|PRON knew|VERB .|PUNCT
+But|CCONJ the|DET minister|NOUN said|VERB he|PRON would|VERB n’t|ADV climb|VERB a|DET tree|NOUN just|ADV like|ADP that|DET ,|PUNCT so|ADV we|PRON got|VERB him|PRON a|DET ladder|NOUN .|PUNCT
+It|PRON was|VERB strange|ADJ to|PART see|VERB a|DET minister|NOUN climb|VERB a|DET tree|NOUN ,|PUNCT but|CCONJ at|ADP least|ADJ he|PRON got|VERB to|PART experience|VERB the|DET problems|NOUN we|PRON face|VERB everyday|NOUN .|PUNCT
+2|CARDINAL How|ADV do|VERB other_government_officials|NOUN function|VERB when|ADV they|PRON come|VERB here|ADV ?|PUNCT
+This|DET was|VERB the|DET first_time|NOUN someone|NOUN that|ADJ high-up|NOUN was|VERB visiting|VERB our|ADJ village|NOUN .|PUNCT
+Government_officials|NOUN barely|ADV visit|VERB here|ADV .|PUNCT
+There|ADV is|VERB no|DET network|NOUN here|ADV ,|PUNCT neither|DET of|ADP BSNL|ENT nor|CCONJ of|ADP any|DET private_operator|NOUN .|PUNCT
+The|DET nearest_cellphone_tower|NOUN is|VERB in|ADP Udrasar|ENT ,|PUNCT 9_km|QUANTITY away|ADV .|PUNCT 3|CARDINAL
+So|ADV do|VERB villagers|NOUN climb|VERB trees|NOUN to|PART makes|VERB calls|NOUN ?|PUNCT
+Yes|INTJ ,|PUNCT that|ADP ’s|X what|NOUN we|PRON we|PRON do|VERB everyday|NOUN .|PUNCT
+Either|ADV climb|VERB a|DET tree|NOUN ,|PUNCT or|CCONJ go|VERB to|ADP the|DET terrace|NOUN of|ADP someone’s_house|NOUN .|PUNCT
+And|CCONJ if|ADP it|PRON ’s|VERB not|ADV too|ADV hot|ADJ ,|PUNCT we|PRON climb|VERB sand_dunes|NOUN .|PUNCT
+That|DET usually|ADV works|VERB .|PUNCT
+4|CARDINAL Did|VERB the|DET minister_promise|NOUN to|PART do|VERB something|NOUN about|ADP the|DET problem|NOUN ?|PUNCT
+Yes|INTJ ,|PUNCT he|PRON assured|VERB us|PRON that|ADP he|PRON would|VERB get|VERB a|DET mobile_tower|NOUN installed|VERB here|ADV within_three_months|DATE .|PUNCT
+5|CARDINAL What|NOUN are|VERB the|DET other_problems|NOUN villagers|NOUN face|VERB ?|PUNCT
+There|ADV are|VERB various_issues|NOUN .|PUNCT
+Our|ADJ health_centre|NOUN has|VERB no|DET ANM|PROPN (|PUNCT auxiliary|ADJ nurse|NOUN midwife|NOUN )|PUNCT .|PUNCT
+That|DET was|VERB the|DET matter|NOUN the|DET minister|NOUN was|VERB trying|VERB to|PART solve|VERB .|PUNCT
+Besides|ADV ,|PUNCT power_cuts|NOUN are|VERB a|DET huge_problem|NOUN .|PUNCT
+In|ADP the|DET peak|NOUN of|ADP summer|DATE ,|PUNCT we|PRON face|VERB power_cuts|NOUN of|ADP 15-20_hours|PERCENT .|PUNCT
+And|CCONJ then|ADV ,|PUNCT we|PRON have|VERB only_one|CARDINAL school|NOUN till|ADP Class|PROPN 8|NUM ,|PUNCT with|ADP just_three_teachers|NOUN .|PUNCT
+For|ADP all|ADJ the|DET latest_India_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT

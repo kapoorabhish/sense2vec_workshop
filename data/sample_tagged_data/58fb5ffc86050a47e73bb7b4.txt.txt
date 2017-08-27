@@ -1,0 +1,68 @@
+Image_copyright|NOUN AFP|ENT /|SYM Getty|ENT
+More_than_100|CARDINAL wives|NOUN and|CCONJ partners|NOUN of|ADP police|NOUN are|VERB protesting|VERB in|ADP Paris|ENT against|ADP attacks|NOUN on|ADP police|NOUN following|VERB the|DET killing|NOUN of|ADP an|DET officer|NOUN on|ADP the_Champs_Elysees|ENT .|PUNCT
+The_Angry_Police_Wives|ENT group|NOUN is|VERB marching|VERB through|ADP the|DET city|NOUN two_days|DATE after|ADP Xavier_Jugele|ENT was|VERB shot|VERB twice|ADV in|ADP the|DET head|NOUN by|ADP criminal_Karim_Cheurfi|ENT .|PUNCT
+Two|CARDINAL other_officers|NOUN were|VERB wounded|VERB before|ADP Cheurfi|ENT was|VERB shot|VERB dead|ADJ .|PUNCT
+The|DET killer|NOUN had|VERB spoken|VERB about|ADP wanting|VERB to|PART kill|VERB police|NOUN but|CCONJ had|VERB no|DET apparent_link|NOUN to|ADP Islamist_radicalism|NOUN ,|PUNCT prosecutors|NOUN said|VERB .|PUNCT
+A|DET note|NOUN defending|VERB so-called_Islamic_State|ENT (|PUNCT IS|PROPN )|PUNCT was|VERB found|VERB near|ADP his|ADJ body|NOUN .|PUNCT
+Candidates|NOUN in|ADP Sunday|DATE 's|PART presidential_election|NOUN have|VERB been|VERB accused|VERB of|ADP exploiting|VERB the|DET attack|NOUN politically|ADV .|PUNCT
+Image_copyright_AFP/Getty__Image_copyright_AFP/getty_Image_caption_Protesters|NOUN gathered|VERB at|ADP the_Eiffel_Tower|ENT before|ADP beginning|VERB their|ADJ march|NOUN The|DET demonstrators|NOUN were|VERB carrying|VERB placards|NOUN saying|VERB "|PUNCT do|VERB n't|ADV touch|VERB my|ADJ police_officer|NOUN "|PUNCT ,|PUNCT a|DET twist|NOUN on|ADP a|DET well-known_French_anti-racism_slogan|NOUN .|PUNCT
+One|CARDINAL placard|NOUN also|ADV said|VERB "|PUNCT enough_police_officers|NOUN killed|VERB and|CCONJ burned|VERB "|PUNCT ,|PUNCT referring|VERB not|ADV only|ADV to|PART Mr_Jugele's|ENT death|NOUN but|CCONJ also|ADV a|DET firebomb_attack|NOUN on|ADP a|DET police_car|NOUN carrying|VERB four|CARDINAL officers|NOUN by|ADP suspected_drug_dealers|NOUN in|ADP a|DET poor_suburb|NOUN of|ADP Paris|ENT last_October|DATE .|PUNCT
+Two|CARDINAL of|ADP the|DET officers|NOUN were|VERB seriously|ADV wounded|VERB in|ADP the|DET attack|NOUN .|PUNCT
+Police_officers|NOUN have|VERB also|ADV been|VERB hurt|VERB in|ADP recent_protests|NOUN over|ADP allegations|NOUN of|ADP police_brutality|NOUN .|PUNCT
+Last_month|DATE three|CARDINAL officers|NOUN were|VERB injured|VERB in|ADP protests|NOUN after|ADP a|DET Chinese_man|NOUN was|VERB shot|VERB dead|ADJ by|ADP officers|NOUN .|PUNCT
+In|ADP February|DATE protesters|NOUN attacked|VERB a|DET police_station|NOUN amid|ADP widespread_anger|NOUN over|ADP the|DET alleged_rape|NOUN of|ADP a|DET young_black_man|NOUN by|ADP French_police|NOUN .|PUNCT
+Image|NOUN copyright_AFP/getty__Image_copyright_AFP/getty__Image_copyright_AFP/getty_Image_caption_Demonstrators|NOUN hugged|VERB police|NOUN ,|PUNCT some|DET of|ADP whom|NOUN were|VERB wearing|VERB flowers|NOUN to|PART remember|VERB the|DET dead_officer|NOUN Who|NOUN was|VERB the|DET victim|NOUN ?|PUNCT
+Police_officer|NOUN Xavier_Jugelé|ENT ,|PUNCT 37|DATE ,|PUNCT was|VERB an|DET active_campaigner|NOUN for|ADP gay_rights|NOUN ,|PUNCT French_media_report|NOUN .|PUNCT
+Image_copyright_Twitter_Image_caption|NOUN
+An|DET undated_image|NOUN of|ADP Xavier_Jugelé|ENT has|VERB circulated|VERB on|ADP Twitter|ENT
+Originally|ADV from|ADP the_Loire_Valley|ENT region|NOUN in|ADP central_France|ENT ,|PUNCT he|PRON had|VERB been|VERB serving|VERB in|ADP the|DET capital|NOUN since|ADP 2014|DATE ,|PUNCT French|ENT daily|ADJ Liberation|PROPN writes|VERB (|PUNCT in|ADP French|ENT )|PUNCT .|PUNCT
+On|ADP 13_November_2015|DATE ,|PUNCT he|PRON was|VERB deployed|VERB to|PART secure|VERB the|DET area|NOUN around|ADP the_Bataclan_concert|ENT hall|NOUN after|ADP the|DET IS_attack|NOUN ,|PUNCT Le_Parisien|ENT writes|VERB (|PUNCT in|ADP French|ENT )|PUNCT .|PUNCT
+When|ADV the|DET venue|NOUN reopened|VERB last_November|DATE with|ADP a|DET concert|NOUN by|ADP Sting|ENT ,|PUNCT Mr_Jugelé|ENT was|VERB there|ADV again|ADV ,|PUNCT telling|VERB the|DET US|ENT 's|PART People_magazine|NOUN :|PUNCT "|PUNCT I|PRON 'm|VERB happy|ADJ to|PART be|VERB here|ADV ...|PUNCT
+We|PRON 're|VERB here|ADV tonight|TIME as|ADP witnesses|NOUN .|PUNCT
+Here|ADV to|PART defend|VERB our|ADJ civic_values|NOUN .|PUNCT
+This|DET concert|NOUN 's|VERB to|PART celebrate|VERB life|NOUN .|PUNCT
+To|PART say|VERB no|DET to|ADP terrorists|NOUN .|PUNCT "|PUNCT
+He|PRON was|VERB in|ADP a|DET civil_partnership|NOUN and|CCONJ did|VERB not|ADV have|VERB children|NOUN ,|PUNCT reports|NOUN say|VERB .|PUNCT
+What|NOUN do|VERB we|PRON know|VERB about|ADP the|DET killer|NOUN ?|PUNCT
+Cheurfi|ENT ,|PUNCT who|NOUN had|VERB four|CARDINAL criminal_convictions|NOUN ,|PUNCT was|VERB arrested|VERB and|CCONJ his|ADJ home|NOUN searched|VERB in|ADP February|DATE after|ADP an|DET inquiry|NOUN was|VERB opened|VERB over|ADP reports|NOUN that|ADP he|PRON had|VERB been|VERB talking|VERB of|ADP killing|VERB police|NOUN and|CCONJ getting|VERB weapons|NOUN ,|PUNCT Mr_Molins|ENT said|VERB .|PUNCT
+Image_copyright_Twitter_Image_caption|NOUN
+An|DET undated_photo|NOUN of|ADP Karim_Cheurfi|ENT has|VERB been|VERB circulating|VERB Hunting_knives|NOUN ,|PUNCT masks|NOUN and|CCONJ a|DET GoPro_camera|NOUN were|VERB found|VERB but|CCONJ this|DET was|VERB not|ADV considered|VERB sufficient_proof|NOUN of|ADP his|ADJ murderous_intent|NOUN .|PUNCT __"|ENT
+At|ADP that|DET stage|NOUN ,|PUNCT no|DET link|NOUN with|ADP the|DET radical_Islamist_movement|NOUN was|VERB apparent|ADJ ,|PUNCT "|PUNCT the|DET Paris_prosecutor|NOUN said|VERB .|PUNCT "|PUNCT
+Nothing|NOUN justified|VERB further_investigations|NOUN by|ADP my|ADJ office|NOUN .|PUNCT "|PUNCT
+Born|VERB on|ADP New_Year's_Eve|ENT in|ADP 1977|DATE in|ADP the|DET Livry-Gargan_suburb|NOUN of|ADP north-eastern_Paris|ENT ,|PUNCT Cheurfi|ENT was|VERB jailed|VERB four|CARDINAL times|NOUN for|ADP attempted_murder|NOUN ,|PUNCT violence|NOUN and|CCONJ theft|NOUN .|PUNCT
+In|ADP April_2001|DATE ,|PUNCT while|ADP driving|VERB a|DET stolen_car|NOUN ,|PUNCT he|PRON fired|VERB on|PART and|CCONJ wounded|VERB two|CARDINAL men|NOUN who|NOUN had|VERB chased|VERB him|PRON ,|PUNCT one|CARDINAL of|ADP them|PRON a|DET plain|ADJ clothes|NOUN police|NOUN officer|NOUN .|PUNCT
+He|PRON last|ADV emerged|VERB from|ADP prison|NOUN in|ADP October_2015|DATE and|CCONJ was|VERB living|VERB in|ADP the|DET eastern_suburb|NOUN of|ADP Chelles|ENT .|PUNCT
+His|ADJ lawyer|NOUN described|VERB him|PRON as|ADP psychologically|ADV fragile|ADJ and|CCONJ neighbours|NOUN in|ADP Chelles|ENT said|VERB he|PRON had|VERB never|ADV shown|VERB any|DET interest|NOUN in|ADP religion|NOUN .|PUNCT
+Three|CARDINAL members|NOUN of|ADP the|DET gunman|NOUN 's|PART family|NOUN have|VERB been|VERB arrested|VERB for|ADP questioning|NOUN .|PUNCT
+Recent_terror_attacks|NOUN in|ADP France|ENT 7|CARDINAL -|SYM 9|NUM Jan_2015_-_Two|ENT Islamist_gunmen|NOUN storm|VERB the|DET Paris_offices|NOUN of|ADP satirical_magazine|NOUN Charlie_Hebdo|ENT ,|PUNCT killing|VERB 17|CARDINAL people|NOUN .|PUNCT
+Another|DET Islamist|ENT militant|NOUN kills|VERB a|DET policewoman|NOUN the_next_day|DATE and|CCONJ takes|VERB hostages|NOUN at|ADP a|DET Jewish_supermarket|NOUN in|ADP Paris|ENT .|PUNCT
+Four|CARDINAL hostages|NOUN are|VERB killed|VERB before|ADP police|NOUN shoot|VERB the|DET gunman|NOUN dead|ADJ .|PUNCT
+The|DET other_two_gunmen|NOUN are|VERB cornered|VERB and|CCONJ killed|VERB by|ADP police|NOUN in|ADP a|DET siege|NOUN .|PUNCT
+-|PUNCT Two|CARDINAL Islamist_gunmen|NOUN storm|VERB the|DET Paris_offices|NOUN of|ADP satirical_magazine|NOUN Charlie_Hebdo|ENT ,|PUNCT killing|VERB 17|CARDINAL people|NOUN .|PUNCT
+Another|DET Islamist|ENT militant|NOUN kills|VERB a|DET policewoman|NOUN the_next_day|DATE and|CCONJ takes|VERB hostages|NOUN at|ADP a|DET Jewish_supermarket|NOUN in|ADP Paris|ENT .|PUNCT
+Four|CARDINAL hostages|NOUN are|VERB killed|VERB before|ADP police|NOUN shoot|VERB the|DET gunman|NOUN dead|ADJ .|PUNCT
+The|DET other_two_gunmen|NOUN are|VERB cornered|VERB and|CCONJ killed|VERB by|ADP police|NOUN in|ADP a|DET siege|NOUN .|PUNCT
+13|CARDINAL Nov_2015_-_IS_jihadists|NOUN armed|VERB with|ADP bombs|NOUN and|CCONJ assault_rifles|NOUN attack|VERB Paris|ENT ,|PUNCT targeting|VERB the|DET national_stadium|NOUN ,|PUNCT cafes|NOUN and|CCONJ Bataclan_concert|ENT hall|NOUN .|PUNCT
+The|DET co|NOUN -|PUNCT ordinated_assault|NOUN leaves|VERB 130|CARDINAL people|NOUN dead|ADJ ,|PUNCT and|CCONJ more_than_350|CARDINAL wounded|VERB .|PUNCT
+-|PUNCT IS_jihadists|NOUN armed|VERB with|ADP bombs|NOUN and|CCONJ assault_rifles|NOUN attack|VERB Paris|ENT ,|PUNCT targeting|VERB the|DET national_stadium|NOUN ,|PUNCT cafes|NOUN and|CCONJ Bataclan|ENT concert|NOUN hall|NOUN .|PUNCT
+The|DET co|NOUN -|PUNCT ordinated_assault|NOUN leaves|VERB 130|CARDINAL people|NOUN dead|ADJ ,|PUNCT and|CCONJ more_than_350|CARDINAL wounded|VERB .|PUNCT
+13|CARDINAL Jun_2016|DATE -A|NUM knife|NOUN -|PUNCT wielding_jihadist|NOUN kills|VERB a|DET police_officer|NOUN and|CCONJ his|ADJ partner|NOUN at|ADP their|ADJ home|NOUN in|ADP Magnanville|ENT ,|PUNCT west|NOUN of|ADP Paris|ENT .|PUNCT
+He|PRON declares|VERB allegiance|NOUN to|ADP IS|ENT ,|PUNCT and|CCONJ police|NOUN later|ADV kill|VERB him|PRON .|PUNCT
+-A|NUM knife|NOUN -|PUNCT wielding_jihadist|NOUN kills|VERB a|DET police_officer|NOUN and|CCONJ his|ADJ partner|NOUN at|ADP their|ADJ home|NOUN in|ADP Magnanville|ENT ,|PUNCT west|NOUN of|ADP Paris|ENT .|PUNCT
+He|PRON declares|VERB allegiance|NOUN to|ADP IS|ENT ,|PUNCT and|CCONJ police|NOUN later|ADV kill|VERB him|PRON .|PUNCT
+14|CARDINAL Jul_2016_-_A|DATE huge|ADJ lorry|NOUN mows|VERB down|PART a|DET crowd|NOUN of|ADP people|NOUN on|ADP the|DET Nice|PROPN beachfront|ADJ during|ADP Bastille_Day_celebrations|NOUN ,|PUNCT killing|VERB 86|CARDINAL .|PUNCT
+IS|VERB claims|VERB the|DET attack|NOUN -|PUNCT by|ADP a|DET Tunisian|ENT -|PUNCT born_driver|NOUN ,|PUNCT later|ADV shot|VERB dead|ADJ by|ADP police|NOUN .|PUNCT
+-|PUNCT A|DET huge_lorry|NOUN mows|VERB down|PART a|DET crowd|NOUN of|ADP people|NOUN on|ADP the|DET Nice|PROPN beachfront|ADJ during|ADP Bastille_Day_celebrations|NOUN ,|PUNCT killing|VERB 86|CARDINAL .|PUNCT
+IS|VERB claims|VERB the|DET attack|NOUN -|PUNCT by|ADP a|DET Tunisian|ENT -|PUNCT born_driver|NOUN ,|PUNCT later|ADV shot|VERB dead|ADJ by|ADP police|NOUN .|PUNCT
+26|CARDINAL Jul_2016_-_Two_attackers|DATE slits|VERB the|DET throat|NOUN of|ADP a|DET priest|NOUN at|ADP his|ADJ church|NOUN in|ADP Saint-Etienne-du-Rouvray|ENT ,|PUNCT in|ADP Normandy|ENT .|PUNCT
+They|PRON are|VERB shot|VERB dead|ADJ by|ADP police|NOUN .|PUNCT
+-|PUNCT Two|CARDINAL attackers|NOUN slits|VERB the|DET throat|NOUN of|ADP a|DET priest|NOUN at|ADP his|ADJ church|NOUN in|ADP Saint-Etienne-du-Rouvray|ENT ,|PUNCT in|ADP Normandy|ENT .|PUNCT
+They|PRON are|VERB shot|VERB dead|ADJ by|ADP police|NOUN .|PUNCT 3|CARDINAL Feb_2017_-_A|DATE machete|NOUN -|PUNCT wielding|VERB Egyptian|ENT man|NOUN shouting|VERB "|PUNCT Allahu|PROPN akbar|NOUN "|PUNCT attacks|NOUN French_soldiers|NOUN at|ADP Paris|ENT 's|PART Louvre_Museum|ENT -|PUNCT he|PRON is|VERB shot|VERB and|CCONJ wounded|VERB .|PUNCT
+-|PUNCT A|DET machete|NOUN -|PUNCT wielding_Egyptian_man|NOUN shouting|VERB "|PUNCT Allahu_akbar"_attacks|NOUN French_soldiers|NOUN at|ADP Paris|ENT 's|PART Louvre_Museum|ENT -|PUNCT he|PRON is|VERB shot|VERB and|CCONJ wounded|VERB .|PUNCT 20|CARDINAL Apr_2017_-_A|DATE
+known_terror_suspect|NOUN opens|VERB fire|NOUN at|ADP police|NOUN on|ADP the_Champs_Elysees|ENT in|ADP Paris|ENT ,|PUNCT killing|VERB one|CARDINAL and|CCONJ wounding|VERB two|CARDINAL .|PUNCT
+He|PRON is|VERB shot|VERB dead|ADJ -|PUNCT and|CCONJ the|DET assault|NOUN is|VERB claimed|VERB by|ADP IS|ENT .|PUNCT
+You|PRON can|VERB follow|VERB the|DET first_round|NOUN of|ADP the|DET French_election|NOUN on|ADP the_BBC_News|ENT website|NOUN .|PUNCT
+Click|VERB here|ADV for|ADP all|ADJ our|ADJ latest_coverage|NOUN .|PUNCT
+On|ADP the_day_of|DATE the|DET election|NOUN ,|PUNCT we|PRON will|VERB be|VERB running|VERB a|DET live_page|NOUN bringing|VERB together|PART the|DET latest_news|NOUN ,|PUNCT video|NOUN and|CCONJ analysis|NOUN .|PUNCT
+On|ADP TV|NOUN ,|PUNCT you|PRON can|VERB watch|VERB a|DET BBC_World_News_Election_Special|PROPN ,|PUNCT from|ADP 18:30|TIME BST_(|ENT 17:30_GMT|MONEY /|SYM 19:30|NUM local|ADJ time|NOUN in|ADP France|ENT )|PUNCT on|ADP Sunday|DATE ,|PUNCT which|ADJ will|VERB be|VERB broadcast|VERB on|ADP BBC_News|ENT in|ADP the|DET UK|ENT and|CCONJ on|ADP BBC_World_News|ENT internationally|ADV ,|PUNCT with|ADP Christian_Fraser|ENT presenting|VERB from|ADP Paris|ENT .|PUNCT
+For|ADP radio|NOUN ,|PUNCT BBC_World_Service|ENT will|VERB broadcast|VERB a|DET special_extended_edition|NOUN of|ADP Newshour|ENT from|ADP Paris|ENT at|ADP 18:00_GMT|MONEY on|ADP Sunday|DATE .|PUNCT

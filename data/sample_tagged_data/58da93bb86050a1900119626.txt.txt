@@ -1,0 +1,12 @@
+Mitchell_Johnson|ENT will|VERB begin|VERB training|NOUN at|ADP the|DET nets|NOUN under|ADP the|DET bowling_coach|NOUN Shane_Bond|ENT .|PUNCT
+(|PUNCT Source|NOUN :|PUNCT BCCI|ENT )|PUNCT Mitchell_Johnson|ENT will|VERB begin|VERB training|NOUN at|ADP the|DET nets|NOUN under|ADP the|DET bowling_coach|NOUN Shane_Bond|ENT .|PUNCT
+(|PUNCT Source|NOUN :|PUNCT BCCI|ENT )|PUNCT
+Former|ADJ Australian_pacer_Mitchell_Johnson|ENT will|VERB on|ADP Wednesday|DATE join|VERB the_Mumbai_Indians|ENT squad|NOUN for|ADP their|ADJ ongoing_preparatory_camp|NOUN for|ADP the_coming_season_of_the|DATE Indian_Premier_League|PROPN .|PUNCT
+The|DET camp|NOUN at|ADP the_Wankhede_stadium|ENT here|ADV under|ADP the|DET new_head_coach|NOUN Mahela_Jayawardene|ENT will|VERB continue|VERB till|ADP April_2|DATE .|PUNCT
+He|PRON will|VERB begin|VERB training|NOUN at|ADP the|DET nets|NOUN under|ADP the|DET bowling_coach|NOUN Shane_Bond|ENT ,|PUNCT a|DET media_release|NOUN issued|VERB here|ADV said|VERB .|PUNCT “|PUNCT
+Now|ADV that|ADP the_Test_Series|ENT is|VERB over|ADP ,|PUNCT getting|VERB ready|ADJ to|PART play|VERB with|ADP MI_paltan|NOUN for|ADP 2017_season|DATE .|PUNCT
+Should|VERB be|VERB fun|ADJ .|PUNCT
+Thanks|NOUN to|ADP the|DET supporting_fans|NOUN ,|PUNCT ”|PUNCT
+Mitchell|ENT tweeted|VERB .|PUNCT
+The|DET Mumbai_franchise|NOUN picked|VERB Johnson|ENT for|ADP his|ADJ base_price|NOUN of|ADP Rs|NOUN 2|CARDINAL crore|NOUN in|ADP IPL_auction|NOUN held|VERB in|ADP February|DATE .|PUNCT
+For|ADP all|ADJ the|DET latest_Sports_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

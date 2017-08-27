@@ -1,0 +1,13 @@
+Commuters|NOUN may|VERB soon|ADV find|VERB an|DET easy|ADJ ride|NOUN to|ADP Bandra_Kurla_Complex|ENT (|PUNCT BKC|PROPN )|PUNCT ,|PUNCT with|ADP hybrid_buses|NOUN all|DET set|NOUN to|PART be|VERB pressed|VERB into|ADP service|NOUN .|PUNCT
+According|VERB to|ADP Mumbai_Metropolitan_Region_Development_Authority|ENT (|PUNCT MMRDA|PROPN )|PUNCT officials|NOUN ,|PUNCT the|DET buses|NOUN should|VERB reach|VERB the|DET city|NOUN over|ADP the_weekend|DATE .|PUNCT
+“|PUNCT We|PRON should|VERB get|VERB the|DET first|ORDINAL five|CARDINAL of|ADP the|DET 25|CARDINAL buses|NOUN by|ADP the_weekend|DATE .|PUNCT
+After|ADP that|DET ,|PUNCT every|DET month|NOUN we|PRON will|VERB receive|VERB five|CARDINAL buses|NOUN .|PUNCT
+They|PRON will|VERB be|VERB handed|VERB over|ADP to|ADP the|DET BEST|PROPN for|ADP operations|NOUN ,|PUNCT ”|PUNCT said|VERB Pravin_Darade|ENT ,|PUNCT Additional_Metropolitan_Commissioner|PROPN ,|PUNCT MMRDA|ENT .|PUNCT
+The|DET AC_buses|NOUN will|VERB ply|VERB between|ADP the|DET Bandra|ENT ,|PUNCT Kurla|ENT and|CCONJ Sion|ENT stations|NOUN .|PUNCT
+“|PUNCT We|PRON will|VERB begin|VERB with|ADP the|DET first_five_buses|NOUN only|ADV from|ADP Bandra|ENT and|CCONJ Kurla|ENT ,|PUNCT ”|PUNCT said|VERB a|DET senior_BEST_official|NOUN .|PUNCT
+“|PUNCT Once|ADP the|DET buses|NOUN reach|VERB us|PRON ,|PUNCT we|PRON will|VERB go|VERB for|ADP RTO_registration|NOUN .|PUNCT
+That|DET should|VERB take|VERB two_days|DATE .|PUNCT
+After|ADP that|DET ,|PUNCT they|PRON will|VERB ply|VERB ,|PUNCT ”|PUNCT he|PRON added|VERB .|PUNCT
+Manufactured|VERB by|ADP Tata_Motors|ENT ,|PUNCT the|DET buses|NOUN will|VERB have|VERB a|DET seating_capacity|NOUN of|ADP 31|CARDINAL and|CCONJ standing_capacity|NOUN of|ADP 28|CARDINAL .|PUNCT
+The|DET minimum_fare|NOUN is|VERB Rs_15|CARDINAL and|CCONJ maximum|ADJ Rs|NOUN 25|CARDINAL .|PUNCT
+For|ADP all|ADJ the|DET latest_Cities_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT

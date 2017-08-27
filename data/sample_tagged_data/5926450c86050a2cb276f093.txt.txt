@@ -1,0 +1,26 @@
+Most_organisations|NOUN have|VERB some|DET sort|NOUN of|ADP a|DET rewards|NOUN and|CCONJ recognitions_programme|NOUN .|PUNCT
+Often|ADV these|DET two|CARDINAL programmes|NOUN are|VERB linked|VERB with|ADP recognitions|NOUN increasingly|ADV being|VERB linked|VERB to|ADP rewards|NOUN .|PUNCT
+However|ADV ,|PUNCT research|NOUN shows|VERB that|ADP rewards|NOUN and|CCONJ recognitions|NOUN are|VERB two|CARDINAL different_phenomena|NOUN ,|PUNCT and|CCONJ creating|VERB recognition_programs|NOUN without|ADP understanding|VERB this|DET can|VERB lead|VERB to|ADP disaster|NOUN .|PUNCT
+An|DET article|NOUN titled|VERB “|PUNCT Rewards|NOUN and|CCONJ Recognition|ENT in|ADP Employee_Motivation|ENT ”|PUNCT ,|PUNCT shows|VERB that|ADP rewards|NOUN and|CCONJ recognition|NOUN represent|VERB two|CARDINAL fundamentally_different_mechanisms|NOUN of|ADP human_motivation|NOUN .|PUNCT
+Simply|ADV put|VERB ,|PUNCT a|DET reward|NOUN is|VERB given|VERB in|ADP return|NOUN for|ADP a|DET work|NOUN well|ADV done|VERB .|PUNCT
+Rewards|NOUN establish|VERB an|DET instrumentality|NOUN or|CCONJ a|DET “|NOUN means|VERB to|ADP an|DET end|NOUN ”|PUNCT .|PUNCT
+Say|VERB ,|PUNCT rewarding|VERB a|DET child|NOUN for|ADP chores|NOUN done|VERB shows|VERB the|DET child|NOUN a|DET way|NOUN to|PART get|VERB the|DET reward|NOUN .|PUNCT
+A|DET recognition|NOUN ,|PUNCT however|ADV ,|PUNCT is|VERB an|DET acknowledgement|NOUN ,|PUNCT a|DET special_notice|NOUN or|CCONJ attention|NOUN of|ADP something|NOUN accomplished|VERB .|PUNCT
+The|DET latter|ADJ is|VERB about|ADP noticing|VERB and|CCONJ honouring|NOUN ,|PUNCT which|ADJ is|VERB best|ADV exemplified|VERB by|ADP recognitions|NOUN given|VERB on|ADP the|DET field|NOUN of|ADP battle|NOUN for|ADP soldiers|NOUN .|PUNCT
+The|DET notion|NOUN of|ADP “|PUNCT instrumentality|NOUN ”|PUNCT is|VERB missing|VERB from|ADP recognitions|NOUN since|ADP soldiers|NOUN do|VERB n’t|ADV carry|VERB out|PART an|DET action|NOUN based|VERB on|ADP expected_rewards|NOUN .|PUNCT
+While|ADP rewards|NOUN are|VERB based|VERB on|ADP extrinsic_motivators|NOUN ,|PUNCT recognitions|NOUN come|VERB from|ADP intrinsic_motivations|NOUN .|PUNCT
+So|ADV what|NOUN does|VERB it|PRON have|VERB to|PART do|VERB with|ADP motivating_employees|NOUN ?|PUNCT
+Organisations|NOUN need|VERB reward_programmes|NOUN for|ADP specific_behaviours|NOUN driven|VERB by|ADP extrinsic_motivations|NOUN and|CCONJ recognition_programs|NOUN by|ADP those|DET driven|VERB by|ADP intrinsic_motivations|NOUN .|PUNCT
+Furthermore|ADV ,|PUNCT organisations|NOUN base|VERB their|ADJ rewards|NOUN and|CCONJ recognitions_programme|NOUN by|ADP asking|VERB the|DET question|NOUN “|PUNCT How|ADV do|VERB we|PRON motivate|VERB employees|NOUN ?|PUNCT ”|PUNCT .|PUNCT
+This|DET is|VERB then|ADV translated|VERB into|ADP “|PUNCT what|NOUN motivates|VERB employees|NOUN ”|PUNCT and|CCONJ from|ADP that|DET to|ADP identifying|VERB factors|NOUN that|ADJ can|VERB be|VERB used|VERB to|PART motivate|VERB people|NOUN .|PUNCT
+Rather|ADV ,|PUNCT the|DET authors|NOUN suggest|VERB that|ADP the|DET appropriate_question|NOUN to|PART ask|VERB ,|PUNCT given|VERB that|ADP there|ADV are|VERB two|CARDINAL human_motivational_elements|NOUN at|ADP play|NOUN is|VERB ,|PUNCT
+“|PUNCT How|ADV is|VERB this|DET behaviour|NOUN motivated|VERB ?|PUNCT ”|PUNCT or|CCONJ “|PUNCT
+Which|ADJ motivational_framework|NOUN ,|PUNCT intrinsic|ADJ or|CCONJ extrinsic|ADJ ,|PUNCT is|VERB at|ADP play|NOUN here|ADV ?|PUNCT ”|PUNCT .|PUNCT
+One|CARDINAL last_implication|NOUN of|ADP the|DET intrinsic/extrinsic_motivational_difference|NOUN is|VERB that|ADP recognition_programs|NOUN actually|ADV help|VERB to|PART strengthen|VERB the|DET bond|NOUN with|ADP the|DET organisation|NOUN ;|PUNCT something|NOUN rewards|NOUN can|VERB simply|ADV not|ADV achieve|VERB .|PUNCT
+Thus|ADV organisations|NOUN should|VERB not|ADV expect|VERB any|DET increased|VERB loyalty|NOUN from|ADP their|ADJ employees|NOUN for|ADP being|VERB offered_rewards|NOUN .|PUNCT
+On|ADP the|DET other_hand|NOUN ,|PUNCT with|ADP a|DET recognition_program|NOUN in|ADP place|NOUN ,|PUNCT organisations|NOUN can|VERB expect|VERB to|PART see|VERB their|ADJ employees|NOUN aspiring|VERB for|ADP excellence|NOUN in|ADP their|ADJ activities|NOUN and|CCONJ continuous_improvement|NOUN ,|PUNCT purely|ADV because|ADP it|PRON activates|VERB their|ADJ intrinsic_motivational_centres|NOUN .|PUNCT
+Interestingly|ADV ,|PUNCT recognition_programs|NOUN now|ADV exist|VERB that|ADP combine|VERB the|DET act|NOUN of|ADP recognition|NOUN with|ADP rewards|NOUN .|PUNCT
+The|DET idea|NOUN is|VERB to|PART expect|VERB changes|NOUN in|ADP behaviour|NOUN by|ADP rewarding_people|NOUN who|NOUN recognise|VERB others|NOUN in|ADP the|DET organisation|NOUN .|PUNCT
+The|DET success|NOUN of|ADP companies|NOUN that|ADJ do|VERB this|DET suggests|VERB that|ADP perhaps|ADV the|DET external|ADJ motivators|NOUN for|ADP recognising|VERB people|NOUN can|VERB have|VERB an|DET impact|NOUN on|ADP behavioural_change|NOUN .|PUNCT
+Would|VERB n’t|ADV that|DET be|VERB the|DET ultimate_irony|NOUN ?|PUNCT
+The|DET writer|NOUN is|VERB founder|NOUN and|CCONJ CEO|NOUN of|ADP HR_analytics|NOUN start|VERB -|PUNCT up|NOUN ,|PUNCT nFactorial_Analytical_Sciences|ENT

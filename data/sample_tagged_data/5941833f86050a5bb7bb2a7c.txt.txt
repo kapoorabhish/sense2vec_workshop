@@ -1,0 +1,37 @@
+I|PRON am|VERB planning|VERB to|PART buy|VERB a|DET house|NOUN worth_Rs_80_lakh|DATE .|PUNCT
+I|PRON am|VERB taking|VERB a|DET loan|NOUN of|ADP Rs_50|CARDINAL lakh|NOUN .|PUNCT
+My|ADJ father|NOUN is|VERB giving|VERB me|PRON Rs|NOUN 15|CARDINAL lakh|NOUN and|CCONJ his|ADJ brother|NOUN (|PUNCT my|ADJ uncle|NOUN )|PUNCT is|VERB giving|VERB me|PRON Rs|NOUN 10|CARDINAL lakh|NOUN .|PUNCT
+The|DET remaining|VERB will|VERB be|VERB from|ADP my|ADJ savings|NOUN .|PUNCT
+What|NOUN are|VERB the|DET cautions|NOUN I|PRON should|VERB take|VERB to|PART answer|VERB a|DET potential_query|NOUN on|ADP the|DET sources|NOUN of|ADP fund|NOUN for|ADP the|DET property_purchase|NOUN ?|PUNCT
+You|PRON have|VERB not|ADV mentioned|VERB whether|ADP the|DET money|NOUN taken|VERB from|ADP your|ADJ father|NOUN and|CCONJ uncle|NOUN is|VERB a|DET loan|NOUN or|CCONJ gift|NOUN .|PUNCT
+There|ADV is|VERB no|DET specific_section|NOUN in|ADP the|DET return_form|NOUN to|PART disclose|VERB the|DET details|NOUN of|ADP the|DET property|NOUN purchased|VERB .|PUNCT
+If|ADP you|PRON have|VERB income|NOUN exceeding|VERB Rs_50|CARDINAL lakh|NOUN then|ADV you|PRON are|VERB required|VERB to|PART fill|VERB the|DET Asset|PROPN and|CCONJ Liability_schedule|NOUN to|ADP the|DET return_form|NOUN .|PUNCT
+In|ADP that|DET form|NOUN when|ADV you|PRON disclose|VERB the|DET house|NOUN ,|PUNCT do|VERB not|ADV forget|VERB to|PART include|VERB the|DET taken|VERB from|ADP the|DET bank|NOUN and|CCONJ your|ADJ father|NOUN and|CCONJ uncle|NOUN (|PUNCT if|ADP it|PRON is|VERB loan|NOUN )|PUNCT .|PUNCT
+Nevertheless|ADV ,|PUNCT authorities|NOUN may|VERB do|VERB ask|VERB for|ADP the|DET source|NOUN of|ADP funding|VERB the|DET house_purchase|NOUN .|PUNCT
+Therefore|ADV ,|PUNCT you|PRON should|VERB carefully|ADV keep|VERB the|DET relevant|ADJ documents/|NOUN supporting|VERB papers|NOUN explaining|VERB the|DET loan|NOUN from|ADP bank|NOUN and|CCONJ gift|NOUN from|ADP your|ADJ father|NOUN and|CCONJ uncle|NOUN .|PUNCT
+If|ADP the|DET money|NOUN taken|VERB from|ADP your|ADJ father|NOUN and|CCONJ uncle|NOUN is|VERB loan|NOUN ,|PUNCT the|DET understanding|NOUN should|VERB be|VERB in|ADP writing|VERB so|ADP that|ADP where|ADV questioned|VERB it|PRON would|VERB be|VERB easier|ADJ for|ADP you|PRON to|PART explain|VERB the|DET transactions|NOUN to|ADP the|DET authorities|NOUN .|PUNCT
+Even|ADV where|ADV the|DET amount|NOUN received|VERB from|ADP father|NOUN and|CCONJ uncle|NOUN is|VERB gift|NOUN ,|PUNCT it|PRON is|VERB recommended|VERB to|PART have|VERB the|DET gift_deed|NOUN in|ADP place|NOUN .|PUNCT
+When|ADV authorities|NOUN question|VERB ,|PUNCT they|PRON may|VERB also|ADV seek|VERB confirmation|NOUN from|ADP your|ADJ father|NOUN and|CCONJ uncle|NOUN that|ADP they|PRON indeed|ADV gave|VERB you|PRON the|DET money|NOUN and|CCONJ what|NOUN is|VERB their|ADJ source|NOUN of|ADP income|NOUN .|PUNCT
+My|ADJ wife|NOUN and|CCONJ I|PRON have|VERB a|DET joint_house|NOUN which|ADJ is|VERB given|VERB on|ADP We|PRON get|VERB Rs_15,000|CARDINAL as|ADV every|DET month|DATE .|PUNCT
+Since|ADP my|ADJ wife|NOUN is|VERB not|ADV working|VERB can|VERB this|DET be|VERB shown|VERB as|ADP her|ADJ income|NOUN ?|PUNCT
+Will|VERB she|PRON have|VERB to|PART pay|VERB on|ADP it|PRON ?|PUNCT
+You|PRON have|VERB not|ADV mentioned|VERB whether|ADP the|DET house|NOUN was|VERB entirely|ADV funded|VERB by|ADP you|PRON or|CCONJ you|PRON both|DET contributed|VERB .|PUNCT
+In|ADP case|NOUN you|PRON have|VERB funded|VERB the|DET purchase|NOUN of|ADP house|NOUN ,|PUNCT you|PRON will|VERB be|VERB still|ADV considered|VERB a|DET deemed_owner|NOUN of|ADP that|DET house|NOUN ,|PUNCT even|ADV though|ADP you|PRON made|VERB your|ADJ wife|NOUN the|DET joint|ADJ owner|NOUN .|PUNCT
+The|DET entire_rental_income|NOUN will|VERB be|VERB taxable|ADJ in|ADP your|ADJ hands|NOUN only|ADV .|PUNCT
+This|DET would|VERB be|VERB so|ADV even|ADV though|ADP being|VERB the|DET joint_owner|NOUN ,|PUNCT your|ADJ wife|NOUN may|VERB be|VERB receiving|VERB the|DET (|PUNCT for|ADP her|ADJ share|NOUN )|PUNCT directly|ADV into|ADP her|ADJ bank_account|NOUN .|PUNCT
+However|ADV ,|PUNCT income|NOUN that|ADJ your|ADJ wife|NOUN may|VERB earn|VERB further|ADV by|ADP investing|VERB the|DET rental_income|NOUN will|VERB remain|VERB taxable|ADJ in|ADP her|ADJ hands|NOUN only|ADV .|PUNCT
+On|ADP the|DET other_hand|NOUN ,|PUNCT if|ADP the|DET house|NOUN is|VERB funded|VERB by|ADP both|DET of|ADP you|PRON ,|PUNCT then|ADV both|DET of|ADP you|PRON will|VERB be|VERB liable|ADJ to|PART on|ADP your|ADJ respective_share|NOUN in|ADP The|DET fact|NOUN that|ADP she|PRON is|VERB not|ADV working|VERB does|VERB not|ADV mean|VERB that|ADP the|DET entire_rental_income|NOUN will|VERB be|VERB taxable|ADJ in|ADP her|ADJ hands|NOUN by|ADP your|ADJ choice|NOUN .|PUNCT
+Further|ADV ,|PUNCT the|DET property|NOUN /|SYM house|NOUN is|VERB required|VERB to|PART be|VERB disclosed|VERB in|ADP the|DET return|NOUN ,|PUNCT if|ADP applicable|ADJ .|PUNCT
+Since|ADP you|PRON are|VERB the|DET joint_holder|NOUN ,|PUNCT you|PRON should|VERB include|VERB such_house_details|NOUN in|ADP your|ADJ return|NOUN as|ADV well|ADV .|PUNCT
+It|PRON is|VERB advisable|ADJ to|PART maintain|VERB the|DET document|NOUN evidencing|VERB your|ADJ respective_shares|NOUN (|PUNCT title|NOUN deed|NOUN )|PUNCT ,|PUNCT sources|NOUN of|ADP funds|NOUN ,|PUNCT agreement|NOUN etc|X in|ADP case|NOUN any|DET questions|NOUN are|VERB is|VERB asked|VERB by|ADP authorities|NOUN .|PUNCT
+When|ADV I|PRON logged|VERB onto|ADP the|DET portal|NOUN for|ADP linking|VERB my|ADJ number|NOUN to|ADP my|ADJ account|NOUN ,|PUNCT it|PRON was|VERB already|ADV linked|VERB .|PUNCT
+How|ADV was|VERB this|DET done|VERB ?|PUNCT
+I|PRON have|VERB not|ADV submitted|VERB my|ADJ number|NOUN to|ADP the|DET department|NOUN so|ADV far|ADV .|PUNCT
+This|DET generally|ADV happens|VERB when|ADV you|PRON have|VERB mentioned|VERB your|ADJ number|NOUN while|ADP filing|VERB return|NOUN (|PUNCT ITR|PROPN )|PUNCT of|ADP the_last_years|DATE .|PUNCT
+Earlier|ADV there|ADV was|VERB an|DET option|NOUN to|PART link|VERB the|DET with|ADP PAN|ENT on|ADP the|DET IT_website|NOUN on|ADP a|DET voluntary_basis|NOUN .|PUNCT
+If|ADP you|PRON have|VERB done|VERB so|ADV ,|PUNCT the|DET department|NOUN has|VERB automatically|ADV linked|VERB your|ADJ number|NOUN with|ADP the|DET PAN|ENT and|CCONJ hence|ADV ,|PUNCT no|DET further|ADV linking|VERB action|NOUN is|VERB pending|VERB from|ADP your|ADJ side|NOUN .|PUNCT
+You|PRON can|VERB check|VERB your|ADJ last_year|DATE ITR|PROPN and|CCONJ see|VERB the|DET number|NOUN disclosed|VERB .|PUNCT
+In|ADP case|NOUN you|PRON have|VERB not|ADV mentioned|VERB the|DET in|ADP your|ADJ return|NOUN ,|PUNCT you|PRON can|VERB call|VERB the|DET department|NOUN at|ADP help_line_number|NOUN and|CCONJ enquire|NOUN about|ADP the|DET same|ADJ .|PUNCT
+The|DET writer|NOUN is|VERB partner|NOUN and|CCONJ leader|NOUN ,|PUNCT Personal_Tax|ENT ,|PUNCT PwC_India|ENT .|PUNCT
+The|DET views|NOUN expressed|VERB are|VERB the|DET expert|NOUN ’s|VERB own|ADJ .|PUNCT
+Send|VERB your|ADJ queries|NOUN to|ADP %%URL|X

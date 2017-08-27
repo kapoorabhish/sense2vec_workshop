@@ -1,0 +1,24 @@
+The|DET car|NOUN hit|VERB a|DET stationary_truck|NOUN (|PUNCT R|PROPN )|PUNCT on|ADP the|DET expressway|NOUN .|PUNCT
+(Express_Photo|ENT :|PUNCT Gajendra_Yadav|ENT )|PUNCT The|DET car|NOUN hit|VERB a|DET stationary_truck|NOUN (|PUNCT R|PROPN )|PUNCT on|ADP the|DET expressway|NOUN .|PUNCT
+(|PUNCT Express_Photo|PROPN :|PUNCT Gajendra_Yadav|ENT )|PUNCT
+Four|CARDINAL people|NOUN were|VERB killed|VERB after|ADP their|ADJ car|NOUN hit|VERB a|DET stationary_truck|NOUN on|ADP the_Yamuna_Expressway_Monday|ENT morning|TIME .|PUNCT
+While|ADP police|NOUN did|VERB not|ADV receive|VERB any|DET complaint|NOUN with|ADP regard|NOUN to|ADP the|DET case|NOUN ,|PUNCT they|PRON maintained|VERB that|ADP the|DET accident|NOUN did|VERB not|ADV seem|VERB to|PART have|VERB taken|VERB place|NOUN due|ADP to|ADP fog|NOUN and|CCONJ low_visibility|NOUN .|PUNCT
+The|DET accident|NOUN took|VERB place|NOUN around|ADP 8|CARDINAL am|VERB ,|PUNCT nearly|ADV 7_km|QUANTITY from|ADP the|DET zero|CARDINAL point|NOUN in|ADP Greater_Noida’s_Ecotech_police_station|NOUN .|PUNCT
+Watch|VERB what|NOUN else|ADV is|VERB in|ADP the|DET news|NOUN “|PUNCT
+Three|CARDINAL persons|NOUN of|ADP a|DET family|NOUN and|CCONJ their|ADJ driver|NOUN were|VERB killed|VERB .|PUNCT
+Prima_facie|NOUN ,|PUNCT it|PRON does|VERB not|ADV look|VERB like|ADP an|DET accident|NOUN caused|VERB due|ADJ to|ADP low_visibility|NOUN since|ADP fog|NOUN was|VERB not|ADV that|DET dense|ADJ at|ADP the|DET time|NOUN ,|PUNCT ”|PUNCT said|VERB Ajay_Kumar|ENT ,|PUNCT Circle_Officer|ENT ,|PUNCT Greater_Noida|ENT 2nd|NOUN ,|PUNCT Gautam_Budh_Nagar_Police|ENT .|PUNCT
+The|DET victims|NOUN have|VERB been|VERB identified|VERB as|ADP Manoj_Kumar_Sinha|ENT (|PUNCT 53|CARDINAL )|PUNCT ,|PUNCT his|ADJ wife|NOUN Soni_Sinha|ENT (|PUNCT 50|CARDINAL )|PUNCT ,|PUNCT his|ADJ mother|NOUN -|PUNCT in|ADP -|PUNCT law|NOUN Usha|ENT (|PUNCT 73|CARDINAL )|PUNCT ,|PUNCT and|CCONJ Sultan_Ahmad|ENT (|PUNCT 40|CARDINAL )|PUNCT .|PUNCT
+Sinha|ENT and|CCONJ his|ADJ family_members|NOUN were|VERB on|ADP their|ADJ way|NOUN back|ADV after|ADP attending|VERB a|DET wedding|NOUN in|ADP Bihar|ENT .|PUNCT
+“|PUNCT All|DET of|ADP them|PRON died|VERB in|ADP the|DET accident|NOUN Monday|DATE morning|TIME .|PUNCT
+The|DET couple|NOUN ,|PUNCT residents|NOUN of|ADP Ghaziabad’s_Indirapuram|ENT ,|PUNCT have|VERB a|DET 17-year-old_son|NOUN and|CCONJ 15-year|ADJ -|PUNCT old_daughter|NOUN who|NOUN study|VERB at|ADP a|DET Delhi|ENT -|PUNCT based_school|NOUN .|PUNCT
+Ahmad|ENT ,|PUNCT the|DET driver|NOUN of|ADP the|DET car|NOUN ,|PUNCT used|VERB to|PART live|VERB in|ADP Delhi’s_Jamia_Nagar|ENT ,|PUNCT ”|PUNCT a|DET senior_police_officer|NOUN said|VERB .|PUNCT
+Police_officers|NOUN said|VERB that|ADP the|DET silver_Maruti_Alto|ENT the|DET four|CARDINAL persons|NOUN were|VERB travelling|VERB in|ADV hit|VERB a|DET stationary_truck|NOUN .|PUNCT “|PUNCT
+It|PRON seems|VERB that|ADP their|ADJ car|NOUN was|VERB travelling|VERB at|ADP a|DET high_speed|NOUN .|PUNCT
+They|PRON were|VERB on|ADP the|DET road|NOUN that|ADJ leads|VERB to|ADP Pari_Chowk|ENT in|ADP Greater_Noida|PROPN from|ADP Agra|ENT .|PUNCT
+It|PRON is|VERB also|ADV possible|ADJ that|ADP the|DET driver|NOUN fell|VERB asleep|ADJ .|PUNCT
+The|DET truck|NOUN had|VERB been|VERB parked|VERB on|ADP the|DET side|NOUN of|ADP the|DET road|NOUN after|ADP it|PRON had|VERB broken|VERB down|PART .|PUNCT
+The|DET bodies|NOUN were|VERB stuck|VERB between|ADP the|DET vehicles|NOUN and|CCONJ it|PRON took|VERB us|PRON a|DET while|NOUN to|PART bring|VERB them|PRON out|PART ,|PUNCT ”|PUNCT the|DET officer|NOUN added|VERB .|PUNCT
+The|DET bodies|NOUN were|VERB sent|VERB for|ADP post-mortem|NOUN in|ADP the|DET morning|TIME and|CCONJ were|VERB handed|VERB over|ADP to|ADP the|DET families|NOUN by|ADP evening|TIME .|PUNCT
+This|DET is|VERB the|DET second_accident|NOUN at|ADP the|DET Expressway|ENT this_month|DATE .|PUNCT
+On|ADP December_1,|DATE two|CARDINAL persons|NOUN had|VERB died|VERB near|ADP Mathura|ENT in|ADP separate_incidents|NOUN when|ADV cars|NOUN piled|VERB up|PART due|ADP to|ADP low_visibility|NOUN .|PUNCT
+For|ADP all|ADJ the|DET latest_India_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

@@ -1,0 +1,39 @@
+Needle_Action_Activity|ENT Spotted|VERB in|ADP KARUR_VYSYA_BANK_LTD|ENT .|PUNCT
+(|PUNCT KARURVYSYA.BO|ENT )|PUNCT Shares|NOUN of|ADP KARUR_VYSYA_BANK_LTD|ENT .|PUNCT (|PUNCT KARURVYSYA.BO|ENT )|PUNCT are|VERB moving|VERB on|ADP volatility|NOUN today|DATE -2.02%|NUM or|CCONJ $|SYM -2.85|MONEY from|ADP the|DET open|ADJ .|PUNCT
+The|DET BSE|ENT listed_company|NOUN saw|VERB a|DET recent_bid|NOUN of|ADP $|SYM 138.00|MONEY and|CCONJ 37176|CARDINAL shares|NOUN have|VERB traded|VERB hands|NOUN in|ADP the|DET session|NOUN .|PUNCT
+When|ADV it|PRON comes|VERB to|ADP investing|VERB in|ADP the|DET equity_markets|NOUN ,|PUNCT patience|NOUN may|VERB play|VERB a|DET key_role|NOUN in|ADP how|ADV successful|ADJ the|DET portfolio|NOUN is|VERB .|PUNCT
+Learning|VERB the|DET ins|NOUN and|CCONJ outs|NOUN of|ADP the|DET markets|NOUN can|VERB take|VERB a|DET lot|NOUN of|ADP time|NOUN and|CCONJ energy|NOUN .|PUNCT
+Investors|NOUN who|NOUN are|VERB able|ADJ to|PART make|VERB well|ADV researched|VERB ,|PUNCT calculated_decisions|NOUN may|VERB be|VERB putting|VERB themselves|PRON in|ADP a|DET much_better_place|NOUN .|PUNCT
+Learning|VERB how|ADV to|PART focus|VERB on|ADP the|DET most_pertinent_data|NOUN can|VERB put|VERB the|DET individual_investor|NOUN on|ADP the|DET right_track|NOUN .|PUNCT
+With|ADP so_much_information|NOUN available|ADJ ,|PUNCT it|PRON becomes|VERB highly|ADV important|ADJ to|PART be|VERB able|ADJ to|PART discern|VERB what|NOUN information|NOUN deserves|VERB attention|NOUN and|CCONJ what|NOUN does|VERB n’t|ADV .|PUNCT
+Once|ADP the|DET investor|NOUN knows|VERB exactly|ADV what|NOUN to|PART look|VERB for|ADP ,|PUNCT the|DET process|NOUN may|VERB become|VERB gradually|ADV easier|ADJ and|CCONJ much|ADV more|ADV manageable|ADJ .|PUNCT
+Digging|VERB deeping|NOUN into|ADP the|DET KARUR_VYSYA_BANK_LTD|PROPN .|PUNCT
+(|PUNCT KARURVYSYA.BO|PROPN )|PUNCT ‘s|ADP technical_indicators|NOUN ,|PUNCT we|PRON note|VERB that|ADP the_Williams_Percent_Range|ENT or|CCONJ 14_day|DATE Williams_%R|NOUN currently|ADV sits|VERB at|ADP -86.96|PROPN .|PUNCT
+The|DET Williams_%R|NOUN oscillates|VERB in|ADP a|DET range|NOUN from|ADP 0|CARDINAL to|ADP -100|NUM .|PUNCT
+A|DET reading|NOUN between_0_and_-20|DATE would|VERB point|VERB to|ADP an|DET overbought_situation|NOUN .|PUNCT
+A|DET reading|NOUN from|ADP -80|NOUN to|ADP -100|PROPN would|VERB signal|VERB an|DET oversold_situation|NOUN .|PUNCT
+The|DET Williams_%R|PROPN was|VERB developed|VERB by|ADP Larry_Williams|ENT .|PUNCT
+This|DET is|VERB a|DET momentum_indicator|NOUN that|ADJ is|VERB the|DET inverse|NOUN of|ADP the_Fast_Stochastic_Oscillator|ENT .|PUNCT
+KARUR_VYSYA_BANK_LTD|ENT .|PUNCT (|PUNCT KARURVYSYA.BO|PROPN )|PUNCT currently|ADV has|VERB a|DET 14-day|DATE Commodity_Channel_Index|ENT (|PUNCT CCI|ENT )|PUNCT of|ADP -124.46|NOUN .|PUNCT
+Active_investors|NOUN may|VERB choose|VERB to|PART use|VERB this|DET technical_indicator|NOUN as|ADP a|DET stock_evaluation_tool|NOUN .|PUNCT
+Used|VERB as|ADP a|DET coincident_indicator|NOUN ,|PUNCT the|DET CCI_reading|NOUN above|ADP +|SYM 100|CARDINAL would|VERB reflect|VERB strong_price_action|NOUN which|ADJ may|VERB signal|VERB an|DET uptrend|NOUN .|PUNCT
+On|ADP the|DET flip_side|NOUN ,|PUNCT a|DET reading|NOUN below|ADP -100|PROPN may|VERB signal|VERB a|DET downtrend|NOUN reflecting|VERB weak_price_action|NOUN .|PUNCT
+Using|VERB the|DET CCI|ENT as|ADP a|DET leading_indicator|NOUN ,|PUNCT technical_analysts|NOUN may|VERB use|VERB a|DET +|SYM 100|CARDINAL reading|NOUN as|ADP an|DET overbought_signal|NOUN and|CCONJ a|DET -100_reading|NOUN as|ADP an|DET oversold_indicator|NOUN ,|PUNCT suggesting|VERB a|DET trend_reversal|NOUN .|PUNCT
+Currently|ADV ,|PUNCT the|DET 14-day_ADX|NOUN for|ADP KARUR_VYSYA_BANK_LTD|ENT .|PUNCT
+(|PUNCT KARURVYSYA.BO|ENT )|PUNCT is|VERB sitting|VERB at|ADP 28.92|CARDINAL .|PUNCT
+Generally|ADV speaking|VERB ,|PUNCT an|DET ADX_value|NOUN from|ADP 0-25_would|PERCENT indicate|VERB an|DET absent_or_weak_trend|NOUN .|PUNCT
+A|DET value|NOUN of|ADP 25-50_would|PERCENT support|VERB a|DET strong_trend|NOUN .|PUNCT
+A|DET value|NOUN of|ADP 50-75|CARDINAL would|VERB identify|VERB a|DET very_strong_trend|NOUN ,|PUNCT and|CCONJ a|DET value|NOUN of|ADP 75-100|CARDINAL would|VERB lead|VERB to|ADP an|DET extremely_strong_trend|NOUN .|PUNCT
+ADX|ENT is|VERB used|VERB to|PART gauge|VERB trend_strength|NOUN but|CCONJ not|ADV trend|VERB direction|NOUN .|PUNCT
+Traders|NOUN often|ADV add|VERB the_Plus_Directional_Indicator|ENT (|PUNCT +|PROPN DI|ENT )|PUNCT and|CCONJ Minus_Directional_Indicator|ENT (|PUNCT -DI|PROPN )|PUNCT to|PART identify|VERB the|DET direction|NOUN of|ADP a|DET trend|NOUN .|PUNCT
+The|DET RSI|ENT ,|PUNCT or|CCONJ Relative_Strength_Index|ENT ,|PUNCT is|VERB a|DET widely_used_technical_momentum_indicator|NOUN that|ADJ compares|VERB price_movement|NOUN over|ADP time|NOUN .|PUNCT
+The|DET RSI|ENT was|VERB created|VERB by|ADP J._Welles_Wilder|ENT who|NOUN was|VERB striving|VERB to|PART measure|VERB whether|ADP or|CCONJ not|ADV a|DET stock|NOUN was|VERB overbought|ADJ or|CCONJ oversold|ADJ .|PUNCT
+The|DET RSI|ENT may|VERB be|VERB useful|ADJ for|ADP spotting|VERB abnormal_price_activity|NOUN and|CCONJ volatility|NOUN .|PUNCT
+The|DET RSI|ENT oscillates|VERB on|ADP a|DET scale|NOUN from|ADP 0|CARDINAL to|ADP 100|CARDINAL .|PUNCT
+The|DET normal_reading|NOUN of|ADP a|DET stock|NOUN will|VERB fall|VERB in|ADP the|DET range|NOUN of|ADP 30_to_70.|PERCENT
+A|DET reading|NOUN over|ADP 70|CARDINAL would|VERB indicate|VERB that|ADP the|DET stock|NOUN is|VERB overbought|ADJ ,|PUNCT and|CCONJ possibly|ADV overvalued|VERB .|PUNCT
+A|DET reading|VERB under|ADP 30_may|QUANTITY indicate|VERB that|ADP the|DET stock|NOUN is|VERB oversold|ADJ ,|PUNCT and|CCONJ possibly|ADV undervalued|VERB .|PUNCT
+After|ADP a|DET recent_check|NOUN ,|PUNCT the_14-day_RSI|ENT for|ADP KARUR_VYSYA_BANK_LTD|PROPN .|PUNCT
+is|VERB currently|ADV at|ADP 48.65|CARDINAL ,|PUNCT the|DET 7-day|DATE stands|VERB at|ADP 37.58|CARDINAL ,|PUNCT and|CCONJ the|DET 3-day|DATE is|VERB sitting|VERB at|ADP 29.68|CARDINAL .|PUNCT
+Receive_News_&_Ratings_Via|ENT Email_-_Enter|PROPN your|ADJ email|NOUN address|NOUN below|ADP to|PART receive|VERB a|DET concise_daily_summary|NOUN of|ADP the|DET latest_news|NOUN and|CCONJ analysts|NOUN '|PART ratings|NOUN with|ADP %%URL|X 's|PART FREE_daily_email_newsletter|NOUN .|PUNCT
+By|ADP DR_Staff_Writer|ENT

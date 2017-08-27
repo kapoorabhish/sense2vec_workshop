@@ -1,0 +1,25 @@
+Jonty_Rhodes|ENT is|VERB in|ADP India|ENT as|ADP part|NOUN of|ADP the|DET Indian_Premier_League|PROPN (|PUNCT IPL|PROPN )|PUNCT bandwagon|NOUN on|ADP the|DET coaching_staff|NOUN of|ADP Mumbai_Indians|ENT .|PUNCT
+(|PUNCT Twitter/Jonty_Rhodes|ENT )|PUNCT
+He|PRON may|VERB be|VERB a|DET very_busy_man|NOUN ,|PUNCT just|ADV today|DATE his|ADJ plate|NOUN was|VERB full|ADJ ,|PUNCT what|NOUN with|ADP having|VERB to|PART attend|VERB the|DET NITI_Aayog’s_Governing_Council|PROPN meet|VERB where|ADV all|ADJ the|DET chief_ministers|NOUN had|VERB gathered|VERB to|PART chalk|VERB out|ADP the|DET way|NOUN forward|ADV as|ADP far_India’s_developmental_agenda|NOUN was|VERB concerned|VERB ,|PUNCT but|CCONJ Prime_Minister_Narendra_Modi|ENT is|VERB a|DET die-hard_cricket_fan|NOUN too|ADV and|CCONJ keeps|VERB himself|PRON updated|ADJ about|ADP it|PRON ,|PUNCT and|CCONJ in|ADP this|DET case|NOUN ,|PUNCT he|PRON even|ADV knew|VERB quite|ADJ a|DET bit|NOUN about|ADP a|DET child|NOUN of|ADP an|DET iconic_former_cricketer|NOUN .|PUNCT
+We|PRON are|VERB referring|VERB to|ADP former_South_African_cricketer_Jonty_Rhodes|ENT and|CCONJ his|ADJ daughter|NOUN called|VERB ‘India’|PROPN and|CCONJ the|DET date|NOUN in|ADP question|NOUN was|VERB none|NOUN else|ADV but|CCONJ her|ADJ birthday|NOUN today|DATE !|PUNCT
+Taking|VERB to|ADP Twitter_PM_Modi|TIME tonight|NOUN wished|VERB Rhodes’_daughter|NOUN ,|PUNCT who|NOUN has|VERB been|VERB named|VERB ‘|PUNCT
+India’|NOUN ,|PUNCT on|ADP her|ADJ second_birthday|NOUN .|PUNCT
+Rhodes|ENT had|VERB named|VERB his|ADJ daughter|NOUN ‘|PUNCT
+India’|PROPN in|ADP April_2015|DATE .|PUNCT
+Currently|ADV ,|PUNCT he|PRON is|VERB in|ADP India|ENT as|ADP part|NOUN of|ADP the|DET Indian_Premier_League|PROPN (|PUNCT IPL|PROPN )|PUNCT bandwagon|NOUN on|ADP the|DET coaching_staff|NOUN of|ADP Mumbai_Indians|ENT .|PUNCT
+Rhodes|ENT had|VERB posted|VERB a|DET picture|NOUN of|ADP himself|PRON with|ADP his|ADJ daughter|NOUN on|ADP Twitter|ENT earlier|ADV saying|VERB ,|PUNCT “|PUNCT
+Happy_Birthday_baby_India|ENT ;|PUNCT 2|CARDINAL today|DATE #|PUNCT landofyourbirth|NOUN .|PUNCT
+”|PUNCT
+You|PRON May|VERB Also|ADV Want|VERB To|PROPN Watch|VERB :|PUNCT __PM_Modi|TIME tagged|VERB Rhodes|ENT and|CCONJ himself|PRON posted,”Happy_birthday|NOUN to|ADP India|ENT ,|PUNCT from|ADP India|ENT .|PUNCT
+:|PUNCT )|PUNCT .|PUNCT
+”|PUNCT Happy_birthday|NOUN to|ADP India|ENT ,|PUNCT from|ADP India|ENT .|PUNCT
+🙂|SYM %%URL|X
+—|PUNCT Narendra_Modi|ENT (|PUNCT @narendramodi|PROPN )|PUNCT April_23,_2017|DATE
+And|CCONJ why_did_Rhodes_name|NOUN his|ADJ daughter|NOUN after|ADP India|ENT ?|PUNCT
+According|VERB to|ADP the|DET cricketer|NOUN ,|PUNCT who|NOUN was|VERB especially|ADV known|VERB for|ADP his|ADJ outstanding_fielding|NOUN ,|PUNCT he|PRON appreciated|VERB India|ENT ’s_rich_mix|NOUN of|ADP culture|NOUN ,|PUNCT heritage|NOUN and|CCONJ tradition|NOUN and|CCONJ so|ADV named|VERB his|ADJ daughter|NOUN ‘|PUNCT
+India’|PROPN ,|PUNCT according|VERB to|ADP news_agency|NOUN PTI|ENT .|PUNCT “|PUNCT
+It|PRON is|VERB a|DET very_spiritual_country|NOUN ,|PUNCT very|ADV forward|ADV -|PUNCT thinking|VERB nation|NOUN .|PUNCT
+I|PRON really|ADV like|ADP that|DET combination|NOUN .|PUNCT
+You|PRON have|VERB to|PART have|VERB a|DET good_balance|NOUN of|ADP life|NOUN .|PUNCT
+With|ADP the|DET name|NOUN like|ADP India|ENT ,|PUNCT she|PRON will|VERB have|VERB the|DET best|ADJ of|ADP both|DET worlds|NOUN and|CCONJ that|DET sort|NOUN of|ADP balance|NOUN ,|PUNCT ”|PUNCT
+Rhodes|ENT was|VERB quoted|VERB as|ADP saying|VERB by|ADP PTI|ENT .|PUNCT

@@ -1,0 +1,17 @@
+Police|NOUN in|ADP Tempe|ENT ,|PUNCT Arizona|ENT ,|PUNCT are|VERB looking|VERB for|ADP any|DET information|NOUN about|ADP a|DET baby_girl|NOUN found|VERB alive|ADJ inside|ADP a|DET Jonas_Brothers_backpack|NOUN Sunday_night|TIME .|PUNCT
+A|DET passer|NOUN -|PUNCT by|ADP found|VERB the|DET backpack|NOUN holding|VERB the|DET newborn_child|NOUN in|ADP a|DET shopping_cart|NOUN in|ADP a|DET grocery_store_parking_lot|NOUN ,|PUNCT according|VERB to|ADP %%URL|X .|PUNCT
+The|DET temperature|NOUN at|ADP the|DET time|NOUN was|VERB 103|CARDINAL degrees|NOUN ,|PUNCT and|CCONJ the|DET baby|NOUN was|VERB wrapped|VERB in|ADP a|DET blanket|NOUN .|PUNCT
+The|DET witness|NOUN brought|VERB the|DET child|NOUN to|ADP the|DET store_manager|NOUN ,|PUNCT who|NOUN called|VERB 911|CARDINAL .|PUNCT
+When|ADV the|DET dispatcher|NOUN asked|VERB if|ADP the|DET girl|NOUN appeared|VERB injured|VERB ,|PUNCT he|PRON replied|VERB ,|PUNCT “|PUNCT
+She|PRON ’s|VERB beautiful|ADJ ,|PUNCT ”|PUNCT while|ADP the|DET child|NOUN cried|VERB and|CCONJ gurgled|VERB ,|PUNCT according|VERB to|ADP a|DET 911|CARDINAL call|NOUN obtained|VERB by|ADP Inside_Edition|ENT .|PUNCT
+The|DET caller|NOUN told|VERB police_part|NOUN of|ADP the|DET baby|NOUN ’s|VERB umbilical_cord|NOUN was|VERB still|ADV attached|VERB .|PUNCT “|PUNCT
+Oh|INTJ my|ADJ goodness|NOUN ,|PUNCT ”|PUNCT the|DET caller|NOUN said|VERB .|PUNCT “|PUNCT
+The|DET baby|NOUN was|VERB just|ADV barely|ADV born|VERB right|ADV now|ADV .|PUNCT ”|PUNCT
+Police|NOUN picked|VERB up|PART the|DET child|NOUN and|CCONJ took|VERB her|PRON to|ADP a|DET hospital|NOUN ,|PUNCT where|ADV she|PRON was|VERB reported|VERB in|ADP good_health|NOUN .|PUNCT
+She|PRON is|VERB now|ADV in|ADP foster|ADJ care|NOUN ,|PUNCT according|VERB to|ADP Phoenix_station|NOUN KSAZ|ENT .|PUNCT
+Anyone|NOUN with|ADP information|NOUN about|ADP the|DET child|NOUN or|CCONJ her|ADJ parents|NOUN is|VERB asked|VERB to|PART call|VERB 480-350-8311|CARDINAL .|PUNCT
+Please|INTJ contact|VERB Tempe_Police|PROPN with|ADP any|DET information|NOUN .|PUNCT
+480|CARDINAL -|PUNCT 350|NUM -|PUNCT 8311|NUM pic.twitter.com/U8qkriwq0t|NOUN —|PUNCT Tempe_Police|ENT (|PUNCT @TempePolice|NOUN )|PUNCT June_5,_2017|DATE Whoever|NOUN abandoned|VERB the|DET child|NOUN might|VERB be|VERB facing|VERB criminal_charges|NOUN ,|PUNCT which|ADJ is|VERB ironic|ADJ since|ADP the|DET baby_girl|NOUN was|VERB left|VERB only_50_feet|QUANTITY from|ADP a|DET fire_station|NOUN ,|PUNCT which|ADJ is|VERB considered|VERB a|DET “|PUNCT
+safe_haven|NOUN ,|PUNCT ”|PUNCT according|VERB to|ADP Paul_Nies|ENT ,|PUNCT the|DET assistant|NOUN chief|NOUN for|ADP the_Tempe_Fire_Medical_Rescue_Department|ENT .|PUNCT “|PUNCT
+There|ADV ’s|VERB a|DET certain_amount|NOUN of|ADP frustration|NOUN that|ADJ all|DET they|PRON had|VERB to|PART do|VERB was|VERB walk|VERB 50_feet|QUANTITY away|ADV to|ADP the|DET fire_station|NOUN ,|PUNCT give|VERB us|PRON the|DET child|NOUN ,|PUNCT no|DET questions|NOUN asked|VERB .|PUNCT
+We|PRON ’d|VERB have|VERB taken|VERB care|NOUN of|ADP that|DET baby|NOUN ,|PUNCT ”|PUNCT Nies|NOUN told|VERB %%URL|X .|PUNCT

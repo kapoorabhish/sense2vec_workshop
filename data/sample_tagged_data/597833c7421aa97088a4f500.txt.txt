@@ -1,0 +1,25 @@
+In|ADP a|DET report|NOUN entitled|VERB “|PUNCT
+Like|ADP living|VERB in|ADP hell|NOUN ”|PUNCT the|DET use|NOUN of|ADP pepper_spray|NOUN against|ADP migrants|NOUN massed|VERB in|ADP Calais|ENT is|VERB described|VERB as|ADP “|PUNCT
+routine|NOUN ”|PUNCT .|PUNCT
+(|PUNCT Source|NOUN :|PUNCT Google_Maps|ENT )|PUNCT In|ADP a|DET report|NOUN entitled|VERB “|PUNCT
+Like|ADP living|VERB in|ADP hell|NOUN ”|PUNCT the|DET use|NOUN of|ADP pepper_spray|NOUN against|ADP migrants|NOUN massed|VERB in|ADP Calais|ENT is|VERB described|VERB as|ADP “|PUNCT
+routine|NOUN ”|PUNCT .|PUNCT
+(|PUNCT Source|NOUN :|PUNCT Google_Maps|ENT )|PUNCT French_police|NOUN are|VERB regularly|ADV using|VERB pepper_spray|NOUN against|ADP migrants|NOUN in|ADP Calais|ENT ,|PUNCT Human_Rights_Watch|ENT (|PUNCT HRW|PROPN )|PUNCT said|VERB on|ADP Wednesday|DATE ,|PUNCT an|DET accusation|NOUN denied|VERB by|ADP authorities|NOUN .|PUNCT
+In|ADP a|DET report|NOUN entitled|VERB “|PUNCT
+Like|ADP living|VERB in|ADP hell|NOUN ”|PUNCT the|DET use|NOUN of|ADP pepper_spray|NOUN against|ADP migrants|NOUN massed|VERB in|ADP the|DET northern_coastal_city|NOUN is|VERB described|VERB as|ADP “|PUNCT routine|NOUN ”|PUNCT .|PUNCT “|PUNCT
+Police_use|NOUN of|ADP pepper_spray|NOUN in|ADP Calais|ENT is|VERB so|ADV common|ADJ that|ADP many_asylum_seekers|NOUN and|CCONJ migrants|NOUN had|VERB difficulty|NOUN recalling|VERB precisely_how_many_times|NOUN they|PRON had|VERB been|VERB sprayed|VERB ,|PUNCT ”|PUNCT the|DET report|NOUN said|VERB .|PUNCT
+Of|ADP 61|CARDINAL migrants|NOUN questioned|VERB by|ADP the|DET prominent_international_human_rights_group|NOUN between|ADP the|DET end|NOUN of|ADP June|PROPN and|CCONJ the|DET beginning|NOUN of|ADP July|PROPN ,|PUNCT 55|CARDINAL said|VERB they|PRON had|VERB been|VERB sprayed|VERB during|ADP the_two_weeks|DATE before|ADP the|DET interview|NOUN ,|PUNCT and|CCONJ some|DET said|VERB they|PRON had|VERB been|VERB sprayed|VERB every_day|DATE ,|PUNCT the|DET author|NOUN of|ADP the|DET report|NOUN ,|PUNCT Michael_Garcia_Bochenek|ENT ,|PUNCT told|VERB AFP|ENT .|PUNCT “|PUNCT
+The|DET 55|CARDINAL were|VERB sprayed|VERB while|ADP they|PRON slept|VERB ,|PUNCT ”|PUNCT he|PRON said|VERB ,|PUNCT adding|VERB that|ADP he|PRON had|VERB talked|VERB to|ADP groups|NOUN of|ADP varying_nationalities|NOUN in|ADP different_locations|NOUN ,|PUNCT but|CCONJ the|DET similarity|NOUN of|ADP their|ADJ stories|NOUN “|PUNCT shows|VERB there|ADV is|VERB a|DET serious_problem|NOUN ”|PUNCT .|PUNCT “|PUNCT
+These|DET are|VERB practices|NOUN that|ADJ have|VERB become|VERB routine|ADJ ,|PUNCT without|ADP there|ADV being|VERB any|DET consequences|NOUN ,|PUNCT and|CCONJ that|DET is|VERB when|ADV they|PRON become|VERB serious_abuses|NOUN ,|PUNCT ”|PUNCT HRW_France|ENT Director_Benedicte_Jeannerod|ENT told|VERB AFP|ENT .|PUNCT
+For|ADP more_than_a_decade|DATE France’s|PROPN northern_coast|NOUN has|VERB been|VERB a|DET magnet|NOUN for|ADP refugees|NOUN and|CCONJ migrants|NOUN trying|VERB to|PART reach|VERB Britain|ENT .|PUNCT
+In|ADP October_last_year|DATE Calais’_notorious_makeshift_camp|NOUN ,|PUNCT nicknamed|VERB “|PUNCT the|DET Jungle|ENT ”|PUNCT ,|PUNCT where|ADV thousands|CARDINAL lived|VERB in|ADP the|DET hope|NOUN of|ADP climbing|VERB aboard|ADP trucks|NOUN or|CCONJ trains|NOUN to|PART get|VERB across|ADP the|DET Channel|PROPN ,|PUNCT was|VERB dismantled|VERB .|PUNCT
+But|CCONJ HRW|ENT said|VERB hundreds|CARDINAL of|ADP asylum_seekers|NOUN and|CCONJ migrants|NOUN ,|PUNCT mostly_Eritreans|ENT ,|PUNCT Ethiopians|ENT and|CCONJ Afghans|ENT ,|PUNCT are|VERB still|ADV living|VERB on|ADP the|DET streets|NOUN and|CCONJ in|ADP wooded_areas|NOUN in|ADP and|CCONJ around|ADP the|DET port_city|NOUN .|PUNCT “|PUNCT
+Every_day|DATE ,|PUNCT the|DET police|NOUN chase|VERB us|PRON .|PUNCT
+They|PRON use|VERB spray|NOUN .|PUNCT
+They|PRON kick|VERB us|PRON .|PUNCT
+This|DET is|VERB our|ADJ life|NOUN every|DET day|NOUN ,|PUNCT ”|PUNCT said|VERB Waysira_L|ENT ,|PUNCT a|DET 16-year-old|DATE boy|NOUN from|ADP the|DET Oromo_community|NOUN ,|PUNCT an|DET ethnic|ADJ group|NOUN in|ADP east_Africa|ENT .|PUNCT
+Fabien_Sudry|ENT ,|PUNCT prefect|NOUN for|ADP the|DET Pas-de-Calais_region|NOUN ,|PUNCT “|PUNCT categorically|ADV denied|VERB the|DET false_and_defamatory_allegations|NOUN ”|PUNCT in|ADP the|DET report|NOUN ,|PUNCT which|ADJ he|PRON said|VERB “|PUNCT have|VERB no|DET evidential_basis|NOUN ”|PUNCT .|PUNCT “|PUNCT
+Police|NOUN of|ADP course|NOUN operate|VERB in|ADP Calais|ENT respecting|VERB the|DET rules|NOUN of|ADP law|NOUN ,|PUNCT with|ADP the|DET sole_objective|NOUN of|ADP ensuring|VERB public_order|NOUN and|CCONJ security|NOUN ,|PUNCT ”|PUNCT
+Sudry|ENT added|VERB .|PUNCT “|PUNCT
+This|DET is|VERB a|DET prosecution_case|NOUN ,|PUNCT ”|PUNCT said|VERB David_Michaux|ENT ,|PUNCT national|ADJ delegate|NOUN for|ADP the|DET UNSA_police_union|NOUN .|PUNCT
+For|ADP all|ADJ the|DET latest_World_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT

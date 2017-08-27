@@ -1,0 +1,6 @@
+G_Vijay_Kumar|ENT ,|PUNCT CFO|ENT ,|PUNCT Kaveri_Seed|ENT in|ADP an|DET interview|NOUN to|ADP CNBC-TV18|ENT said|VERB the|DET board|NOUN has|VERB approved|VERB buyback|NOUN of|ADP upto_29.62_lakh_shares|NOUN at|ADP Rs_675|CARDINAL per|ADP share|NOUN via|ADP tender_offer_route|NOUN .|PUNCT
+The|DET price|NOUN is|VERB at|ADP a|DET premium|NOUN to|ADP current_market_price|NOUN by|ADP about_Rs_220|DATE per|ADP share|NOUN .|PUNCT
+The|DET total_buyback_size|NOUN would|VERB be|VERB around|ADP Rs_200_crore|ENT .|PUNCT
+The|DET cash|NOUN on|ADP books|NOUN currently|ADV stood|VERB at|ADP Rs_600|CARDINAL crore|NOUN and|CCONJ post_buyback|NOUN would|VERB be|VERB around|ADV Rs_400_crore|ENT .|PUNCT
+He|PRON said|VERB the|DET promoters|NOUN will|VERB be|VERB participating|VERB in|ADP the|DET buyback|NOUN .|PUNCT
+Promoters|NOUN currently|ADV hold|VERB 54.4_percent|PERCENT .|PUNCT

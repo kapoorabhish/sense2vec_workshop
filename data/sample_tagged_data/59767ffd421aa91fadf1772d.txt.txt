@@ -1,0 +1,14 @@
+(|PUNCT Representational_Image|PROPN )|PUNCT (|PUNCT Representational|PROPN Image|PROPN )|PUNCT Allahabad_police|NOUN have|VERB decided|VERB to|PART invoke|VERB the|DET stringent_National_Security_Act|ENT (|PUNCT NSA|ENT )|PUNCT against|ADP an|DET accused|VERB facing_charges|NOUN of|ADP rape|NOUN and|CCONJ attempt|NOUN to|PART murder|NOUN .|PUNCT
+The|DET accused|VERB ,|PUNCT Sanjay_Hela|ENT ,|PUNCT was|VERB arrested|VERB three_days_ago|DATE .|PUNCT
+The|DET alleged|ADJ rape|NOUN and|CCONJ murder_attempt|NOUN took|VERB place|NOUN in|ADP the_Civil_Lines|ENT area|NOUN on|ADP July_20|DATE .|PUNCT
+The|DET victim|NOUN was|VERB a|DET 20-year-old_domestic_help|NOUN .|PUNCT
+A|DET senior_police_officer|NOUN said|VERB the|DET case|NOUN does|VERB not|ADV have|VERB the|DET features|NOUN necessary|ADJ for|ADP invoking|VERB NSA|ENT .|PUNCT
+“|PUNCT There|ADV is|VERB no|DET law|NOUN and|CCONJ order_problem|NOUN and|CCONJ neither|CCONJ is|VERB there|ADV public_disaffection|NOUN as|ADP a|DET result|NOUN of|ADP this|DET incident|NOUN ,|PUNCT ”|PUNCT the|DET officer|NOUN said|VERB .|PUNCT
+However|ADV ,|PUNCT he|PRON added|VERB ,|PUNCT “|PUNCT invoking|VERB the|DET NSA|ENT is|VERB the|DET sole_discretion|NOUN of|ADP the|DET SSP|ENT and|CCONJ the|DET DM|PROPN of|ADP the|DET district|NOUN ”|PUNCT .|PUNCT
+SSP_Sureshrao_A_Kulkarni|ENT said|VERB :|PUNCT “|PUNCT
+The|DET crime|NOUN ,|PUNCT committed|VERB during|ADP the_day|DATE ,|PUNCT has|VERB triggered|VERB a|DET scare|NOUN among|ADP local_residents|NOUN .|PUNCT
+It|PRON might|VERB also|ADV spark|VERB a|DET protest|NOUN .|PUNCT
+So|ADV we|PRON are|VERB going|VERB to|PART invoke|VERB NSA|ENT when|ADV the|DET accused|VERB applies|NOUN for|ADP bail|NOUN .|PUNCT ”|PUNCT
+We|PRON feel|VERB he|PRON might|VERB pose|VERB a|DET threat|NOUN to|ADP public_safety|NOUN .|PUNCT ”|PUNCT
+The|DET act|NOUN ,|PUNCT usually|ADV invoked|VERB by|ADP central_or_state_governments|NOUN in|ADP cases|NOUN whereby|ADP security|NOUN ,|PUNCT defence|NOUN or|CCONJ foreign_relations|NOUN of|ADP the|DET country|NOUN are|VERB compromised|VERB ,|PUNCT also|ADV applies|VERB to|ADP cases|NOUN where|ADV maintenance|NOUN of|ADP public_order|NOUN is|VERB disrupted|VERB .|PUNCT
+For|ADP all|ADJ the|DET latest_Cities_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT

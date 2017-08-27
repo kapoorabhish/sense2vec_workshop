@@ -1,0 +1,24 @@
+Photo|NOUN WASHINGTON|PROPN —|PUNCT Attorney_General_Jeff_Sessions|ENT failed|VERB to|PART disclose|VERB meetings|NOUN with|ADP Russian_officials|NOUN when|ADV he|PRON applied|VERB for|ADP security_clearance|NOUN because|ADP he|PRON was|VERB told|VERB not|ADV to|PART do|VERB so|ADV by|ADP advisers|NOUN and|CCONJ the|DET F.B.I.|ENT ,|PUNCT a|DET Justice_Department|ENT spokesman|NOUN said|VERB Wednesday|DATE .|PUNCT
+Mr._Sessions|ENT met|VERB with|ADP Sergey_I._Kislyak|ENT ,|PUNCT the|DET Russian|ENT ambassador|NOUN to|ADP the_United_States|ENT ,|PUNCT at|ADP least|ADJ twice|ADV in|ADP 2016|DATE .|PUNCT
+But|CCONJ asked|VERB on|ADP an|DET official_government_form|NOUN to|PART note|VERB any|DET contact|NOUN he|PRON or|CCONJ family_members|NOUN had|VERB with|ADP foreign_governments|NOUN or|CCONJ their|ADJ representatives|NOUN over|ADP the_past_seven_years|DATE ,|PUNCT Mr._Sessions|ENT did|VERB not|ADV include|VERB his|ADJ encounters|NOUN with|ADP Mr._Kislyak|ENT .|PUNCT
+It|PRON is|VERB a|DET federal_crime|NOUN to|PART make|VERB false_statements|NOUN or|CCONJ withhold|VERB relevant|ADJ information|NOUN on|ADP the|DET background|NOUN check|VERB form|NOUN .|PUNCT “|PUNCT
+As|ADP a_United_States|ENT senator|NOUN ,|PUNCT the|DET attorney_general|NOUN met|VERB hundreds|CARDINAL —|PUNCT if|ADP not|ADV thousands|NOUN —|PUNCT of|ADP foreign_dignitaries|NOUN and|CCONJ their|ADJ staff|NOUN ,|PUNCT ”|PUNCT Ian_Prior|ENT ,|PUNCT a|DET spokesman|NOUN for|ADP the_Justice_Department|ENT ,|PUNCT said|VERB in|ADP a|DET statement|NOUN .|PUNCT
+“|PUNCT The|DET attorney_general’s_staff|NOUN consulted|VERB with|ADP those|DET familiar|ADJ with|ADP the|DET process|NOUN ,|PUNCT as|ADV well|ADV as|ADP the|DET F.B.I._investigator|NOUN handling|VERB the|DET background_check|NOUN ,|PUNCT and|CCONJ was|VERB instructed|VERB not|ADV to|PART list|VERB meetings|NOUN with|ADP foreign_dignitaries|NOUN and|CCONJ their|ADJ staff|NOUN connected|VERB with|ADP his|ADJ Senate_activities|NOUN .|PUNCT
+”|PUNCT Mr._Sessions|ENT filled|VERB out|PART two|CARDINAL such_forms|NOUN ,|PUNCT Mr._Prior|ENT said|VERB ,|PUNCT one|CARDINAL last_July|DATE ,|PUNCT as|ADP he|PRON was|VERB first|ORDINAL formally|ADV vetted|VERB by|ADP the|DET Trump_campaign|NOUN ,|PUNCT and|CCONJ one|CARDINAL after|ADP the|DET election|NOUN in|ADP November|DATE .|PUNCT
+Advertisement|NOUN Continue|VERB reading|VERB the|DET main_story|NOUN __The_news|ENT ,|PUNCT first|ORDINAL reported|VERB by|ADP CNN|ENT ,|PUNCT renewed|VERB questions|NOUN about|ADP Mr._Sessions|ENT and|CCONJ the|DET Russia_issue|NOUN .|PUNCT
+Mr._Sessions|ENT ,|PUNCT who|NOUN represented|VERB Alabama|ENT until|ADP his|ADJ confirmation|NOUN as|ADP the|DET nation|NOUN ’s|VERB top_law_enforcement_officer|NOUN this_year|DATE ,|PUNCT was|VERB the|DET first_United_States_senator|NOUN to|PART endorse|VERB Mr._Trump|ENT ,|PUNCT backing|VERB him|PRON in|ADP February_2016|DATE .|PUNCT
+Newsletter|PROPN Sign|VERB Up|PART Continue|VERB reading|VERB the|DET main_story|NOUN Please|INTJ verify|VERB you|PRON 're|VERB not|ADV a|DET robot|NOUN by|ADP clicking|VERB the|DET box|NOUN .|PUNCT
+Invalid_email_address|NOUN .|PUNCT
+Please|INTJ re|VERB -|PUNCT enter|VERB .|PUNCT
+You|PRON must|VERB select|VERB a|DET newsletter|NOUN to|PART subscribe|VERB to|ADP .|PUNCT
+Sign|VERB Up|PART Receive|VERB occasional_updates|NOUN and|CCONJ special_offers|NOUN for|ADP The_New_York_Times's|ENT products|NOUN and|CCONJ services|NOUN .|PUNCT
+Thank|VERB you|PRON for|ADP subscribing|VERB .|PUNCT
+An|DET error|NOUN has|VERB occurred|VERB .|PUNCT
+Please|INTJ try|VERB again|ADV later|ADV .|PUNCT
+View|VERB all|DET New_York_Times_newsletters|NOUN .|PUNCT
+He|PRON recused|VERB himself|PRON from|ADP the|DET Russia_inquiry|NOUN in|ADP March|DATE ,|PUNCT after|ADP it|PRON was|VERB reported|VERB he|PRON had|VERB met|VERB with|ADP Mr._Kislyak|ENT in|ADP 2016|DATE .|PUNCT
+Last_week|DATE ,|PUNCT Rod_J._Rosenstein|ENT ,|PUNCT the|DET deputy|NOUN attorney|NOUN general|NOUN ,|PUNCT appointed|VERB a|DET special_counsel|NOUN to|PART investigate|VERB Russian_meddling|NOUN in|ADP the|DET 2016|DATE presidential_election|NOUN and|CCONJ whether|ADP Russia|ENT colluded|VERB with|ADP associates|NOUN of|ADP Mr._Trump’s_campaign|NOUN .|PUNCT
+Democratic_lawmakers|NOUN demanded|VERB Mr._Sessions|ENT ’s|PART resignation|NOUN on|ADP Wednesday|DATE .|PUNCT “|PUNCT
+He|PRON ’s|VERB lied|VERB under|ADP oath|NOUN ,|PUNCT ”|PUNCT Senator_Kamala_Harris|ENT ,|PUNCT Democrat|ENT of|ADP California|ENT ,|PUNCT wrote|VERB on|ADP Twitter|ENT .|PUNCT “|PUNCT
+He|PRON ’s|VERB misled|VERB on|ADP security_clearance_forms|NOUN .|PUNCT
+It|PRON ’s|VERB simple|NOUN —|PUNCT he|PRON should|VERB not|ADV be|VERB the_Attorney_General|ENT .|PUNCT ”|PUNCT

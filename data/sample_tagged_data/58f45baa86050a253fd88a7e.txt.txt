@@ -1,0 +1,17 @@
+Singapore|ENT Open_men|NOUN ’s|ADP singles_champion_B_Sai_Praneeth|ENT made|VERB a|DET superb_comeback|NOUN against|ADP Kidambi_Srikanth|ENT to|PART win|VERB his|ADJ maiden_superseries|NOUN final|ADJ .|PUNCT
+(|PUNCT Source|NOUN :|PUNCT PTI|PROPN )|PUNCT Singapore_Open_men|NOUN ’s|ADP singles_champion_B_Sai_Praneeth|ENT made|VERB a|DET superb_comeback|NOUN against|ADP Kidambi_Srikanth|ENT to|PART win|VERB his|ADJ maiden_superseries|NOUN final|ADJ .|PUNCT
+(|PUNCT Source|NOUN :|PUNCT PTI|ENT )|PUNCT After|ADP securing|VERB his|ADJ maiden_superseries|NOUN win|NOUN ,|PUNCT B_Sai_Praneeth|ENT was|VERB over|ADP the|DET moon|NOUN .|PUNCT
+However|ADV ,|PUNCT that|DET did|VERB not|ADV stop|VERB the|DET 24_year-old|DATE from|ADP showing|VERB his|ADJ sportsmanship|NOUN .|PUNCT
+In|ADP a|DET moment|NOUN of|ADP rare_goodwill_gesture|NOUN the|DET Indian_shuttler|NOUN got|VERB hold|NOUN of|ADP two|CARDINAL Indian_flags|NOUN after|ADP his|ADJ win|NOUN and|CCONJ handed|VERB one|NUM to|ADP his|ADJ opponent|NOUN Kidambi_Srikanth|ENT .|PUNCT
+He|PRON was|VERB also|ADV seen|VERB consoling|VERB Srikanth|ORDINAL .|PUNCT
+Meanwhile|ADV ,|PUNCT after|ADP suffering|VERB a|DET loss|NOUN at|ADP the_Singapore_Open_Superseries|ENT ,|PUNCT Kidambi_Srikanth|ENT also|ADV took|VERB to|ADP social_media|NOUN to|PART congratulate|VERB his|ADJ opponent|NOUN and|CCONJ state|NOUN that|ADP it|PRON was|VERB n’t|ADV the|DET result|NOUN that|ADP he|PRON was|VERB hoping|VERB for|ADP .|PUNCT
+“|PUNCT Not|ADV the|DET result|NOUN I|PRON wanted|VERB but|CCONJ Sai|ENT played|VERB well|ADJ to|PART finish|VERB off|PART the|DET game|NOUN .|PUNCT
+I|PRON had|VERB a|DET good_lead|NOUN in|ADP the_2nd_set|DATE after|ADP winning|VERB 1st|ORDINAL but|CCONJ could|VERB n’t|ADV capitalize|VERB on|ADP it|PRON .|PUNCT
+Many_positives|NOUN to|PART take|VERB from|ADP this|DET tournament|NOUN and|CCONJ will|VERB definitely|ADV come|VERB back|ADV strong|ADJ .|PUNCT
+Thank|VERB you|PRON everyone|NOUN for|ADP all|DET your|ADJ support|NOUN and|CCONJ wishes|NOUN .|PUNCT ”|PUNCT ,|PUNCT Srikanth|ORDINAL wrote|VERB on|ADP instagram|NOUN .|PUNCT
+In|ADP the|DET historic|ADJ all|DET India_superseries|NOUN final|ADJ it|PRON is|VERB B_Sai_Praneeth|ENT who|NOUN came|VERB up|PART trumps|ADV against|ADP Kidambi_Srikanth|ENT .|PUNCT
+In|ADP the|DET beginning|NOUN it|PRON seemed|VERB that|ADP Srikanth|ORDINAL was|VERB once|ADV more|ADV having|VERB the|DET edge|NOUN over|ADP his|ADJ opponent|NOUN .|PUNCT
+However|ADV ,|PUNCT after|ADP going|VERB down|ADV 1|CARDINAL -|SYM 6|NUM in|ADP the|DET second_game|NOUN ,|PUNCT Praneeth|ENT made|VERB a|DET sensational_comeback|NOUN to|PART win|VERB the|DET second_game|NOUN 21-17.|PERCENT
+From|ADP thereon|NOUN ,|PUNCT Praneeth|ENT was|VERB all|ADV over|ADP his|ADJ opponent|NOUN .|PUNCT
+He|PRON won|VERB the|DET third_set|NOUN 21-12|DATE and|CCONJ thus|ADV clinched|VERB his|ADJ maiden_superseries_title|NOUN .|PUNCT
+For|ADP all|ADJ the|DET latest_Sports_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV ©_IE_Online_Media_Services_Pvt_Ltd|ENT

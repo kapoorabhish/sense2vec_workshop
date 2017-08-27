@@ -1,0 +1,17 @@
+The Earth-sized exoplanet Proxima b which orbits in the habitable zone around Proxima Centauri, our closest neighbouring star, could support alien life, suggests new research that explored the potential climate of the planet.
+
+The planet was only discovered in August 2016, and is thought to be of similar size to Earth, creating the possibility that it could have an 'Earth-like' atmosphere.
+
+Using a climate model, which has been successfully used to study the Earth's climate for several decades, researchers at University of Exeter in Britain simulated the climate of Proxima b if it were to have a similar atmospheric composition to our own Earth.
+
+The results of the simulations, published in the journal, Astronomy & Astrophyics, showed that Proxima b could have the potential to be habitable, and could exist in a remarkably stable climate regime.
+
+"Our research team looked at a number of different scenarios for the planet's likely orbital configuration using a set of simulations," said lead author of the study Ian Boutle.
+
+"As well as examining how the climate would behave if the planet was 'tidally-locked' (where one day is the same length as one year), we also looked at how an orbit similar to Mercury, which rotates three times on its axis for every two orbits around the Sun (a 3:2 resonance), would affect the environment," Boutle said.
+
+The team found that both the tidally-locked and 3:2 resonance configurations result in regions of the planet able to host liquid water.
+
+The team also explored a much simpler atmosphere, comprising of nitrogen with traces of carbon dioxide, as well as variations of the planet's orbit. This allowed them to both compare with, and extend beyond, previous studies.
+
+"One of the main features that distinguishes this planet from Earth is that the light from its star is mostly in the near infra-red. These frequencies of light interact much more strongly with water vapour and carbon dioxide in the atmosphere which affects the climate that emerges in our model," study co-author James Manners said.

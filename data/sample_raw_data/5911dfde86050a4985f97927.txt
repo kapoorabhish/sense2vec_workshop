@@ -1,0 +1,7 @@
+The conveyor belt has long been the center of wacky adventures. From Charlie Chaplin to Lucy, things whizzing by on a flat belt has made for comedy gold. Now you can watch your 3D printed objects whiz past on the Blackbelt, a conveyor system for FDM printing that lets you build huge objects.
+
+The Blackbelt Kickstarter will launch in 3 days and you can expect the system to cost about 9,500 for a desktop system or 12,500 Euro for a larger system with standing supports. It prints 13 inches by 13 inches by infinity, which means you can print long car side panels or even long signs. It comes with three separate nozzles for different extruded plastic widths.
+
+You can read a few more specs here but basically this turns 3D printing on its head (side?) and lets you do some interesting things. For example, this jet would require lots of support material to print the nose. With this technique as long as you start the print touching the belt you can easily print objects with overhangs and indentations.
+
+Interestingly the printer has unique print angle that prints out plastic on the leading edge. This means objects can be printed without supports because it doesn’t print from the bottom up like normal FDM systems but from the edge. This lets you print infinitely long objects on the Blackbelt or print multiple smaller objects that fall off into a basket. Further, you could print an infinitely long snake that, if you play your cards right, could loop around the world and eat itself. What, I ask you, is funnier than an Ouroboros?

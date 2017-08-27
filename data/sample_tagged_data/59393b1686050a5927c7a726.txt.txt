@@ -1,0 +1,29 @@
+The|DET latest_Cleantech_Solutions_International,_Inc.|ENT (|PUNCT NASDAQ|ENT :|PUNCT CLNT|PROPN )|PUNCT SEC|ENT filings|NOUN have|VERB revealed|VERB that|ADP institutions|NOUN owning|VERB shares|NOUN of|ADP have|VERB increased|VERB their|ADJ transactions|NOUN by|ADP 232.56%|CARDINAL in|ADP the_past_quarter|DATE .|PUNCT
+Institutions|NOUN now|ADV own|VERB 2.10%_of|PERCENT the|DET company|NOUN .|PUNCT
+Organizations|NOUN that|ADJ control|VERB large_sums|NOUN of|ADP money|NOUN ,|PUNCT like|ADP pension_funds|NOUN ,|PUNCT insurance_companies|NOUN or|CCONJ mutual_funds|NOUN ,|PUNCT who|NOUN buy|VERB stocks|NOUN are|VERB known|VERB as|ADP institutional_investors|NOUN .|PUNCT
+Compared|VERB to|ADP individual_investors|NOUN ,|PUNCT institutional|ADJ investors|NOUN trade|NOUN in|ADP large_blocks|NOUN ,|PUNCT 10,000_or_more|CARDINAL shares|NOUN per|ADP transaction|NOUN .|PUNCT
+These|DET large_trades|NOUN can|VERB affect|VERB the|DET price|NOUN of|ADP a|DET commodity|NOUN significantly|ADV .|PUNCT
+Investors|NOUN look|VERB favorably|ADV upon|ADP stocks|NOUN with|ADP a|DET large_amount|NOUN of|ADP institutional_ownership|NOUN .|PUNCT
+These|DET large_entities|NOUN often|ADV hire|VERB a|DET team|NOUN of|ADP analysts|NOUN to|PART perform|VERB research|NOUN prior|ADV to|ADP the|DET group|NOUN purchasing|VERB a|DET company|NOUN ’s|PART stock|NOUN .|PUNCT
+Because|ADP of|ADP the|DET large_research_investment|NOUN made|VERB ,|PUNCT institutions|NOUN are|VERB n’t|ADV quick|ADJ to|PART sell|VERB their|ADJ position|NOUN .|PUNCT
+Institutions|NOUN may|VERB also|ADV influence|VERB the|DET price|NOUN of|ADP a|DET stock|NOUN after|ADP acquiring|VERB a|DET position|NOUN by|ADP using|VERB TV_shows|NOUN ,|PUNCT articles|NOUN in|ADP high-profile_newspapers|NOUN or|CCONJ magazines|NOUN and|CCONJ presentations|NOUN at|ADP investor_conferences|NOUN to|PART help|VERB drive|VERB the|DET price|NOUN higher|ADJ ,|PUNCT increasing|VERB the|DET value|NOUN of|ADP the|DET share|NOUN .|PUNCT
+PROS|NOUN AND|CCONJ CONS|NOUN Is|VERB institutional_ownership|NOUN a|DET good_thing|NOUN or|CCONJ a|DET bad_thing|NOUN ?|PUNCT
+This|DET is|VERB a|DET matter|NOUN of|ADP debate|NOUN .|PUNCT
+In|ADP his|ADJ best-selling_book|NOUN ,|PUNCT “|PUNCT
+One|NUM Up|PART on|ADP Wall_Street|PROPN ”|PUNCT ,|PUNCT Peter_Lynch|ENT lists|VERB thirteen|CARDINAL characteristics|NOUN of|ADP “|PUNCT the|DET perfect_stock|NOUN .|PUNCT ”|PUNCT
+Regarding|VERB institutional_ownership|NOUN ,|PUNCT he|PRON says|VERB :|PUNCT “|PUNCT Institutions|NOUN do|VERB n’t|ADV own|VERB it|PRON and|CCONJ the|DET analysts|NOUN do|VERB n’t|ADV follow|VERB it|PRON ”|PUNCT .|PUNCT
+He|PRON sees|VERB commodities|NOUN that|ADJ the|DET big_investment_groups|NOUN ignore|VERB as|ADP having|VERB the|DET potential|NOUN to|PART be|VERB undervalued|VERB .|PUNCT
+In|ADP comparison|NOUN ,|PUNCT William_O’Neil|ENT ,|PUNCT founder|NOUN of|ADP Investor’s_Business_Daily|ENT ,|PUNCT thinks|VERB that|ADP institutional_investors|NOUN provide|VERB the|DET largest_source|NOUN of|ADP stock_demand|NOUN .|PUNCT
+Something|NOUN needed|VERB to|PART increase|VERB the|DET price|NOUN of|ADP a|DET share|NOUN .|PUNCT
+He|PRON says|VERB that|ADP if|ADP a|DET stock|NOUN has|VERB no|DET institutional_owners|NOUN ,|PUNCT there|ADV is|VERB a|DET reason|NOUN for|ADP it|PRON .|PUNCT
+They|PRON ’ve|VERB checked|VERB it|PRON out|PART and|CCONJ passed|VERB .|PUNCT
+He|PRON looks|VERB at|ADP institutional_ownership|NOUN as|ADP a|DET desirable_characteristic|NOUN in|ADP stocks|NOUN ,|PUNCT as|ADP noted|VERB in|ADP his|ADJ book|NOUN ,|PUNCT “|PUNCT
+How|ADV to|PART Make|VERB Money|NOUN in|ADP Stocks|NOUN ”|PUNCT .|PUNCT
+Both|DET agree|VERB that|ADP institutional_ownership|NOUN can|VERB be|VERB a|DET dangerous_thing|NOUN because|ADP they|PRON move|VERB in|ADP and|CCONJ out|ADP of|ADP the|DET market|NOUN in|ADP tremendous_blocks|NOUN ,|PUNCT so|ADP the|DET stock’s_value|NOUN can|VERB plunge|VERB if|ADP they|PRON sell|VERB off|PART .|PUNCT
+TECHNICAL_INDICATORS|PROPN Cleantech_Solutions_International,_Inc.|ENT (|PUNCT NASDAQ|ENT :|PUNCT CLNT|PROPN )|PUNCT stock|NOUN stands|VERB 17.42%_away|PERCENT from|ADP its|ADJ 50-day|DATE simple|NOUN moving|VERB average|NOUN and|CCONJ also|ADV 32.99%_away_from|PERCENT the|DET 200-day_average|NOUN .|PUNCT
+Recently|ADV ,|PUNCT the|DET commodity|NOUN stands|VERB -56.92%|PROPN away|ADV from|ADP the|DET 52-week_high|NOUN and|CCONJ 99.57%_from|PERCENT the|DET 52-week_low|NOUN .|PUNCT
+The|DET RSI|ENT (|PUNCT Relative|ADJ Strength|PROPN Index|PROPN )|PUNCT ,|PUNCT an|DET indicator|NOUN that|ADJ shows|VERB price_strength|NOUN by|ADP comparing|VERB upward|ADV and|CCONJ downward|ADV close|ADJ -|PUNCT to|PART -|PUNCT close_movements|NOUN is|VERB 53.58|CARDINAL for|ADP Cleantech_Solutions_International|ENT ,|PUNCT Inc._(|ENT NASDAQ|PROPN :|PUNCT CLNT|PROPN )|PUNCT .|PUNCT
+Disclaimer|NOUN :|PUNCT The|DET advice|NOUN provided|VERB on|ADP this|DET website|NOUN is|VERB general_advice|NOUN only|ADV .|PUNCT
+It|PRON has|VERB been|VERB prepared|VERB without|ADP taking|VERB into|ADP account|NOUN your|ADJ objectives|NOUN ,|PUNCT financial_situation|NOUN or|CCONJ needs|NOUN .|PUNCT
+Before|ADP acting|VERB on|ADP this|DET advice|NOUN you|PRON should|VERB consider|VERB the|DET appropriateness|NOUN of|ADP the|DET advice|NOUN ,|PUNCT having|VERB regard|NOUN to|ADP your|ADJ own_objectives|NOUN ,|PUNCT financial_situation|NOUN and|CCONJ needs|NOUN .|PUNCT
+Where|ADV quoted|VERB ,|PUNCT past|ADP performance|NOUN is|VERB not|ADV indicative|ADJ of|ADP future_performance|NOUN .|PUNCT

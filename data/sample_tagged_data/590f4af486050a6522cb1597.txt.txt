@@ -1,0 +1,7 @@
+AUSTIN|ENT ,|PUNCT Texas|ENT —|PUNCT A|DET Central_Texas|ENT judge|NOUN has|VERB been|VERB formally|ADV reprimanded|VERB for|ADP a|DET social_media_post|NOUN that|ADJ said|VERB a|DET “|PUNCT tree|NOUN and|CCONJ a|DET rope|NOUN ”|ADJ were|VERB needed|VERB for|ADP a|DET man|NOUN accused|VERB of|ADP fatally|ADV shooting|VERB a|DET San_Antonio_police_detective|NOUN .|PUNCT
+The_Austin_American-Statesman|ENT reports|VERB James_Oakley|ENT was|VERB given|VERB the|DET reprimand|NOUN by|ADP the_State_Commission|ENT on|ADP Judicial_Conduct|ENT .|PUNCT
+Oakley|ENT ,|PUNCT Burnet_County|ENT ’s|ADJ top|ADJ administrator|NOUN ,|PUNCT must|VERB complete|VERB a|DET 30-hour_training_program|NOUN for|ADP new_judges|NOUN and|CCONJ four_hours|TIME of|ADP racial_sensitivity_training|NOUN with|ADP a|DET mentor|NOUN .|PUNCT
+Oakley|ENT has|VERB said|VERB his|ADJ comment|NOUN was|VERB intended|VERB to|PART reflect|VERB his|ADJ personal_feelings|NOUN that|ADP the|DET killing_“|NOUN should|VERB qualify|VERB for|ADP the|DET death_penalty|NOUN .|PUNCT ”|PUNCT
+He|PRON said|VERB it|PRON had|VERB nothing|NOUN to|PART do|VERB with|ADP race|NOUN .|PUNCT
+The|DET suspect|NOUN in|ADP last_year|DATE ’s|NOUN shooting|VERB is|VERB black|ADJ ;|PUNCT Oakley|ENT is|VERB white|ADJ .|PUNCT
+The|DET commission|NOUN said|VERB it|PRON received|VERB 18|CARDINAL written_complaints|NOUN about|ADP Oakley|ENT ,|PUNCT including|VERB ones|NOUN about|ADP the|DET post|NOUN ’s|ADP racial_overtones|NOUN .|PUNCT

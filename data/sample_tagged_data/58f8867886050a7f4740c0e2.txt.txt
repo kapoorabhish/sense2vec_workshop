@@ -1,0 +1,69 @@
+How|ADV Do|VERB Former_Opioid_Addicts_Safely|ENT Get|VERB Pain_Relief_After_Surgery|ENT ?|PUNCT Enlarge|VERB this|DET image_toggle_caption|NOUN Craig_LeMoult|ENT /|SYM WGBH|ENT Craig|PROPN LeMoult|PROPN /|SYM WGBH|ENT Nearly_one_and_a_half_million|CARDINAL Americans|ENT were|VERB treated|VERB for|ADP addiction|NOUN to|ADP prescription_opioids|NOUN or|CCONJ heroin|NOUN in|ADP 2015|DATE ,|PUNCT according|VERB to|ADP federal_estimates|NOUN ,|PUNCT and|CCONJ when|ADV those|DET people|NOUN get|VERB seriously|ADV hurt|VERB or|CCONJ need|VERB surgery|NOUN ,|PUNCT it|PRON 's|VERB often|ADV not|ADV clear|ADJ ,|PUNCT even|ADV to|ADP many_doctors|NOUN ,|PUNCT how|ADV to|PART safely|ADV manage|VERB their|ADJ pain|NOUN .|PUNCT
+For|ADP some|DET former_addicts|NOUN ,|PUNCT what|NOUN begins|VERB as|ADP pain_relief|NOUN ends|VERB in|ADP tragedy|NOUN .|PUNCT
+Max_Baker|ENT is|VERB one|CARDINAL such_case|NOUN .|PUNCT
+He|PRON started|VERB using|VERB prescription_pain_pills|NOUN as|ADP a|DET teenager|NOUN in|ADP New_England|ENT ,|PUNCT and|CCONJ quickly|ADV moved|VERB on|ADP to|ADP heroin|NOUN .|PUNCT
+His|ADJ father|NOUN ,|PUNCT Dr.|PROPN James_Baker|ENT ,|PUNCT is|VERB a|DET physician|NOUN in|ADP the|DET Worcester,_Mass.,_area|NOUN ,|PUNCT and|CCONJ says|VERB he|PRON saw|VERB signs|NOUN that|ADP his|ADJ son|NOUN was|VERB high|ADJ on|ADP opioids|NOUN —|PUNCT in|ADP Max|ENT 's|PART pupils|NOUN and|CCONJ skin_tone|NOUN .|PUNCT
+He|PRON begged|VERB Max|ENT to|PART stop|VERB .|PUNCT "|PUNCT
+He|PRON would|VERB have|VERB slurred_speech|NOUN ,|PUNCT and|CCONJ be|VERB nodding|VERB off|PART at|ADP the|DET dinner_table|NOUN ,|PUNCT and|CCONJ we|PRON 'd|VERB go|VERB to|ADP a|DET concert|NOUN together|ADV and|CCONJ he|PRON would|VERB disappear|VERB and|CCONJ come|VERB back|ADV acting|VERB differently|ADV ,|PUNCT "|PUNCT James_Baker|ENT says|VERB .|PUNCT
+It|PRON was|VERB a|DET long,_painful_slog|NOUN ,|PUNCT but|CCONJ Max|ENT eventually|ADV sought|VERB help|NOUN .|PUNCT
+When|ADV he|PRON was|VERB 22|DATE ,|PUNCT he|PRON was|VERB prescribed|VERB an|DET opioid|NOUN called|VERB suboxone|NOUN ,|PUNCT a|DET standard_relapse_prevention_drug|NOUN that|ADJ helps|VERB wean|VERB people|NOUN off_opioids|NOUN .|PUNCT
+After|ADP a_year|DATE ,|PUNCT he|PRON 'd|VERB worked|VERB his|ADJ way|NOUN off|ADP that|DET medication|NOUN ,|PUNCT too|ADV .|PUNCT
+He|PRON earned|VERB his|ADJ high_school_equivalency_degree|NOUN ,|PUNCT and|CCONJ a|DET two-year_associate|NOUN of|ADP arts_degree|NOUN .|PUNCT
+Things|NOUN were|VERB starting|VERB to|PART get|VERB back|ADV on|ADP track|NOUN ,|PUNCT his|ADJ family|NOUN and|CCONJ friends|NOUN thought|VERB .|PUNCT "|PUNCT
+He|PRON called|VERB me|PRON just|ADV a_few_days|DATE before|ADP Christmas|PROPN in|ADP 2014|DATE ,|PUNCT "|PUNCT Max|ENT 's|PART father|NOUN remembers|VERB .|PUNCT
+James_Baker|ENT still|ADV has|VERB the|DET voicemail_message|NOUN .|PUNCT
+"|PUNCT I|PRON just|ADV wanted|VERB to|PART touch|VERB base|NOUN with|ADP you|PRON ,|PUNCT "|PUNCT Max|ENT said|VERB in|ADP the|DET message|NOUN .|PUNCT "|PUNCT
+And|CCONJ also|ADV I|PRON wanted|VERB to|PART let|VERB you|PRON know|VERB that|ADP I|PRON got|VERB a|DET job|NOUN .|PUNCT "|PUNCT
+"|PUNCT It|PRON did|VERB n't|ADV matter|VERB to|ADP him|PRON if|ADP he|PRON was|VERB washing|VERB dishes|NOUN or|CCONJ delivering|VERB pizza|NOUN ,|PUNCT "|PUNCT James_Baker|ENT says|VERB .|PUNCT
+"|PUNCT He|PRON was|VERB working|VERB .|PUNCT "|PUNCT
+Enlarge|VERB this|DET image_toggle_caption|NOUN Courtesy|ENT of|ADP James_Baker_Courtesy|ENT of|ADP James_Baker|ENT Max|ENT signed|VERB up|PART at|ADP the_University_of_Massachusetts|ENT in|ADP Lowell|ENT to|PART continue|VERB his|ADJ education|NOUN —|PUNCT he|PRON 'd|VERB decided|VERB he|PRON wanted|VERB to|PART be|VERB a|DET doctor|NOUN ,|PUNCT like|ADP his|ADJ father|NOUN .|PUNCT
+By|ADP all|DET accounts|NOUN ,|PUNCT the|DET young_man's_recovery|NOUN was|VERB a|DET success_story|NOUN .|PUNCT
+Then|ADV ,|PUNCT as|ADP he|PRON drove|VERB home|ADV from|ADP a|DET class|NOUN one_day|DATE in|ADP late_2016|DATE ,|PUNCT a|DET single_moment|NOUN derailed|VERB everything|NOUN .|PUNCT "|PUNCT
+A|DET young_teenage_girl|NOUN did|VERB n't|ADV see|VERB him|PRON and|CCONJ just|ADV pulled|VERB out|PART in|ADP front|NOUN of|ADP him|PRON ,|PUNCT and|CCONJ they|PRON had|VERB a|DET major_accident|NOUN ,|PUNCT "|PUNCT says|VERB James_Baker|ENT .|PUNCT
+Max|ENT 's|PART injuries|NOUN included|VERB a|DET broken_bone|NOUN in|ADP his|ADJ hand|NOUN that|ADJ required|VERB surgery|NOUN .|PUNCT
+He|PRON told|VERB his|ADJ surgeon|NOUN —|PUNCT Dr.|PROPN James_Shenko|ENT —|PUNCT right|ADV away|ADV about|ADP his|ADJ addiction|NOUN ,|PUNCT and|CCONJ that|ADP he|PRON was|VERB scared|VERB that|ADP medication|NOUN used|VERB for|ADP anesthesia|NOUN and|CCONJ pain|NOUN might|VERB cause|VERB a|DET relapse|NOUN .|PUNCT
+To|PART minimize|VERB that|DET possibility|NOUN ,|PUNCT Shenko|ENT turned|VERB to|ADP the|DET anesthesiologists|NOUN on|ADP the|DET team|NOUN .|PUNCT
+"|PUNCT And|CCONJ it|PRON became|VERB a|DET big_discussion|NOUN between|ADP myself|PRON and|CCONJ anesthesia|NOUN ,|PUNCT "|PUNCT Shenko|ENT says|VERB .|PUNCT
+"|PUNCT They|PRON were|VERB uncomfortable|ADJ treating|VERB this|DET patient|NOUN differently|ADV than|ADP other_patients|NOUN because|ADP they|PRON felt|VERB that|DET was|VERB n't|ADV fair|ADJ to|ADP the|DET patient|NOUN .|PUNCT "|PUNCT
+There|ADV is|VERB n't|ADV any|DET definitive_guidance|NOUN for|ADP doctors|NOUN on|ADP how|ADV to|PART best|ADJ anesthetize|VERB patients|NOUN like|ADP Max|ENT during|ADP surgery|NOUN or|CCONJ how|ADV to|PART prevent|VERB and|CCONJ ease|VERB their|ADJ pain|NOUN afterward|ADV .|PUNCT
+The|DET anesthesiologists|NOUN pointed|VERB to|ADP research|NOUN showing|NOUN that|ADP opioid-dependent_patients|NOUN who|NOUN are|VERB on|ADP relapse_prevention_drugs|NOUN (|PUNCT like|ADP suboxone|NOUN )|PUNCT do|VERB fine|NOUN with|ADP anesthesia_and_opioid_painkillers|NOUN afterward|ADV .|PUNCT
+But|CCONJ Max|ENT was|VERB no|ADV longer|ADV taking|VERB suboxone|NOUN —|PUNCT he|PRON 'd|VERB been|VERB off|ADP that|DET medication|NOUN for|ADP a_year|DATE .|PUNCT
+The|DET anesthesiologist|NOUN wound|VERB up|PART using|VERB the|DET normal_drug_cocktail|NOUN to|ADP sedate_Max|ENT for|ADP the|DET surgery|NOUN —|PUNCT a|DET mix|NOUN of|ADP drugs|NOUN that|ADJ included|VERB opioids|NOUN .|PUNCT
+And|CCONJ the|DET surgery|NOUN went|VERB well|ADV .|PUNCT
+It|PRON was|VERB afterward|ADV ,|PUNCT his|ADJ father|NOUN says|VERB ,|PUNCT when|ADV Max|ENT was|VERB hurting|VERB ,|PUNCT that|ADP the|DET young_patient|NOUN confronted|VERB his|ADJ surgeon|NOUN and|CCONJ asked|VERB for|ADP opioids|NOUN .|PUNCT
+"|PUNCT I|PRON need|VERB medicine|NOUN for|ADP this|DET pain|NOUN ,|PUNCT "|PUNCT Max|ENT told|VERB Shenko|ENT .|PUNCT
+"|PUNCT I|PRON need|VERB real_medicine|NOUN .|PUNCT "|PUNCT The|DET surgeon|NOUN took|VERB James_Baker|ENT aside|ADV .|PUNCT "|PUNCT
+He|PRON had|VERB mist|NOUN in|ADP his|ADJ eyes|NOUN ,|PUNCT "|PUNCT Baker|ENT remembers|VERB .|PUNCT "|PUNCT
+He|PRON put|VERB his|ADJ arm|NOUN around|ADP me|PRON ,|PUNCT said|VERB ,|PUNCT '|PUNCT I|PRON do|VERB n't|ADV know|VERB what|NOUN to|PART do|VERB ,|PUNCT Jim|ENT .|PUNCT '|PUNCT "|PUNCT "|PUNCT It|PRON was|VERB horrible|ADJ ,|PUNCT "|PUNCT Shenko|ENT says|VERB .|PUNCT "|PUNCT
+Because|ADP you|PRON 're|VERB a|DET doctor|NOUN —|PUNCT you|PRON do|VERB n't|ADV want|VERB people|NOUN to|PART be|VERB in|ADP pain|NOUN .|PUNCT
+But|CCONJ my|ADJ fear|NOUN is|VERB ,|PUNCT '|PUNCT this|DET kid|NOUN is|VERB going|VERB to|PART go|VERB back|ADV to|ADP —|PUNCT his|ADJ life|NOUN is|VERB going|VERB to|PART be|VERB altered|VERB because|ADP of|ADP what|NOUN we|PRON 're|VERB doing|VERB ,|PUNCT in|ADP a|DET bad_way|NOUN .|PUNCT '|PUNCT "|PUNCT
+Shenko|ENT also|ADV feared|VERB that|ADP if|ADP he|PRON did|VERB n't|ADV give|VERB Max|ENT the|DET drugs|NOUN he|PRON wanted|VERB —|PUNCT if|ADP he|PRON prescribed|VERB a|DET non-opioid|NOUN and|CCONJ that|DET did|VERB n't|ADV work|VERB as|ADV well|ADV —|PUNCT Max|ENT would|VERB find|VERB his|ADJ own_opioid_supply|NOUN .|PUNCT
+"|PUNCT I|PRON think|VERB he|PRON would|VERB have|VERB said|VERB ,|PUNCT '|PUNCT I|PRON 'm|VERB going|VERB to|PART take|VERB matters|NOUN into|ADP my|ADJ own_hands|NOUN .|PUNCT '|PUNCT
+Absolutely|ADV ,|PUNCT "|PUNCT Shenko|ENT says|VERB .|PUNCT
+In|ADP the_end|DATE ,|PUNCT the|DET surgeon|NOUN prescribed|VERB Max|ENT just_a_small_amount|NOUN of|ADP Vicodin|ENT —|PUNCT an|DET opioid|NOUN .|PUNCT
+Less|ADJ than|ADP a_month_later|DATE ,|PUNCT Max|ENT died|VERB of|ADP a|DET heroin_overdose|NOUN .|PUNCT
+He|PRON was|VERB 23_years_old|DATE .|PUNCT
+There|ADV 's|VERB no|DET way|NOUN of|ADP knowing|VERB what|NOUN triggered|VERB the|DET relapse|NOUN .|PUNCT
+Had|VERB he|PRON come|VERB off|PART the|DET subxone_treatment|NOUN for|ADP his|ADJ addiction|NOUN too|ADV soon|ADV ?|PUNCT
+Did|VERB the|DET opioids|NOUN give|VERB him|PRON a|DET taste|NOUN of|ADP the|DET drugs|NOUN he|PRON 'd|VERB previously|ADV managed|VERB to|PART kick|VERB —|PUNCT enough|ADV of|ADP a|DET taste|NOUN to|PART relaunch|VERB the|DET cravings|NOUN ?|PUNCT
+Or|CCONJ was|VERB he|PRON trying|VERB to|ADP self-medicate|NOUN —|PUNCT to|PART ease|VERB his|ADJ physical_pain|NOUN from|ADP the|DET car_accident|NOUN and|CCONJ surgery|NOUN —|PUNCT and|CCONJ simply|ADV took|VERB too|ADV much|ADJ ?|PUNCT
+Dr._Shenko|ENT ,|PUNCT the|DET hand|NOUN surgeon|NOUN ,|PUNCT has|VERB been|VERB asking|VERB himself|PRON those|DET questions|NOUN .|PUNCT
+Enlarge|VERB this|DET image_toggle_caption|NOUN Courtesy|PROPN of|ADP James_Baker_Courtesy|ENT of|ADP James_Baker|ENT "|PUNCT What|NOUN could|VERB you|PRON have|VERB done|VERB differently|ADV ,|PUNCT what|NOUN do|VERB you|PRON change|VERB ,|PUNCT how|ADV do|VERB you|PRON do|VERB something|NOUN differently|ADV ,|PUNCT "|PUNCT Shenko|ENT wonders|VERB .|PUNCT
+"|PUNCT How|ADV do|VERB you|PRON treat|VERB patients|NOUN like|ADP this|DET ?|PUNCT "|PUNCT
+He|PRON now|ADV thinks|VERB hospital_surgeons|NOUN and|CCONJ anesthesiologists|NOUN need|VERB to|PART have|VERB ready|ADJ access|NOUN to|ADP addiction_specialists|NOUN ,|PUNCT even|ADV before|ADP the|DET surgery|NOUN .|PUNCT
+"|PUNCT Let|VERB 's|PRON bring|VERB in|PART somebody|NOUN ,|PUNCT a|DET specialist|NOUN in|ADP dependency|NOUN and|CCONJ addiction|NOUN into|ADP this|DET equation|NOUN ,|PUNCT and|CCONJ let|VERB 's|PRON manage|VERB it|PRON through|ADP that|DET ,|PUNCT "|PUNCT Shenko|ENT says|VERB .|PUNCT
+Dr._Stuart_Gitlow|ENT ,|PUNCT past|ADJ president|NOUN of|ADP the_American_Society_of_Addiction_Medicine|ENT ,|PUNCT agrees|VERB .|PUNCT
+If|ADP a|DET surgeon|NOUN or|CCONJ anesthesiologist|NOUN were|VERB treating|VERB a|DET patient|NOUN with|ADP serious_diabetes|NOUN ,|PUNCT they|PRON 'd|VERB consult|VERB and|CCONJ endocrinologist|NOUN .|PUNCT
+Addiction|NOUN ,|PUNCT he|PRON says|VERB ,|PUNCT is|VERB no|ADV different|ADJ .|PUNCT "|PUNCT Whether|ADP he|PRON gets|VERB the|DET opioids|NOUN or|CCONJ not|ADV is|VERB less|ADJ of|ADP the|DET question|NOUN ,|PUNCT "|PUNCT Gitlow|ENT says|VERB .|PUNCT "|PUNCT
+The|DET biggest_question|NOUN is|VERB what|NOUN do|VERB to|PART ensure|VERB this|DET patient|NOUN 's|PART safety|NOUN going|VERB forward|ADV during|ADP the|DET period|NOUN for|ADP which|ADJ he|PRON 's|VERB experiencing|VERB pain|NOUN ?|PUNCT "|PUNCT
+Gitlow|ENT says|VERB in|ADP Max|ENT 's|PART case|NOUN ,|PUNCT it|PRON 's|VERB not|ADV that|ADP the|DET addiction_treatment|NOUN did|VERB n't|ADV work|VERB .|PUNCT
+It|PRON 's|VERB that|ADP it|PRON ended|VERB .|PUNCT
+And|CCONJ an|DET addiction_specialist|NOUN might|VERB have|VERB made|VERB sure|ADJ the|DET surgery|NOUN was|VERB followed|VERB by|ADP a|DET stay|NOUN in|ADP a|DET sober_living_environment|NOUN ,|PUNCT a|DET methadone|NOUN prescription|NOUN ,|PUNCT or|CCONJ some|DET other|ADJ kind|NOUN of|ADP treatment|NOUN .|PUNCT
+But|CCONJ there|ADV are|VERB n't|ADV enough_addiction_specialists|NOUN to|PART meet|VERB the|DET need|NOUN .|PUNCT
+Nearly_2.5_million|CARDINAL Americans|ENT are|VERB said|VERB to|PART be|VERB addicted|VERB to|ADP prescription_opioids|NOUN or|CCONJ heroin|NOUN .|PUNCT
+And|CCONJ there|ADV are|VERB only_about_5,000|CARDINAL addiction_specialists|NOUN in|ADP the|DET country|NOUN —|PUNCT most|ADJ of|ADP whom|NOUN are|VERB n't|ADV affiliated|VERB with|ADP hospitals|NOUN .|PUNCT
+It|PRON 's|VERB a|DET problem|NOUN that|ADP Max|ENT 's|PART father|NOUN now|ADV sees|VERB all|DET too|ADV clearly|ADV .|PUNCT
+He|PRON says|VERB when|ADV Max|ENT was|VERB in|ADP recovery|NOUN ,|PUNCT he|PRON 'd|VERB ask|VERB his|ADJ son|NOUN what|NOUN he|PRON could|VERB do|VERB to|PART help|VERB him|PRON ,|PUNCT and|CCONJ Max|ENT replied|VERB :|PUNCT "|PUNCT 'Just_be_there,_Dad|ENT .|PUNCT
+Let|VERB me|PRON know|VERB you|PRON 'll|VERB always|ADV be|VERB there|ADV .|PUNCT '|PUNCT "|PUNCT
+Now|ADV ,|PUNCT James_Baker|ENT says|VERB ,|PUNCT he|PRON wants|VERB to|PART be|VERB there|ADV for|ADP others|NOUN fighting|VERB addiction|NOUN .|PUNCT
+He|PRON 's|VERB done|VERB what|NOUN he|PRON needs|VERB to|PART do|VERB to|PART become|VERB certified|ADJ to|PART prescribe|VERB suboxone|NOUN —|PUNCT the|DET same|ADJ drug|NOUN that|ADJ got|VERB Max|ENT off|ADP heroin|PROPN initially|ADV —|PUNCT in|ADP the|DET hopes|NOUN of|ADP preventing|VERB more_tragedies|NOUN like|ADP the|DET one|NOUN that|ADJ devastated|VERB his|ADJ family|NOUN .|PUNCT

@@ -1,0 +1,39 @@
+China’s|PROPN already-big_WeChat|PROPN is|VERB searching|VERB for|ADP how|ADV to|PART get|VERB even|ADV bigger|ADJ .|PUNCT
+The|DET answer|NOUN ?|PUNCT
+Search|ENT .|PUNCT
+Today|DATE the|DET company|NOUN publicly|ADV unveiled|VERB (|PUNCT link|NOUN in|ADP Chinese|ENT )|PUNCT a|DET feature|NOUN —|PUNCT called|VERB “|PUNCT Search|ENT ,|PUNCT ”|PUNCT simply|ADV enough|ADV —|PUNCT that|DET lets|VERB users|NOUN enter|VERB keywords|NOUN and|CCONJ find|VERB relevant_information|NOUN .|PUNCT
+While|ADP WeChat|ENT has|VERB had|VERB a|DET search_feature|NOUN in|ADP the|DET past|NOUN ,|PUNCT this|DET one|NOUN is|VERB more|ADV powerful|ADJ .|PUNCT
+It|PRON ’s|VERB not|ADV quite|ADV a|DET search_engine|NOUN in|ADP the|DET style|NOUN of|ADP Google|ENT or|CCONJ Baidu|ENT ,|PUNCT the|DET reigning|VERB search|NOUN engine|NOUN of|ADP China|ENT .|PUNCT
+Rather|ADV ,|PUNCT it|PRON ’s|VERB an|DET alternate_vision|NOUN of|ADP search|NOUN ,|PUNCT one|NUM that|ADJ ’s|VERB uniquely|ADV suited|ADJ to|ADP a|DET social_media_app|NOUN .|PUNCT
+And|CCONJ it|PRON could|VERB very|ADV well|ADV become|VERB huge|ADJ in|ADP China|ENT .|PUNCT
+Searching|VERB Google|PROPN for|ADP “|PUNCT Apple_iPhone”|NOUN will|VERB typically|ADV yield|VERB ads|NOUN at|ADP the|DET very_top|NOUN ,|PUNCT followed|VERB by|ADP recent_news_articles|NOUN ,|PUNCT YouTube_and_Wikipedia_pages|ENT ,|PUNCT and|CCONJ addresses|NOUN of|ADP nearby_Apple_stores|NOUN .|PUNCT
+Baidu_works|NOUN in|ADP a|DET similar_way|NOUN .|PUNCT
+Clicking|VERB on|ADP the|DET offered_links|NOUN takes|VERB the|DET user|NOUN to|ADP a|DET page|NOUN completely|ADV outside|ADP of|ADP Google|ENT or|CCONJ Baidu|ENT .|PUNCT
+Searching|VERB in|ADP WeChat|ENT .|PUNCT
+(|PUNCT Quartz|ENT )|PUNCT WeChat|NOUN ’s_search_feature|NOUN is|VERB a|DET bit|NOUN more|ADV social|ADJ .|PUNCT
+Searching|VERB for|ADP “|PUNCT Apple|ENT ”|PUNCT yields|NOUN recent|ADJ news|NOUN at|ADP the|DET very_top|NOUN ,|PUNCT followed|VERB by|ADP mentions|NOUN of|ADP Apple|ENT made|VERB by|ADP one|CARDINAL ’s_friends|NOUN .|PUNCT
+An|DET assortment|NOUN of|ADP random_articles|NOUN follows|VERB at|ADP the|DET bottom|NOUN .|PUNCT
+Tapping|VERB on|ADP any|DET of|ADP these|DET links|NOUN —|PUNCT even|ADV the|DET articles|NOUN —|PUNCT always|ADV keeps|VERB one|CARDINAL within|ADP WeChat|NOUN ’s|PROPN built-in_browser|NOUN ,|PUNCT and|CCONJ many|ADJ of|ADP the|DET linked_articles|NOUN are|VERB ones|NOUN published|VERB directly|ADV to|ADP WeChat|ENT (|PUNCT much|ADV like|INTJ Facebook’s|ENT “|PUNCT Instant|PROPN Articles|PROPN ”|PUNCT )|PUNCT .|PUNCT
+Tencent|ENT ,|PUNCT WeChat’s|ENT parent|NOUN company|NOUN ,|PUNCT did|VERB not|ADV answer|VERB questions|NOUN about|ADP how|ADV it|PRON devises|VERB its|ADJ results_rankings|NOUN .|PUNCT
+To|PART put|VERB it|PRON simply|ADV ,|PUNCT it|PRON ’s|VERB a|DET “|PUNCT walled_garden”_approach|NOUN to|ADP search|NOUN .|PUNCT
+Whereas|ADP Google|ENT and|CCONJ Baidu|ENT ’s|NUM vision|NOUN of|ADP search|NOUN entails|VERB aggregating|VERB everything|NOUN published|VERB on|ADP the|DET internet|NOUN ,|PUNCT WeChat’s|ENT entails|VERB aggregating|VERB everything|NOUN that|ADJ ’s|PROPN published|VERB and|CCONJ shared|VERB on|ADP WeChat|PROPN .|PUNCT
+And|CCONJ when|ADV you|PRON tap|VERB on|ADP something|NOUN ,|PUNCT you|PRON always|ADV stay|VERB inside|ADV WeChat|PROPN .|PUNCT
+WeChat|ADJ has|VERB plenty|NOUN of|ADP data|NOUN to|PART draw|VERB from|ADP to|PART build|VERB and|CCONJ perfect|VERB a|DET search_engine|NOUN .|PUNCT
+With|ADP 938_million|CARDINAL registered|VERB monthly_users|NOUN ,|PUNCT it|PRON not|ADV only|ADV knows|VERB who|NOUN your|ADJ friends|NOUN are|VERB (|PUNCT more|ADJ than|ADP Baidu|ENT or|CCONJ Google|ENT do|VERB )|PUNCT ,|PUNCT it|PRON knows|VERB what|NOUN they|PRON read|VERB and|CCONJ share|VERB ,|PUNCT and|CCONJ what|NOUN you|PRON read|VERB and|CCONJ share|VERB .|PUNCT
+It|PRON knows|VERB where|ADV you|PRON and|CCONJ your|ADJ friends|NOUN are|VERB located|VERB ,|PUNCT and|CCONJ what|NOUN you|PRON buy|VERB .|PUNCT
+And|CCONJ it|PRON ’s|SYM addictive—50%|NOUN of|ADP WeChat|NOUN users|NOUN spend|VERB more_than_90_minutes|NOUN per|ADP day|NOUN on|ADP the|DET app|NOUN .|PUNCT
+WeChat|NOUN can|VERB also|ADV benefit|VERB from|ADP Tencent|ENT owning|VERB a|DET stake|NOUN in|ADP Sogou|ENT ,|PUNCT which|ADJ is|VERB an|DET also-ran_search_engine|NOUN in|ADP China|ENT but|CCONJ has|VERB potentially_valuable_data|NOUN and|CCONJ technology|NOUN .|PUNCT
+Meanwhile|ADV ,|PUNCT in|ADP recent_years|DATE ,|PUNCT WeChat|NOUN has|VERB become|VERB a|DET major_publishing_platform|NOUN for|ADP traditional_news_sites|NOUN ,|PUNCT online|ADJ media|NOUN ,|PUNCT and|CCONJ solo|NOUN bloggers|NOUN alike|ADV .|PUNCT
+Publishers|NOUN will|VERB often|ADV push|VERB articles|NOUN directly|ADV to|ADP WeChat|PROPN through|ADP “|PUNCT Public_Accounts|ENT ”|PUNCT
+(|PUNCT rough_analogs|NOUN to|PART Facebook_Pages|ENT )|PUNCT that|ADP subscribers|NOUN will|VERB read|VERB and|CCONJ share|VERB ,|PUNCT eschewing|VERB external_websites|NOUN altogether|ADV .|PUNCT
+This|DET search_feature|NOUN collects|VERB all|ADJ the|DET content|NOUN published|VERB to|ADP WeChat_(|ENT and|CCONJ more|ADV )|PUNCT ,|PUNCT and|CCONJ makes|VERB it|PRON easier|ADJ for|ADP everyone|NOUN to|PART discover|VERB .|PUNCT
+And|CCONJ when|ADV they|PRON cruise|VERB through|ADP news|NOUN -|PUNCT oriented_search_results|NOUN ,|PUNCT they|PRON ’ll|VERB still|ADV never|ADV leave|VERB the|DET confines|NOUN of|ADP WeChat|DATE .|PUNCT
+While|ADP the|DET feature|NOUN remains|VERB in|ADP its|ADJ early_stages|NOUN ,|PUNCT it|PRON will|VERB likely|ADV become|VERB a|DET boon|NOUN to|ADP Tencent|ENT .|PUNCT
+Many_Chinese_internet_users|NOUN spend|VERB most|ADJ of|ADP their|ADJ online_lives|NOUN in|ADP WeChat|ENT .|PUNCT
+This|DET search_feature|NOUN gives|VERB them|PRON one|CARDINAL more_reason|NOUN to|PART do|VERB so|ADV .|PUNCT
+If|ADP WeChat|ADJ perfects|VERB its|ADJ search_capabilities|NOUN ,|PUNCT expect|VERB a|DET giant|NOUN of|ADP the|DET Chinese_internet|NOUN to|PART suffer|VERB .|PUNCT
+Baidu|ENT ,|PUNCT China|ENT ’s_Google|ENT analog|NOUN ,|PUNCT has|VERB reported|VERB slowing|VERB revenue_growth|NOUN and|CCONJ declining|VERB operating_profits|NOUN .|PUNCT
+It|PRON makes|VERB most|ADJ of|ADP its|ADJ money|NOUN from|ADP Chinese_advertisers|NOUN that|ADJ are|VERB now|ADV keen|ADJ to|PART put|VERB their|ADJ ads|NOUN in|ADP more_vibrant_real_estate|NOUN —|PUNCT like|INTJ WeChat|PROPN .|PUNCT
+While|ADP Tencent’s_stock_price|NOUN has|VERB soared|VERB over|ADP the_past_two_years|DATE ,|PUNCT Baidu’s|ENT has|VERB wavered|VERB .|PUNCT
+Since|ADP Nov._14,_2014|DATE ,|PUNCT its|ADJ last_high,_Baidu’s_share_price|NOUN has|VERB tanked|VERB 25.5%,|PERCENT according|VERB to|ADP FactSet|ENT .|PUNCT
+Within|ADP the|DET same_time_period|NOUN ,|PUNCT Tencent’s|ENT has|VERB jumped|VERB 96.9%.|PERCENT

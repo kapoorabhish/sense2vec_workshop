@@ -1,0 +1,40 @@
+PORTLAND|PROPN ,|PUNCT Ore.|ENT --|PUNCT Authorities|NOUN on|ADP Saturday|DATE identified|VERB a|DET 35-year-old_Portland_man|NOUN as|ADP the|DET suspect|NOUN in|ADP the|DET fatal_stabbing|NOUN of|ADP two|CARDINAL people|NOUN on|ADP Northeast_Portland_light-rail_train|NOUN who|NOUN yelled|VERB racial_slurs|NOUN at|ADP two|CARDINAL young_women|NOUN ,|PUNCT one|CARDINAL of|ADP whom|NOUN was|VERB wearing|VERB a|DET hijab|NOUN .|PUNCT
+Court_records|NOUN show|VERB that|ADP Jeremy_Joseph_Christian|ENT was|VERB convicted|VERB of|ADP robbery|NOUN ,|PUNCT kidnapping|NOUN and|CCONJ a|DET weapons_charge|NOUN in|ADP 2002|DATE .|PUNCT
+Christian|ENT is|VERB being|VERB held|VERB in|ADP the|DET Multnomah_County_Jail|PROPN on|ADP suspicion|NOUN of|ADP aggravated|VERB murder|NOUN and|CCONJ attempted|VERB murder|NOUN .|PUNCT
+One|CARDINAL man|NOUN was|VERB dead|ADJ at|ADP the|DET scene|NOUN and|CCONJ another|DET died|VERB at|ADP a|DET hospital|NOUN .|PUNCT
+The|DET third_person|NOUN was|VERB taken|VERB to|ADP a|DET hospital|NOUN with|ADP non-life|NOUN threatening|VERB injuries|NOUN ,|PUNCT police|NOUN said|VERB .|PUNCT
+Witnesses|NOUN told|VERB CBS_affiliate|NOUN KOIN-TV|ENT the|DET suspect|NOUN was|VERB yelling|VERB about|ADP hating|VERB Muslims|ENT for|ADP several_minutes|NOUN before|ADP people|NOUN confronted|VERB him|PRON and|CCONJ the|DET encounter|NOUN turned|VERB violent|ADJ .|PUNCT
+Police|NOUN say|VERB that|ADP before|ADP the|DET stabbing|VERB the|DET assailant|NOUN on|ADP the|DET train|NOUN was|VERB ranting|VERB on|ADP many_topics|NOUN ,|PUNCT using|VERB "|PUNCT hate|VERB speech|NOUN or|CCONJ biased_language|NOUN .|PUNCT "|PUNCT
+Friday|DATE was|VERB the|DET beginning|NOUN of|ADP Ramadan|ENT ,|PUNCT the|DET holiest|ADJ time|NOUN of|ADP the_year|DATE for|ADP Muslims|ENT ,|PUNCT and|CCONJ the|DET attack|NOUN prompted|ADJ soul|NOUN -|PUNCT searching|VERB in|ADP Portland|ENT ,|PUNCT a|DET city|NOUN that|ADJ prides|VERB itself|PRON on|ADP its|ADJ tolerance|NOUN and|CCONJ liberal_views|NOUN .|PUNCT
+A|DET memorial|NOUN of|ADP flowers|NOUN and|CCONJ signs|NOUN quickly|ADV grew|VERB at|ADP the|DET scene|NOUN by|ADP a|DET transit_station|NOUN .|PUNCT
+Dyjuana_Hudson|ENT ,|PUNCT a|DET mother|NOUN of|ADP one|CARDINAL of|ADP the|DET girls|NOUN ,|PUNCT told|VERB The_Oregonian|ENT that|ADJ the|DET man|NOUN began|VERB a|DET racial_tirade|NOUN as|ADV soon|ADV as|ADP he|PRON spotted|VERB the|DET girls|NOUN .|PUNCT
+Her|ADJ daughter|NOUN is|VERB African-American|ENT and|CCONJ was|VERB with|ADP a|DET friend|NOUN who|NOUN was|VERB wearing|VERB a|DET hijab|NOUN ,|PUNCT she|PRON said|VERB .|PUNCT
+"|PUNCT He|PRON was|VERB saying|VERB that|ADP Muslims|ENT should|VERB die|VERB ,|PUNCT "|PUNCT Hudson|ENT said|VERB .|PUNCT
+"|PUNCT That|ADP they|PRON 've|VERB been|VERB killing|VERB Christians|ENT for|ADP years|DATE .|PUNCT
+"|PUNCT The|DET attack|NOUN happened|VERB on|ADP a|DET Metropolitan_Area_Express_train|NOUN as|ADP it|PRON headed|VERB east|NOUN .|PUNCT
+A|DET train|NOUN remained|VERB stopped|VERB on|ADP the|DET tracks|NOUN at|ADP a|DET transit_center|NOUN which|ADJ was|VERB closed|VERB while|ADP police|NOUN investigated|VERB .|PUNCT
+Autopsies|NOUN on|ADP the|DET victims|NOUN were|VERB being|VERB done|VERB Saturday|DATE .|PUNCT
+Their|ADJ names|NOUN have|VERB not|ADV been|VERB made|VERB public|ADJ .|PUNCT
+Police|NOUN say|VERB the|DET victims|NOUN were|VERB trying|VERB to|PART stop|VERB Christian|ENT from|ADP confronting|VERB the|DET girls|NOUN .|PUNCT "|PUNCT
+In_the|ENT midst|NOUN of|ADP his|ADJ ranting|NOUN and|CCONJ raving|VERB ,|PUNCT some|DET people|NOUN approached|VERB him|PRON and|CCONJ appeared|VERB to|PART try|VERB to|PART intervene|VERB with|ADP his|ADJ behavior|NOUN and|CCONJ some|DET of|ADP the|DET people|NOUN that|ADP he|PRON was|VERB yelling|VERB at|ADP ,|PUNCT "|PUNCT police_Sgt|PROPN .|PUNCT
+Pete_Simpson|ENT told|VERB The_Oregonian|ENT .|PUNCT
+"|PUNCT They|PRON were|VERB attacked|VERB viciously|ADV .|PUNCT "|PUNCT
+Christian|ENT is|VERB locally|ADV known|VERB as|ADP a|DET right-wing_extremist|NOUN and|CCONJ white_supremacist|NOUN ,|PUNCT according|VERB to|ADP the_Portland_Mercury|ENT newspaper|NOUN .|PUNCT
+Police|NOUN have|VERB not|ADV confirmed|VERB the|DET report|NOUN .|PUNCT
+The|DET paper|NOUN reports|VERB Christian|ENT showed|VERB up|PART to|ADP a|DET right-wing_"March|DATE for|ADP Free_Speech|PROPN "|PUNCT event|NOUN on|ADP April_29|DATE with|ADP a|DET baseball_bat|NOUN that|ADJ was|VERB quickly|ADV confiscated|VERB by|ADP police|NOUN .|PUNCT "|PUNCT
+He|PRON ranted|VERB how|ADV he|PRON was|VERB a|DET nihilist|NOUN .|PUNCT
+He|PRON 'd|VERB soon|ADV yelled|VERB racial_slurs|NOUN ...|PUNCT and|CCONJ gave|VERB the|DET Nazi_salute|NOUN throughout|ADP the_day|DATE ,|PUNCT "|PUNCT the_Portland_Mercury|ENT says|VERB .|PUNCT
+Portland_Police_Chief_Mike_Marshman|ENT told|VERB KOIN-TV|ENT that|ADP Friday|DATE 's|PART attacks|NOUN were|VERB tough|ADJ to|PART comprehend|VERB .|PUNCT "|PUNCT
+Even|ADV though|ADP I|PRON 've|VERB been|VERB doing|VERB police_work|NOUN for|ADP a|DET long,_long_time|NOUN now|ADV ,|PUNCT the|DET shock|NOUN of|ADP these|DET senseless_crimes|NOUN still|ADV stunned|VERB me|PRON ,|PUNCT "|PUNCT he|PRON said|VERB .|PUNCT
+"|PUNCT Just|ADV horrific|ADJ .|PUNCT "|PUNCT
+But|CCONJ Christian|ENT has|VERB had|VERB several_encounters|NOUN with|ADP the|DET law|NOUN .|PUNCT
+In|ADP 2002|DATE ,|PUNCT Christian|ENT ,|PUNCT then|ADV 20|CARDINAL ,|PUNCT was|VERB arrested|VERB and|CCONJ charged|VERB with|ADP first-degree_robbery|NOUN and|CCONJ second-degree_kidnapping|NOUN after|ADP he|PRON rode|VERB to|ADP a|DET convenience_store|NOUN on|ADP his|ADJ bike|NOUN and|CCONJ held|VERB up|PART employees|NOUN there|ADV with|ADP a|DET gun|NOUN ,|PUNCT according|VERB to|ADP court_records|NOUN and|CCONJ his|ADJ court|NOUN -|PUNCT appointed_defense_attorney|NOUN at|ADP the|DET time|NOUN ,|PUNCT Matthew_Kaplan|ENT .|PUNCT
+When|ADV police|NOUN caught|VERB up|PART with|ADP him|PRON ,|PUNCT Christian|ENT aimed|VERB the|DET gun|NOUN at|ADP himself|PRON in|ADP a|DET suicide_attempt|NOUN before|ADP he|PRON was|VERB shot|VERB and|CCONJ injured|VERB by|ADP police|NOUN ,|PUNCT Kaplan|ENT said|VERB .|PUNCT
+Christian|ENT was|VERB sentenced|VERB to|ADP more_than_seven|CARDINAL years|NOUN in|ADP prison|NOUN after|ADP striking|VERB a|DET plea_deal|NOUN that|ADJ eliminated|VERB coercion|NOUN and|CCONJ weapons|NOUN charges|NOUN .|PUNCT
+Kaplan|ENT said|VERB he|PRON remembers|VERB the|DET case|NOUN vividly|ADV because|ADP Christian|ENT was|VERB so|ADV young|ADJ ,|PUNCT so|ADV earnest|ADJ and|CCONJ had|VERB never|ADV been|VERB in|ADP trouble|NOUN before|ADV .|PUNCT
+At|ADP the|DET time|NOUN ,|PUNCT the|DET attorney|NOUN suspected|VERB the|DET onset|NOUN of|ADP mental_illness|NOUN to|PART explain|VERB his|ADJ actions|NOUN and|CCONJ worried|VERB about|ADP how|ADV he|PRON would|VERB deal|VERB with|ADP a|DET long_prison_sentence|NOUN .|PUNCT
+"|PUNCT It|PRON was|VERB so|ADV random|ADJ ,|PUNCT the|DET event|NOUN in|ADP his|ADJ life|NOUN .|PUNCT
+It|PRON made|VERB no|DET sense|NOUN that|ADP he|PRON did|VERB this|DET at|ADP his|ADJ age|NOUN .|PUNCT
+He|PRON had|VERB no|DET background|NOUN like|ADP this|DET ,|PUNCT no|DET history|NOUN of|ADP violence|NOUN and|CCONJ then|ADV he|PRON goes|VERB and|CCONJ gets|VERB a|DET gun|NOUN and|CCONJ robs|VERB a|DET store|NOUN ,|PUNCT "|PUNCT Kaplan|ENT told|VERB The_Associated_Press|ENT in|ADP a|DET phone_interview|NOUN .|PUNCT
+Christian|ENT had|VERB another|DET brush|NOUN with|ADP the|DET law|NOUN in|ADP 2010|DATE ,|PUNCT when|ADV he|PRON was|VERB arrested|VERB on|ADP charges|NOUN of|ADP being|VERB a|DET felon|NOUN in|ADP possession|NOUN of|ADP a|DET firearm|NOUN and|CCONJ theft|NOUN .|PUNCT
+Those|DET charges|NOUN were|VERB dismissed|VERB ,|PUNCT according|VERB to|ADP court_records|NOUN ,|PUNCT which|ADJ do|VERB not|ADV explain|VERB why|ADV .|PUNCT
