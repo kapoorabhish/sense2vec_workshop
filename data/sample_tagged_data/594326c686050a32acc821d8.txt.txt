@@ -1,2 +1,0 @@
-Ride|ENT -|PUNCT hailing_company|NOUN Uber|ENT is|VERB going|VERB through|ADP a|DET major_overhaul|NOUN .|PUNCT
-Founder|NOUN and|CCONJ CEO|NOUN Travis_Kalanick|ENT is|VERB going|VERB on|ADP leave|NOUN and|CCONJ the|DET company|NOUN will|VERB implement|VERB a|DET series|NOUN of|ADP changes|NOUN based|VERB on|ADP recommendations|NOUN from|ADP Eric|ENT …|PUNCT

@@ -1,4 +1,0 @@
-The|DET Governor|PROPN of|ADP and|CCONJ CH_Vidyasagar_Rao|ENT and|CCONJ Chief_Minister|PROPN of|ADP Devendra_Fadnavis|ENT released|VERB the|DET book|NOUN 'Marching_with_a_Billion:_Analysing_Modi's_At_Midterm'|ENT here|ADV today|DATE .|PUNCT
-The|DET release_event|NOUN took|VERB place|NOUN at|ADP the|DET in|ADP south|NOUN this_evening|TIME ,|PUNCT a|DET spokesperson|NOUN said|VERB .|PUNCT
-The|DET book|NOUN ,|PUNCT authored|VERB by|ADP senior_journalist|NOUN Uday_Mahurkar|ENT ,|PUNCT analyses|VERB the|DET performance|NOUN of|ADP the|DET Modi_government's_three_years|DATE in|ADP office|NOUN .|PUNCT
-(|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

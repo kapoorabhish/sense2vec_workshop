@@ -1,8 +1,0 @@
-If|ADP you|PRON are|VERB planning|VERB to|PART buy|VERB a|DET mobile_phone|NOUN ,|PUNCT buy|VERB it|PRON today|DATE .|PUNCT
-From|ADP tomorrow|DATE ,|PUNCT July_1|DATE ,|PUNCT buying|VERB a|DET new_phone|NOUN will|VERB burn|VERB a|DET bigger_hole|NOUN in|ADP your|ADJ pocket|NOUN as|ADP most_mobile_phones|NOUN are|VERB going|VERB to|PART become|VERB costlier|ADJ due|ADP to|ADP Goods_and_Services|ENT Tax_GST|PROPN )|PUNCT .|PUNCT
-GST_Council|ENT decided|VERB to|PART impose|VERB a|DET 12_per|MONEY cent|NOUN tax|NOUN on|ADP all|DET mobile_phones|NOUN .|PUNCT
-This|DET GST_rate|NOUN will|VERB make|VERB your|ADJ phones|NOUN costlier|ADJ by|ADP 4-5_per_cent|DATE .|PUNCT
-The|DET higher_GST_rate|NOUN can|VERB hit|VERB the|DET local_manufacturers|NOUN as|ADP it|PRON will|VERB take|VERB away|ADV the|DET benefits|NOUN offered|VERB to|ADP them|PRON under|ADP the|DET '|PUNCT Make|NOUN in|ADP India|ENT '|PART programme|NOUN .|PUNCT
-However|ADV ,|PUNCT to|PART make|VERB local_manufacturing|NOUN attractive|ADJ ,|PUNCT the|DET government|NOUN might|VERB impose|VERB 10_per|MONEY cent_custom_duty|NOUN on|ADP imported_mobile_phones|NOUN and|CCONJ accessories|NOUN .|PUNCT
-Under|ADP the_'Make_in_India'|ENT programme|NOUN ,|PUNCT the|DET government|NOUN had|VERB imposed|VERB the|DET duty_differential|NOUN between|ADP local_manufacturing_and_imported_products|NOUN two_years_ago|DATE .|PUNCT
-Under|ADP this|DET scheme|NOUN ,|PUNCT the|DET government|NOUN levies|VERB a|DET 12.5_per|MONEY cent|NOUN countervailing_duty|NOUN on|ADP fully_made_phones|NOUN and|CCONJ accessories|NOUN imported|VERB into|ADP the|DET country|NOUN .|PUNCT

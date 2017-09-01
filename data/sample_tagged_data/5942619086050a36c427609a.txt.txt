@@ -1,6 +1,0 @@
-An|DET elderly_woman|NOUN was|VERB crushed|VERB to|ADP death|NOUN by|ADP a|DET truck|NOUN in|ADP Kishtwar_district|NOUN of|ADP today|DATE .|PUNCT
-Somi_Devi|ENT (|PUNCT 60|CARDINAL )|PUNCT ,|PUNCT a|DET resident|NOUN of|ADP Kuleed|ENT ,|PUNCT was|VERB on|ADP a|DET morning_walk|NOUN at|ADP Sangrambhata_area|NOUN of|ADP the|DET district|NOUN when|ADV the|DET incident|NOUN happened|VERB ,|PUNCT a|DET police_officer|NOUN said|VERB .|PUNCT
-She|PRON died|VERB on|ADP the|DET spot|NOUN ,|PUNCT the|DET officer|NOUN said|VERB ,|PUNCT adding|VERB that|ADP the|DET body|NOUN was|VERB handed|VERB over|ADP to|ADP her|ADJ family|NOUN for|ADP last_rites|NOUN after|ADP all|DET legal_and_medical_formalities|NOUN were|VERB carried|VERB out|PART .|PUNCT
-Police|NOUN have|VERB registered|VERB a|DET case|NOUN and|CCONJ seized|VERB the|DET truck|NOUN .|PUNCT
-A|DET hunt|NOUN is|VERB on|ADP to|PART nab|VERB the|DET truck_driver|NOUN .|PUNCT
-(|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

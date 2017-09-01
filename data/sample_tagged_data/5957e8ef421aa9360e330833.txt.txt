@@ -1,2 +1,0 @@
-$|SYM 11.77|MONEY per|ADP week|NOUN *|PUNCT Purchase|ENT a|DET Newspaper_+_Premium_Digital_subscription|NOUN for|ADP $11.77|MONEY per|ADP week|NOUN .|PUNCT
-You|PRON will|VERB be|VERB billed|VERB $66.30|MONEY per|ADP month|NOUN after|ADP the|DET trial|NOUN ends|VERB

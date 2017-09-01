@@ -1,1 +1,0 @@
-20_million|CARDINAL After|ADP selling|VERB 2.7_million|CARDINAL units|NOUN of|ADP the|DET Switch_gaming_console|NOUN in|ADP March|DATE ,|PUNCT when|ADV it|PRON launched|VERB ,|PUNCT Nintendo|ENT now|ADV plans|VERB to|PART manufacture|VERB 20_million|CARDINAL devices|NOUN until|ADP next_March|DATE .|PUNCT

@@ -1,2 +1,0 @@
-May_05_2017|DATE :|PUNCT
-The_Economic_Times|ENT (|PUNCT Bangalore|PROPN )|PUNCT Higuain_Brace_Secures_Final_Berth|ENT for|ADP Juventus|PROPN

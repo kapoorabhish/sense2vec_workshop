@@ -1,4 +1,0 @@
-Indiabulls_Housing_Finance|ENT said|VERB it|PRON has|VERB raised|VERB Rs_850|CARDINAL crore|NOUN by|ADP issuing|VERB non-convertible_debentures|NOUN on|ADP private_placement_basis|NOUN .|PUNCT
-This|DET is|VERB company|NOUN 's|PART third_tranche|NOUN of|ADP planned_Rs_10,000|CARDINAL crore|NOUN fund|NOUN raise|VERB it|PRON had|VERB announced|VERB in|ADP June_this_year|DATE .|PUNCT "|PUNCT
-In|ADP terms|NOUN of|ADP the|DET board_authorisation|NOUN ..|PUNCT the|DET company|NOUN has|VERB today|DATE alloted|VERB its|ADJ third_tranche|NOUN of|ADP secured,_redeemable,_non-_convertible_debentures|NOUN aggregating|VERB to|ADP Rs_850|CARDINAL crore|NOUN ,|PUNCT "|PUNCT an|DET exchange|NOUN filing|NOUN of|ADP the|DET company|NOUN said|VERB .|PUNCT
-Available|ADJ with|ADP four|CARDINAL options|NOUN ,|PUNCT the|DET bonds|NOUN carry|VERB coupon_rate|NOUN in|ADP range|NOUN of|ADP 7.40|CARDINAL -|SYM 7.82|NUM per|NOUN cent|NOUN .|PUNCT

@@ -1,7 +1,0 @@
-The|DET bodies|NOUN of|ADP eight|CARDINAL persons|NOUN who|NOUN had|VERB drowned|VERB in|ADP while|ADP travelling|VERB by|ADP boat|NOUN have|VERB been|VERB recovered|VERB .|PUNCT
-On|ADP Sunday|DATE ,|PUNCT a|DET boat|NOUN carrying|VERB 11|CARDINAL people|NOUN capsized|VERB near|ADP the|DET Vena_Dam|PROPN ,|PUNCT situated|VERB around_25_kilometers|QUANTITY from|ADP Eight|CARDINAL persons|NOUN drowned|VERB ,|PUNCT while|ADP three|CARDINAL persons|NOUN managed|VERB to|PART escape|VERB .|PUNCT
-"|PUNCT Two|CARDINAL teams|NOUN were|VERB here|ADV for|ADP rescue_operations|NOUN .|PUNCT
-Few_boys|NOUN had|VERB come|VERB for|ADP picnic|NOUN .|PUNCT
-They|PRON took|VERB a|DET fishing_boat|NOUN that|ADJ capsized|VERB ,|PUNCT "|PUNCT Additional_Superintendent|PROPN of|ADP Police_(Nagpur)_Suresh_Bhoyat|ENT told|VERB ANI|ENT .|PUNCT
-"|PUNCT We|PRON took|VERB the|DET help|NOUN of|ADP the_Disaster_Response_Force|ENT (|PUNCT NDRF|ENT )|PUNCT ,|PUNCT "|PUNCT he|PRON added|VERB .|PUNCT
-(|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

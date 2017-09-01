@@ -1,4 +1,0 @@
-"|PUNCT There|ADV 's|VERB not|ADV many_Native_Americans|ENT around|ADV here|ADV ,|PUNCT "|PUNCT says|VERB Jordan_Whitebull|ENT .|PUNCT
-He|PRON 's|VERB talking|VERB about|ADP the|DET small_town|NOUN of|ADP Clinton|ENT ,|PUNCT in|ADP mostly_white_rural_Arkansas|ENT ,|PUNCT where|ADV Whitebull|ENT grew|VERB up|PART after|ADP being|VERB adopted|VERB by|ADP a|DET white_family|NOUN at|ADP a|DET young_age|NOUN .|PUNCT
-Here|ADV Whitebull|ENT discusses|VERB identity|NOUN and|CCONJ his|ADJ love|NOUN of|ADP hunting|NOUN -|PUNCT all|DET while|NOUN on|ADP a|DET canoe|NOUN to|PART check|VERB on|ADP the|DET outcome|NOUN of|ADP his|ADJ latest_hobby|NOUN ,|PUNCT beaver|NOUN trapping|NOUN .|PUNCT
-Video|NOUN by|ADP Tom_Heyden|ENT

@@ -1,9 +1,0 @@
-chief|NOUN has|VERB accused|VERB the|DET governments|NOUN at|ADP the|DET Centre|ENT and|CCONJ in|ADP of|ADP insulting_traders|NOUN in|ADP the|DET state|NOUN ,|PUNCT saying|VERB criminals|NOUN and|CCONJ police|NOUN are|VERB targeting|VERB the|DET community|NOUN which|ADJ is|VERB living|VERB in|ADP fear|NOUN .|PUNCT
-Addressing|VERB a|DET meeting|NOUN of|ADP traders|NOUN here|ADV ,|PUNCT Akhilesh|ENT said|VERB ,|PUNCT "|PUNCT Traders|NOUN are|VERB feeling|VERB highly|ADV insecure|ADJ .|PUNCT
-The|DET is|VERB insulting|VERB the|DET trader_community|NOUN .|PUNCT
-The|DET is|VERB working|VERB with|ADP an|DET attitude|NOUN of|ADP vengeance|NOUN .|PUNCT "|PUNCT
-The|DET former_chief_minister|NOUN also|ADV said|VERB that|ADP the|DET has|VERB "|PUNCT broken|VERB "|PUNCT the|DET mutual_economy|NOUN of|ADP traders|NOUN and|CCONJ farmers."This|NOUN has|VERB adversely|ADV affected|VERB the|DET markets|NOUN .|PUNCT
-The|DET wants|NOUN to|PART trade|VERB on|ADP the|DET pretext|NOUN of|ADP cows|NOUN and|CCONJ the|DET Ganga|ENT ,|PUNCT "|PUNCT he|PRON said|VERB .|PUNCT
-The|DET meeting|NOUN comes|VERB just_days|DATE after|ADP two|CARDINAL jewellers|NOUN were|VERB killed|VERB during|ADP a|DET robbery|NOUN in|ADP Mathura|ENT ,|PUNCT triggering|VERB wide-spread_protest|NOUN by|ADP the|DET business_community|NOUN .|PUNCT
-In|ADP a|DET major_breakthrough|NOUN in|ADP the|DET sensational_dacoity-cum-_case|NOUN ,|PUNCT the|DET Mathura_police|NOUN yesterday|DATE arrested|VERB six|CARDINAL robbers|NOUN after|ADP a|DET brief_encounter|NOUN in|ADP which|ADJ about_six|CARDINAL police_personnel|NOUN were|VERB injured|VERB in|ADP Chaubia_Para|ENT in|ADP the|DET district|NOUN .|PUNCT
-(|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

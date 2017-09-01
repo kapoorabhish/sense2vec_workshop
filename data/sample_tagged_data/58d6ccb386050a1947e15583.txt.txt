@@ -1,7 +1,0 @@
-A|DET youth|NOUN was|VERB on|ADP Monday|DATE arrested|VERB for|ADP the|DET murder|NOUN of|ADP his|ADJ lover|NOUN ,|PUNCT a|DET transgender|NOUN ,|PUNCT who|NOUN was|VERB found|VERB burnt|VERB to|ADP death|NOUN at|ADP her|ADJ house|NOUN in|ADP Lucknow’s_Hasanaganj_area|NOUN on|ADP the_night_of_September_4|TIME .|PUNCT
-Police|NOUN said|VERB it|PRON has|VERB found|VERB the|DET knife|NOUN used|VERB by|ADP Mohammad_Yasir|ENT to|PART kill|VERB transgender_Rabina_alias|NOUN Usman|ENT .|PUNCT
-Yasir|ENT was|VERB in|ADP a|DET relationship|NOUN with|ADP Rabina|ENT and|CCONJ often|ADV visited|VERB her|ADJ house|NOUN ,|PUNCT said|VERB a|DET police_officer|NOUN .|PUNCT
-SP_(Trans-Gomti|ENT )|PUNCT Jai_Prakash|PROPN said|VERB on|ADP September_4|DATE ,|PUNCT Yasir|ENT entered|VERB in|PART a|DET scuffle|NOUN with|ADP Rabina|ENT and|CCONJ later|ADV hit|VERB her|PRON with|ADP a|DET knife|NOUN .|PUNCT “|PUNCT
-Yasir|ENT has|VERB confessed|VERB he|PRON then|ADV brought|VERB petrol|NOUN from|ADP Rabina’s_scooty|NOUN ,|PUNCT poured|VERB it|PRON on|ADP the|DET bedroom|NOUN and|CCONJ set|VERB it|PRON on|ADP fire|NOUN .|PUNCT
-He|PRON then|ADV took|VERB her|PRON scooty|NOUN to|PART flee|VERB and|CCONJ abandoned|VERB the|DET vehicle|NOUN in|ADP Wazirganj|ENT ,|PUNCT ”|PUNCT he|PRON added|VERB .|PUNCT
-For|ADP all|ADJ the|DET latest_India_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

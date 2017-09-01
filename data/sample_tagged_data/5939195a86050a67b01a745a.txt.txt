@@ -1,2 +1,0 @@
-On|ADP May_24,_2017|DATE ,|PUNCT the_Union_Cabinet|ENT took|VERB the|DET momentous_decision|NOUN to|PART phase|VERB out|PART the_Foreign_Investment_Promotion_Board|ENT (|PUNCT FIPB|ENT )|PUNCT .|PUNCT
-The|DET press_release|NOUN by|ADP which|ADJ this|DET in|ADP -|PUNCT the|DET -|PUNCT offing|NOUN awaited|VERB decision|NOUN was|VERB announc|NOUN …|PUNCT

@@ -1,4 +1,0 @@
-Shriram_City_Union_Finance|ENT today|DATE reported|VERB a|DET 6.6_percent_rise|NOUN in|ADP its|ADJ net_profit|NOUN at|ADP Rs|NOUN 198.86|CARDINAL crore|NOUN for|ADP the_first_quarter_of_the_current_fiscal|DATE .|PUNCT
-The|DET company|NOUN 's|PART net_profit|NOUN in|ADP the_corresponding_April-June_period_of_2016|DATE -|SYM 17|NUM was|VERB Rs|NOUN 181.79|CARDINAL crore|NOUN .|PUNCT
-Total|ADJ income|NOUN stood|VERB at|ADP Rs_1,219.21|ENT crore|NOUN for|ADP the_quarter_ended_June_of_2017|DATE -|SYM 18|NUM against|ADP Rs|NOUN 1,055|CARDINAL crore|NOUN earlier|ADV ,|PUNCT the|DET company|NOUN said|VERB in|ADP a|DET regulatory_filing|NOUN .|PUNCT
-Stock|NOUN of|ADP the|DET company|NOUN closed|VERB 2.03_percent|PERCENT up|PART at|ADP Rs|NOUN 2,344.05|CARDINAL on|ADP the_Bombay_Stock_Exchange|ENT (|PUNCT BSE|PROPN )|PUNCT .|PUNCT

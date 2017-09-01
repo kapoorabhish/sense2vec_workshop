@@ -1,8 +1,0 @@
-star_Priyanka_Chopra|ENT is|VERB taking|VERB painting_lessons|NOUN and|CCONJ the|DET actress|NOUN is|VERB quite|ADV serious|ADJ about|ADP her|ADJ new_hobby|NOUN .|PUNCT
-The|DET 34-year-old_star|NOUN ,|PUNCT who|NOUN has|VERB already|ADV proved|VERB her|ADJ mettle|NOUN in|ADP singing|NOUN ,|PUNCT took|VERB to|PART Instagram|ENT to|PART share|VERB her|ADJ latest_passion|NOUN .|PUNCT "|PUNCT
-Sunday_shenanigans|NOUN ...|PUNCT
-Thank|VERB u|PRON @jazmasri|NUM @mdesante|NOUN for|ADP the|DET lesson|NOUN !|PUNCT !|PUNCT
-#|NOUN paintingisfun|NOUN ,|PUNCT "|PUNCT she|PRON captioned|VERB the|DET photo|NOUN of|ADP herself|PRON lost|VERB in|ADP the|DET world|NOUN of|ADP colours|NOUN .|PUNCT
-With|ADP her|ADJ love|NOUN for|ADP canvas|NOUN ,|PUNCT Priyanka|ENT has|VERB joined|VERB the|DET list|NOUN of|ADP stars|NOUN like|ADP and|CCONJ Sonakshi_Sinha|ENT ,|PUNCT who|NOUN have|VERB a|DET neck|NOUN for|ADP painting|NOUN .|PUNCT
-On|ADP work_front|NOUN Priyanka|ENT is|VERB gearing|VERB up|PART for|ADP the|DET release|NOUN of|ADP her|ADJ Hollywood_debut|NOUN "|PUNCT Baywatch|ENT "|PUNCT which|ADJ stars|VERB her|PRON in|ADP the|DET role|NOUN of|ADP antagonist|NOUN Victoria_Leeds|ENT .|PUNCT
-(|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

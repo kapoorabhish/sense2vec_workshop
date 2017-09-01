@@ -1,7 +1,0 @@
-Coal_India|ENT (|PUNCT CIL|ENT )|PUNCT has|VERB produced|VERB 155.4_million|CARDINAL tonnes|NOUN of|ADP coal|NOUN in|ADP April-July_2017-18|DATE against|ADP the|DET target|NOUN of|ADP 168|CARDINAL mt|NOUN ,|PUNCT thereby|ADV missing|VERB the|DET target|NOUN by|ADP 12.6|CARDINAL mt|NOUN
-According|VERB to|ADP a|DET BSE_filing|NOUN ,|PUNCT the|DET output|NOUN in|ADP July|DATE was|VERB 36.6|CARDINAL mt|NOUN against|ADP the|DET target|NOUN of|ADP 37.6|CARDINAL mt|NOUN .|PUNCT
-Consumption|NOUN stood|VERB at|ADP 181.6|CARDINAL mt|NOUN compared|VERB to|ADP the|DET stipulated_194_mt|NOUN .|PUNCT
-Coal_India|ENT ,|PUNCT which|ADJ accounts|VERB for|ADP over|ADP 80_per|MONEY cent|NOUN of|ADP domestic_coal_production|NOUN ,|PUNCT is|VERB eyeing|VERB 1_billion|CARDINAL tonne_output|NOUN by|ADP 2020|DATE .|PUNCT
-The|DET government|NOUN had|VERB earlier|ADV said|VERB there|ADV were|VERB no|DET plans|NOUN to|PART cut|VERB down|PART coal_output|NOUN because|ADP of|ADP hardening|VERB demand|NOUN .|PUNCT
-In|ADP October_last_year|DATE ,|PUNCT demand|NOUN had|VERB started|VERB picking|VERB up|PART for|ADP both|DET coal|NOUN and|CCONJ power_sectors|NOUN .|PUNCT
-(|PUNCT This|DET article|NOUN was|VERB published|VERB on|ADP August_2,_2017|DATE )|PUNCT

@@ -1,8 +1,0 @@
-Germany|ENT 's|PART Thyssenkrupp|ENT wants|VERB to|PART decide|VERB by|ADP the_end_of_September|DATE whether|ADP to|PART pursue|VERB a|DET European_steel_merger|NOUN with|ADP India|ENT 's|PART Tata_Steel|ENT ,|PUNCT the|DET head|NOUN of|ADP its|ADJ steel_works_council|NOUN said|VERB on|ADP Thursday|DATE .|PUNCT
-Guenter_Back|ENT told|VERB reporters|NOUN that|ADP Chief_Financial_Officer_Guido_Kerkhoff|ENT had|VERB said|VERB the|DET company|NOUN would|VERB decide|VERB by|ADP the_end_of_the_2016/17_fiscal_year|DATE whether|ADP to|PART proceed|VERB ,|PUNCT after|ADP more_than_a_year|DATE of|ADP talks|NOUN that|ADJ have|VERB been|VERB complicated|VERB by|ADP the_UK_Brexit|ENT vote|NOUN .|PUNCT "|PUNCT
-The|DET ghost|NOUN must|VERB be|VERB laid|VERB to|ADP rest|NOUN ,|PUNCT "|PUNCT he|PRON said|VERB .|PUNCT
-Thyssenkrupp|ENT declined|VERB to|PART comment|VERB .|PUNCT
-Thyssenkrupp|ENT and|CCONJ Tata|ENT are|VERB keen|ADJ to|PART combine|VERB their|ADJ European_operations|NOUN in|ADP a|DET 50/50|CARDINAL joint_venture|NOUN to|PART remove|VERB overcapacity|NOUN from|ADP the|DET market|NOUN and|CCONJ cut|VERB costs|NOUN .|PUNCT
-Thyssenkrupp|ENT 's|PART operations|NOUN are|VERB mainly|ADV in|ADP Germany|ENT ,|PUNCT while|ADP Tata|ENT 's|PART are|VERB in|ADP Britain|ENT and|CCONJ the|DET Netherlands|ENT .|PUNCT
-A|DET condition|NOUN of|ADP any|DET deal|NOUN is|VERB that|ADP Tata|ENT finds|VERB a|DET solution|NOUN for|ADP its|ADJ 15_billion-pound|MONEY (|PUNCT USD_19_billion|MONEY )|PUNCT UK_pension_scheme|NOUN ,|PUNCT which|ADJ is|VERB heavily|ADV in|ADP deficit|NOUN .|PUNCT
-It|PRON is|VERB unclear|ADJ whether|ADP a|DET recent_deal|NOUN to|PART separate|VERB the|DET pension|NOUN from|ADP operations|NOUN is|VERB sufficient|ADJ .|PUNCT

@@ -1,4 +1,0 @@
-At_least_three|CARDINAL persons|NOUN were|VERB killed|VERB and|CCONJ four|CARDINAL others|NOUN injured|VERB when|ADV lightning|NOUN struck|VERB them|PRON here|ADV today|DATE ,|PUNCT police|NOUN said|VERB .|PUNCT
-The|DET deceased|VERB have|VERB been|VERB identified|VERB as|ADP Mohan_Kannaujia|ENT (|PUNCT 40|CARDINAL )|PUNCT ,|PUNCT a|DET resident|NOUN of|ADP Kurha_Tetra_village|NOUN ,|PUNCT Radhika_Devi|ENT (|PUNCT 50|CARDINAL )|PUNCT ,|PUNCT a|DET resident|NOUN of|ADP Muriyaari_village|ENT ,|PUNCT and|CCONJ Sonu|ENT (|PUNCT 18|CARDINAL )|PUNCT of|ADP Kirtupur_village|NOUN ,|PUNCT they|PRON said|VERB .|PUNCT
-The|DET four|CARDINAL persons|NOUN who|NOUN suffered|VERB injuries|NOUN were|VERB undergoing|VERB medical_treatment|NOUN ,|PUNCT police|NOUN said|VERB .|PUNCT
-(|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

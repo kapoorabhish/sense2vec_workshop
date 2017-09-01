@@ -1,6 +1,0 @@
-VST_Tillers_Tractors|ENT declared|VERB a|DET good_set|NOUN of|ADP June_sales_numbers|NOUN .|PUNCT
-In|ADP an|DET interview|NOUN to|ADP CNBC-TV18|ENT ,|PUNCT KU_Subbaiah|ENT ,|PUNCT CEO|NOUN of|ADP the|DET company|NOUN spoke|VERB about|ADP the|DET numbers|NOUN and|CCONJ latest_happenings|NOUN in|ADP the|DET company|NOUN .|PUNCT
-He|PRON expect|VERB tractor_sales|NOUN to|PART be|VERB around_11,000-12,000_units|NOUN in|ADP FY18|ENT .|PUNCT __"|ENT
-As|ADP on|ADP date|NOUN we|PRON have|VERB not|ADV increased|VERB the|DET prices|NOUN but|CCONJ going|VERB forward|ADV depending|VERB on|ADP the|DET demand|NOUN and|CCONJ how|ADV the|DET commodity_prices|NOUN behave|VERB ,|PUNCT maybe|ADV we|PRON will|VERB take|VERB a|DET look|NOUN and|CCONJ adjust|VERB the|DET prices|NOUN if|ADP necessary|ADJ .|PUNCT
-As|ADP on|ADP date|NOUN ,|PUNCT we|PRON are|VERB not|ADV thinking|VERB of|ADP any|DET price_revision|NOUN ,|PUNCT "|PUNCT said|VERB Subbaiah|ENT .|PUNCT
-According|VERB to|ADP him|PRON ,|PUNCT the|DET company|NOUN will|VERB take|VERB one-two_years|DATE to|PART consolidate|VERB the|DET export_markets|NOUN .|PUNCT

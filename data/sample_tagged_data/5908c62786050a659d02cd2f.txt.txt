@@ -1,4 +1,0 @@
-Next|ADJ to|ADP no|DET one|NOUN expects|VERB Federal_Reserve_officials|NOUN to|PART raise|VERB short-term_interest_rates|NOUN at|ADP the|DET conclusion|NOUN of|ADP their|ADJ two-day_policy_meeting|NOUN Wednesday|DATE .|PUNCT
-Investors|NOUN are|VERB pricing|VERB in|ADP a|DET 95%_chance|PERCENT that|ADP the_Federal_Open_Market_Committee|ENT leaves|VERB its|ADJ benchmark_rate|NOUN unchanged|ADJ in|ADP a|DET range|NOUN of|ADP 0.75%_to_1%,|PERCENT according|VERB to|ADP CME|ENT .|PUNCT
-The|DET central_bank|NOUN will|VERB give|VERB an|DET updated_picture|NOUN of|ADP recent_economic_developments|NOUN ,|PUNCT and|CCONJ officials|NOUN could|VERB send|VERB signals|NOUN about|ADP where|ADV borrowing_costs|NOUN are|VERB headed|VERB in|ADP the_months_ahead|DATE .|PUNCT
-The|DET Fed|ENT will|VERB release|VERB its|ADJ policy_statement|NOUN at|ADP 2_p.m....|DATE

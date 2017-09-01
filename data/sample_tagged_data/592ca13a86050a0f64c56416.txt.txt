@@ -1,2 +1,0 @@
-May_30_2017|DATE :|PUNCT
-The_Economic_Times|ENT (|PUNCT Delhi|PROPN )|PUNCT French|ENT Open|PROPN :|PUNCT Djokovic_Begins_Title_Defence|ENT with|ADP a|DET Win|PROPN

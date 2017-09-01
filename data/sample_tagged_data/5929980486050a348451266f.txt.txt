@@ -1,7 +1,0 @@
-Jodie_Underhill|ENT ,|PUNCT India|ENT 's|PART British_garbage_lady|NOUN __Jodie_Underhill|ENT is|VERB waging|VERB what|NOUN many|ADJ believe|VERB is|VERB a|DET losing_battle|NOUN against|ADP garbage|NOUN in|ADP India|ENT Jodie_Underhill|ENT is|VERB waging|VERB what|NOUN many|ADJ believe|VERB is|VERB a|DET losing_battle|NOUN against|ADP garbage|NOUN in|ADP India|ENT It|PRON was|VERB December_2008|DATE .|PUNCT
-Even|ADV for|ADP a|DET seasoned_traveller|NOUN like|ADP Jodie_Underhill|ENT ,|PUNCT 41|DATE ,|PUNCT India|ENT was|VERB a|DET shock|NOUN .|PUNCT
-It|PRON was|VERB n’t|ADV the|DET crowds|NOUN ;|PUNCT it|PRON was|VERB n’t|ADV the|DET traffic|NOUN ,|PUNCT cars|NOUN and|CCONJ honking|NOUN ;|PUNCT it|PRON was|VERB n’t|ADV the|DET glare|NOUN of|ADP men|NOUN ;|PUNCT it|PRON was|VERB n’t|ADV the|DET chaos|NOUN you|PRON encounter|VERB when|ADV you|PRON step|VERB out|PART on|ADP streets|NOUN ;|PUNCT it|PRON was|VERB n’t|ADV the|DET smells|NOUN that|ADJ accost|VERB you|PRON .|PUNCT
-It|PRON was|VERB the|DET garbage|NOUN that|ADJ she|PRON could|VERB n’t|ADV help|VERB but|CCONJ notice|VERB everywhere|ADV .|PUNCT
-After|ADP a|DET while|NOUN ,|PUNCT Underhill|ENT felt|VERB she|PRON could|VERB n’t|ADV shake|VERB off|PART the|DET garbage|NOUN ;|PUNCT it|PRON was|VERB following|VERB her|PRON everywhere|ADV she|PRON went|VERB .|PUNCT
-Underhill|ENT had|VERB come|VERB to|ADP India|ENT to|PART hold|VERB a|DET workshop|NOUN in|ADP Dharamshala|ENT ,|PUNCT ...|PUNCT
-Anjuli_Bhargava|PROPN

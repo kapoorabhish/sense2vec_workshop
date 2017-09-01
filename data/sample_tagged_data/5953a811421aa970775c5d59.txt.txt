@@ -1,5 +1,0 @@
-From|ADP July_1|DATE ,|PUNCT uniform_GST_rate|NOUN would|VERB be|VERB applicable|ADJ to|ADP all|DET real_estate_developments|NOUN &|CCONJ transactions|NOUN .|PUNCT
-We|PRON expect|VERB GST|PROPN to|PART be|VERB positive|ADJ for|ADP the|DET sector|NOUN with|ADP property_prices|NOUN likely|ADJ to|PART soften|VERB by|ADP ~1-3%_and|PERCENT /|SYM or|CCONJ some|DET expansion|NOUN in|ADP developer_margin|NOUN .|PUNCT
-Southern_markets|NOUN may|VERB benefit|VERB more|ADJ followed|VERB by|ADP northern_and_western_markets|NOUN .|PUNCT
-Impact|ENT could|VERB vary|VERB depending|VERB on|ADP extent|NOUN of|ADP input_credit|NOUN transferred|VERB ,|PUNCT cost|NOUN structure|NOUN and|CCONJ ...|PUNCT
-Please|INTJ Wait|VERB while|ADP comments|NOUN are|VERB loading|NOUN ...|PUNCT

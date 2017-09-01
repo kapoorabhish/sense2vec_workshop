@@ -1,8 +1,0 @@
-Aurobindo_Pharma_Ltd|ENT has|VERB received|VERB final_approval|NOUN from|ADP the_US_Food_&_Drug_Administration|ENT (|PUNCT USFDA|ENT )|PUNCT to|PART manufacture|VERB and|CCONJ market|NOUN Meropenem|ENT injection|NOUN .|PUNCT
-Aurobindo’s_Meropenem_injection|NOUN is|VERB a|DET generic_equivalent|NOUN of|ADP AstraZeneca_Pharmaceuticals’_Merrem_injection|NOUN .|PUNCT
-The|DET product|NOUN will|VERB be|VERB launched|VERB in|ADP April_2017|DATE ,|PUNCT according|VERB to|ADP a|DET release|NOUN issued|VERB here|ADV on|ADP Tuesday|DATE .|PUNCT
-Meropenem_injection|NOUN is|VERB indicated|VERB as|ADP single_agent_therapy|NOUN for|ADP the|DET treatment|NOUN of|ADP complicated_skin_and_skin_structure_infections|NOUN .|PUNCT
-The|DET approved_product|NOUN has|VERB an|DET estimated_market_size|NOUN of|ADP $_118_million|MONEY for|ADP the_12_months_ended_January_2017|DATE ,|PUNCT according|VERB to|ADP IMS|ENT .|PUNCT
-This|DET is|VERB the|DET 1st_ANDA|PROPN approved|VERB out|ADP of|ADP Auronext_Pharma’s|ENT (|PUNCT wholly|ADV owned|ADJ subsidiary|NOUN )|PUNCT formulation|NOUN facility|NOUN in|ADP Bhiwadi|ENT ,|PUNCT used|VERB for|ADP manufacturing|VERB penem|NOUN injectable_products|NOUN .|PUNCT
-Aurobindo|ENT now|ADV has|VERB 314|CARDINAL ANDA_approvals|NOUN (|PUNCT 275|CARDINAL final|ADJ approvals|NOUN ,|PUNCT including|VERB 16|CARDINAL from|ADP Aurolife_Pharma_LLC|ENT and|CCONJ 39|CARDINAL tentative_approvals|NOUN )|PUNCT from|ADP USFDA|ENT .|PUNCT
-(|PUNCT This|DET article|NOUN was|VERB published|VERB on|ADP March_28,_2017|DATE )|PUNCT

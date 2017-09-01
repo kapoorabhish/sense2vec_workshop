@@ -1,2 +1,0 @@
-May_21_2017|DATE :|PUNCT
-The_Economic_Times|ENT (|PUNCT Bangalore|ENT )|PUNCT How|ADV to|PART Revive_the_Job_Market|ENT and|CCONJ Boost|VERB Wages|NOUN

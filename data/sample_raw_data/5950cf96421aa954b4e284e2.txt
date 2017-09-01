@@ -1,7 +1,0 @@
-Google has announced that it will stop scanning the contents of Gmail users' inboxes for advert targeting, ending a practice that has fueled privacy concerns since the free email service was launched.
-
-The company said Gmail users would still see "personalised" ads and marketing messages at the top of their inboxes but these would be based on other data, which may include search queries or browsing habits.
-
-Google Cloud senior vice president Diane Greene said the free Gmail service would now follow the same practices as its corporate G Suite Gmail, which it sells to businesses.
-
-"Consumer Gmail content will not be used or scanned for any ads personalisation after this change," Greene said.

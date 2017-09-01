@@ -1,4 +1,0 @@
-A|DET criminal|NOUN who|NOUN was|VERB evading|VERB arrest|NOUN for|ADP the_past_10_years|DATE has|VERB been|VERB nabbed|VERB here|ADV ,|PUNCT police|NOUN said|VERB today|DATE .|PUNCT
-Riyaz|ENT ,|PUNCT wanted|VERB in|ADP 17|CARDINAL cases|NOUN of|ADP loots|NOUN and|CCONJ murder|NOUN ,|PUNCT was|VERB carrying|VERB a|DET reward|NOUN of|ADP Rs_12,000|CARDINAL on|ADP his|ADJ head|NOUN ,|PUNCT S_P|NOUN (|PUNCT Crime|NOUN )|PUNCT Aditya_Verma|PROPN said|VERB .|PUNCT
-He|PRON was|VERB arrested|VERB last|ADJ evening|TIME from|ADP Budhana_Town|ENT in|ADP the|DET district|NOUN ,|PUNCT he|PRON said|VERB .|PUNCT
-(|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

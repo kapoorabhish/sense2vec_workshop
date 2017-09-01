@@ -1,7 +1,0 @@
-After|ADP years|NOUN ,|PUNCT plans|VERB to|PART decongest|VERB the|DET Kalanagar_junction|NOUN in|ADP Bandra_East|ENT have|VERB finally|ADV moved|VERB out|ADP of|ADP the|DET drawing_boards|NOUN .|PUNCT
-The|DET MMRDA|ENT will|VERB begin|VERB construction|NOUN of|ADP the|DET flyovers|NOUN in|ADP June|DATE ,|PUNCT connecting|VERB the|DET Bandra-Worli_Sea_Link|PROPN with|ADP BKC|PROPN .|PUNCT
-The|DET construction|NOUN of|ADP the|DET flyovers|NOUN was|VERB held|VERB up|PART due|ADP to|ADP the|DET alignment|NOUN of|ADP Metro|ENT 2B.|NUM “|PUNCT
-The|DET consultant|NOUN of|ADP Metro_2B|ENT is|VERB to|PART provide|VERB the|DET design|NOUN for|ADP the|DET combined_structure|NOUN and|CCONJ the|DET whole_design|NOUN is|VERB being|VERB revised|VERB .|PUNCT
-These|DET should|VERB be|VERB completed|VERB in|ADP the|DET coming_eight_to_10_days|NOUN and|CCONJ after|ADP that|DET we|PRON will|VERB start|VERB the|DET construction|NOUN ,|PUNCT ”|PUNCT said|VERB UPS_Madan|ENT ,|PUNCT Metropolitan|ENT Commissioner|PROPN ,|PUNCT MMRDA|ENT .|PUNCT
-Simplex_Infrastructure_Ltd|ENT was|VERB awarded|VERB the|DET contract|NOUN in|ADP October_2016|DATE and|CCONJ the|DET project|NOUN was|VERB inaugurated|VERB by|ADP the|DET prime_minister|NOUN during|ADP his|ADJ visit|NOUN to|ADP the|DET city|NOUN in|ADP December|DATE .|PUNCT
-For|ADP all|ADJ the|DET latest_India_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

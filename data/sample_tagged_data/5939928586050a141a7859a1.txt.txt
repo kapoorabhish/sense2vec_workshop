@@ -1,5 +1,0 @@
-Whether|ADP it|PRON 's|VERB two|CARDINAL bicycle_repairmen|NOUN from|ADP North_Carolina|ENT creating|VERB a|DET flying_machine|NOUN or|CCONJ an|DET enterprising_scientist|NOUN from|ADP Washington|ENT building|VERB an|DET artificial_heart|NOUN ,|PUNCT the|DET beauty|NOUN of|ADP inventions|NOUN is|VERB they|PRON can|VERB come|VERB from|ADP pretty|ADV much|ADV anywhere|ADV .|PUNCT
-Faculty|NOUN at|ADP MidAmerica_Nazarene_University|ENT decided|VERB to|PART see|VERB which|ADJ inventions|NOUN best|ADV represented|VERB each|DET state|NOUN .|PUNCT
-Going|VERB back|ADV to|ADP the|DET late_18th_century|DATE ,|PUNCT the|DET inventions|NOUN range|VERB from|ADP blue_jeans|NOUN to|ADP the|DET iPhone|PROPN .|PUNCT
-They|PRON were|VERB picked|VERB based|VERB on|ADP the|DET impact|NOUN they|PRON 've|VERB left|VERB on|ADP society|NOUN ,|PUNCT the|DET economy|NOUN ,|PUNCT or|CCONJ science|NOUN .|PUNCT
-These|DET inventions|NOUN wo|VERB n't|ADV soon|ADV be|VERB forgotten|VERB .|PUNCT

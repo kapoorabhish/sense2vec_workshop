@@ -1,8 +1,0 @@
-Late_King|PROPN of|ADP Pop|PROPN Michael_Jacksons|ENT son_Prince|PROPN has|VERB paid|VERB a|DET tribute|NOUN to|ADP his|ADJ father|NOUN with|ADP a|DET special_tattoo|NOUN .|PUNCT
-In|ADP the|DET tattoo|NOUN ,|PUNCT shared|VERB by|ADP Prince|PROPN over|ADP Instagram|PROPN ,|PUNCT a|DET cartoon|NOUN of|ADP Michael|ENT can|VERB be|VERB seen|VERB wearing|VERB a|DET red_shirt|NOUN ,|PUNCT a|DET black|ADJ blazer|NOUN with|ADP a|DET red_arm_band|NOUN ,|PUNCT suspenders|NOUN ,|PUNCT loafers|NOUN ,|PUNCT fedora|NOUN and|CCONJ a|DET white|ADJ -|PUNCT sequin|ADJ glove|NOUN ,|PUNCT reports|VERB %%URL|X .|PUNCT
-He|PRON strikes|VERB a|DET pose|NOUN with|ADP both|DET arms|NOUN up|ADV .|PUNCT
-The|DET tattoo|NOUN was|VERB inked|VERB on|ADP Prince|PROPN 's|PART calf|NOUN .|PUNCT
-According|VERB to|ADP Prince|PROPN ,|PUNCT it|PRON took|VERB nine_hours|TIME to|PART get|VERB the|DET "|PUNCT incredible_and_beautiful_tattoo|NOUN "|PUNCT done|VERB .|PUNCT
-"|PUNCT Thanks|NOUN (|PUNCT tattoo|NOUN artist|NOUN )|PUNCT Justin_Lewis|ENT for|ADP sitting|VERB 9_hours|TIME with|ADP me|PRON for|ADP such|ADJ an|DET incredible_and_beautiful_tattoo|NOUN .|PUNCT
-I|PRON will|VERB be|VERB posting|VERB more|ADJ of|ADP this|DET ,|PUNCT "|PUNCT Price|ENT wrote|VERB in|ADP the|DET caption|NOUN .|PUNCT
---IANS|NOUN sas|NOUN /|SYM rb|NOUN /|SYM vt|ADP (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

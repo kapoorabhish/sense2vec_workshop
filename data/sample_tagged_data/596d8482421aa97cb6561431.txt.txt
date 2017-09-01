@@ -1,9 +1,0 @@
-The|DET Army|ENT on|ADP Tuesday|DATE violated|VERB ceasefire|NOUN along|ADP the|DET Line_of_Control|ENT (|PUNCT LoC|PROPN )|PUNCT in|ADP Bhimber_Gali|ENT and|CCONJ Poonch_Sector_of_Jammu|ENT and|CCONJ Kashmir|ENT .|PUNCT
-The|DET violation|NOUN took|VERB place|NOUN at|ADP around_6:45_am|TIME ,|PUNCT to|PART which|ADJ the|DET is|VERB retaliating|VERB strongly|ADV and|CCONJ effectively|ADV .|PUNCT
-Earlier_on_Monday|DATE ,|PUNCT a|DET jawan|NOUN was|VERB injured|VERB in|ADP the|DET ceasefire_violation|NOUN carried|VERB out|PART by|ADP in|ADP the_Uri_Sector|ENT .|PUNCT
-The|DET had|NOUN also|ADV confirmed|VERB the|DET death|NOUN of|ADP a|DET soldier|NOUN during|ADP ceasefire_violation|NOUN by|ADP Pakistani_troops|NOUN in|ADP Jammu|ENT 's|PART Bhimber_Gali_Sector|ENT .|PUNCT
-The|DET deceased_soldier|NOUN was|VERB identified|VERB as|ADP Naik_Muddasar_Ahmed|PROPN .|PUNCT
-In|ADP the|DET fire_exchange|NOUN ,|PUNCT Ahmed|ENT was|VERB grievously|ADV injured|VERB when|ADV mortar_shells|NOUN landed|VERB on|ADP his|ADJ bunker|NOUN .|PUNCT
-He|PRON was|VERB evacuated|VERB to|ADP the|DET MI_room|NOUN where|ADV he|PRON succumbed|VERB to|ADP his|ADJ injuries|NOUN .|PUNCT
-On|ADP July_12,|DATE two|CARDINAL soldiers|NOUN were|VERB killed|VERB after|ADP violated|ADJ ceasefire|NOUN in|ADP Kupwara_Sector_of|ENT Jammu|ENT and|CCONJ Kashmir|ENT .|PUNCT
-On|ADP July_9|DATE ,|PUNCT the|DET Army|ENT initiated|VERB unprovoked_and_indiscriminate_firing|NOUN of|ADP small_arms|NOUN ,|PUNCT automatics|NOUN and|CCONJ mortars|NOUN in|ADP Jammu|ENT and|CCONJ Kashmir|ENT 's|PART Poonch_sector|NOUN along|ADP the|DET (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

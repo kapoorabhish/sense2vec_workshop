@@ -1,5 +1,0 @@
-Tally|PROPN of|ADP total|ADJ no|DET .|PUNCT of|ADP stores|NOUN is|VERB 142|CARDINAL stores|NOUN V-Mart_Retail|ENT has|VERB opened|VERB a|DET new_store|NOUN in|ADP the|DET state|NOUN of|ADP The|DET store|NOUN is|VERB fashion_stores|NOUN .|PUNCT
-With|ADP this|DET the|DET tally|NOUN of|ADP is_17_composite|NOUN &|CCONJ 43|CARDINAL fashion_stores|NOUN .|PUNCT
-This|DET takes|VERB the|DET total_number|NOUN of|ADP stores|NOUN to|ADP 142_Stores|PROPN in|ADP 122|CARDINAL Cities|PROPN across|ADP 14|CARDINAL states|NOUN ,|PUNCT with|ADP 37|CARDINAL Composite_Stores_&_105_Fashion|ENT Stores|PROPN with|ADP a|DET total_area|NOUN of|ADP approx|NOUN .|PUNCT 12.03|CARDINAL lakhs_sq|NOUN .|PUNCT
-ft|NOUN .|PUNCT
-Powered|VERB by|ADP Capital_Market_-_Live_News|ENT (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

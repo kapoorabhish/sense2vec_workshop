@@ -1,9 +1,0 @@
-The|DET conundrum|NOUN is|VERB not|ADV an|DET easy_issue|NOUN to|PART resolve|VERB and|CCONJ only_a_long_term_policy|NOUN can|VERB tackle|VERB it|PRON ,|PUNCT Chief_Minister|PROPN and|CCONJ former_Defence_Minister|PROPN said|VERB on|ADP Friday|DATE .|PUNCT
-Parrikar|ENT also|ADV said|VERB that|ADP there|ADV was|VERB a|DET lot|NOUN of|ADP pressure|NOUN on|ADP him|PRON when|ADV he|PRON was|VERB serving|VERB as|ADP the|DET Defence_Minister|PROPN in|ADP the|DET national_capital|NOUN .|PUNCT "|PUNCT
-It|PRON is|VERB not|ADV easy|ADJ to|PART resolve|VERB the|DET issue|NOUN .|PUNCT
-There|ADV is|VERB a|DET need|NOUN for|ADP a|DET long-term_policy|NOUN to|PART resolve|VERB the|DET issue|NOUN ,|PUNCT "|PUNCT Parrikar|ENT said|VERB at|ADP the|DET 126th_birth_anniversary_celebration|NOUN of|ADP Babasaheb_Ambedkar|ENT here|ADV .|PUNCT
-He|PRON also|ADV said|VERB that|ADP New_Delhi|ENT was|VERB n't|ADV a|DET place|NOUN he|PRON got|VERB habituated|VERB to|ADP .|PUNCT
-"|PUNCT Delhi|ENT is|VERB not|ADV my|ADJ place|NOUN .|PUNCT
-It|PRON is|VERB not|ADV the|DET place|NOUN I|PRON am|VERB habituated|VERB to|ADP .|PUNCT
-There|ADV was|VERB a|DET lot|NOUN of|ADP pressure|NOUN on|ADP me|PRON ,|PUNCT "|PUNCT Parrikar|ENT said|VERB .|PUNCT
---IANS|NUM maya|NOUN /|SYM in|ADP /|SYM vt|ADP (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

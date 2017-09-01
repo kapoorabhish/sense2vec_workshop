@@ -1,3 +1,0 @@
-Latin|ENT is|VERB a|DET dead_language|NOUN ,|PUNCT but|CCONJ do|VERB n’t|ADV tell|VERB that|DET to|ADP 12-year-old_Faiyaz_Khan|ENT .|PUNCT
-A|DET sixth|ORDINAL grade|NOUN student|NOUN at|ADP Decatur_Classical_school|NOUN ,|PUNCT an|DET elementary|ADJ school|NOUN on|ADP the|DET north_side|NOUN of|ADP Chicago|ENT ,|PUNCT he|PRON began|VERB taking|VERB Latin|ENT in|ADP kindergarten|NOUN and|CCONJ is|VERB getting|VERB pretty|ADV good|ADJ at|ADP reading|VERB Cicero|ENT without|ADP a|DET dictionary|NOUN .|PUNCT
-He|PRON speaks|VERB Latin|ENT well|ADV enough|ADJ to|PART correct|VERB adults|NOUN on|ADP their|ADJ ...|PUNCT

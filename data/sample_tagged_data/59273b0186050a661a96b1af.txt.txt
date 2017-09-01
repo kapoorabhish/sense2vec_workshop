@@ -1,8 +1,0 @@
-WASHINGTON|ENT (|PUNCT AP|ENT )|PUNCT —|PUNCT
-The|DET FBI|ENT says|VERB it|PRON needs|VERB more_time|NOUN to|PART consider|VERB a|DET request|NOUN by|ADP Congress|ENT to|PART turn|VERB over|PART memos|NOUN and|CCONJ other_documents|NOUN related|VERB to|ADP meetings|NOUN between|ADP former_FBI_Director_James_Comey|ENT and|CCONJ President_Donald_Trump|ENT .|PUNCT
-House_Oversight_Committee_Chairman_Jason_Chaffetz|ENT had|VERB asked|VERB for|ADP the|DET material|NOUN by|ADP Wednesday|DATE .|PUNCT
-On|ADP Thursday|DATE ,|PUNCT the|DET FBI|ENT sent|VERB a|DET letter|NOUN saying|VERB it|PRON is|VERB still|ADV evaluating|VERB the|DET request|NOUN in|ADP light|NOUN of|ADP former_FBI_director_Robert_Mueller's_appointment|NOUN as|ADP special_counsel|NOUN in|ADP the|DET case|NOUN .|PUNCT
-Mueller|ENT is|VERB investigating|VERB Russian_interference|NOUN in|ADP the|DET presidential_election|NOUN and|CCONJ possible|ADJ collusion|NOUN with|ADP Trump|ENT 's|PART campaign|NOUN .|PUNCT
-Chaffetz|PROPN is|VERB seeking|VERB FBI_documents|NOUN and|CCONJ recordings|NOUN detailing|VERB communications|NOUN between|ADP Trump|ENT and|CCONJ Comey|ENT .|PUNCT
-Trump|ENT fired|VERB Comey_May|ENT 9|NUM amid|ADP questions|NOUN about|ADP the|DET FBI|ENT 's|PART investigation|NOUN .|PUNCT
-Assistant_FBI_Director_Gregory_Brower|ENT told|VERB Chaffetz|ENT the|DET agency|NOUN will|VERB update|VERB him|PRON as|ADV soon|ADV as|ADP possible|ADJ .|PUNCT

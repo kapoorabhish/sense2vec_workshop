@@ -1,9 +1,0 @@
-Facebook’s intelligent assistant M has learned some new tricks, like how to suggest when to save videos shared on Facebook Messenger, when to celebrate a friend’s birthday, or when to make voice or video calls.
-
-M makes suggestions by analyzing text used in conversation to recognize when you may want to do something like create a calendar event, hail an Uber ride, or make peer-to-peer payments. If someone asks “Where are you?” M detects the intent and suggests that you share your location. M suggestions first debuted last fall.
-
-New M features announced today will suggest videos, Facebook posts, and pages to save, or if it’s a friend’s birthday it may suggest you send them a sticker, card, or video.
-
-Facebook is currently testing M suggestions with bots, beginning with Delivery.com.
-
-Earlier this month, M learned how to speak Spanish for users in the United States and Mexico.

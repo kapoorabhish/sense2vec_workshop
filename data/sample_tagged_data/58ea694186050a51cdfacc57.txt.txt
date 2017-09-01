@@ -1,6 +1,0 @@
-Five|CARDINAL children|NOUN were|VERB injured|VERB during|ADP the|DET annual_Spring_Carnival|ENT at|ADP Springwell_Church|ENT in|ADP Taylors|PROPN on|ADP Saturday|DATE .|PUNCT
-According|VERB to|ADP Battalion_Chief,|ENT Ricky_Reed|ENT with|ADP the|DET Taylors_Fire_Department|PROPN ,|PUNCT the|DET structures|NOUN were|VERB anchored|VERB in|ADP ,|PUNCT but|CCONJ the|DET wind|NOUN ripped|VERB them|PRON from|ADP the|DET straps|NOUN .|PUNCT
-Per|ADP a|DET post|NOUN on|ADP the|DET church|NOUN 's|PART Facebook|ENT ,|PUNCT a|DET wind_gust|NOUN lifted|VERB an|DET inflatable|ADJ that|ADJ was|VERB on|ADP the|DET campus|NOUN during|ADP the|DET event|NOUN ,|PUNCT injuring|VERB several_kids|NOUN .|PUNCT
-Dispatchers|NOUN say|VERB deputies|NOUN with|ADP the_Greenville_County_Sheriff's|ENT Office|PROPN ,|PUNCT EMS|ENT and|CCONJ fire_crews|NOUN are|VERB on|ADP scene|NOUN at|ADP the|DET church|NOUN .|PUNCT
-A|DET power_line|NOUN was|VERB also|ADV knocked|VERB down|PART during|ADP the|DET incident|NOUN .|PUNCT
-Read|VERB more|ADJ from|ADP FOX_Carolina|ENT .|PUNCT

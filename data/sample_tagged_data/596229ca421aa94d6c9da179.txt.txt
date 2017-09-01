@@ -1,4 +1,0 @@
-A|DET person|NOUN serving|VERB a|DET life_sentence|NOUN died|VERB in|ADP the|DET district_jail|NOUN here|ADV ,|PUNCT authorities|NOUN claimed|VERB today|DATE .|PUNCT
-Shamshad|ENT (|PUNCT 70|CARDINAL )|PUNCT ,|PUNCT who|NOUN was|VERB convicted|VERB in|ADP 2013|DATE in|ADP a|DET gang-rape_case|NOUN ,|PUNCT was|VERB taken|VERB to|ADP the|DET district_hospital|NOUN where|ADV he|PRON was|VERB declared|VERB brought|VERB dead|ADJ by|ADP doctors|NOUN yesterday|DATE ,|PUNCT they|PRON said|VERB .|PUNCT
-He|PRON was|VERB suffering|VERB from|ADP tuberculosis|NOUN ,|PUNCT authorities|NOUN said|VERB .|PUNCT
-(|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

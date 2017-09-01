@@ -1,5 +1,0 @@
-In|ADP my|ADJ last_post|NOUN with|ADP Polly_Labarre|ENT ,|PUNCT I|PRON noted|VERB that|ADP few_teenagers_dream|NOUN of|ADP growing|VERB up|PART to|PART be|VERB a|DET manager|NOUN .|PUNCT
-Prosaic|ENT it|PRON may|VERB be|VERB ,|PUNCT but|CCONJ management|NOUN is|VERB one|CARDINAL of|ADP humankind|NOUN ’s|NUM most_important_inventions|NOUN ,|PUNCT encompassing|VERB the|DET tools|NOUN and|CCONJ methods|NOUN we|PRON use|VERB to|PART mobilize|VERB and|CCONJ organize|VERB resources|NOUN to|PART productive|ADJ ends|NOUN .|PUNCT
-It|PRON is|VERB ,|PUNCT quite|ADV simply|ADV ,|PUNCT the|DET technology|NOUN of|ADP human_accomplishment|NOUN .|PUNCT
-Our|ADJ capacity|NOUN to|PART improve|VERB the|DET state|NOUN of|ADP the|DET world|NOUN is|VERB ultimately|ADV bounded|VERB by|ADP our|ADJ capacity|NOUN to|PART manage|VERB .|PUNCT
-So|ADV a_couple_of_years_ago|DATE I|PRON asked|VERB a|DET small_band|NOUN of|ADP management_thinkers|NOUN to|PART put|VERB their|ADJ heads|NOUN together|ADV —|PUNCT what|NOUN could|VERB be|VERB done|VERB to|PART multiply|VERB the|DET impact|NOUN of|ADP these|DET would|VERB -|PUNCT be|VERB management_renegades|NOUN ?|PUNCT

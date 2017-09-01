@@ -1,9 +1,0 @@
-The_Rajasthan_Board_of_Secondary_Education|ENT (|PUNCT RBSE|ENT )|PUNCT will|VERB declare|VERB RBSE_Class_10th_Result|ENT 2017|NUM at|ADP 4_pm|TIME today|NOUN on|ADP its|ADJ official_websites|NOUN %%URL|X and|CCONJ %%URL|X .|PUNCT
-Students|NOUN can|VERB also|ADV log|VERB on|ADP to|ADP private_education_websites|NOUN like|ADP %%URL|X and|CCONJ %%URL|X .|PUNCT
-Here|ADV ’s|VERB how|ADV students|NOUN can|VERB check|VERB their|ADJ RBSE_Class_10_result|NOUN 2017|CARDINAL :|PUNCT >|X
-Log|VERB on|PART to|ADP either|DET of|ADP the|DET official_websites|NOUN %%URL|X and|CCONJ %%URL|X >|X Click|VERB on|ADP the|DET ‘|PUNCT RBSE_Class|PROPN 10|NUM Result|NOUN 2017’|NOUN link|VERB >|X Enter|VERB your|ADJ roll_number|NOUN and|CCONJ click|VERB on|ADP the|DET submit_button|NOUN >|X Your|ADJ results|NOUN will|VERB be|VERB displayed|VERB once|ADV you|PRON hit|VERB submit|VERB It|PRON is|VERB advisable|ADJ to|PART take|VERB a|DET print|NOUN out|ADP of|ADP the|DET result|NOUN for|ADP future_reference|NOUN .|PUNCT
-Students|NOUN can|VERB also|ADV check|VERB their|ADJ results|NOUN using|VERB the|DET SMS_service|NOUN .|PUNCT
-Here|ADV ’s|VERB how|ADV :|PUNCT SMS|NOUN RESULT|PROPN <|X space|NOUN >|X RAJ10<space|SYM >|X ROLL_NUMBER|ENT to|ADP 56263|DATE .|PUNCT
-Nearly_10.99|CARDINAL lakh_students|NOUN appeared|VERB for|ADP the|DET RBSE_class_10th_examination|NOUN 2017|DATE ,|PUNCT conducted|VERB from|ADP March_9_to_March_21,_2017|DATE .|PUNCT
-In|ADP 2015-16|DATE ,|PUNCT around|ADP 9.32|CARDINAL lakh_students|NOUN had|VERB appeared|VERB for|ADP the|DET exam|NOUN with|ADP overall_pass_percentage|NOUN of|ADP 92.73_percent|PERCENT .|PUNCT
-The|DET RBSE_board|NOUN has|VERB already|ADV declared|VERB its|ADJ class|NOUN 12|CARDINAL results|NOUN for|ADP all|DET streams|NOUN and|CCONJ also_the_class|NOUN 8|CARDINAL results|NOUN 2017|DATE

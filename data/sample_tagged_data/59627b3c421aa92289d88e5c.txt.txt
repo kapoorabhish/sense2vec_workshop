@@ -1,7 +1,0 @@
-GST|NOUN :|PUNCT CBEC|ENT 's|PART tardiness|NOUN on|ADP export_rules|NOUN CBEC|ENT should|VERB now|ADV clarify|VERB the|DET pending_issues|NOUN and|CCONJ allow|VERB exports|NOUN to|PART proceed|VERB CBEC|ENT should|VERB now|ADV clarify|VERB the|DET pending_issues|NOUN and|CCONJ allow|VERB exports|NOUN to|PART proceed|VERB For|ADP exporters|NOUN ,|PUNCT the_Goods_and_Services_Tax|ENT (|PUNCT GST|PROPN )|PUNCT regime|NOUN started|VERB on|ADP July_2|DATE with|ADP no|DET idea|NOUN on|ADP how|ADV to|PART remove|VERB their|ADJ goods|NOUN for|ADP shipment|NOUN .|PUNCT
-As|ADP the_days|DATE went|VERB by|ADP ,|PUNCT many|ADJ of|ADP the|DET issues|NOUN got|VERB sorted|VERB but|CCONJ some|DET remain|VERB .|PUNCT
-Last_Monday|DATE ,|PUNCT exporters|NOUN found|VERB the_Central_Board_of_Excise|ENT and|CCONJ Customs’|PROPN (|PUNCT CBEC|ENT )|PUNCT circular|NOUN no|DET .|PUNCT
-26/2017-Customs_dated|DATE July_1|DATE on|ADP its|ADJ website|NOUN .|PUNCT
-It|PRON outlined|VERB the|DET procedure|NOUN for|ADP claiming|VERB refund|NOUN of|ADP tax|NOUN paid|VERB on|ADP export_goods|NOUN and|CCONJ refund|NOUN of|ADP unutilised_Input_Tax_Credit|ENT (|PUNCT ITC|ENT )|PUNCT on|ADP account|NOUN of|ADP exports|NOUN under|ADP a|DET bond|NOUN or|CCONJ undertaking|NOUN .|PUNCT
-The|DET circular|NOUN also|ADV prescribed|VERB a|DET new_procedure|NOUN for|ADP mandatory_self-sealing|NOUN ...|PUNCT
-TNC_Rajagopalan|PROPN

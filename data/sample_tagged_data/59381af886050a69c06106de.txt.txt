@@ -1,6 +1,0 @@
-Prabhu_Lal_Saini|ENT ,|PUNCT Rajasthan_Agriculture_Minister|ENT .|PUNCT (|PUNCT PTI|ENT )|PUNCT
-Rajasthan_Agriculture_Minister_Prabhu_Lal_Saini|ENT has|VERB claimed|VERB that|ADP cow_milk|NOUN has|VERB properties|NOUN that|ADJ can|VERB prevent|VERB cancer|NOUN .|PUNCT
-“|PUNCT Cow_milk|NOUN is|VERB good|ADJ for|ADP health|NOUN .|PUNCT
-It|PRON is|VERB anti-cancer|NOUN and|CCONJ has|VERB qualities|NOUN similar|ADJ to|ADP mother|NOUN ’s|PART milk|NOUN ,|PUNCT ”|PUNCT the|DET minister|NOUN said|VERB at|ADP the|DET inauguration|NOUN of|ADP a|DET dairy_plant|NOUN in|ADP Sikar|ENT on|ADP Monday|DATE .|PUNCT
-When|ADV contacted|VERB today|DATE ,|PUNCT the|DET minister|NOUN said|VERB his|ADJ comments|NOUN were|VERB based|VERB on|ADP references|NOUN the|DET company|NOUN ’s_officials|NOUN had|VERB drawn|VERB from|ADP some|DET research|NOUN regarding|VERB the|DET qualities|NOUN of|ADP cow_milk|NOUN .|PUNCT
-The|DET company|NOUN that|ADJ operates|VERB the|DET plant|NOUN had|VERB singed|VERB an|DET MoU|NOUN at|ADP the|DET Global_Rajasthan_Agritech_Meet|ENT last_month|DATE to|PART set|VERB up|PART the|DET dairy_unit|NOUN in|ADP Sikar|ENT .|PUNCT

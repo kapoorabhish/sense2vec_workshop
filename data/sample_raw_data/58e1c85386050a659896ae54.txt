@@ -1,5 +1,0 @@
-
-
-
-
-The Daydream VR headset is compatible with quite a few high-end smartphones, but Google is adding more devices on the supported listed pretty often. Unfortunately, Samsung's upcoming Galaxy S8 and S8+ are not Daydream-ready.The Google Daydream application in the Play Store can't be installed on the Samsung Galaxy S8. If you try to install it anyway, you'll be met with an error that says the app is not compatible with Samsung's flagship.Even though the Galaxy S8 meets all the requirements necessary to support Google Daydream VR fully, a compatible app hasn't bee released in the Play Store yet.However, Samsung Galaxy S8 users will be able to make use of the Gear VR until Google releases a new version of the Daydream app that would support the smartphone.Obviously, Google and Samsung should agree on the matter, or else the search giant won't allow the handset maker to add Daydream compatibility to the Galaxy S8 The news doesn't really come as a surprise since Samsung's flagship is not yet available on the market, so there's still time to turn it into a Daydream-ready smartphone.

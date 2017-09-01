@@ -1,3 +1,0 @@
-The|DET Madurai_bench|NOUN of|ADP the|DET Madras_High|PROPN on|ADP Tuesday|DATE stayed|VERB for|ADP four_weeks|DATE the|DET operation|NOUN of|ADP new_central_rules|NOUN on|ADP cattle_trade|NOUN .|PUNCT
-The|DET issued|VERB notice|NOUN to|ADP the|DET central|ADJ and|CCONJ asked|VERB it|PRON to|PART file|VERB a|DET reply|NOUN within|ADP four_weeks|DATE .|PUNCT
---IANS|NUM vj|ADP /|SYM mr/ahm-py|NOUN (|PUNCT This|DET story|NOUN has|VERB not|ADV been|VERB edited|VERB by|ADP Business_Standard_staff|NOUN and|CCONJ is|VERB auto|NOUN -|PUNCT generated|VERB from|ADP a|DET syndicated_feed|NOUN .|PUNCT )|PUNCT

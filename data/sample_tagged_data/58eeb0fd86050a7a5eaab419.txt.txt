@@ -1,5 +1,0 @@
-Himachal_Pradesh|ENT Chief_Minister_Virbhadra_Singh|ENT on|ADP Wednesday|DATE cancelled|VERB his|ADJ trip|NOUN to|ADP Delhi|ENT during|ADP which|ADJ he|PRON was|VERB to|PART appear|VERB before|ADP the_Enforcement_Directorate|ENT on|ADP April_13|DATE in|ADP a|DET money_laundering_case_investigation|NOUN .|PUNCT
-He|PRON instead|ADV went|VERB to|ADP the|DET temple|NOUN of|ADP Bhimakali|ENT ,|PUNCT his|ADJ family|NOUN deity|NOUN at|ADP Sarahan|ENT ,|PUNCT about_160|CARDINAL km|NOUN from|ADP Shimla|ENT .|PUNCT
-The|DET ED|ENT had|VERB asked|VERB Singh|ENT to|PART appear|VERB before|ADP the|DET Investigating_Officer|PROPN as|ADP he|PRON had|VERB evaded|VERB an|DET appearance|NOUN ,|PUNCT citing|VERB official_engagements|NOUN .|PUNCT
-Cancelling|VERB his|ADJ trip|NOUN to|ADP Delhi_Wednesday|ENT morning|TIME ,|PUNCT Virbhadra|ENT took|VERB a|DET flight|NOUN to|ADP Sarahan|ENT along|ADP with|ADP wife|NOUN Pratibha_Singh|ENT and|CCONJ son|NOUN Vikramaditya_Singh|ENT .|PUNCT
-For|ADP all|ADJ the|DET latest_India_News|ENT ,|PUNCT download|VERB Indian_Express_App|ENT now|ADV

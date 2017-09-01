@@ -1,8 +1,0 @@
-hospitality_firm_Company_Ltd|ENT (|PUNCT IHCL|PROPN )|PUNCT on|ADP Friday|DATE reported|VERB a|DET 54.55_per|MONEY cent_dip|NOUN in|ADP its|ADJ standalone|NOUN net_profit|NOUN to|PART Rs|VERB 31.16|CARDINAL crore|NOUN for|ADP the_quarter_ended_March_31|DATE .|PUNCT
-The|DET company|NOUN had|VERB posted|VERB a|DET net_profit|NOUN of|ADP Rs|NOUN 68.57|CARDINAL crore|NOUN for|ADP the|DET corresponding_period|NOUN of|ADP the|DET previous_financial_year|DATE ,|PUNCT said|VERB in|ADP a|DET filing|NOUN to|ADP the|DET BSE|ENT .|PUNCT
-Standalone|NOUN from|ADP operations|NOUN of|ADP the|DET company|NOUN rose|VERB to|ADP Rs|VERB 707.03|CARDINAL crore|NOUN for|ADP the_quarter|DATE under|ADP consideration|NOUN against|ADP Rs|NOUN 685.88|CARDINAL crore|NOUN for|ADP the|DET same_period|NOUN a_year_ago|DATE .|PUNCT
-For|ADP FY17|PROPN ,|PUNCT the|DET net_profit|NOUN of|ADP the|DET company|NOUN ,|PUNCT however|ADV ,|PUNCT rose|VERB to|ADP Rs_141.94|CARDINAL crore|NOUN against|ADP Rs|NOUN 84.15|CARDINAL crore|NOUN in|ADP the_year-ago_period|DATE .|PUNCT from|ADP operations|NOUN also|ADV rose|VERB to|ADP Rs|VERB 2,391.25|CARDINAL crore|NOUN .|PUNCT
-It|PRON was|VERB Rs_2,267.85_crore|NOUN in|ADP the|DET corresponding_period|NOUN a_year_earlier|DATE .|PUNCT
-The|DET company|NOUN said|VERB its|ADJ board|NOUN has|VERB recommended|VERB a|DET dividend|NOUN of|ADP Rs_0.35|CARDINAL per|ADP share|NOUN .|PUNCT
-The|DET board|NOUN of|ADP directors|NOUN has|VERB also|ADV approved|VERB amalgamation|NOUN of|ADP TIFCO_Holdings|ENT with|ADP the|DET company|NOUN .|PUNCT
-Shares|NOUN of|ADP on|ADP Friday|DATE closed|VERB at|ADP Rs|SYM 137.35|MONEY per|ADP scrip|NOUN on|ADP the|DET BSE|ENT ,|PUNCT up|ADV 0.73|CARDINAL per|NOUN cent|NOUN from|ADP its|ADJ previous_close|NOUN .|PUNCT

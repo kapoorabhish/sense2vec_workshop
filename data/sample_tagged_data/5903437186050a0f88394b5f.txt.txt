@@ -1,2 +1,0 @@
-Copyright|NOUN ©|PUNCT e|NOUN -|PUNCT %%URL|X Ltd.|PROPN All|DET rights|NOUN reserved|VERB .|PUNCT
-Reproduction|NOUN of|ADP news_articles|NOUN ,|PUNCT photos|NOUN ,|PUNCT videos|NOUN or|CCONJ any|DET other|ADJ content|NOUN in|ADP whole|ADJ or|CCONJ in|ADP part|NOUN in|ADP any|DET form|NOUN or|CCONJ medium|NOUN without|ADP express|ADJ writtern_permission|NOUN of|ADP %%URL|X is|VERB prohibited|VERB .|PUNCT
