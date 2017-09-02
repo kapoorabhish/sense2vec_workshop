@@ -118,9 +118,9 @@ if __name__ == "__main__":
 
     corpus_dir = sys.argv[1]
     out_dir = sys.argv[2]
-    partision_size = int(sys.argv[3])
+    partition_size = int(sys.argv[3])
     prcs = []
-    jobs = partition(partision_size, os.listdir(corpus_dir))
+    jobs = partition(partition_size, os.listdir(corpus_dir))
     for i, each in enumerate(jobs):
         done_files = []
         if os.path.isfile(str(i)):
